@@ -1,0 +1,1 @@
+# Probleem-oplossend vermogen
