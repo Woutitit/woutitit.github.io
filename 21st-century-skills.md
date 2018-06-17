@@ -1,5 +1,5 @@
 # 21st century skills
-- [Samenwerken](https://www.google.com)
+- [Samenwerken](/21st-century-skills/collaboration)
 - [Samenwerken](https://www.google.com)
 - [Samenwerken](https://www.google.com)
 - [Samenwerken](https://www.google.com)
