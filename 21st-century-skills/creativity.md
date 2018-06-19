@@ -1,2 +1,2 @@
 # Creativiteit
-## Muziek maken
+## 1. Muziek maken en spelen
