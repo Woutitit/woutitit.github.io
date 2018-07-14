@@ -5,3 +5,4 @@ Ik heb samen met een paar vrienden een kleine onderneming opgestart. Deze ondern
 Nu, een onderneming starten is altijd een zeer moeilijke taak en vergt toch altijd een zekere samenwerking om dit tot een goed einde te brengen. In ons geval zijn we er, zoals velen, spijtig genoeg mee moeten stoppen wegens geografische redenen maar we hebben wel een kleine erkenning kunnen binnenhalen. We waren namelijk verkozen tot de top 5 beste opkomende kleine ondernemingen van Vlaams-Brabant wat dus toch wel een blijk geeft dat onze samenwerking goed is verlopen.
 
 ## 2. Vrijwilligerswerk
+Zo die foto waar we zo met 5 op een rijtje zitten.
