@@ -6,3 +6,5 @@ Het is al gebleken dat heel wat bedrijven web developers sneller zullen aannemen
 
 ## 2. Lego parkeer hefboom
 Een lock testen en we moesten daar dan op een of andere manier een simulatie van kunnen maken en dus heb ik dat dan met Lego gedaan.
+
+Foto's op OneDrive
