@@ -6,3 +6,6 @@ Nu, een onderneming starten is altijd een zeer moeilijke taak en vergt toch alti
 
 ## 2. Vrijwilligerswerk
 Zo die foto waar we zo met 5 op een rijtje zitten.
+
+## 3. Iets doen zo met die Meldert foto zo waar ik zo uitleg kwam geven over IMD
+Bewijzen, de Word doc en de foto op de site van het Sint-Jans college Meldert.
