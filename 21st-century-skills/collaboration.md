@@ -12,6 +12,3 @@ Ik heb ook voor een aantal weken vrijwilligerswerk gedaan in mijn buurt. Het was
 
 Hieronder zie je een foto van mij op het bureau samen met de vrijwilligers die mee instonden voor de verkoop van ticketten enz.:
 ![Volunteering](/images/volunteering.png)
-
-## 3. Iets doen zo met die Meldert foto zo waar ik zo uitleg kwam geven over IMD
-Bewijzen, de Word doc en de foto op de site van het Sint-Jans college Meldert.
