@@ -1,4 +1,4 @@
 # Communiceren
 ## 1. OLS Test
-## Eigen stagebedrijf in het buitenland regelen
-## Verkoop
+## 2. Uitleg geven over IMD
+Leren om duidelijk te communiceren.
