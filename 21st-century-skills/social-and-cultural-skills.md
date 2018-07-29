@@ -5,6 +5,8 @@ Diep
 Af en toe eens een meet-up doen over een onderwerp dat je interesseert met mensen die je interesses delen kan een hele leerrijke en leuke ervaring zijn. Ook is het bijvoorbeeld een heel sociale en effectieve manier om te netwerken zodat je later gemakkelijker een job kunt vinden. Om deze redenen ben ik naar een aantal IMD cafés gegaan zoals bijvoorbeeld degene van Campr:
 
 Het ticket: [IMD Café ticket](/images/16052510491-409262515-ticket.pdf)
+
+De groepsfoto:
 ![IMD Café group picture](/images/imd_cafe_group_picture.jpg)
 
 ## 3. Veel reizen
