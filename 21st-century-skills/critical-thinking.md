@@ -10,4 +10,7 @@ Na:
 ![Site after](/images/site_after.png)
 
 ## E-commerce systeem stage
-Aangezien mijn 
+Aangezien mijn stagebedrijf een redelijk kleine en recent start-up was stond zeker nog niet alles op punt. Ook het e-commerce systeem was een heel obscuur systeem dat heel veel fouten bezat. Ik ben hier dan kritisch over geweest ten op zichte van mijn collega's en zij zagen ook dat we misschien moesten overstappen naar een ander platform. Echter, gelukkig was de website op een platform waarop je gemakkelijk ee nieuw e-commerce systeem kunt bouwen. Dit hebben we dan ook in enkele weken gedaan.
+
+Hieronder zie je de eerste bestellingen binnenkomen in het nieuwe systeem (met de datum dat verwijst naar de eerste weken dat ik er op stage was):
+![Order system](/images/order_system.png)
