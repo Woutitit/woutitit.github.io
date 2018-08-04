@@ -23,4 +23,5 @@ Met mijn onderneming uit het "Samenwerken" gedeelte van mijn 21st century skills
 Nu, het verkopen zelf was natuurlijk verre van wat echte verkoopslui doen maar ik vind dat ik op die momenten toch zeker en vast veel heb bijgeleerd over hoe dat ik mensen kan overtuigen en meekrijgen in een verhaal gewoon door middel van mijn communicatie. En dat kan enkel maar mijn latere job interviews, publieke voorstellingen, meetings, etc. ten goede komen.
 
 Hieronder zie je een foto van onze stand op een van zo'n verkoopmoment:
+
 ![Sale](/images/sale.jpg)
