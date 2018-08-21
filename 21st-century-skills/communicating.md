@@ -1,6 +1,6 @@
 # Communiceren
 ## 1. OLS Test
-Goed communiceren is natuurlijk zeer belangrijk wanneer je samenwerkt in een team. Nu, omdat je er niet altijd van uit kan gaan dat degene waarmee je moet communiceren Nederlands praat is het ook altijd handig dat je een andere taal beheerst. Engels, is bijvoorbeeld een zeer goede taal om te leren omdat dit toch de meest gebruikte universele taal is.
+Goed communiceren is natuurlijk zeer belangrijk wanneer je samenwerkt in een team. Nu, omdat je er niet altijd van uit kan gaan dat degene waarmee je moet communiceren Nederlands praat is het ook altijd handig dat je een andere taal beheerst. Engels is bijvoorbeeld een zeer goede taal om te leren omdat dit toch de meest gebruikte universele taal is.
 
 Nu, dit jaar heb ik op verschillende manieren aan mijn Engels kunnen sleutelen. Daarna heb ik dan ook een taaltest afgelegd en haalde hier een C1 in (het op 1 na hoogste) wat dan toch wel betekent dat ik goed met internationale mensen in een team zou kunnen communiceren:
 ![OLS results](/images/OLS_results.png)
