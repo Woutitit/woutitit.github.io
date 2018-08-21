@@ -18,7 +18,7 @@ Ik ben dus blij dat ik dit gedaan heb omdat het me ook leert over hoe ik helder 
 ![Info evening picture](/images/info-evening_picture.jpg)
 
 ## 3. Fysieke verkoop
-Met mijn onderneming uit het "Samenwerken" gedeelte van mijn 21st century skills hadden we natuurlijk producten die we aan de man moesten bregen. Naast ons eigen verkooppunt zijn we zo ook naar een aantal georganiseerde verkoopmomenten gegaan waar je dan eventuele klanten moest aanspreken in de hoop dat ze een product kopen. 
+Met mijn onderneming uit het "Samenwerken" gedeelte van mijn 21st century skills hadden we natuurlijk producten die we aan de man moesten brengen. Naast ons eigen verkooppunt zijn we zo ook naar een aantal georganiseerde verkoopmomenten gegaan waar je dan eventuele klanten moest aanspreken in de hoop dat ze een product kopen. 
 
 Nu, het verkopen zelf was natuurlijk verre van wat echte verkoopslui doen maar ik vind dat ik op die momenten toch zeker en vast veel heb bijgeleerd over hoe dat ik mensen kan overtuigen en meekrijgen in een verhaal gewoon door middel van mijn communicatie. En dat kan enkel maar mijn latere job interviews, publieke voorstellingen, meetings, etc. ten goede komen.
 
