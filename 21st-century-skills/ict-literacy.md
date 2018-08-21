@@ -15,5 +15,5 @@ Hieronder zie je een groepsfoto van alle aanwezigen gepost door een van de medew
 ![Drupal workshop group picture](/images/drupal_workshop_group_picture.png)
 
 ## Java & SQL certificaat
-Ik heb vorig jaar ook nog even een test gedaan over Java & SQL omdat ik later het liefst back-end programming zou willen doen. Nu, dit certificaat is op zich eerlijk gezegd niet zo veel waard maar het is wel precies gericht op "coding interviews" dat bedrijven aan je zouden geven wanneer je aan het solliciteren. Dit certificaat is dus het bewijs dat ik me dus toch wel goed aan het voorbereiden ben om later makkelijker een job te kunnen landen.
+Ik heb vorig jaar ook nog even een test gedaan over Java & SQL omdat ik later het liefst back-end programming zou willen doen. Nu, dit certificaat is op zich eerlijk gezegd niet zo veel waard maar het is wel precies gericht op "coding interviews" dat bedrijven aan je zouden geven wanneer je aan het solliciteren bent. Dit certificaat is dus het bewijs dat ik me toch wel goed aan het voorbereiden ben om later makkelijker een job te kunnen landen.
 ![Certificate](/images/certificate.png)
