@@ -12,6 +12,3 @@ En hier twee screenshots van hoe de app werkt (Zoals je kan zien, redelijk simpe
 <img src="/images/elb_letin_scan.png" alt="ELB LETin scan" width="200px"/>
 
 ## Bootfeest tickets problemen
-
-## Buitenlandse stage zoeken
-De moeilijkheden + het afhaken van mijn stageplaats.
