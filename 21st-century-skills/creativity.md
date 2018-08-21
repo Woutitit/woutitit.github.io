@@ -10,6 +10,6 @@ Hieronder een foto van een band waarbij ik meespeelde:
 ![Me with a guitar in a band](/images/guitar.jpg)
 
 ## 2. Lego parkeer hefboom
-Voor een hobby project dit jaar dat ik aan het maken was, was ik bezig aan een soort van slot met pincode beveiliging. Deze zou ik later gebruiken om bijvoorbeeld een deur/toegang te beveiligen. Echter wilde ik dit eerst uittesten op een prototype en daarom had ik dus besloten om een soort van lego-hefboom te maken waarop ik dan het slot simpel konden uittesten. Ikzelf, en aan iedereen die ik dit project getood heb, vond dit wel een creatieve oplossing om mijn slot te testen. Daarom was ik ook wel trots op wat ik toen verwezelijkt heb:
+Voor een hobby project dit jaar dat ik aan het maken was, was ik bezig aan een soort van slot met pincode beveiliging. Deze zou ik later gebruiken om bijvoorbeeld een deur/toegang te beveiligen. Echter wilde ik dit eerst uittesten op een prototype en daarom had ik dus besloten om een soort van lego-hefboom te maken waarop ik dan het slot simpel konden uittesten. Ikzelf, en aan iedereen die ik dit project getoond heb, vond dit wel een creatieve oplossing om mijn slot te testen. Daarom was ik ook wel trots op wat ik toen verwezelijkt heb:
 ![Lego before](/images/lego_before.jpg)
 ![Lego after](/images/lego_after.jpg)
