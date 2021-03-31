@@ -10,10 +10,11 @@
 
 ## Tips
 - [Audio recording](https://www.google.com)
+- [General tips and advice](https://www.google.com)
 - [Software (VSTs, DAW, Synths...](https://www.google.com)
-- [Audio recording](https://www.google.com)
-- [Software (VSTs, DAW, Synths...](https://www.google.com)
-- [Audio recording](https://www.google.com)
+- [Song writing](https://www.google.com)
+- [Workflow and productivity](https://www.google.com)
+
 ## Analysis
 
 ## In depth
