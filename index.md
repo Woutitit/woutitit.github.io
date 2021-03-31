@@ -8,7 +8,9 @@
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
 - [External learning resources](external-learning-resources)
+- [Gear (Wishlist, licences...](gear.md)
 - [Sound recipes](sound-recipes.md)
+- [Dictionary](dictionary.md)
 - [Commonities](commonities.md)
 ## Checklists
 A few checklists just to help give some general guidelines for stuff to do or watch out for. See if you didn't forget something by ticking the boxes presented in the checklists.
