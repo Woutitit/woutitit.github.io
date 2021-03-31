@@ -8,8 +8,13 @@
 ## General
 
 ## Checklists
-
+A few checklists just to help give some general guidelines for stuff to do or watch out for. See if you didn't forget something by ticking the boxes presented in the checklists.
+- [Mixing and mastering](mixing-and-mastering-checklist.md)
+- [Analysis](analysis-checklist.md)
+- [Songwriting](songwriting-checklist.md)
 ## Tips
+These articles contain tips and explanation for general topics. See "In depth" if you want a more thorough explanation about certain things.
+
 - [Audio recording](audio-recording.md)
 - [General tips and advice](general-tips-and-advice.md)
 - [Software (VSTs, DAW, Synths...)](software.md)
