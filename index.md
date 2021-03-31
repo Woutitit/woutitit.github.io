@@ -3,7 +3,7 @@
 2. [General](#General)
 3. [Tips](#Tips)
 4. [Checklists](#Checklists)
-5. [In depth](#In depth)
+5. [In depth](#In-depth)
 6. [Analysis](#Analysis)
 ## TODOS
 - Migrate files from Google Drive to GitHub
