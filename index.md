@@ -12,7 +12,7 @@
 ## Tips
 - [Audio recording](audio-recording.md)
 - [General tips and advice](general-tips-and-advice.md)
-- [Software (VSTs, DAW, Synths...](software.md)
+- [Software (VSTs, DAW, Synths...)](software.md)
 - [Songwriting](songwriting.md)
 - [Workflow and productivity](workflow-and-productivity.md)
 
