@@ -6,7 +6,10 @@
 - Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
 
 ## General
-
+General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
+- [External learning resources](external-learning-resources)
+- [Sound recipes](sound-recipes.md)
+- [Commonities](commonities.md)
 ## Checklists
 A few checklists just to help give some general guidelines for stuff to do or watch out for. See if you didn't forget something by ticking the boxes presented in the checklists.
 - [Mixing and mastering](mixing-and-mastering-checklist.md)
