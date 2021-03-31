@@ -8,8 +8,8 @@
 ## Checklists
 
 ## Tips
-[Audio recording] (https://www.google.com)
-
+[Audio recording](https://www.google.com)
+[Software (VSTs, DAW, Synths...](https://www.google.com)
 ## Analysis
 
 ## In depth
