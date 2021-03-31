@@ -1,10 +1,11 @@
 ## Overview
-1. [TODOS](#TODOS)
-2. [General](#General)
-3. [Tips](#Tips)
-4. [Checklists](#Checklists)
-5. [In depth](#In-depth)
-6. [Analysis](#Analysis)
+1. [TODOS](#todos)
+2. [General](#general)
+3. [Tips](#tips)
+4. [Checklists](#checklists)
+5. [In depth](#in-depth)
+6. [Analysis](#analysis)
+
 ## TODOS
 - Migrate files from Google Drive to GitHub
 - Clean up files on a macro/micro scale 
