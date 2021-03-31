@@ -10,11 +10,11 @@
 ## Checklists
 
 ## Tips
-- [Audio recording](audio-recording)
-- [General tips and advice](general-tips-and-advice)
-- [Software (VSTs, DAW, Synths...](software)
-- [Songwriting](songwriting)
-- [Workflow and productivity](workflow-and-productivity)
+- [Audio recording](/audio-recording)
+- [General tips and advice](/general-tips-and-advice)
+- [Software (VSTs, DAW, Synths...](/software)
+- [Songwriting](/songwriting)
+- [Workflow and productivity](/workflow-and-productivity)
 
 ## Analysis
 
