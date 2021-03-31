@@ -14,7 +14,7 @@
 - [General tips and advice](/general-tips-and-advice)
 - [Software (VSTs, DAW, Synths...](/software)
 - [Songwriting](/songwriting)
-- [Workflow and productivity](/workflow-and-productivity)
+- [Workflow and productivity](workflow-and-productivity.md)
 
 ## Analysis
 
