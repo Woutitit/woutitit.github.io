@@ -20,7 +20,7 @@
 
 ## Blog ideas
 - A section or article for listing reference tracks.
-- 
+
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
 - [External learning resources](external-learning-resources)
