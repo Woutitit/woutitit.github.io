@@ -1,3 +1,6 @@
+# Home
+> Note: This a personal blog. Articles may or may not be complete and they may or may not have mistakes.
+
 ## Overview
 1. [TODOS](#todos)
 2. [General](#general)
