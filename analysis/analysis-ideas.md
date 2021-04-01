@@ -1,25 +1,4 @@
 # Analysis ideas
-Either a song or an artist (or genre) and explain what to analyze, where to analyze and maybe even point to certain sections you want to analyze.
-## ak+q songs
-He has a few youtube videos on his channel that give a brief overview of his tracks. Helpful for composition and sound design, not so much for mixing.
+> If you're looking for artist resources, go to the external learning resources article that outlines more in depth artist resources and on which platform you can find them.
 
-References:
-- [link](https://www.youtube.com/watch?v=nP70bnzpYDY)
-
-## Awefuless songs
-He has a few youtube videos on his channel that give a brief overview of his tracks. Helpful for composition and sound design, not so much for mixing.
-
-## Synthion
-He has a few youtube videos on his channel that give a brief overview of his tracks. Helpful for composition and sound design, not so much for mixing.
-
-## Cysmix
-He has a few youtube videos on his channel that give a brief overview of his tracks. Helpful for composition and sound design, not so much for mixing.
-
-## ColBreakz
-A few videos on his sound design channel.
-
-## Moeshop
-Livestreams or VODS.
-
-## Lenno
-Livestreams or VODS.
+Link songs/tutorials/livestreams that you want to analyze here. Don't put explanations except perhaps one or more timestamps if there are particular sections to analyze and the genre that the song is in.
