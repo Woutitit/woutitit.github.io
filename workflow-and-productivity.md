@@ -4,7 +4,7 @@
 3. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
 4. [Play to your strengths](#play-to-your-strengths)
 5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-6. [Make MIDI patterns, sound samples and presets](#make-sound-samples-and-presets)
+6. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
 8. [Work in short focused bursts](#work-in-short-focused-bursts)
 9. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
 10. [Don't open DAW without a purpose](#)
@@ -37,6 +37,24 @@ Instead, try to write the song, no matter what genre, mostly based on what you h
 Now, mind you that this workflow makes it important to have seperate practice sessions and seperate sound design/sample making sessions in which you DO practice and make setup stuff for songs. It could be that you'd be playing with a violin VST (e.g. practicing to make it sound realistic) and then when you need it you know how to work with the violin VST. Same with presets, if you need a bendy synth and you have one in preset, then it's just a matter of dragging and dropping it in and tweaking it a bit in the song.
 
 Now, all this doesn't mean that you should 100% stay in your comfort zone whilst creating a song. It's just that song creation is a very fragile process where you want to focus as much on creating as you can instead of having to try and setup or lookup stuff before you create. You can of course venture outside of your comfort zone and often that will be needed too either way but try to keep that as low as possible and try to reserve those for seperate sessions instead.
+
+
+## Study your software and know shortcuts
+- [comprehensive_compilation_of_advanced_fl_studio shortcuts](https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/)
+- https://www.youtube.com/watch?v=RBw-pdqus3k&t=88s
+
+Knowing the software that you use a lot (whether it is getting a lot of presets from or sound designing or processing), you should know (kind of) how they work. Like, with FL Studio, take some time to study and get used to some handy shortcuts. With a synth you use often, take some time to see how to apply FX, how routing works and how you can create cool (common sounds). Again, try to do this outside of song creation, just play around with stuff.
+
+## Make MIDI patterns, sound samples and presets
+Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
+
+This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
+
+So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
+
+Same for presets and samples, make/search some so that you have plenty to choose from when making your songs.
+
+**Additional tip**, favorite this stuff too as often you'll have to much of all of those so try and pick out some favourites if you need to be reliable or just want to lay down something quick that you know sounds good.
 
 ## Motivation and procastination tips
 Sometimes you have to just go in your DAW, even if you aren't feeling it. Sometimes you have to work on a track even if the track isn't vibing with you. Like, a lot of times sure if after 30 minutes you still not feel like doing it or your track is still shit, quit or bin it, but at least you tried. However, often you'll notice that sometimes you get into that what they call "flow-state" where suddenly you're into making your stuff or where suddenly the track starts vibing and then you get into this state of getting stuff done. As I talked about it in another point, just force yourself a fixed amount of time. A fixed amount of time so there is a goal you can work towards up until you try or give up.
@@ -80,13 +98,6 @@ Also, if you need to get inspired, just load up a certain drum loop  or melody l
 
 But yeah, this step is really important in terms of workflow because there will be times you have writers block or simply don't know what to add or whatever and next to analysis this is really important to making good music because why trying to find the rules by trial and error if you can just quickly look them up.
 
-## Make MIDI presets
-Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
-
-This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
-
-So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
-
 ## Work in short focused bursts
 For sound design, composition, mixing etc. you need to concentrate. You need to ACTIVELY think about the stuff you want and are doing. You can't just muck around and get very little done. However, it's hard-wired in our brains to not do the hard part so we might give up easy on a song, we might open a project file but not really do anything or think about what to add because that requires effort. You don't do "deep work" and "deliberate practice" and you won't learn and won't progress the song.
 
@@ -118,18 +129,3 @@ Everytime you're making a song, you want to really try and work fast, at least t
 
 ## When Writers block hits, stop, get inspired
 Whenever you have writers block or you don't know what/how to make stuff, then stop doing whatever you're doing (since it will be pointless anyway) and go listen to music that inspires your or is similar to the stuff you make. Draw inspiration from it and incorporate it in your own music. For example, if making piano house then notice how hard the piano, bass and kick hit, what kind of piano bass and kick they are (like how distorted, pluck/sustain) and try to reference them for your work. The hardest part with this is stopping immediately since you'll probably want to salvage your shit first but remember that there is little point in doing that. The other hard part is setting aside your ego because these songs will sound better than yours (this is especially hard if you haven't brought out a noteworthy quality song out yourself) but yeah try to see them as inspiration and motivation, and remember keep comparing to your past self. If you can improve upon your past self thanks to you're hopefully distant future self, then that's great.
-
-## Have FL Templates, presets and samples and know them
-Again, ties in with working fast. You want stuff you know you can use and sound good and not block creative process. For example, often when you're sound designing and or using certain presets which that you like (whether it's for a certain genre or not doesn't matter), make a copy of that genre and preset and store it in a "favorites" folder for easy reference so you don't have to weed through a bazillion samples again before finding good stuff. Of course this folder can updated if there are stuff in it you don't like after a while.
-
-## Useful shortcuts, keybinds and tips in FL Studio
-https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/
-https://www.youtube.com/watch?v=RBw-pdqus3k&t=88s
-
-## Other notes
-
---Allow yourself to fail
-If you don't allow yourself to fail, then you won't be productive since you don't even try nah this is somewhere else
-
-
-
