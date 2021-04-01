@@ -18,3 +18,4 @@ Also, this does not mean you need to go over all these things. Just go over the 
 Are there a lot of automations? What gets automated and when and why?
 
 Are there lots of loops and or samples? What? Why and how? How loud?
+drag in daw possibly and timestamp and name all the different sections.
