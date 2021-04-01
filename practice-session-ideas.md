@@ -26,6 +26,9 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Learn or keep learning a tune
   - Example A B
 
+## DAW
+- Watch, learn and practice DAW shortcuts
+
 ## Sidechaining
 - Learn and practice the different methods to sidechain
 
