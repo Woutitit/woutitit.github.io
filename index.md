@@ -23,7 +23,7 @@
 - A section (inside an article) or article for listing reference tracks.
 
 ## Planning
-- [Personal improvement plan](roadmap.md)
+- [Personal improvement plan](personal-improvement-plan.md)
 - [Song creation plan](song-creation-plan.md)
 
 ## General
