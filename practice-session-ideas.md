@@ -7,6 +7,6 @@ This document is meant to list ideas that I can do during practice sessions.
  
 ## Synth
 - Make a bendy lead with a vibrato macro and save it as a preset.
- - Example A
- - Example B
+  - Example A
+  - Example B
 
