@@ -50,7 +50,7 @@ For a composer and improviser **(one of) the first thing(s) to do to make/improv
 
 Also, note that for a major key, the ionian scale or mode is the default and for writing a minor piece, the aeolian scale is the default. Why this is has to do with how this is grown historically. These two scales were most used and seemed effective so they were the go to for either a major or a minor piece. This also answers the question why a key is usually not based on any other scale other than these two.
 
-## Tonality: Tonal center > key
+## Tonality: Tonal center over key
 Now keys are one way to think about music but they are a bit simplified. The better way to think about music is to think about the "tonal center". In a certain musical context, most people can intuitively feel what the home chord is or around which pitch (or chord) the current music is revolving. That pitch or chord is then what you could consider the current key. But also not really though. For example, you are in the key of C major and you make stuff revolve around C but then you go to G Mixolydian (which is the 5th mode in C major so no key change at all) and you make G the tonal center. You could argue that that is a key change to G major but it also is not really a key change as G Mixolydian is equal to C major but just with a different tonal center.
 
 [So what do you do with this?] (https://www.reddit.com/r/musictheory/comments/dp3ior/what_key_signatures_to_use_for_modes/). Well, there is not an easy answer and it mostly depends on context and preferences. It also doesn't really matter as long as you understand that music is more about the current tonal center (which can change a lot, especially in jazz) than it is about a certain key the piece is in. As **it's not the key signature written on a piece of paper but the practical actually heard tonal center** that will determine the leading tones, the tones that sound bad, the functionality of chords, consonances, dissonances and all that stuff **that makes music work and great.**
@@ -172,7 +172,7 @@ Either way, wether the melody or harmony comes first in a piece though is a bit 
 
 Also, note that harmony doesn't come from one instrument only. A very common example is the bass line which usually sets the root tones of the harmony (due to psychoacoustics) and on top of that we can have a piano play a chord but maybe it only plays the 3rd and   5th of the chord while the bass plays the 1. In total this is a perfectly fine 1-3-5 harmony. On top of it, there might also be stringp laying that might play a 7th, well then you have a 1-3-5-7 harmony going on. Analyze this in music.
 
-## Harmony: Open/Closed
+## Harmony: Open and closed
 *TODO: Add a bit more.*
 
 Harmony can be either open and closed just like you can have closed or open chords. Both are contrasting eachother and watch in compositions how both get employed. Open harmony really spans the full frequency range and sounds rich and big. Closed harmony is more...closed and intimate sounding. Having both in a song and contrast eachother is a great way of adding cool interest to your song.
