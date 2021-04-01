@@ -58,6 +58,7 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
 - [Distortion](/in-depth/distortion.md)
 - [Equalization](/in-depth/equalization.md)
+- [Intermodulation](/in-depth/intermodulation.md)
 - [Loudness wars and why it matters](/in-depth/loudness-wars-and-why-it-matters.md)
 - [Mixing and mastering](/in-depth/mixing-and-mastering.md)
 - [Mono, stereo and imaging](/in-depth/mono-stereo-and-imaging.md)
