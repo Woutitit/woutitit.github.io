@@ -14,3 +14,12 @@ He has a few youtube videos on his channel that give a brief overview of his tra
 
 ## Cysmix
 He has a few youtube videos on his channel that give a brief overview of his tracks. Helpful for composition and sound design, not so much for mixing.
+
+## ColBreakz
+A few videos on his sound design channel.
+
+## Moeshop
+Livestreams or VODS.
+
+## Lenno
+Livestreams or VODS.
