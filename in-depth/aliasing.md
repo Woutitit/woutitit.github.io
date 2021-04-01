@@ -5,7 +5,7 @@
 1. [TL;DR](#tldr)
 1. [Introduction](#introduction)
 2. [Situations in which aliasing occurs](#situations-in-which-aliasing-occurs)
-3. [Possible solution: High sample rates & Oversampling](#possible-solution-high-sample-rates-&-oversampling)
+3. [Possible solution: High sample rates & Oversampling](#possible-solution-high-sample-rates-and-oversampling)
 4. [Conclusion](#conclusion)
 5. [FAQ](#faq)
 6. [Sources](#sources)
@@ -41,7 +41,7 @@ Also note that I previously said that aliasing only occurs digitally. Because, a
 
 Either way, in digital world, we're sometimes better safe than sorry (like as putting a limiter on the master to prevent earrape). We can soften aliasing certainly - if we're not sure if certain signals will actually cause us some (minor problems) - with *sampling techniques*. However, we will after that also look at a phenomenon that might not always benefit (and even worsen) from these techniques.
 
-## Possible solution: High sample rates & Oversampling
+## Possible solution: High sample rates and oversampling
 One obvious solution to the above problem is to just increase the sample rate setting in the "project settings". As the fabfilter guy says (in his video around 11:25), everything that uses the internal project sample rate - such as plugins and digital synths (most likely?) - will then use the higher sample rate. This way, when distortion gets applied, aliasing occurs way less because of the higher sample rate we set. This can be a good solution if we set the sample rate high enough, though, it isn't practical. You see, just setting our whole project's sample rate to double, or quadruple the sample rate size will eat CPU like crazy because EVERYTHING that uses the internal project sample rate will use that sample rate. And, on top of that, we have not even solved the problem completely yet. This is the reason why we favor *oversampling* instead.
 
 Now, oversampling is pretty much the same as setting the sample rate higher, but usually with oversampling we refer to oversampling done within a plugin rather than the whole project. Also, in that same context, usually oversampling kind of refers to setting the sample rate MUCH higher, instead of just double.
