@@ -3,13 +3,14 @@
 
 ## Overview
 1. [TODOS](#todos)
-2. [General](#general)
-3. [Tips](#tips)
-4. [Checklists](#checklists)
-5. [In depth](#in-depth)
-6. [Analysis](#analysis)
+2. [Blog ideas](#blog-ideas)
+3. [General](#general)
+4. [Tips](#tips)
+5. [Checklists](#checklists)
+6. [In depth](#in-depth)
+7. [Analysis](#analysis)
 
-## TODOS
+## Todos
 - Migrate files from Google Drive to GitHub
 - Clean up file structure
 - Rewrite or update articles that need it
@@ -17,6 +18,9 @@
 - Try to have stuff, where it makes sense, in alphabetical order
 - Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
 
+## Blog ideas
+- A section or article for listing reference tracks.
+- 
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
 - [External learning resources](external-learning-resources)
