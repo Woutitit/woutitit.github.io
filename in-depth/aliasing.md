@@ -1,16 +1,16 @@
 # Aliasing
 *Note: For beginners, I recommend reading "Audio quality & Recording" first.*
-## Sources
-https://en.wikipedia.org/wiki/Aliasing
-https://www.youtube.com/watch?v=-jCwIsT0X8M
 
 ## Table of contents
+1. TL;DR
 1. Introduction
 2. Situations in which aliasing occurs
 3. Possible solution: High sample rates & Oversampling
 4. Conclusion
 5. FAQ
 6. Notes
+
+## TL;DR
 
 ## Introduction
 Aliasing is an effect in which certain frequencies aren't represented as they really are, i.e. they have an alias so to speak.
@@ -83,6 +83,8 @@ Now, another reason for 48k Hz is that it can relax your anti-aliasing filters m
 
 In the end, as long as you're not doing anything really professional (with film), you don't need to worry about 44.1k Hz or 48k Hz. Anything beyond that is not even worth looking at since that will just eat CPU space without compared to only a minor increase in filter-relaxing benefits.
 
-## Notes
-https://en.wikipedia.org/wiki/Undersampling
-https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+## Sources
+- https://en.wikipedia.org/wiki/Undersampling
+- https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- https://en.wikipedia.org/wiki/Aliasing
+- https://www.youtube.com/watch?v=-jCwIsT0X8M
