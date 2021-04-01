@@ -2,6 +2,10 @@
 ## Summary
 1. [Make MIDI presets](#make-midi-presets)
 2. [Commit to your work](#commit-to-your-work)
+3. [Study most used software](#study-most-used-software)
+4. [Know software shortcuts](#know-software-shortcuts)
+5. [Make MIDI presets](#make-templates)
+6. [Make sound samples and presets](#make-sound-samples-and-presets)
 
 ## Make MIDI presets
 Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
