@@ -21,12 +21,12 @@
 18. [Stop distractions](#stop-distractions)
 
 ## Introduction
-These are tips that will help you finish songs and be productive. Of course it's not a cardinal sins if you break one of these tips but just try to keep these mind, especially when stuck and unable to make music.
+These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
 ## Commit to your work
-https://www.youtube.com/watch?v=0ZhPLzyNz9c
+- [Why You Should Follow Your Dharma - Your Purpose in Life](https://www.youtube.com/watch?v=0ZhPLzyNz9c)
 
-Committing is so important. Really, you need a balance in being producitve when you create and trying out lots of stuff and committing. You should commit to something at some point because often times you're stuck thinking stuff can be changed and added to make it more perfect. No, if you don't know then commit. Of course, if you aren't productive or lazy with music production then yes you need to commit to that so you might need to improve being a bit better in the production/creative stage but you need to commit regardless of skill level inspiration or whatever.
+Committing is so important. Really, you need a balance in being productive when you create and trying out lots of stuff and committing. You should commit to something at some point because often times you're stuck thinking stuff can be changed and added to make it more perfect. No, if you don't know then commit. Of course, if you aren't productive or lazy with music production then yes you need to commit to that so you might need to improve being a bit better in the production/creative stage but you need to commit regardless of skill level inspiration or whatever.
 
 This is super important, just delete muted patterns at a point even if you think you might need them. Delete instruments even if you think you'd need them. Delete sections (though sure sometimes whole secitons you can better just place at the end of your project but delete if you have a song without the section now anyway). Don't change melody just because you became bored of it, don't try to desperately make a section more interesting without inspiration. It's fine, that's your level right now and you're ok with it. Again, stop tieing stuff to the expectation that you want people to be blown away (which is why you want the song to be perfect). It's hard but it's not productive.
 
@@ -45,8 +45,7 @@ Now, mind you that this workflow makes it important to have seperate practice se
 Now, all this doesn't mean that you should 100% stay in your comfort zone whilst creating a song. It's just that song creation is a very fragile process where you want to focus as much on creating as you can instead of having to try and setup or lookup stuff before you create. You can of course venture outside of your comfort zone and often that will be needed too either way but try to keep that as low as possible and try to reserve those for seperate sessions instead.
 
 ## Study your software and know shortcuts
-- [comprehensive_compilation_of_advanced_fl_studio shortcuts](https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/)
-- https://www.youtube.com/watch?v=RBw-pdqus3k&t=88s
+> See "Software" tips article for shortcuts.
 
 Knowing the software that you use a lot (whether it is getting a lot of presets from or sound designing or processing), you should know (kind of) how they work. Like, with FL Studio, take some time to study and get used to some handy shortcuts. With a synth you use often, take some time to see how to apply FX, how routing works and how you can create cool (common sounds). Again, try to do this outside of song creation, just play around with stuff.
 
