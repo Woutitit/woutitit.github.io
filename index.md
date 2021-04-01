@@ -70,4 +70,5 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 
 ## Analysis
 Analysis articles are handy together with the commonities article and the reference track if you're making a song in a similar style in one of these docs.
+
 - [Analysis ideas](/analysis/analysis-ideas.md)
