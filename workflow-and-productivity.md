@@ -2,10 +2,10 @@
 ## Summary
 1. [Commit to your work](#commit-to-your-work)
 3. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
-4. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+4. [Play to your strengths](#play-to-your-strengths)
+5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
 6. [Make MIDI presets](#make-templates)
 7. [Make sound samples and presets](#make-sound-samples-and-presets)
-8. [Play to your strengths](#play-to-your-strengths)
 
 ## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
@@ -22,9 +22,11 @@ Also, leave stuff in one pattern. First of all it's nice to audition your music 
 ## Play to your strengths
 Creating an actual song (or at least intended) is like playing a competitive soccer game. You play the best you can and put all the stuff from training into practice. It's the same when creating an actual song. If throughout the whole song you've got to figure everything out, you'll probably get demotivated since everything requires so much thinking and research.
 
-Instead, try to write the song, no matter what genre, mostly based on what you have and your current skill level. This way, the most things in the song that you'll do are things that you know and thus everything will be less of a drag and everything will go much quicker allowing you to finish the song. This is also why it' important to have seperate practice sessions and seperate sound design/sample making sessions. In those practice sessions you could be playing with a violin VST (e.g. practicing to make it sound realistic) and then when you need it you know how to work with the violin VST. Same with presets, if you need a bendy synth and you have one in preset, then it's just a matter of dragging and dropping it in and tweaking it a bit in the song.
+Instead, try to write the song, no matter what genre, mostly based on what you have and your current skill level. This can be about compositional knowledge or sound design or whatever. Being in your comfort zone whilst creating allows you to work fast which is essential for **finishing tracks**. Just check out the pros that can create beautiful shit in a few hours. Their comfort zone is just at a high level thanks to practice and habits.
 
-This doesn't mean that you should 100% stay in your comfort zone whilst creating a song. It's just that song creation is a very fragile process where you want to focus as much on creating as you can instead of having to try and setup or lookup stuff before you create. You can of course venture outside of your comfort zone and often that will be needed too either way but try to keep that as low as possible and try to reserve those for seperate sessions instead.
+Now, mind you that this workflow makes it important to have seperate practice sessions and seperate sound design/sample making sessions in which you DO practice and make setup stuff for songs. It could be that you'd be playing with a violin VST (e.g. practicing to make it sound realistic) and then when you need it you know how to work with the violin VST. Same with presets, if you need a bendy synth and you have one in preset, then it's just a matter of dragging and dropping it in and tweaking it a bit in the song.
+
+Now, all this doesn't mean that you should 100% stay in your comfort zone whilst creating a song. It's just that song creation is a very fragile process where you want to focus as much on creating as you can instead of having to try and setup or lookup stuff before you create. You can of course venture outside of your comfort zone and often that will be needed too either way but try to keep that as low as possible and try to reserve those for seperate sessions instead.
 
 ## Motivation and procastination tips
 Sometimes you have to just go in your DAW, even if you aren't feeling it. Sometimes you have to work on a track even if the track isn't vibing with you. Like, a lot of times sure if after 30 minutes you still not feel like doing it or your track is still shit, quit or bin it, but at least you tried. However, often you'll notice that sometimes you get into that what they call "flow-state" where suddenly you're into making your stuff or where suddenly the track starts vibing and then you get into this state of getting stuff done. As I talked about it in another point, just force yourself a fixed amount of time. A fixed amount of time so there is a goal you can work towards up until you try or give up.
