@@ -1,4 +1,4 @@
-# Song Writing
+# Songwriting
 ## Keep in mind limitation and techniques instruments
 If you're using real instruments or your using synth sounds that kind of are like imitating or are supposed to be a certain instrument role, keep in mind the limitation. For example, in steel drums and marimba and stuff like that you have only two hands so either it's a mono-phonous melody or a polyphonous but it can't play chords. This limitation keeps it realistic though of course you can add more instruments in your mind so you can do chords of course. Also some stuff like these (like xylophone and marimba) are played with 4 striking sticks (2 in each hand) which can play chords but keep in mind then that they have a certain distance that often is used and also, you can't move around as quick as you could with 2 in hands. Lastly, there are probably also cool and common certain techniques you can do on these to have certain charachteristic sound (like the glissando on a xylophone marimba is cool).
 
