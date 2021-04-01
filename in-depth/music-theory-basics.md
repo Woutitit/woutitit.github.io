@@ -1,7 +1,9 @@
 # Music theory: Fundamentals
-
-## READ FIRST: Disclaimer
-https://old.reddit.com/r/musictheory/comments/m23rqb/do_modes_correlate_with_a_genre_in_any_way_how_to/gqiq21s/
+## Table of contents
+1. [Read: first: Disclaimer](#read-first-disclaimer)
+2. 
+## Read first: Disclaimer
+- [Do modes correlate with a genre in any way](https://old.reddit.com/r/musictheory/comments/m23rqb/do_modes_correlate_with_a_genre_in_any_way_how_to/gqiq21s/)
 
 **Music theory without context is useless.**
 
