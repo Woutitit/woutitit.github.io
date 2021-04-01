@@ -6,7 +6,7 @@
 2. [Harmonic distortion vs. Non-harmonic distortion](#harmonic-distortion-vs-non-harmonic-distortion)
 3. 
 ## TL;DR
-- https://www.youtube.com/watch?v=jvV_ga3X0Cs
+- [What on earth is intermodulation distortion?](https://www.youtube.com/watch?v=jvV_ga3X0Cs)
 
 Intermodulation is a phenomenon that happens to a signal when two things are true
 - Multiple tones played at once, i.e. if a pure tone is playing there is no IMD
