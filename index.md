@@ -2,25 +2,15 @@
 > Note: This a personal blog. Articles may or may not be complete and they may or may not have mistakes.
 
 ## Overview
-1. [TODOS](#todos)
-2. [Blog ideas](#blog-ideas)
+1. [How to use this site](#how-to-use-this-site)
+2. [Planning](#planning)
 3. [General](#general)
 4. [Tips](#tips)
 5. [Checklists](#checklists)
 6. [In depth](#in-depth)
 7. [Analysis](#analysis)
-
-## Site todos
-- Migrate files from Google Drive to GitHub
-- Clean up file structure
-- Rewrite or update articles that need it
-- **Make occassional zip file back ups to Google Drive**
-- **Make occassional zip file back up of samples, MIDI patterns, project files to Google drive**
-- Try to have stuff, where it makes sense, in alphabetical order
-- Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
-
-## Site ideas
-- A section (inside an article) or article for listing reference tracks.
+9. [Site todos](#site-todos)
+8. [Site ideas](#site-ideas)
 
 ## How to use this site
 As a producer, whilst creating a song, you'll mainly be looking towards the "commonities" article, the analysis documents, the dictionary article and the checklist articles for quick reference. All the other articles are pretty much if you don't understand a concept anymore or forgot a name or stuff like that.
@@ -78,3 +68,15 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 Analysis articles are handy together with the commonities article and the reference tracks if you're making a song in a similar style in one of these docs.
 
 - [Analysis ideas](/analysis/analysis-ideas.md)
+
+## Site todos
+- Migrate files from Google Drive to GitHub
+- Clean up file structure
+- Rewrite or update articles that need it
+- **Make occassional zip file back ups to Google Drive**
+- **Make occassional zip file back up of samples, MIDI patterns, project files to Google drive**
+- Try to have stuff, where it makes sense, in alphabetical order
+- Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
+
+## Site ideas
+- A section (inside an article) or article for listing reference tracks.
