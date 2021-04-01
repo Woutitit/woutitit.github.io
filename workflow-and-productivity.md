@@ -1,11 +1,10 @@
 # Workflow and productivity
 ## Summary
-2. [Commit to your work](#commit-to-your-work)
-3. [Study most used software](#study-most-used-software)
-4. [Know software shortcuts](#know-software-shortcuts)
-5. [Make MIDI presets](#make-templates)
-6. [Make sound samples and presets](#make-sound-samples-and-presets)
-7. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
+1. [Commit to your work](#commit-to-your-work)
+3. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
+4. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+6. [Make MIDI presets](#make-templates)
+7. [Make sound samples and presets](#make-sound-samples-and-presets)
 8. [Play to your strengths](#play-to-your-strengths)
 
 ## Commit to your work
@@ -19,13 +18,6 @@ This is super important, just delete muted patterns at a point even if you think
 Really, have a template setup for basic stuff but don't bother too much trying to color code stuff or try to name stuff or try to bus and route perfectly, it gets in the way of creating. On top of that whenever everything is not so complicated routes it"s easy to still make changes that are bound to happen either way when creating. Same with naming coloring.
 
 Also, leave stuff in one pattern. First of all it's nice to audition your music without drums and FX but also, because of the ghost notes you can immediately see chords and rhythm of your other harmony stuff that you have in your song so you don't always have to context switch or like have to put shit down on feel. Like even though many of those YT tutorials have stuff seperate; maybe when you send to mix/mastering or at the end or for showcase purposes but really when creating, have stuff in a single pattern despitewhat many people say about being clean and shit, it really hinders you.
-
-## Make MIDI presets
-Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
-
-This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
-
-So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
 
 ## Play to your strengths
 Creating an actual song (or at least intended) is like playing a competitive soccer game. You play the best you can and put all the stuff from training into practice. It's the same when creating an actual song. If throughout the whole song you've got to figure everything out, you'll probably get demotivated since everything requires so much thinking and research.
@@ -75,6 +67,13 @@ Also, with the references, it will be hard to kind of remake their sounds, a lot
 Also, if you need to get inspired, just load up a certain drum loop  or melody loop or chords or whatever or a certain preset and play with it and see if something comes out. Again, it's ok if it's almost blatant rip off since you'll turn it in your own anyway.
 
 But yeah, this step is really important in terms of workflow because there will be times you have writers block or simply don't know what to add or whatever and next to analysis this is really important to making good music because why trying to find the rules by trial and error if you can just quickly look them up.
+
+## Make MIDI presets
+Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
+
+This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
+
+So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
 
 ## Work in short focused bursts
 For sound design, composition, mixing etc. you need to concentrate. You need to ACTIVELY think about the stuff you want and are doing. You can't just muck around and get very little done. However, it's hard-wired in our brains to not do the hard part so we might give up easy on a song, we might open a project file but not really do anything or think about what to add because that requires effort. You don't do "deep work" and "deliberate practice" and you won't learn and won't progress the song.
