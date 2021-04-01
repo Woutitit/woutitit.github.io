@@ -35,8 +35,9 @@ This document is meant to list ideas that I can do during practice sessions. It'
 ## Sidechaining
 - Learn and practice the different methods to sidechain
 
-## FX
+## Other
 - Learn an FX and a few (common) automations
   - dBlue crusher and automation
   - dBlue tapestop and automation
   - Reverb/Delay automation
+- Make a talkbox vocal
