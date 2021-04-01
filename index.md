@@ -37,7 +37,7 @@ A few checklists just to help give some general guidelines for stuff to do or wa
 - [Songwriting](songwriting-checklist.md)
 
 ## In depth
-- [Aliasing](aliasing.md)
+- [Aliasing](/in-depth/aliasing.md)
 - [Common FX explained](/in-depth/common-fx-explained.md)
 - [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
 - [Distortion](/in-depth/distortion.md)
