@@ -65,4 +65,4 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
 
 ## Analysis
-- [Analysis ideas](/in-depth/analysis-ideas)
+- [Analysis ideas](/analysis/analysis-ideas.md)
