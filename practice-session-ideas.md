@@ -5,6 +5,8 @@ This document is meant to list ideas that I can do during practice sessions.
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
 - Transcribe a passage in Musescore
  
-## Serum
+## Synth
 - Make a bendy lead with a vibrato macro and save it as a preset.
+ - Example A
+ - Example B
 
