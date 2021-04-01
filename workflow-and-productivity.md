@@ -1,7 +1,7 @@
 # Workflow and productivity
 ## Summary
 1. [Commit to your work](#commit-to-your-work)
-3. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
+3. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
 4. [Play to your strengths](#play-to-your-strengths)
 5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
 6. [Make MIDI patterns, sound samples and presets](#make-sound-samples-and-presets)
