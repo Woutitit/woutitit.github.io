@@ -37,5 +37,21 @@ A few checklists just to help give some general guidelines for stuff to do or wa
 - [Songwriting](songwriting-checklist.md)
 
 ## In depth
+- [Aliasing](aliasing.md)
+- [Common FX explained](common-fx-explained.md)
+- [Compression, limiting, clipping](compression-limiting-clipping.md)
+- [Distortion](distortion.md)
+- [Equalization](equalization.md)
+- [Loudness wars and why it matters](loudness-wars-and-why-it-matters.md)
+- [Mixing and mastering](mixing-and-mastering.md)
+- [Mono, stereo and imaging](mono-stereo-and-imaging.md)
+- [Music history and fundamental concepts](music-history-and-fundamental-concepts.md)
+- [Music theory: Basics](music-theory-basics.md)
+- [Music theory: Genres](music-theory-genres.md)
+- [Phase and phase cancellation](phase-and-phase-cancellation.md)
+- [Sample quality in a digital world](sample-quality-in-a-digital-world.md)
+- [Sidechaining](sidechaining.md)
+- [Synthesis](synthesis.md)
+- [Why order of FX chain matters](why-order-of-fx-chain-matters.md)
 
 ## Analysis
