@@ -6,7 +6,5 @@ This document is meant to list ideas that I can do during practice sessions.
 - Transcribe a passage in MuseScore
  
 ## Synth
-- Make a bendy lead with a vibrato macro and save it as a preset.
-  - Example A
-  - Example B
-
+- Make a patch in a synth
+  - Bendy lead with a vibrato macro (Example [A](#) [B](#))
