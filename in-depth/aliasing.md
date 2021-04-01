@@ -15,8 +15,6 @@
 ## Introduction
 Aliasing is an effect in which certain frequencies aren't represented as they really are, i.e. they have an alias so to speak.
 
-// TODO: Talk here about how it manifests itself, like reflecting and stuff
-// Like show visually what aliasing does, mention nyquist and stuff.
 
 A first unwanted phenomenon we're going to look at is aliasing. The above article explains aliasing well (TODO: Do explain it here so in "above article" we can reference this article even though we might need some terms from "above" article, but we can hint to that here) so here I'm just going to mention that it is a strictly digital phenomenon since it relates to the limitations of sample rates.
 
@@ -88,3 +86,7 @@ In the end, as long as you're not doing anything really professional (with film)
 - https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
 - https://en.wikipedia.org/wiki/Aliasing
 - https://www.youtube.com/watch?v=-jCwIsT0X8M
+
+## Todos
+- Talk about how it manifests itself, like reflecting and stuff
+- Show visually what aliasing does, mention nyquist and stuff.
