@@ -1,5 +1,5 @@
 # Aliasing
-*Note: For beginners, I recommend reading "Audio quality & Recording" first.*
+> For beginners, I high recommend reading "Audio quality & Recording" first.
 
 ## Table of contents
 1. TL;DR
