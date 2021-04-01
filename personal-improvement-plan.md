@@ -2,7 +2,7 @@
 ## Practice
 Set aside 30min. or 2x15min. to practice something from my "Practice session ideas" article. You can practice more if you want or less but set aside at least this time per day to always practice something deliberately no matter what it is.
 
-Do this by deciding on a *concrete* practice thing you're going to do (so not "I'm goin to analyze a song" but rather "I'm going to analyze x part of y song"). You don't need to decide on this everyday but everytime you feel like practicing something else. Don't plan too much ahead, just decide the day/hour before what you feel like.
+Do this by deciding on a *concrete* practice thing you're going to do (so not "I'm going to analyze a song" but rather "I'm going to analyze x part of y song"). You don't need to decide on this everyday but everytime you feel like practicing something else. Don't plan too much ahead, just decide the day/hour before what you feel like.
 
 Also, set aside every week 15-30 min to research "practice session ideas" ideas (with examples preferably) so that I don't need to search for stuff when I want to practice.
 
