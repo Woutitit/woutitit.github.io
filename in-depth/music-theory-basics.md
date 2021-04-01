@@ -1,15 +1,15 @@
 # Music theory: Fundamentals
 ## Table of contents
 1. [Read: first: Disclaimer](#read-first-disclaimer)
-2. [TL;DR](#)
+2. [TL;DR](#tldr)
 3. [The absolute basics](#the-absolute-basics)
 4. [Tonality: Key and tonal center](#tonality-key-and-tonal-center)
-5. [Tonality: Tonal center > key](#tonality-tonal-center-key)
+5. [Tonality: Tonal center over key](#tonality-tonal-center-over-key)
 6. [Tonality: Major, minor](#tonality-major-minor)
 7. [Harmony: Introduction](#harmony-introduction)
 8. [Harmony: Consonance and dissonance](#harmony-consonance-and-dissonance)
 9. [Harmony: how it is represented](#harmony-how-it-is-represented)
-10. [Harmony: Open/Closed](#harmony-open-closed)
+10. [Harmony: Open and closed](#harmony-open-and-closed)
 11. [Harmony: Cadence](#harmony-cadence)
 12. [Harmony: Phrasing(phrases), themes, motives](#harmony-phrasing-phrases-themes-motives)
 13. [Melody](#melody)
