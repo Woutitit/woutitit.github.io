@@ -4,19 +4,6 @@ Set aside 30min. or 2x15min. to practice something from my "Practice session ide
 
 Also, set aside every week 15-30 min to research "practice session ideas" ideas (with examples preferably) so that I don't need to search for stuff when I want to practice.
 
-## Todos
-### Make time to analyze the songs I want to analyze
-Again, I don't dedicate enough time to analyze songs that I want and before I know it the VODS may be deleted.
-
-### Make time to learn more piano
-I more and more start to see that piano is essential in composing.
-
-### Make time to learn theory
-When?
-
-### Make time to learn production
-When?
-
 ## Seperate sessions
 Seperate sessions for playing and practicing VSTs and/or synths (like play and see how u can get a VST realistic and what FX and or how u can get certain articulations etc.) Same with synth like checkout stuff like how do i vibrato in this synth and practice and then document too.
 
