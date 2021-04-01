@@ -4,7 +4,7 @@
 ## Table of contents
 1. [TL;DR](#tldr)
 2. [Harmonic distortion vs. Non-harmonic distortion](#harmonic-distortion-vs-non-harmonic-distortion)
-3. 
+
 ## TL;DR
 - [What on earth is intermodulation distortion?](https://www.youtube.com/watch?v=jvV_ga3X0Cs)
 
