@@ -1,4 +1,4 @@
-[back](index.md)
+[Home](index.md)
 
 # Workflow and productivity
 ## Table of contents
