@@ -10,8 +10,8 @@
 10. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
 11. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
 12. [Work fast](#work-fast)
-13. [When writer's block hit, stop and get inspired](#when-writers-block-hit-stop-and-get-inspired)
-14. [Plan, research and reference](#plan-research-and-reference)
+13. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
+14. [Plan, research, reference](#plan-research-reference)
 15. [Listen to music before producing](#listen-to-music-before-producing)
 16. [Focus on the 80%](#focus-on-the-80%)
 17. [Occassionally force yourself](#occassionally-force-yourself)
@@ -84,7 +84,7 @@ Same with producing a track. You don't want to think of all the work that still 
 ## Work fast
 Everytime you're making a song, you want to really try and work fast, at least to get an idea down or full structure down. What helps with those is having good presets, samples, understanding of the genre, good technique, knowing shortcuts, knowing plugins, have a template setup, etc. You want to have the least friction possible whilst creating a song because otherwise you will lose motivation either because stuff takes too long or because you get bogged in having to make stuff sound decent. This is why it's important to know what you have available to you and to really have seperate session to create sounds you always wanted to make (or just mess around) so that you don't have to do that when you're focusing on creating a song.
 
-## When Writers block hits, stop, get inspired
+## When writers block hits, stop, get inspired
 Whenever you have writers block or you don't know what/how to make stuff, then stop doing whatever you're doing (since it will be pointless anyway) and go listen to music that inspires your or is similar to the stuff you make. Draw inspiration from it and incorporate it in your own music. For example, if making piano house then notice how hard the piano, bass and kick hit, what kind of piano bass and kick they are (like how distorted, pluck/sustain) and try to reference them for your work. The hardest part with this is stopping immediately since you'll probably want to salvage your shit first but remember that there is little point in doing that. The other hard part is setting aside your ego because these songs will sound better than yours (this is especially hard if you haven't brought out a noteworthy quality song out yourself) but yeah try to see them as inspiration and motivation, and remember keep comparing to your past self. If you can improve upon your past self thanks to you're hopefully distant future self, then that's great.
 
 ## Plan, research, reference
