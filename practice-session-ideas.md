@@ -13,13 +13,14 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Transcribe a passage or song in MuseScore
  
 ## Synth
-- Make a patch in a synth
+- Choose a synth and make a patch
   - Bendy lead with a vibrato macro (Examples: [A](#) [B](#))
 - Follow and document a synth tutorial
   - Diva (Examples: [A](https://www.youtube.com/watch?v=2f0gBVX2zS4))
 
 ## Vsts
-- Learn how to do/trigger articulations (and other techniques) in a VST
+- Choose a VST and learn/play with it
+  - Check how to do/trigger articulations (and other techniques) in it
 - Follow and document a VST tutorial
 
 ## Piano
