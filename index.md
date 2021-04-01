@@ -13,7 +13,7 @@
 8. [Site ideas](#site-ideas)
 
 ## How to use this site
-As a producer, whilst creating a song, you'll mainly be looking towards the "commonities" article, the analysis documents, the dictionary article and the checklist articles for quick reference. All the other articles are pretty much if you don't understand a concept anymore or forgot a name or stuff like that.
+As a producer, whilst creating a song, you'll mainly be looking towards the commonities article, the analysis documents, the dictionary article and the checklist articles for quick reference. All the other articles are pretty much if you don't understand a concept anymore or forgot a name or stuff like that.
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
