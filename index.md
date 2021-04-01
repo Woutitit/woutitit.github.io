@@ -38,6 +38,8 @@ A few checklists just to help give some general guidelines for stuff to do or wa
 - [Songwriting](songwriting-checklist.md)
 
 ## In depth
+All topics in here are thoroughly explained to get a good understanding. For briefer explanations see either "Tips" or "General".
+
 - [Aliasing](/in-depth/aliasing.md)
 - [Common FX explained](/in-depth/common-fx-explained.md)
 - [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
