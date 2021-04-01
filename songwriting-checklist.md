@@ -4,6 +4,7 @@ This article is not to check your production but rather check composition. This 
 - Check cadences
 - Check harm, melodic and perc rhythm (maybe change sections up)
 - repeotition, motives, development of them is it there?
+- Are chords ok? Octave fifths bottom and extensions on top?
 
 
 ## Phrasing
