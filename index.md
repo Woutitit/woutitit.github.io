@@ -33,6 +33,7 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Sound recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
 - [Commonities](commonities.md)
+- [Practice session ideas](practice-session-ideas.md)
 
 ## Tips
 These articles contain tips and explanation for general topics. See "In depth" if you want a more thorough explanation about certain things.
