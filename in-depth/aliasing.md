@@ -5,7 +5,7 @@
 1. [TL;DR](#tldr)
 1. [Introduction](#introduction)
 2. [Situations in which aliasing occurs](#situations-in-which-aliasing-occurs)
-3. [Possible solution: High sample rates & Oversampling](#possible-solution-high-sample-rates-and-oversampling)
+3. [Possible solution: High sample rates and oversampling](#possible-solution-high-sample-rates-and-oversampling)
 4. [Conclusion](#conclusion)
 5. [FAQ](#faq)
 6. [Sources](#sources)
