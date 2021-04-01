@@ -22,8 +22,9 @@
 ## Site ideas
 - A section (inside an article) or article for listing reference tracks.
 
-## Personal development
-- [Improvement roadmap](roadmap.md)
+## Planning
+- [Personal improvement plan](roadmap.md)
+- [Song creation plan](song-creation-plan.md)
 
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
