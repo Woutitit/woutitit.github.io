@@ -4,7 +4,7 @@
 3. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
 4. [Play to your strengths](#play-to-your-strengths)
 5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-6. [Preemptively make MIDI patterns, sound samples and presets](#make-sound-samples-and-presets)
+6. [Make MIDI patterns, sound samples and presets](#make-sound-samples-and-presets)
 8. [Work in short focused bursts](#work-in-short-focused-bursts)
 9. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
 10. [Don't open DAW without a purpose](#)
