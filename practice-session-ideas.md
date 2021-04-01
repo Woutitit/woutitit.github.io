@@ -3,6 +3,7 @@ This document is meant to list ideas that I can do during practice sessions. It'
 
 ## General
 - Research specific examples or sub-ideas for entries in this list.
+- Research, audition samples and presets
 
 ## Analysis
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
@@ -21,3 +22,12 @@ This document is meant to list ideas that I can do during practice sessions. It'
 ## Piano
 - Learn or keep learning a tune
   - Example A B
+
+## Sidechaining
+- Learn and practice the different methods to sidechain
+
+## FX
+- Learn an FX and a few (common) automations
+  - dBlue crusher and automation
+  - dBlue tapestop and automation
+  - Reverb/Delay automation
