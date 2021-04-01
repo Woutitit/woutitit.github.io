@@ -14,7 +14,7 @@
 13. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
 14. [Plan, research, reference](#plan-research-reference)
 15. [Listen to music before producing](#listen-to-music-before-producing)
-16. [Focus on the 80%](#focus-on-the-80%)
+16. [Focus on the 80](#focus-on-the-80%)
 17. [Occassionally force yourself](#occassionally-force-yourself)
 18. [Stop distractions](#stop-distractions)
 
