@@ -2,13 +2,14 @@
 > For beginners, I highly recommend reading "Audio quality & Recording" first.
 
 ## Table of contents
-1. TL;DR
-1. Introduction
-2. Situations in which aliasing occurs
-3. Possible solution: High sample rates & Oversampling
-4. Conclusion
-5. FAQ
-6. Notes
+1. [TL;DR](#tldr)
+1. [Introduction](#introduction)
+2. [Situations in which aliasing occurs](#situations-in-which-aliasing-occurs)
+3. [Possible solution: High sample rates & Oversampling](#possible-solution-high-sample-rates-&-oversampling)
+4. [Conclusion](#conclusion)
+5. [FAQ](#faq)
+6. [Sources](#sources)
+7. [Todos](#todos)
 
 ## TL;DR
 Aliasing is a **digital-only** phenomenon that creates reflections in your signal making it sound less clear and bad. It only happens when a signal passes the nyquist rate so it only happens for high tones and/or very high harmonics.
