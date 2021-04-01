@@ -6,7 +6,7 @@
 ## Table of contents
 1. [Introduction](#introduction)
 3. [Songs](#songs)
-4. [Livestream, tutorials, other](#livestream-tutorial-other)
+4. [Livestream, tutorial, other](#livestream-tutorial-other)
 5. [How to analyze](#how-to-analyze)
 
 ## Introduction
@@ -16,7 +16,7 @@ You can also take a song and analye
 ## Songs
 //
 
-## Livestream/tutorials/other
+## Livestream, tutorial, other
 - [ak+q - 1 Hour Production Challenge](https://www.youtube.com/watch?v=wjx9K2vI2wo&t=1954s)
 - [Shades of Light in a Transcendent Realm](https://www.youtube.com/watch?v=nP70bnzpYDY)
 
