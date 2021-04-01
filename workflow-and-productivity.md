@@ -1,5 +1,6 @@
 # Workflow and productivity
 ## Summary
+1. [Introduction](#introduction)
 1. [Commit to your work](#commit-to-your-work)
 3. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
 4. [Play to your strengths](#play-to-your-strengths)
@@ -16,6 +17,9 @@
 16. [Focus on the 80%](#focus-on-the-80%)
 17. [Occassionally force yourself](#occassionally-force-yourself)
 18. [Stop distractions](#stop-distractions)
+
+## Introduction
+These are tips that will help you finish songs and be productive. Of course it's not a cardinal sins if you break one of these tips but just try to keep these mind, especially when stuck and unable to make music.
 
 ## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
