@@ -11,11 +11,11 @@
 6. Notes
 
 ## TL;DR
-Aliasing is a **digital-only** phenomenon that creates reflections in your signal making it sound less clear and bad. It only happens when a signal passes the nyquist rate. In other words, it only happens for high tones and/or very high harmonicss.
+Aliasing is a **digital-only** phenomenon that creates reflections in your signal making it sound less clear and bad. It only happens when a signal passes the nyquist rate so it only happens for high tones and/or very high harmonics.
 
-Basically, whenever signal exceeds the nyquist rate, the stuff above that rate will start to alias and reflect down as they are not reproducable in an accurate way. Lower tones/harmonics thus will be created in your signal and you might hear those artifacts (see the fabfilter video) which are unwanted.
+To explain a bit more, whenever a signal exceeds the nyquist rate, the stuff above that rate will start to alias and reflect down as these tones are not reproducable in an accurate way. Instead, they'll be represented as lower tones/harmonics in your signal and you might hear those artifacts (see the fabfilter video) which are unwanted.
 
-Now, note that at a default sample rate of 44.1k Hz, we usually don't have to worry as most of our fundamental tones and harmonic content will fall between 0-20k Hz anyway so the stuff that falls beyond 20k Hz (i.e. beyond the nyquist rate) will be so little usually and the mix will also usually be quite busy (or busy enough) that you don't hear it. It's only if you're working with (very) high tones in a sparse mix that you might hear aliasing being produced. For that case it's nice to at least recognize how aliasing sounds like.
+Now, note that at a default sample rate of 44.1k Hz, we usually don't have to worry about aliasing as most of our fundamental tones and harmonic content will fall between 0-20k Hz anyway so the stuff that falls beyond 20k Hz (i.e. beyond the nyquist rate) will be so little usually and the mix will also usually be quite busy (or busy enough) that you don't hear it. It's only if you're working with (very) high tones in a sparse mix that you might hear aliasing being produced. For that case it's nice to at least recognize how aliasing sounds like.
 
 ## Introduction
 Aliasing is an effect in which certain frequencies aren't represented as they really are, i.e. they have an alias so to speak.
