@@ -10,7 +10,7 @@
 6. [In depth](#in-depth)
 7. [Analysis](#analysis)
 
-## Todos
+## Site todos
 - Migrate files from Google Drive to GitHub
 - Clean up file structure
 - Rewrite or update articles that need it
@@ -19,8 +19,11 @@
 - Try to have stuff, where it makes sense, in alphabetical order
 - Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
 
-## Blog ideas
-- A section or article for listing reference tracks.
+## Site ideas
+- A section (inside an article) or article for listing reference tracks.
+
+## Personal development
+- [Improvement roadmap](#roadmap)
 
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
