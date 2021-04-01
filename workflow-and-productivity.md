@@ -4,7 +4,7 @@
 3. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
 4. [Play to your strengths](#play-to-your-strengths)
 5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-6. [Make MIDI presets](#make-templates)
+6. [Make MIDI pattern presets](#make-templates)
 7. [Make sound samples and presets](#make-sound-samples-and-presets)
 8. [Work in short focused bursts](#work-in-short-focused-bursts)
 9. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
@@ -12,6 +12,11 @@
 11. [Don't have expectations and focus on small achievements](#)
 12. [Work fast](#)
 13. [When writer's block hit, stop and get inspired](#)
+14. [Plan, research and reference](#)
+15. [Listen to music before producing](#)
+16. [Focus on the 80%](#)
+17. [Occassionally force yourself](#)
+18. [Stop distractions](#)
 
 ## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
