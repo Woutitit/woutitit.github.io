@@ -1,4 +1,4 @@
-[Home](/index.md)
+[Home](/)
 
 # Aliasing
 > For beginners, I highly recommend reading "Audio quality & Recording" first.
