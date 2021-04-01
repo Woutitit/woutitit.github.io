@@ -6,7 +6,10 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Research, audition samples and presets
 
 ## Analysis
+> See analysis checklist to help with this.
+
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
+- Analyze and/or remake a song
 - Transcribe a passage or song in MuseScore
  
 ## Synth
