@@ -1,7 +1,23 @@
 # Music theory: Fundamentals
 ## Table of contents
 1. [Read: first: Disclaimer](#read-first-disclaimer)
-2. 
+2. [TL;DR](#)
+3. [The absolute basics](#the-absolute-basics)
+4. [Tonality: Key and tonal center](#tonality-key-and-tonal-center)
+5. [Tonality: Tonal center > key](#tonality-tonal-center-key)
+6. [Tonality: Major, minor](#tonality-major-minor)
+7. [Harmony: Introduction](#harmony-introduction)
+8. [Harmony: Consonance and dissonance](#harmony-consonance-and-dissonance)
+9. [Harmony: how it is represented](#harmony-how-it-is-represented)
+10. [Harmony: Open/Closed](#harmony-open-closed)
+11. [Harmony: Cadence](#harmony-cadence)
+12. [Harmony: Phrasing(phrases), themes, motives](#harmony-phrasing-phrases-themes-motives)
+13. [Melody](#melody)
+14. [Scales](#scales)
+15. [Modes](#modes)
+16. [Rhythm and meter](#rhythm-and-meter)
+17. [Notes](#notes)
+
 ## Read first: Disclaimer
 - [Do modes correlate with a genre in any way](https://old.reddit.com/r/musictheory/comments/m23rqb/do_modes_correlate_with_a_genre_in_any_way_how_to/gqiq21s/)
 
