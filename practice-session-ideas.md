@@ -1,6 +1,9 @@
 # Practice session ideas
 This document is meant to list ideas that I can do during practice sessions.
 
+## General
+- Research specific examples or sub-ideas for entries in this list.
+
 ## Analysis
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
 - Transcribe a passage or song in MuseScore
