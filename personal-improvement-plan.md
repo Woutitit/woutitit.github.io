@@ -1,4 +1,8 @@
-# Improvement roadmap
+# Personal improvement plan
+## Practice
+Set aside 30min. or 2x15min. to practice something from my "Practice session ideas" article. You can practice more if you want or less but set aside at least this time per day to always practice something deliberately no matter what it is.
+
+Also, set aside every week 15-30 min to research "practice session ideas" ideas (with examples preferably) so that I don't need to search for stuff when I want to practice.
 
 ## Todos
 ### Make time to analyze the songs I want to analyze
