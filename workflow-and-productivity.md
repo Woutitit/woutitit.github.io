@@ -1,4 +1,4 @@
-[back](/)
+[back](index.md)
 
 # Workflow and productivity
 ## Table of contents
