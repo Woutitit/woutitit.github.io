@@ -6,6 +6,12 @@
 5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
 6. [Make MIDI presets](#make-templates)
 7. [Make sound samples and presets](#make-sound-samples-and-presets)
+8. [Work in short focused bursts](#work-in-short-focused-bursts)
+9. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
+10. [Don't open DAW without a purpose](#)
+11. [Don't have expectations and focus on small achievements](#)
+12. [Work fast](#)
+13. [When writer's block hit, stop and get inspired](#)
 
 ## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
