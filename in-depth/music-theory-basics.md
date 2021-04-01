@@ -31,12 +31,7 @@ This document, and all the other music theory documents, should not be used as a
 
 Lastly, note that I've somewhat tried to order the topics but you still will skip a bit from one chapter to another (or sometimes another article) to get the gist of what I am saying. Each chapter I make assumptions that you know the other concepts just for brevity sake as I don't want to explain the same stuff a million times.
 
-## The absolute basics
-I'm not going to go into the super basics here. I myself already know a bit of music theory, and as to not make this article longer than it already is I'd want to refer to these two links for the absolute basics of music theory:
-- [Basic music theory](https://iconcollective.edu/basic-music-theory/)
-- [Wikipedia: fundamentals of music] (https://en.wikipedia.org/wiki/Music_theory#Fundamentals_of_music)
-
-## A brief summary
+## TL;DR
 A song is mostly based on melody, harmony, timbre (sound design in modern production) and rhythm which are utilized in various ways to create pretty much all songs currently in existence. As there are so many combinations, various ways to utilize these things should be internalized based on these docs as well as just listening.
 
 Songs are stories and rely very much on contrast, tension and release, question and answer, consonance and dissonance. Some more others less but the 4 basic things outlined in previous paragraph are all utilized in a way to tell the story and make it the way you want the story to be told.
@@ -51,6 +46,11 @@ The group of pitches that get chosen are not arbitrary. These pitches are always
 For a composer and improviser **(one of) the first thing(s) to do to make/improvise a song is deciding on a key (or a mode sometimes but we'll see that later)**. For example, if you choose A major, then all the set of pitches are from the A major scale and you can now start building chords and melodies based on the key you've chosen and build your song. Without deciding on a(n initial) key you cannot build chords and melodies that are cohesive and relate to eachother.
 
 Also, note that for a major key, the ionian scale or mode is the default and for writing a minor piece, the aeolian scale is the default. Why this is has to do with how this is grown historically. These two scales were most used and seemed effective so they were the go to for either a major or a minor piece. This also answers the question why a key is usually not based on any other scale other than these two.
+
+## The absolute basics
+I'm not going to go into the super basics here. I myself already know a bit of music theory, and as to not make this article longer than it already is I'd want to refer to these two links for the absolute basics of music theory:
+- [Basic music theory](https://iconcollective.edu/basic-music-theory/)
+- [Wikipedia: fundamentals of music] (https://en.wikipedia.org/wiki/Music_theory#Fundamentals_of_music)
 
 ## Tonality: Tonal center over key
 Now keys are one way to think about music but they are a bit simplified. The better way to think about music is to think about the "tonal center". In a certain musical context, most people can intuitively feel what the home chord is or around which pitch (or chord) the current music is revolving. That pitch or chord is then what you could consider the current key. But also not really though. For example, you are in the key of C major and you make stuff revolve around C but then you go to G Mixolydian (which is the 5th mode in C major so no key change at all) and you make G the tonal center. You could argue that that is a key change to G major but it also is not really a key change as G Mixolydian is equal to C major but just with a different tonal center.
