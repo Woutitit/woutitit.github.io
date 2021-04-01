@@ -1,11 +1,16 @@
 # Workflow and productivity
 ## Summary
-- Have MIDI pattern presets
-- Commit to your work
-3. 
+1. [Make MIDI presets](#make-midi-presets)
+2. [Commit to your work](#commit-to-your-work)
+
 ## Make MIDI presets
-barrier to entry for commonities can be a pattern for studio/ad 2 or like a chord pattern + do in like neutral piano sound. Handy is cuz u get immediate notes which u can style change up slightly u also can still change instrument and notes
-## Commit, commit, commit
+Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
+
+This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
+
+So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
+
+## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
 
 Committing is so important. Really, you need a balance in being producitve when you create and trying out lots of stuff and committing. You should commit to something at some point because often times you're stuck thinking stuff can be changed and added to make it more perfect. No, if you don't know then commit. Of course, if you aren't productive or lazy with music production then yes you need to commit to that so you might need to improve being a bit better in the production/creative stage but you need to commit regardless of skill level inspiration or whatever.
