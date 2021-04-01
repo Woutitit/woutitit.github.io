@@ -50,7 +50,7 @@ A few checklists just to help give some general guidelines for stuff to do or wa
 - [Music theory: Genres](/in-depth/music-theory-genres.md)
 - [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 - [Sample quality in a digital world](/in-depth/sample-quality-in-a-digital-world.md)
-- [Sidechaining]/in-depth/(sidechaining.md)
+- [Sidechaining](/in-depth/sidechaining.md)
 - [Synthesis](/in-depth/synthesis.md)
 - [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
 
