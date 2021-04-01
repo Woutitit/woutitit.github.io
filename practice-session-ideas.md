@@ -1,4 +1,6 @@
 # Practice session ideas
+> For concrete ideas on below suggestions check the "commonities", "dictionary", "external learning resources" and "analysis ideas and reference songs" articles.
+
 This document is meant to list ideas that I can do during practice sessions. It's a live list so it's mainly for stuff that I currently find interesting and should do.
 
 ## General
@@ -6,7 +8,7 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Research, audition samples and presets
 
 ## Analysis
-> See analysis checklist to help with this.
+> See analysis checklist to help analyze.
 
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
 - Analyze and/or remake a song
