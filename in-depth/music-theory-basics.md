@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 # Music theory: Fundamentals
 ## Table of contents
 1. [Read: first: Disclaimer](#read-first-disclaimer)
