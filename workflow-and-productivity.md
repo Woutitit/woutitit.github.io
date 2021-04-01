@@ -1,5 +1,5 @@
 # Workflow and productivity
-## Summary
+## Table of contents
 1. [Introduction](#introduction)
 1. [Commit to your work](#commit-to-your-work)
 3. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
