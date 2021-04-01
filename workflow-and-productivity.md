@@ -1,18 +1,12 @@
 # Workflow and productivity
 ## Summary
-1. [Make MIDI presets](#make-midi-presets)
 2. [Commit to your work](#commit-to-your-work)
 3. [Study most used software](#study-most-used-software)
 4. [Know software shortcuts](#know-software-shortcuts)
 5. [Make MIDI presets](#make-templates)
 6. [Make sound samples and presets](#make-sound-samples-and-presets)
-
-## Make MIDI presets
-Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
-
-This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
-
-So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
+7. [Don't bother organizing when creating](#don't-bother-organizing-when-creating)
+8. [Play to your strengths](#play-to-your-strengths)
 
 ## Commit to your work
 https://www.youtube.com/watch?v=0ZhPLzyNz9c
@@ -26,14 +20,20 @@ Really, have a template setup for basic stuff but don't bother too much trying t
 
 Also, leave stuff in one pattern. First of all it's nice to audition your music without drums and FX but also, because of the ghost notes you can immediately see chords and rhythm of your other harmony stuff that you have in your song so you don't always have to context switch or like have to put shit down on feel. Like even though many of those YT tutorials have stuff seperate; maybe when you send to mix/mastering or at the end or for showcase purposes but really when creating, have stuff in a single pattern despitewhat many people say about being clean and shit, it really hinders you.
 
-## Finish songs more easily by playing to your strengths
-This is about figuring out what you like and who you are. For example, I know that I like to make songs interesting everywhere so I don't have a lot of looping stuff. However, I'm also distracted easily and lose energy to work on a song, especially the longer the songs go. So a solutions there is that I should not try and make 4-5 min but rather aim for somewhere between 2-4 minutes. That is something more attainable for me as that means I have less work and can focus on less sections but make them all more unique.
+## Make MIDI presets
+Just like with samples, make MIDI presets of a certain chord progression or a certain lick or both together so that you can easily drag and drop the pattern in a project if you need it. Again, this lowers the barrier to entry as you don't got to go into your "commonities" document or analysis documents to find out how a certain "cliché" or cool thing is done. No, you simply drag and drop it in and you play with it.
 
-I also know that I am very good at making songs that people may want to listen too, especially in the not sound design-heavy genres. However, my technical production abilities aren't that great (yet). So I should not try weird ass advanced production techniques or try to make cool basses or whatever as I am bad and not really that interested in that. Again, solution for me is to mostly use presets with good baked in macros and some simple sounds that I make and also focus more on the musical aspect which naturally interests me more.
+This is also handy as you can still choose the instrumentation for that MIDI and you can also ajdust to your taste and the song.
 
-Now note that these are all comfort zone things. So that does NOT mean that I should never try to do these things. No not at all. It's just about striking a balance between discipling to finish the song, doing things you're generally good at and interested in, and going out of your comfort zone. Sometimes certain songs or projects are mainly there for learning and in those cases you'll want to go more outside of your comfort zone. Similarly, if you struggle to finish a particular song and you really want to finish it instead of trying stuff out in there and baning you're head just start working on things you know and things that you're interested in. If the song is too long, shorten it, if a sound is badly designed, replace it with a preset, etc.
+So yeah, do this for some cliché chord progressions (with licks together over it and then another with both apart? If needed!) and just some cool sounding stuff that you've maybe done whilst working on a project. You can also do this for drum patterns though you have to see and hope the VSTS used will kind of use same sounds for the pattern so you'd want to try and use same DRUM patterns.
 
-Balance between discipline, coming out of comfort zone and playing to strengths
+## Play to your strengths
+Creating an actual song (or at least intended) is like playing a competitive soccer game. You play the best you can and put all the stuff from training into practice. It's the same when creating an actual song. If throughout the whole song you've got to figure everything out, you'll probably get demotivated since everything requires so much thinking and research.
+
+Instead, try to write the song, no matter what genre, mostly based on what you have and your current skill level. This way, the most things in the song that you'll do are things that you know and thus everything will be less of a drag and everything will go much quicker allowing you to finish the song. This is also why it' important to have seperate practice sessions and seperate sound design/sample making sessions. In those practice sessions you could be playing with a violin VST (e.g. practicing to make it sound realistic) and then when you need it you know how to work with the violin VST. Same with presets, if you need a bendy synth and you have one in preset, then it's just a matter of dragging and dropping it in and tweaking it a bit in the song.
+
+This doesn't mean that you should 100% stay in your comfort zone whilst creating a song. It's just that song creation is a very fragile process where you want to focus as much on creating as you can instead of having to try and setup or lookup stuff before you create. You can of course venture outside of your comfort zone and often that will be needed too either way but try to keep that as low as possible and try to reserve those for seperate sessions instead.
+
 ## Motivation and procastination tips
 Sometimes you have to just go in your DAW, even if you aren't feeling it. Sometimes you have to work on a track even if the track isn't vibing with you. Like, a lot of times sure if after 30 minutes you still not feel like doing it or your track is still shit, quit or bin it, but at least you tried. However, often you'll notice that sometimes you get into that what they call "flow-state" where suddenly you're into making your stuff or where suddenly the track starts vibing and then you get into this state of getting stuff done. As I talked about it in another point, just force yourself a fixed amount of time. A fixed amount of time so there is a goal you can work towards up until you try or give up.
 
