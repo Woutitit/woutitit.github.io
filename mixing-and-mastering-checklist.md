@@ -71,3 +71,6 @@ Common practice is to mute all tracks, start with kick (then snare, then chords 
 Especially in a busy mix you'll have a lot of elements overlapping around the 400 - 1000 Hz range. Usually (the fundamental of) your (main) lead will be hanging out here in this range. Scoop a bit of the other backing elements a bit so they don't clash too much here, maybe boost these elements a bit around so they are still noticeable without clashing. 
 
 Don't make the band too big as we do still want the warmth of the 200-400Hz range. Also don't scoop too much, a few small scoops in multiple instruments equals a big scoop. Scoops can also be done on your kick and snare even around the area as they have very little useful information there and just get in the way. Mid/Side eq and a mid scoop can also help so you only scoop for your mid signal decreasing the mud and your stereo mid keeps being there.
+
+## Check for artifacts
+Intermodulation, aliasing.
