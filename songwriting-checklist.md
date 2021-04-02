@@ -1,3 +1,5 @@
+[Home](#home)
+
 # Song creation checklist
 *TODO: If per header a list is getting too long, I'll need to make sub headers.*
 
