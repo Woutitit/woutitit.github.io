@@ -12,24 +12,14 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 - Tame 5k-20kHz not muddy but could be too strong.
 - Automate reverbs/delays to unmud.
 - Make space for main elements with stereo, pan, levels, eq.
+- Boost important frequencies, cut redundant ones.
+- If element doesn't sit in mix, the workflow is usually Volume > EQ > Compression > FX.
+- Saturate transients for more headroom.
 
-## Notes
-Boost important frequencies, cut redundant ones
-Get kick/snare right
-Get low-end right
-Compress stuff
-Mix workflow: Volume > EQ > Compression > FX
-Check composition, arrangement, sound design
-Sidechain
-Saturate stuff, especially transients
-Layering
-Common mastering practices
-Don't push or compress too hard
+## Production
+- Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
 
-- 
-
-This article is not to check your production but rather check composition. This one is a quick reference to topics we discussed to if certain things ain't working maybe check some stuff undereath here. Though maybe the full checklist can be in one doc especially i guess the song making checklist?
-
+## Composition and arrangement
 - Check cadences
 - Check harm, melodic and perc rhythm (maybe change sections up)
 - repeotition, motives, development of them is it there?
