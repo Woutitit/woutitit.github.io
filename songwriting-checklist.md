@@ -7,6 +7,7 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 - Set lvls by muting all. Start with kick and bring stuff up around it.
 - Get low-end right. Make sure to unmud the > 250-300Hz range.
 - Tame 5k-20kHz not muddy but could be too strong.
+- Automate reverbs/delays to unmud.
 
 ## Notes
 Boost important frequencies, cut redundant ones
