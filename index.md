@@ -11,11 +11,18 @@
 7. [Analysis](#analysis)
 
 ## How to use this site
-When song making the main reference articles are under the **highlighted** header. For now these are the **checklists**, the **commonities** article and the **analysis documents**. All the other articles are for if you need more explanation on stuff in these articles or if you want to learn or forgot a certain names or concept or whatever.
+When song making the main reference articles are under the **highlighted** header. For now this is the **song making checklist and the **commonities** article (and the analysis documents of course).
+
+For song analysis, check out the analysis ideas and the analysis checklist for help with that.
+
+All the other articles are for if you need more explanation on stuff in these articles or if you want to learn or forgot a certain names or concept or whatever.
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
 - [Song creation plan](song-creation-plan.md)
+
+## Highlighted
+- [Commonities](commonities.md)
 
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
@@ -24,7 +31,6 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Gear](gear.md)
 - [Sound recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
-- [Commonities](commonities.md)
 - [Practice session ideas](practice-session-ideas.md)
 
 ## Tips
