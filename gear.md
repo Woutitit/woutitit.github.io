@@ -1,4 +1,4 @@
-[Home](#index.md)
+[Home](index.md)
 
 # Gear
 > For licences and login detials. Refer to my main Google Drive account.
