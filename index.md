@@ -19,7 +19,7 @@ During song making, the most useful articles are under the **"Quick reference"**
 - [Song creation plan](song-creation-plan.md)
 
 ## Quick reference
-The articles in here are meant to be very sparse in explanation and are just there to give you list of things to try and check (whether that is mixing, mastering, composition or whatever). Very handy for workflow, inspiration and improving a song.
+The articles in here are meant to be very sparse in explanation and are just there to give you a list of things to try and check (whether that is mixing, mastering, composition or whatever). Very handy for workflow, inspiration and improving a song.
 
 - [Commonities](commonities.md)
 - [Song creation checklist](songwriting-checklist.md)
