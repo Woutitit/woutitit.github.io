@@ -86,7 +86,8 @@ List of all the gear that I currently own or want to own.
 - Effectrix
 
 ### Packs
-(www.beatlabaudio.com, www.producerloops.com) 
+> For presets see www.beatlabaudio.com and www.producerloops.com
+
 - Black Octopus Leviathan Vol. 1, 2, 3
 - Oliver Power Tools I & II
 - Shirobon - Chiptune for Serum (shirobon.bandcamp.com/album/shirobon-presents-chiptune-for-serum)
