@@ -11,7 +11,7 @@
 5. [Phrasing](#phrasing)
 
 ## Introduction
-In here I've written 
+In here are a few things to check or try whilst creating a song. It's mainly meant as a reference for when you don't get your mix right or when your composition isn't working out as you can check and try stuff on the list here. It can also serve as a source of inspiration.
 
 ## Mixing and mastering
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC/Mix levels for different elements?
@@ -40,7 +40,4 @@ In here I've written
 - Check harm, melodic and perc rhythm (maybe change sections up)
 - repeotition, motives, development of them is it there?
 - Are chords ok? Octave fifths bottom and extensions on top? Open/closed enough chords?
-
-
-## Phrasing
 - Try going up for question and on dissonance or dom note, try coming back down and end more consonant answer
