@@ -3,6 +3,10 @@
 
 List of all the gear that I currently own or want to own.
 
+## Table of contents
+1. [Owned](#owned)
+2. [Wishlist](#wishlist)
+
 ## Owned
 ### Amp sim(ulator)s
 - Guitar Rig  5 Pro
