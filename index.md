@@ -78,6 +78,7 @@ Analysis articles are handy together with the commonities article and the refere
 - **Make occassional zip file back up of samples, MIDI patterns, project files to Google drive**
 - Try to have stuff, where it makes sense, in alphabetical order
 - Make more table of contents/overview and have them be anchor tag ID links (since all headings have ids we can do that)
+- Remove or obfuscate any traces of sensitive data (in text or images)
 
 ## Site ideas
 - A section (inside an article) or article for listing reference tracks.
