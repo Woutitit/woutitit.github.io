@@ -1,4 +1,4 @@
-[Analysis](../index.md)
+[Analysis](index.md)
 
 # The art of mixing
 - [The art of mixing David Gibson](https://www.youtube.com/watch?v=TEjOdqZFvhY)
