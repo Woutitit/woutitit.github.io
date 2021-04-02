@@ -22,7 +22,7 @@ As a producer, whilst creating a song, you'll mainly be looking towards the comm
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
 - [External learning resources](external-learning-resources)
-- [Gear (Wishlist, licences...)](gear.md)
+- [Gear](gear.md)
 - [Sound recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
 - [Commonities](commonities.md)
