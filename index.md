@@ -11,7 +11,7 @@
 7. [Analysis](#analysis)
 
 ## How to use this site
-When song making the main reference articles are under the **highlighted** header. For now this is the **song making checklist and the **commonities** article (and the analysis documents of course).
+For song making, the most useful articles are under the **highlighted** header as they specifically serve for quick reference whilst creating a song.
 
 For song analysis, check out the analysis ideas and the analysis checklist for help with that.
 
