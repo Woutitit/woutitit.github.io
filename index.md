@@ -11,7 +11,7 @@
 7. [Analysis](#analysis)
 
 ## How to use this site
-During song making, the most useful articles are under the **Quick reference** header. For song analysis, check out the analysis ideas and the analysis checklist for help with that.
+During song making, the most useful articles are under the **"Quick reference"** header. For song analysis, all the resources are under **"Analysis"**. The other articles are more in depth explanations usually so they are more for learning purposes.
 
 
 ## Planning
