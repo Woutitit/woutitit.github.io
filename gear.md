@@ -1,7 +1,7 @@
 [Home](index.md)
 
 # Gear
-> For licences and login detials. Refer to my main Google Drive account.
+> For licences and login details. Refer to my main Google Drive account.
 
 List of all the gear that I currently own or want to own.
 
