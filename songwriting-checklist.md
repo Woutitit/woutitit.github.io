@@ -20,6 +20,10 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
+- Tapestop automation on end phrases on lead/chords
+- Crusher automation
+- Vibrato macro
+- PWM lead
 
 ## Composition and arrangement
 - Check cadences
