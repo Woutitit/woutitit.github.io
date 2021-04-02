@@ -1,20 +1,21 @@
 # Gear
-This document is meant to stock all (notable) gear that I have, want or simply high-quality but that I don't need/want right now.
+> For licences and login detials. Refer to my main Google Drive account.
+
+List of all the gear that I currently own or want to own.
 
 ## Owned
-
 ### Amp sim(ulator)s
 - Guitar Rig  5 Pro
-- S-GEAR 2 (serial key in wout.borghgraef@gmail.com email, is 5f27-d92c-fe20-4eba-aeb2-4454-6f15-fd05)
+- S-GEAR 2
 
 ### DAWs
-- FL Studio 20 All Plugins Bundle (Standalone VSTs excluded, see: https://old.reddit.com/r/FL_Studio/comments/jn7kil/all_plugins_edition_is_on_sale_399_until_30th/) : Go to official site of image line. In case of forgotten password my e-mail is wout.borghgraef@gmail.com
+- FL Studio 20 All Plugins Bundle ([Standalone VSTs excluded](https://old.reddit.com/r/FL_Studio/comments/jn7kil/all_plugins_edition_is_on_sale_399_until_30th/))
 
 ### Drums
 - Studio Drummer
 
 ### Effects
-- Soundtoys 5 (serial key in gmail, licence key is: 2077-1190-3886-7021-6706-5077-1367-30)
+- Soundtoys 5
 - CamelCrusher (free)
 - dBlue Glitch 1 (Tapestop, etc.)
 - OTT (free, extreme upwards/downwards compressor)
@@ -25,7 +26,7 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Session Horns
 
 ## Packs
-- Black Octopus Leviathan Trilogy (download through website wout.borghgraef@gmail.com, perhaps think of storing these on a google drive since it has "x downloads remaining".
+- Black Octopus Leviathan Trilogy
 
 ### Strings
 - Session Strings 2
@@ -34,14 +35,15 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Absynth 5
 - FM8
 - Monark (Minimoog model D emulation)
+- Magical 8bit plugin
 - Massive
 - Massive X
 - Reaktor 6
-- Serum: via website (Woutitit account name) https://xferrecords.com/ Serial key is: SMEC-MNMD-KBQF-GBFE-TPJG
+- Serum
 - Tweakbench Peach (classic NES sound emulation)
 - Tweakbench Toad (classic NES drums emulation)
-- Repro 1 & 5: REPR-AQXQ-HKAY-9ZBE-QBUB (download from https://u-he.com/products/ licence registered on wout.borghgraef@gmail.com with username Wout Borghgraef)
-- Diva: DIVA-J9NO-QAJH-BE4A-AF74 (download from https://u-he.com/products/ licence registered on wout.borghgraef@gmail.com with username Wout Borghgraef)
+- Repro 1 & 5
+- Diva
 
 ### Monitoring
 - Voxengo SPAN (frequency analyzer)
@@ -49,18 +51,12 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Youlean Loudness Meter
 
 ### Misc
-- Komplete 12 + Kontakt 6: Download via website. email is wout.borghgraef@gmail.com. Note: To activate NI products, you need to register the serial you find on the website in the desktop app (https://www.native-instruments.com/en/specials/native-access/)
-- Nicky Romero Kickstart (pirated)
+- Komplete 12 + Kontakt 6
+- Nicky Romero Kickstart
 
 ## Wishlist
 ### Bass
 - Trillian (All-in-one bass, feature various high-quality models)
-
-### Delay
-- Soundtoys Echoboy
-
-### Distortion/Saturation
-- Soundtoys Decapitator
 
 ### EQ
 - Fabfilter Pro-Q 3 (visual interface, mid-side EQ, bands, etc.)
@@ -72,7 +68,8 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Izotope Ozone 9
 
 ### Orchestral
-- Spitfire Labs (free limited orchestral suite) 
+- Spitfire Labs (free limited orchestral suite)
+- All the sample modelling stuff
 
 ### Other
 - Schaack Transient Shaper
@@ -99,8 +96,6 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Valhalla Room, Vintage & Shimmer
 
 ### Synths
-- Harmor
-- Diva (2) (All-in-one analog workhorse, modelled after various analog synths)
 - Omnisphere 2 (All-in-one synth with a ton of presets and samples)
 - Korg M1
 - TAL U-NO-LX (Juno emulation)
@@ -121,31 +116,8 @@ This document is meant to stock all (notable) gear that I have, want or simply h
 - Spire
 - Sylenth 1
 - iZotope Ozone Imager (Or would I really need it?)
+- iZotop nectar (to see for the resonant freq checker automatic handy to check muddy mix)
 - u-he Repro 5
 - u-he Zibra 2
 - Glitch 2
 - Sausage fattener
-
-## Scribbles
-i need good orchestral still good horns (like trumpets and shit that can stream but also nice ensembles) like those for big band and jazz cuz different from orchestral
-Hrons vs brass vs winds???
- Preset packs
-something percussion????
-
-what was that chiptune serum bandcamp sample pack? virtual riot surge preset pack
-
-pair of monitors headset holder? microphone?
-
-harmor schaak transient shaper?
-
-sausage fattnener?
-
-magical 8 bit plugin
-
-Packs (Samples, presets, etc.)
-
-samplemodelling the trumpet
-
- Mastering
-
- Orchestral
