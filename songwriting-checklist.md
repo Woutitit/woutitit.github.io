@@ -4,6 +4,7 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 ## Mixing and mastering
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC/Mix levels for different elements?
 - General high pass: Most stuff doesn't need < 60Hz. Try hi-pass all elements 50-150Hz range except (sub) bass.
+- Set lvls by muting all. Start with kick and bring stuff up around it.
 
 ## Notes
 Boost important frequencies, cut redundant ones
