@@ -2,4 +2,4 @@
 ## Songs
 //
 ## Livestream, tutorial, guide...
-- [The art of mixing David Gibson](https://www.youtube.com/watch?v=TEjOdqZFvhY)
+- [GUIDE: The art of mixing - David Gibson](https://www.youtube.com/watch?v=TEjOdqZFvhY)
