@@ -17,6 +17,7 @@ During song making, the most useful articles are under the **"Quick reference"**
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
 - [A framework for song creation](song-creation-plan.md)
+- [Practice session ideas](practice-session-ideas.md)
 
 ## Quick reference
 The articles in here are meant to be very sparse in explanation and are just there to give you a list of things to try and check (whether that is mixing, mastering, composition or whatever). Very handy for workflow, inspiration and improving a song.
@@ -31,7 +32,6 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Gear](gear.md)
 - [Sound recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
-- [Practice session ideas](practice-session-ideas.md)
 - [Audio recording](audio-recording.md)
 - [General tips and advice](general-tips-and-advice.md)
 - [Software (VSTs, DAW, Synths...)](software.md)
