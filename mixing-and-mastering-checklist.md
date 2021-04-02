@@ -19,15 +19,15 @@ This is a short hand article for getting a good mix. Basically a reference that 
 13. Don't push or compress too hard
 
 
-## Solid guidelines
+## External guidelines
 - [Basic mixing concepts] (https://www.youtube.com/watch?v=TEjOdqZFvhY)
 - [Mixing formula] (https://www.youtube.com/watch?v=hAIOj0wexFI)
 
 ## Tonal balance
 - On full parts check tonal balance. Because a tonal balance is what we like in a mix, especially full parts like chorus.
 
-## High-pass stuff
-Make sure that basically all your instruments that don't have (or need) sub-mid-low frequencies are being high passed. 100Hz is a good starting point but can range between 50-200Hz (though be careful to not make your sound too thin or too muddy).
+## High-passing
+Check whether all your stuff that doesn't need sub is high-passed from at least 50Hz for that sweet headroom. Usually start high-passing in the range of 50Hz-150Hz.
 
 ## Boost important frequencies, cut redundant ones
 Look to boost important frequencies. Often for leads and/or chords we might want to make stuff brighter so we boost good frequencies around 3-5k Hz (with 0-6db). Fundamentals are also good to boost. Be careful to not boost too much. Additionally, cut redundant frequencies (a bit) like the mids in the kick, the fundamental in a top bass, stuff like that. Use shelves or passes or bells dependent on situation.
@@ -74,3 +74,11 @@ Don't make the band too big as we do still want the warmth of the 200-400Hz rang
 
 ## Check for artifacts
 Intermodulation, aliasing.
+## Mix and mastering checklist
+- Sidechain? At least subtly kick and bass?
+- Proper fader levels?
+- Compression and eq? Cut out lows somewhere?
+- Cutting off at 20k? Cuz at pro mixes u sometimes see that dip at 20k what is that? look up, or with audio automatically? or wav it automaitcally cuts off/dips/ or soundcloud does it with wavs?
+- High pass stuff at around 100 Hz?
+- Checked for mono compatibility? Good stereo image? Phase cancellation/Phase issues?
+- Saturation?
