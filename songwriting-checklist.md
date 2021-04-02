@@ -6,7 +6,7 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 - General high pass: Most stuff doesn't need < 60Hz. Try hi-pass all elements 50-150Hz range except (sub) bass.
 - Set lvls by muting all. Start with kick and bring stuff up around it.
 - Make sure to unmud the > 250-300Hz range.
-- Tame highs, not muddy but could be too strong.
+- Tame 5k-20kHz not muddy but could be too strong.
 
 ## Notes
 Boost important frequencies, cut redundant ones
