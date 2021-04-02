@@ -14,7 +14,7 @@ In here all the inspiration and checks you can do to make a good song. Whether t
 - Make space for main elements with stereo, pan, levels, eq.
 - Boost important frequencies, cut redundant ones.
 - If element doesn't sit in mix, the workflow is usually Volume > EQ > Compression > FX.
-- Saturate transients for more headroom.
+- Saturate transients to keep transients but gain headroom.
 
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
