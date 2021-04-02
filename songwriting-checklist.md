@@ -1,5 +1,5 @@
 # Song creation checklist
-TODO: If per header a list is getting too long, I'll need to make sub headers.
+*TODO: If per header a list is getting too long, I'll need to make sub headers.*
 
 In here all the inspiration and checks you can do to make a good song. Whether that is mixing or mastering or composing, it's in here. Also I might refer to deeper articles sometimes.
 
