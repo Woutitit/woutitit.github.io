@@ -3,7 +3,8 @@
 # Song creation checklist
 *TODO: If per header a list is getting too long, I'll need to make sub headers.*
 
-In here all the inspiration and checks you can do to make a good song. Whether that is mixing or mastering or composing, it's in here. Also I might refer to deeper articles sometimes.
+## Introduction
+In here all the inspiration and checks you can do to make a good song. Whether that is mixing or mastering or composing. Note that this article might be a bit of a shitshow in terms of organizing, duplicate tips and stuff but that's just the nature as there are a lot of overlapping elements. I'll try to keep it as clear and organized as possible though.
 
 ## Mixing and mastering
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC/Mix levels for different elements?
