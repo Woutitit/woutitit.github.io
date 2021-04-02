@@ -27,7 +27,7 @@ In here are a few things to check or try whilst creating a song. It's mainly mea
 - Saturate transients to keep transients but gain headroom.
 - Boost high-end/low-end of kick and/or cut mids and/or use transient processor.
 - Check tonal balance (on busiest parts), recommended with iZotope Tonal balance 2
-- LUFs match (a) similar reference track(s) and mix to that
+- LUFS match (a) similar reference track(s) and mix to that
 
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
