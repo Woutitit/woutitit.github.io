@@ -13,7 +13,7 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Analyze a cliché or passage I like and save it as one (or more) MIDI pattern(s).
 - Analyze and/or remake a song
 - Transcribe a passage or song in MuseScore
-- Take a (uncategorized) commonity entry and actually transcribe it/make MIDI pattern of it
+- Take a(n uncategorized) commonities article entry and actually transcribe it/make MIDI pattern of it
  
 ## Synth
 - Choose a synth and make a patch
