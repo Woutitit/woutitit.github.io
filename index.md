@@ -11,7 +11,7 @@
 7. [Analysis](#analysis)
 
 ## How to use this site
-For song making, the most useful articles are under the **highlighted** header as they specifically serve for quick reference whilst creating a song.
+For song making, the most useful articles are under the **Quick reference** header. As the title said, it's less explanation and more just quick reference for you to check in your song or be inspired by.
 
 For song analysis, check out the analysis ideas and the analysis checklist for help with that.
 
@@ -21,7 +21,7 @@ All the other articles are for if you need more explanation on stuff in these ar
 - [Personal improvement plan](personal-improvement-plan.md)
 - [Song creation plan](song-creation-plan.md)
 
-## Highlighted
+## Quick reference
 - [Commonities](commonities.md)
 
 ## General
