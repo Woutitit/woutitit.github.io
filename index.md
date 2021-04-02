@@ -11,7 +11,7 @@
 7. [Analysis](#analysis)
 
 ## How to use this site
-When song making the main reference articles you'll be looking for are **the checklists**, the **commonities** article and the **analysis documents**. All the other articles are pretty much if you don't understand a concept anymore, want to learn, or forgot a name or stuff like that.
+When song making the main reference articles you'll be looking for are **the checklists**, the **commonities** article and the **analysis documents**. All the other articles are for if you need more explanation on stuff in these articles or if you want to learn or forgot a certain name or concept or whatever.
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
