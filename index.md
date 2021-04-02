@@ -16,7 +16,7 @@ During song making, the most useful articles are under the **"Quick reference"**
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
-- [Song creation plan](song-creation-plan.md)
+- [A framework for song creation](song-creation-plan.md)
 
 ## Quick reference
 The articles in here are meant to be very sparse in explanation and are just there to give you a list of things to try and check (whether that is mixing, mastering, composition or whatever). Very handy for workflow, inspiration and improving a song.
