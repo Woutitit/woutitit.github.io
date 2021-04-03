@@ -28,6 +28,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - Boost high-end/low-end of kick and/or cut mids and/or use transient processor.
 - Check tonal balance (on busiest parts), recommended with iZotope Tonal balance 2
 - LUFS match (a) similar reference track(s) and mix to that
+- For compression, start with a 4:1 ratio -6db gain reduction. Tweak from there.
 
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
