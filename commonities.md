@@ -1,15 +1,13 @@
 # Cliches, commonities and reference tracks
-## Introduction
-I'm not sure how to call this article but this is basically to group all kinds of common (and perhaps cliche) things that happen in music. This can be anything ranging from a production technique to a musical idea to whatever. Give (song) examples and or a short description if applicable.
-
-Also, this list is different from "Terms and jargon" in that it gives a certain technique applied in a certain way. Like, in "Terms and jargon" you would name a term and then briefly described what it is and how it's gets used. Here it's rather you name a technique and you describe/show a COMMON way that it is used. It could therefore be that a certain technique can be used in multiple different common ways so it can get multiple entries here. Of course, try to group things as much as possible to not have this list become too long.
-
-Lastly, this is not the place to be to start describing stuff in depth or put stuff I like but aren't common (really try to stick with what is common and almost cliché). Usually there is an article here that will go in depth more to what is listed here. So keep it mostly a list and a short description here with a few examples to give the idea.
 
 ## Table of contents
-1. Sound design
-2. Song writing
-3. FX
+1. [Introduction](#introduction)
+1. [Sound design](#sound-design)
+2. [Song writing](#song-writing)
+3. [FX, automation, modulation](#fx-automation-modulation)
+
+## Introduction
+Quick reference for common clichés in music. Whether that is composition or sound design or other stuff.
 
 ## Sound design
 ### Presets and sound patches
