@@ -125,6 +125,9 @@ Lastly, realize that low-end is more than just doing this, but this will help. T
 ## The further back/unimportant a sound the sloppier it can be
 If you have a piano that's playing in the background of the chorus, you don't need to sound design it or add velocity changes, etc. as much as you would with a piano ballad where the piano is the only (or very upfront) instrument. In the latter you need the velocity, fx, sound design all right since it's (one of) the most important instruments in the mix, in the former case it's barely audible or only meant as support or padding. That doesn't mean it can be awful but it can be a bit sloppier. Another example would be a ad that you compress the shit out of to give it more presence in mix. The compression makes it sound a bit bad/distorted but since it's so far back it is barely audible and adds more presence to the pad.
 
+## Context of mix
+Bad solo but good mix like distortion, never judge whether a sound sounds good solo, always judge it in context of mix, played with the other instruments
+
 ## Sources
 https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/mixer_levelsandmixing.htm
 
