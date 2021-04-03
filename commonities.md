@@ -50,6 +50,7 @@ Lastly, this is not the place to be to start describing stuff in depth or put st
     - [Demonstration ](https://www.youtube.com/watch?v=yVQOofhKeFc)
 - Metric ambiguity. Very common interest for intro, def techno
    - https://www.youtube.com/watch?v=CSPuzs_IwPQ
+   - Highway to hell intro - AC/DC
     
 
 ## Chord progressions, bass licks, melody licks
