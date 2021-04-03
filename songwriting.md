@@ -1,22 +1,20 @@
 # Songwriting
 TODO: Sort this article out and reduce tips like merging stuff that is the same or similar.
 
-Make song sections sound more coherent
-Tame energy levels and boringness by (briefly) dropping rhythm and or low-end
-It's the details that count
-Short is less energy, long is more. Same for low vs. high frequencies.
-Keep in mind limitation and techniques instruments
-Technicability vs. listenability
-Arrange around driving elements
-Limitations are your style
-Syncopation and swing
-Keep it simple but clever
-Call and response
-Rhythm is more important than harmony
-Have harmonial and rhythmical cohesiveness
-## People prefer effortless and alive sounding songs
-Songs don't always need a chorus
-Use contrast to make effective sections, transitions, etc.
+## Table of contents
+1. [Contrast is key](#contrast-is-key)
+2. [Energy distribution is key](#energy-distribution-is-key)
+3. [Call and response is key](#call-and-response-is-key)
+4. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
+5. [It's about the details](#its-about-the-details)
+6. [Work with instrument limitations and techniques](#work with instrument limitations and techniques)
+7. [Musical ability over technical ability](#musical-ability-over-technical-ability)
+8. [Rhythm over harmony](#rhythm-over-harmony)
+9. [Work around driving elements](#work-around-driving-elements)
+10. [Limitations aren't bad, they are your style](#limitations-arent-bad-they-are-your-style)
+11. [Syncopation and swing](#syncopation-and-swing)
+12. [Keep it simple](#keep-it-simple)
+13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 
 ## Make song sections sound more coherent
 So this is just general advice at all but if you struggle with coming up with a next part of your song or if certain parts of your song are incoherent even though they should be subsequent, this tip can help. Basically, you'll hear that a lot of songs going in the next part keep the same rhythm and same chord progressions however, maybe they change up a bit the rhythm of the chords whilst maintaining the beat or they make the beat a bit quieter in addition. Or, they might change up the beat but keep chords the same or change both up but keep the progression of the previous section or maybe totally switch melody but keep the rest the same. Or they might change a bit of the sound design, making it go rhytmically or openend up more or make different sounds play the same melody and harmony. Like, the point is, the way to keep stuff coherent and transition well is not have the sections not be different and often that means that if u make one thing different (like the harmony), you might wanna leave other stuff the same (like the beat but maybe quieter or whatever or more hats for interest). Again, this is not a hard and fast rule but if you struggle with jelling sections, keep it in mind that really you don't need a lot of change to add extra interest.
