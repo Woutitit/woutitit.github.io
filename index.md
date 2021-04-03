@@ -24,6 +24,7 @@ The articles in here are meant to be very sparse in explanation and are just the
 
 - [Commonities](commonities.md)
 - [Song creation checklist](songwriting-checklist.md)
+- [Reference tracks](reference-tracks.md)
 
 ## General
 General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
