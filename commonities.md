@@ -7,40 +7,29 @@ Also, this list is different from "Terms and jargon" in that it gives a certain 
 Lastly, this is not the place to be to start describing stuff in depth or put stuff I like but aren't common (really try to stick with what is common and almost cliché). Usually there is an article here that will go in depth more to what is listed here. So keep it mostly a list and a short description here with a few examples to give the idea.
 
 ## Table of contents
-1. Presets
-2. FX
-3. Rhythm
-4. Chord progressions
-3. Licks
-4. Transitions
-5. Turn arounds
-6. Intros
-7. Endings
-8. Automations/Modulations
-9. Reference tracks
+1. Sound design
+2. Song writing
+3. FX
 
-## Instrumentation
+## Sound design
+### Presets and sound patches
+> See "sound recipes" on how to recreate these sounds
+
+- PWM Lead: Has a nice opening up modulation (sometimes with added vibrato) that is often used on sustain/climax notes
+    - Examples needed!
+- Bendy (vibrato) lead
+    - Examples needed! (see ak+q breakdown video)
+  
+### Instrumentation
 - Steel drums. Very common in tropical sounding music:
     - Main lead sound in [【Higetify】Tropical Palette -2020 Re:build-] (https://www.youtube.com/watch?v=lklVipGoYiA)
     - At 2:45 [Mario kart 8 Wii Koopa Cape] (https://www.youtube.com/watch?v=ZTyG59Ie6yA)
     - Lead that comes in at 00:02  - [Treasure Trove] (https://www.youtube.com/watch?v=l7d2djlOuvg) - Qumu remix
 - Marimba. Often used in tropical sounding music too.
     - At 0:00 instrument that plays rhythm [Treasure Trove] (https://www.youtube.com/watch?v=l7d2djlOuvg) - Qumu remix
-
-## Presets
-- Korg M1 piano and organ: Very common in original dance music.
-- Korg M1 90s house bass: https://www.youtube.com/watch?v=FSJu9BBQ9iw&feature=emb_logo 
-- Polysix Fat Line Bass: Classic synthwave bass.
-- PWM Lead: Default (chiptune) lead. Has a nice opening up modulation (sometimes with added vibrato) that is often used on sustain/climax notes
-- TB-303: trance bass and house
-
-## FX
-- Octaver: Often used effect on an 80s bass (or guitar) e.g. Dua Lipa bass, Lead guitar
-- Wah Wah: A staple in funk (rhythm) guitar
-    - At 00:10 in background [Autumn Mountain Battle - Paper Mario: The Origami King OST] (https://www.youtube.com/watch?v=k7e7Kl2OSkc&list=PLAKkLNh9lDSOUx3ZQnY7N20VCA7HYN8YD&index=78)
-    - [Generic example] (https://www.youtube.com/watch?v=SqM0Tv57weU)
-
-## Rhythms
+ 
+## Song writing
+### Rhythms
 - Triplets (8th dotted notes) over 4/4 beat. Widely used. For harmony, melody, whatever:
     - At 00:23 when melody goes up [Mario theme] (https://www.youtube.com/watch?v=uhscMsBhNhw)
     All bass lines in this video - https://www.youtube.com/watch?v=ukFIhHBtXHE
@@ -52,8 +41,7 @@ Lastly, this is not the place to be to start describing stuff in depth or put st
    - https://www.youtube.com/watch?v=CSPuzs_IwPQ
    - Highway to hell intro - AC/DC
     
-
-## Chord progressions, bass licks, melody licks
+### Chord progressions, bass licks, melody licks
 - IV - V - vi (to be confirmed), often used fast (or slow) as like a heroic kind of progression. Often vi gets replaced by VI (on last repeat).
     - At 00:35 [Sonic forces - First bump] (https://www.youtube.com/watch?v=9gc0169Ht48)
 - Line cliche. A stepwise (usually semitone but sometimes whole tone, rarely both) motion to bring interest to a pedal note/chord vamp/drone. There are a lot of variations on the line cliche but just look up and you'll find them
@@ -76,18 +64,18 @@ https://www.youtube.com/watch?v=ukFIhHBtXHE
     -  1:51-1:54 [Riki The Legendary Heropon - Xenoblade Chronicles: Definitive Edition OST OG] (https://www.youtube.com/watch?v=mo_dkMRTqTo)
     - 3:45 [Bill wurtz - here comes the sun] (https://www.youtube.com/watch?v=zNTaVTMoNTk)
 
-## Transitions
+### Transitions
 - Pryda snare. Often used right before drop or next part, often full song cuts out and one pryda snare hits
     - [Generic example] (https://www.youtube.com/watch?v=9iO-Cv1pU7w)
 - Sub drop. Examples?
 
-## Turn arounds
+### Turn arounds
 - V7#9 dominant chord (stabs): Jazzy and abrupt single chord turn around. Has a very distinct sound.
     - At 00:07 [Red Streamer Battle - Paper Mario: The Origami King OST](https://www.youtube.com/watch?v=BIHCjBmDSg8)
 - I-V-(I). A very obvious plagal cadence. Sometimes left hanging on the V to then continue next part, ignoring resolution. Sometimes resolved, sometimes resolved only at the end to have that final coming home. Sometimes the I resolvement becomes a spicy chord
     - Ending chords [Animal Crossing - New Horizons] (https://www.youtube.com/watch?v=dy6D3QYnhSk)
 
-## Endings:
+### Endings:
 -     Vegas Ending (Trash Can Ending, Big Chord Ending). Very common end in ballads, jazz, sould, funk. Sometimes an exotic chord (either extension or weird scale degree) sometimes a normal resolving chord.
     - See 12 Tone YT channel
     - https://old.reddit.com/r/musictheory/comments/l514ky/term_for_the_way_many_rock_and_soul_songs_end/ e.g. 
@@ -95,7 +83,11 @@ https://www.youtube.com/watch?v=ukFIhHBtXHE
 - General jazzy cliche outros. Some more humorous, others more serious. Note that they can resolve not to I but more exotic extension of it or a total other chord.
     - [Cliches and Quotes] (https://www.youtube.com/watch?v=GCK_0wgaNYY)
 
-## Automation/Modulations
+## FX, automation modulation
+- Octaver: Often used effect on an 80s bass (or guitar) e.g. Dua Lipa bass, Lead guitar
+- Wah Wah: A staple in funk (rhythm) guitar
+    - At 00:10 in background [Autumn Mountain Battle - Paper Mario: The Origami King OST] (https://www.youtube.com/watch?v=k7e7Kl2OSkc&list=PLAKkLNh9lDSOUx3ZQnY7N20VCA7HYN8YD&index=78)
+    - [Generic example] (https://www.youtube.com/watch?v=SqM0Tv57weU)
 - Reverb automation on snare. Common on 80s funk and synthwave but elsewhere too. Sidechain reverb is similar
 - Delay automation on various instruments to not muddy up and have delay in quieter parts. Again, sidechain is an alternative
 - Filter opening (either low or high pass) on various instruments for calming energy but gradually building up. Common for intros and or quiet part going into louder part.
@@ -104,14 +96,8 @@ https://www.youtube.com/watch?v=ukFIhHBtXHE
 - Tapestop/Pitch bend. Often done at end of a note or section
 - (dBlue) Crusher fx. Often automated on a transition:
     At 00:12 https://twitter.com/skybreakedm/status/1343778077751570432
-
-## Reference track
-Here put some good reference tracks, mainly in term of instrumentation (not if mixing is really good), do it per genre. It's handy then for me to pick out a few of these whenever making songs or to reference later.
-
-- Tropical vibe:
-    - https://www.youtube.com/watch?v=lklVipGoYiA
-
-## Uncategorized and want to knows
+    
+## Uncategorized and todos
 - Common technique to make kick not be too overpowering but still noticeable: https://youtu.be/wMVoEBBggwE?t=550 when hit close to eachother at fast pace
 - Rickenbacker bass: Often used for pop, funk and soul
 - Diva: Often used for funky leads, chords and stuff
