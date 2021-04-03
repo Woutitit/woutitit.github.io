@@ -17,7 +17,9 @@ Quick reference for common clichés in music. Whether that is composition or sou
     - Examples needed!
 - Bendy (vibrato) lead
     - Examples needed! (see ak+q breakdown video)
-  
+- The "opening filter up" pluck. Often macro to make it more or less sustain
+    - https://www.youtube.com/watch?v=fO_JkNN7gh4
+
 ### Instrumentation
 - Steel drums. Very common in tropical sounding music:
     - Main lead sound in [【Higetify】Tropical Palette -2020 Re:build-] (https://www.youtube.com/watch?v=lklVipGoYiA)
