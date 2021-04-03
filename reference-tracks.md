@@ -44,6 +44,9 @@ Similar to checking solos, just check the waveform and see how much (or little) 
 ### Get inspiration
 Use it for inspiration on everything of your track. It doesn't have to be the same track you use for mixing (as sometimes you might want to compose similar to an old song but have the mixing style of a modern song).
 
+## Band soloing
+https://www.youtube.com/watch?v=QQU2RDzoFQA&t=16s
+
 ## Sounds often need to be tinner than you think
 A lot of patches are designed to sound full without context of a mix. They have a lot of reverb and delay and probably a lot of frequencies they take in. Often all those things are to much for a sound and will muddy stuff up quickly, especially in layering.
 
