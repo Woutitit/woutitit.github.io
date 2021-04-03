@@ -43,6 +43,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - repeotition, motives, development of them is it there?
 - Are chords ok? Octave fifths bottom and extensions on top? Open/closed enough chords?
 - Try going up for question and on dissonance or dom note, try coming back down and end more consonant answer
+- Too much driving elements at the same time/same Hz range?
 
 ## Notes
 ## Theory: Improvisation tips
