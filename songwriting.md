@@ -17,13 +17,19 @@
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 
 ## Contrast is key
-## Call and response
-// Todo add more examples here
-suoer important link some examples not only melody but sections etc. like its so effective like sometimes not really call and response but even then its always home > journey > home, but ofc can be broken and sometimes just alll tension tension tension and then home
-Whether it's your sectons, your whole song or a melody or something else. There is a lot of call and response in songs. Especially getting out of 4-bar loops (not 8 bars), you can make the first four bars a call and then the next four bars a response, or first two bars and then two bars after that as a response.
-https://www.youtube.com/watch?v=-x1kn0-HIO8&t=295s
+## Call and response is key
+- https://www.youtube.com/watch?v=-x1kn0-HIO8&t=295s
+> TODO: Add more stuff and examples here.
 
-...or question and answer. Silences leave space, epsecially melodies, like put this in clean mix
+Call and response is such an important element in music. You might think of melody when thinking this but really, call and response is everywhere in a song other than melody.
+
+It's the premise of starting home > having a call > getting a response. It's essentially building tension and then releasing it. This is important because if you're song is all release and no tension it is very boring and if it's all tension it's too startling and annoying.
+
+This tension and release is also on a spectrum. Sometimes you can a very long extended call (tension) and/or a more dissonant call (extra tension) to then finally have the response kick in for that extra feeling of release. Sometimes you can have the classic: Call? Response! vibe going on and sometimes it's stuff in between.
+
+Either way, in analysis, look to all the calls and responses you can find. Look at the linked video and see how much he can find. As you can see it's not only the melody, it's perhaps how, in an 8-bar loop, the first 4 bars are the call and the next 4 bars are the response. And maybe within that you have a melody that does a call and response sequence every 2 bars. And maybe, if you zoom out, that whole 8 bars might be a response to the previous 8 bars.
+
+Nonetheless, it's nice to think about and keep an eye out. Don't restrain yourself to this thinking of course as there are always exceptions and ambiguity but simply keep it in mind when stuck.
 
 ## Be cohesive on a micro and macro scale
 It's important for a song to sound cohesive as it helps the listener to vibe to your song. It's finding that balance between not abruptly killing the vibe (and going where the listener expects you to go) and somehow still suprising and interesting the listener. Now, a lot of producers struggle with this so here is some advice. 
