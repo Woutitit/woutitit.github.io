@@ -29,7 +29,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - Check tonal balance (on busiest parts), recommended with iZotope Tonal balance 2
 - LUFS match (a) similar reference track(s) and mix to that
 - For compression, start with a 4:1 ratio -6db gain reduction. Tweak from there.
-
+- If sub bass too high or too inaudible on some notes, switch key.
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
 - Tapestop automation on end phrases on lead/chords
