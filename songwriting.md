@@ -18,7 +18,7 @@
 
 ## Contrast is key
 
-### Energy distribution is key
+## Energy distribution is key
 A song is all about energy and depending on the song you'll want to distribute that energy a certain way. The only problem is that having the same energy whether that is happy or sad, is boring so you kind of want to have breaks from that. If your song is going four on the floor the whole time, there is probably the same amounts of energy going on for too long and your song will sound boring. Therefore, it's very effective to sometimes do a drum (and bass) fill and going back into rhtyhm to just briefly interrupt the monotone. Same with briefly dropping out the low-end bass and or drums (mainly the kick/snare) to kind of drop energy before going back into it. There are other types of fills too of course (like in jazz or orchestra making stuff real loud, loads of energy/energy overload briefly to go into section).
 
 Often thougn, if fills are you're only break in energy, it's not fully enough to break the energy so to have longer interruption of monotone you can go into a section with a different drum (and bass) rhythm. This technique is helpful for either a whole section or for maybe a few bars in a section and analyse your favorite songs to see how they do it and how they smoothly transition back to the main rhythm. With this technique you'll want to make sure you don't overdo it with a bazillion different rhythms as the song will feel incoherent and unjammable.
