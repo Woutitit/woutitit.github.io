@@ -1,4 +1,11 @@
 # Songwriting
+## Short is less energy, long is more. Same for low vs. high frequencies.
+A short snare hit (instead of a reverb one or a white noise one) sounds more like a verse in comparison to one with a longer tail. Shorter bass stabs sound more like a verse than a chorus. Shorter kick (so also with less sub) sounds more verse-y than a longer kick. A closed hihat (= short) sound less chorus-y than an open one.
+
+So keep in mind this trick when making your sections as sometimes you might be using too much "short sounds" in your chorus so it doesn't sound super chorusy or you might be using too much "long sounds" in the verse so it sounds too open already.
+
+Same with low and high frequencies. Layer sounds in your chorus that have more high-end or like an octave up and it will sound more open, layer an extra clap that adds high-end with the snare for extra high-end energy.
+
 ## Keep in mind limitation and techniques instruments
 If you're using real instruments or your using synth sounds that kind of are like imitating or are supposed to be a certain instrument role, keep in mind the limitation. For example, in steel drums and marimba and stuff like that you have only two hands so either it's a mono-phonous melody or a polyphonous but it can't play chords. This limitation keeps it realistic though of course you can add more instruments in your mind so you can do chords of course. Also some stuff like these (like xylophone and marimba) are played with 4 striking sticks (2 in each hand) which can play chords but keep in mind then that they have a certain distance that often is used and also, you can't move around as quick as you could with 2 in hands. Lastly, there are probably also cool and common certain techniques you can do on these to have certain charachteristic sound (like the glissando on a xylophone marimba is cool).
 
