@@ -160,7 +160,7 @@ It's probably needless to say but for the harmony and melodie cases, while it's 
 
 Lastly, the harmony can have a certain impact on a groove, like sometimes your bass might just play long notes but if your stuff on top (and your drums) are still grooving in a certain way, there will still be some groove so it's not always a hard and fast rule. Again analyze to see again where this rule gets broken and/or bend. 
 
-## Arrange around driving elements
+## Work around driving elements
 In a song there will always be elements that are driving the track and others that are supporting the track. That is, if everything in a song is super busy and densely composed then everything is fighting for attention. Instead you should just have one or a few main elements that are driving the track (or section) and then the other things should be there to reinforce it.
 
 For example, if you have a very funky bass line that's going up the scale and octaves, then you'll probably want all the other stuff around to make room for it by making those elements simpler and a bit quieter, maybe a bit stereo and all that stuff. Same with if it's a percussion-heavy track, you'll want the bass to stay simple, the chords, the lead so it doesn't grab attention from the percussion we want people to focus on. Or with a melody, again, in your chords you might have some rhythmic stabs and stuff and a sustain in tbe background or some layers but they are there to support that driving element, you don't make these things too busy or too loud or else they'd be grabbing attention from the others.
