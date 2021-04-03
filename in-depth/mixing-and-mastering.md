@@ -8,6 +8,16 @@
 5. Mix and mastering checklist
 6. Notes
 
+## Have a reference track
+You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
+
+## Don't be afraid of low-end
+In many articles, this one included, we'll state that you don't want to mud the low-end and that cluttering it is very easy. However, that doesn't mean that you should be fully afraid of the low-end. For example, you'll often see producers put a bass AND then a piano on top that goes as low as F2 or whatever. In this case it just adds a lot of warmth. Of course, the notes are very much spaced out in the bottom to not crowd it, and extensions on top. Additionally, on top of that you can layer some other stuff too that is around the 300-500 range to add even more warmth. 
+
+The thing is, this warmth is important to a track so you really do want a substantial amount of low-end/low-mids in your track either way. It's just that you need to mix it well. For example, you might turn the piano down in volume compared to the bass, you might turn that layer way down too (or only have the piano be the main volume warmth). You might roll off between 50-100Hz to have the piano clash not that much with the piano. 
+
+The point is, don't be afraid to high pass as low as 50Hz even and don't be afraid to put and even layer stuff in the low-mids/mid-mids. It's your job as a producer to know how to offset that with high-end sounds and layers and how to balance it and mix it together and stuff. Also, some genres and mixes are warmer and some mixers are brighter. This is again why it's important to have a reference track and checkout in SPAN or tonal balance control 2 whether the low-end/mids are pronounced and/or whether it's mainly the high-end so you know which route to go.
+
 ## Introduction
 Before we begin the article I'd like to say that song creation starts 100% with sound selection/design, composition and arrangement. You (usually) can have a COMPLETELY unmixed and unmastered song sounding well if the sound is high quality, the composition is high quality and the arrangement (or orchestration) is high quality. This is incredibly important because often new producers get bogged down into "but it doesn't sound loud and in your face" or "it doesn't sound perfectly mixed" and all these things which is distracting from song creation. 
 
