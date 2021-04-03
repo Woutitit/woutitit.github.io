@@ -7,7 +7,7 @@ TODO: Sort this article out and reduce tips like merging stuff that is the same 
 3. [Call and response is key](#call-and-response-is-key)
 4. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
 5. [It's about the details](#its-about-the-details)
-6. [Work with instrument limitations and techniques](#work with instrument limitations and techniques)
+6. [Work with instrument limitations and techniques](#work-with-instrument-limitations-and-techniques)
 7. [Musical ability over technical ability](#musical-ability-over-technical-ability)
 8. [Rhythm over harmony](#rhythm-over-harmony)
 9. [Work around driving elements](#work-around-driving-elements)
