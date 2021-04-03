@@ -18,7 +18,7 @@ Aliasing is a **digital-only** phenomenon that creates reflections in your signa
 
 To explain a bit more, whenever a signal exceeds the nyquist rate, the stuff above that rate will start to alias and reflect down as these tones are not reproducable in an accurate way. Instead, they'll be represented as lower tones/harmonics in your signal and you might hear those artifacts (see the fabfilter video) which are unwanted.
 
-Most modern audio interfaces low pass filter the signal at the default 44.1/2 kHz nyquist rate before storing it digitally so we don't have to worry about aliasing whilst recording. The same rate gets used in a DAW project so we don't really have to worry about aliasing there too as most of our fundamental tones and harmonic content will fall between 0-20k Hz anyway so the stuff that falls beyond 20k Hz (i.e. beyond the nyquist rate) will be so little usually and the mix will also usually be quite busy (or busy enough) that you don't hear it. It's only if you're working with (very) high tones in a sparse mix that you might hear aliasing being produced. For that case it's nice to at least recognize how aliasing sounds like.
+Most modern audio interfaces low pass filter the signal at the default 44.1/2 kHz nyquist rate before storing it digitally so we don't have to worry about aliasing whilst recording. Digitally created sounds can technically fall beyond the default nyquist rate but that will be so little as it's so high up that it is hard to hear in a busy (or even sparse) mix so (usually) not a problem there either.
 
 ## Introduction
 Aliasing is an effect in which certain frequencies aren't represented as they really are, i.e. they have an alias so to speak.
