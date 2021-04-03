@@ -17,7 +17,7 @@ Quick reference for common clichés in music. Whether that is composition or sou
     - Examples needed!
 - Bendy (vibrato) lead
     - Examples needed! (see ak+q breakdown video)
-- The "opening filter up" pluck. Often macro to make it more or less sustain
+- The "opening filter up" pluck. Often macro where the cut off parameter opens up making it more sustain.
     - https://www.youtube.com/watch?v=fO_JkNN7gh4
 
 ### Instrumentation
