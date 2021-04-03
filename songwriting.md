@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Songwriting
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
@@ -15,8 +17,33 @@
 11. [Syncopation and swing](#syncopation-and-swing)
 12. [Keep it simple](#keep-it-simple)
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
+14. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
 ## Contrast is key
+Contrast is also tension and release
+the longer the tension the sweeter the release which is why for example u don't want to give people
+the chorus too fast again, you want to keep the tension of the verse and sometimes even extend it a little
+bit past the point where people expect it for even extra tension and thus sweeter release.
+
+It's all about contrast. Using contrast and repetition is what makes a song interesting.
+
+One can use contrast in many ways:
+https://www.izotope.com/en/learn/songwriting-tips-12-ways-to-create-contrast.html
+https://www.izotope.com/en/learn/music-production-tips-to-create-contrast-between-verse-and-chorus.html
+https://blog.sonicbids.com/songwriting-101-how-to-use-melodic-contrast-to-make-your-songs-way-more-memorable
+https://www.youtube.com/watch?v=iWO1vf8J72I
+
+I would add to that too, making stuff not too much stereo or not too stereo cuz it's the contrast that (see the house of "kush" video on youtube 6 oct 2020 around that time i think) that makes stuff wide. If everything is wide nothing is.
+
+Or going from a real dry chorus with thight drums + bass to like a very airy reverby pre-chorus and hen back into the dry chorus is also really cool.
+
+Other things too like consonance and dissonance, like make a whole section kinda unsettling will make consonance even more consonance. Instead of staying consonant all the way boooooring...you want to make the listener long for the consonance and then when it happens make them feel as they deserved/earned it.
+
+loud to quiet is also another contrast
+
+So rythm is extremely important in a melody or a song as a whole because you can have nice chord tones and all those nice chord progressions, if you don't have an interesting
+melody that really drives these notes home, it doesn't matter. Incidentally, there have been melody and solo created with very very little note variation yet they sound extremely interesting to us because of the fact that they have a really cool and nice rythm that really fits the song. Everytime you analyze a song, just look at what rhythm does to the song. Of course sometimes you have runs and solos and by anallyzing songs you'll kind of start to see when and where you have less rhytjm (like which genres, which sections, etc.) and how rhythm can thus make your track. Like stuff like syncopation and swing + jazzy tone is what makes jazz really, of course, having some nice subs in there and nice notes helps, but the feel of jazz is all about in the tone and in the rhythm. Also this guy:
+https://www.youtube.com/watch?v=kpv1Rc_gNqM
 
 ## Energy distribution is key
 A song is all about energy and depending on the song you'll want to distribute that energy a certain way. The only problem is that having the same energy whether that is happy or sad, is boring so you kind of want to have breaks from that. If your song is going four on the floor the whole time, there is probably the same amounts of energy going on for too long and your song will sound boring. Therefore, it's very effective to sometimes do a drum (and bass) fill and going back into rhtyhm to just briefly interrupt the monotone. Same with briefly dropping out the low-end bass and or drums (mainly the kick/snare) to kind of drop energy before going back into it. There are other types of fills too of course (like in jazz or orchestra making stuff real loud, loads of energy/energy overload briefly to go into section).
@@ -133,7 +160,7 @@ It's probably needless to say but for the harmony and melodie cases, while it's 
 
 Lastly, the harmony can have a certain impact on a groove, like sometimes your bass might just play long notes but if your stuff on top (and your drums) are still grooving in a certain way, there will still be some groove so it's not always a hard and fast rule. Again analyze to see again where this rule gets broken and/or bend. 
 
-### Arrange around driving elements
+## Arrange around driving elements
 In a song there will always be elements that are driving the track and others that are supporting the track. That is, if everything in a song is super busy and densely composed then everything is fighting for attention. Instead you should just have one or a few main elements that are driving the track (or section) and then the other things should be there to reinforce it.
 
 For example, if you have a very funky bass line that's going up the scale and octaves, then you'll probably want all the other stuff around to make room for it by making those elements simpler and a bit quieter, maybe a bit stereo and all that stuff. Same with if it's a percussion-heavy track, you'll want the bass to stay simple, the chords, the lead so it doesn't grab attention from the percussion we want people to focus on. Or with a melody, again, in your chords you might have some rhythmic stabs and stuff and a sustain in tbe background or some layers but they are there to support that driving element, you don't make these things too busy or too loud or else they'd be grabbing attention from the others.
@@ -142,7 +169,7 @@ Now, of course this rule is again not a law but more like a guideline. Often a b
 
 can play more if not playing like what the bass often does or after a melody phrase.
 
-### Limitations are your style
+### Limitations aren't bad, they are your style
 Everyone will develop a certain production and song writing techniques that they gravitate towards because it's what they know. And then, when you're like listening a lot of different producers you might think "Oh shit there are so many techniques these dudes use it's crazy", but actually if you listen closely. Most producers do have some kind of reoccurence of how they make songs, the structure, the instruments, the presets, the fx, mixing and mastering, the progressions etc. So just one producer has a certain kind of toolbox they gravitated towards and what might sound mind-blowing to you is for them probably more cookie-cutter.
 
 And so, you might think that you always choosing a IV-based progression for a bridge is boring, people that don't do that or use that won't think it is and they won't notice you using but for you it's an effective and learned tool for a bridge. Of course that doesn't mean you shouldn't expand your knowledge. You sure have to do and expand it with things you like but also remember that the things you always go for and might sound cookie cutter to you are what others will recognize as your style. That said, of course you want to strive to have some variance in your song, switch up structure, instrumentation, whatever (doesn't even have to be full song can be certain section) because too much similarity and you'll bore your audience.
@@ -150,8 +177,7 @@ And so, you might think that you always choosing a IV-based progression for a br
 Another great example is of the 8-bit theory guy where he analized sonic and said the composer gravitated towards either a IV ascending to I or a I ascending to IV as a bridge. Again, to him that is probably cookie-cutter but since I am not so familiar or used to it, to me it just sounds good and sounds like his style.
 
 ## Syncopation and swing
-
-like analyze bowser theme and see how melody emphasize the tritone even tone its approach tone and after makes it kinda jazzy cuz after is kinda stabe and consanoant
+Like analyze bowser theme and see how melody emphasize the tritone even tone its approach tone and after makes it kinda jazzy cuz after is kinda stabe and consanoant
 but againfirst impression to set a mood is importand (t as well as last notes of a phrase or bar, not so much middle, jus tlike anything). Also the interval of a semitone like that is very evil too and at the same time very jazzy. 
 
 what is it tho
@@ -160,7 +186,7 @@ Techniques to make stuff interesting
 at 9:00 where to put this also, maybe in a music theory thing
 https://www.youtube.com/watch?v=-x1kn0-HIO8&t=295s
 
-## Keep it simple but clever
+## Keep it simple
 https://www.youtube.com/watch?v=1yXWAKG1Pec
 
 Don't try to invent stuff and keep it simple. Don't try to overcomplicate rhythms and or harmonies, just go with known stuff from your style or genre. Don't try too overcomplex, especially if nothing is coming up in your creative brain. Or like wierd crazy sections, people like predictability to a certain extend more anyway.
@@ -169,17 +195,16 @@ Like, just ask yourself whether something adds value to a song. Or, if you're tr
 
 Like watch the video. Like sure, throwing in an odd note ina fully consonant piece can like literally totally throw around a mood which is what you might want or need but again use sparingly and in a clever way. Same with using 7th chords, like especiall if it's with a major third it has this really dominant sound but if the V chord is'nt meant to be dominant a simple triad or an add9 without the 7th might sound better so yeah you don't always need chord extensions. It's good to have in back pocket but realize when needed.
 
+## Songs don't always need a chorus
+AABA structure (where you have verses and a bridge or other structures) are common. Songs definitely don't need a chorus, or a big distinct chorus. Analyze some songs and genres you want to sound like and see how big their choruses are, whether they have choruses at all and how distinct they are. For example on one end of the spectrum you have the EDM banger with the very distinct chorus (good for clubs) and on the whole other side of the spectrum you might have the song where you have sections with different instruments improving with a little repeating motive in between to connect the sections (See some jazz songs or Warak - Nobody Loves me). So yeah it depends on the song, on the genre and on the artist.
 
-## Drops can be huge, big, small
+## Drops and choruses and transitions can be huge or small
 Like some drops sound reall huge and overpowering others sound like they just transition to next section others even sound less huge than build up (and/or verse, see steven fox his like that song) so yeah again a drop doesn't need to be huge or even sound very big in comparision to build up. Depends what you want, also so put less like stress on yourself when it doesn't sound huge enough. Try to see if u can make it sound huge or take away in build up or be ok with it etc.
 
-## Transitions in songs between sections can be big or small or non-existent
-### How to transitions
 - Common EDM transitions: [How To Transition In Your Music Without FX] (https://www.youtube.com/watch?v=lbs8_8ZJJOM)
 
 Notice the high pass, this can also be a bandpass, having transitional cue (can be a lot of things) with slight reverse cymbal/white noise.
 
-### Other
 (Look up how to write better EDM transitions)
 
 You have three main types of transition, the loud one, the silence one and the (almost non-existent one) depending on the genre, the part the song is in, etc. one of these will be used.
@@ -189,33 +214,3 @@ Silence is effective since it makes everything quiet and then you can simply sta
 Loud transitions, just like silent transition might have white noise rise in them but unlike the silent one's they'll keep going until the very end, until the next section begins. Not only is this in EDM but usually you'll have arps that come in, strings that get louder/faster, bell arps, etc. in traditional music (notice transitions La La Land intro song with the cars or City Of Stars). Again, I don't know about the dynamic range but at least  (should put it in DAW the La La La song and check dynamics of transitions) the RMS gets louder and busier and all-round it's rather climactic (you can make it as climactic as you want depending on how much it needs to be).It's also a really good way to transition since it kind of indicates the section is ending, the section ends in a bit of a blur and then we have some downlifters or end of aprs some bleeding in there to go in the next section. Thanks to the blur of the white noise, business, loudness whatever, the transition can be smooth too since the next section doesn't strictly follow on the previous, it kinda starts from the blur which can thus basically be whatever (figure of speech of course). Also, this loudness can be long, build up (usually in EDM) or more sudden for a single bar or beat (like in La La Land). It both works effective. So yeah analyze songs you like and see when where the loudness transition gets used. Also, loudness transition can be great to either lead into a chorus (the chorus sound doesn't even need to be as loud and busy as the transition, just needs to have energy, maybe first hit ice impact) or to lead into silence, reverb, or a solo piano (like from climax to total opposite). Again analyze and see what the pros use, how they do it etc. and in which genre.
 
 Then you have the almost non-existent transitions which basically all they might have his a reverse cymbal or some minor indiccations. Usually here they rely more on the composition to transition rather than loudness business, silence which can be harder to pull off since you need to actually make your composition more solid to glue the sections together. So yeah you have to analyze some nice songs with little transitions (like some Wii songs or nintendo songs) and see how they make it sound smooth. Often it's a mix of nice turn-around composition, melody clearly ending, clearly need for a bridge. Going to a common next section (like in C major going to an F lydian section) helps the listener ears too a they are used to it. Not being too abrupt in rhythm changes, keeping elements of the previous sections (same chord progressions and/or same instruments, same melody rhythm, etc.) can all help. However, don't sweat it too much as in like nintendo music you'll never be like "Hmm these sections don't fit." but that's because we're used to the song. So yeah, they do use some techniques to make it fit together but it's also because we're used to the song that makes it fit even better together. Anyway, from a composition stand point this one is probably the harder one to pull off. However, it's an effective transition since sometimes you don't need or want (or already have done enough silent transitions and don't want to break the flow of the song yet again) a lour or silent transition.
-
-## Songs don't always need a chorus
-AABA structure (where you have verses and a bridge or other structures) are common. Songs definitely don't need a chorus, or a big distinct chorus. Analyze some songs and genres you want to sound like and see how big their choruses are, whether they have choruses at all and how distinct they are. For example on one end of the spectrum you have the EDM banger with the very distinct chorus (good for clubs) and on the whole other side of the spectrum you might have the song where you have sections with different instruments improving with a little repeating motive in between to connect the sections (See some jazz songs or Warak - Nobody Loves me). So yeah it depends on the song, on the genre and on the artist.
-
-## Use contrast to make effective sections, transitions, etc.
-
-Contrast is also tension and release
-the longer the tension the sweeter the release which is why for example u don't want to give people
-the chorus too fast again, you want to keep the tension of the verse and sometimes even extend it a little
-bit past the point where people expect it for even extra tension and thus sweeter release.
-
-It's all about contrast. Using contrast and repetition is what makes a song interesting.
-
-One can use contrast in many ways:
-https://www.izotope.com/en/learn/songwriting-tips-12-ways-to-create-contrast.html
-https://www.izotope.com/en/learn/music-production-tips-to-create-contrast-between-verse-and-chorus.html
-https://blog.sonicbids.com/songwriting-101-how-to-use-melodic-contrast-to-make-your-songs-way-more-memorable
-https://www.youtube.com/watch?v=iWO1vf8J72I
-
-I would add to that too, making stuff not too much stereo or not too stereo cuz it's the contrast that (see the house of "kush" video on youtube 6 oct 2020 around that time i think) that makes stuff wide. If everything is wide nothing is.
-
-Or going from a real dry chorus with thight drums + bass to like a very airy reverby pre-chorus and hen back into the dry chorus is also really cool.
-
-Other things too like consonance and dissonance, like make a whole section kinda unsettling will make consonance even more consonance. Instead of staying consonant all the way boooooring...you want to make the listener long for the consonance and then when it happens make them feel as they deserved/earned it.
-
-loud to quiet is also another contrast
-
-So rythm is extremely important in a melody or a song as a whole because you can have nice chord tones and all those nice chord progressions, if you don't have an interesting
-melody that really drives these notes home, it doesn't matter. Incidentally, there have been melody and solo created with very very little note variation yet they sound extremely interesting to us because of the fact that they have a really cool and nice rythm that really fits the song. Everytime you analyze a song, just look at what rhythm does to the song. Of course sometimes you have runs and solos and by anallyzing songs you'll kind of start to see when and where you have less rhytjm (like which genres, which sections, etc.) and how rhythm can thus make your track. Like stuff like syncopation and swing + jazzy tone is what makes jazz really, of course, having some nice subs in there and nice notes helps, but the feel of jazz is all about in the tone and in the rhythm. Also this guy:
-https://www.youtube.com/watch?v=kpv1Rc_gNqM
