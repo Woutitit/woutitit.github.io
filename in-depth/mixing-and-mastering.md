@@ -18,6 +18,14 @@ The thing is, this warmth is important to a track so you really do want a substa
 
 The point is, don't be afraid to high pass as low as 50Hz even and don't be afraid to put and even layer stuff in the low-mids/mid-mids. It's your job as a producer to know how to offset that with high-end sounds and layers and how to balance it and mix it together and stuff. Also, some genres and mixes are warmer and some mixers are brighter. This is again why it's important to have a reference track and checkout in SPAN or tonal balance control 2 whether the low-end/mids are pronounced and/or whether it's mainly the high-end so you know which route to go. Again, band analyzing also helps with that to figure out what instruments (and how much) contribute to the low or high end. This can be done in tonal balance control or band soloing can sometimes be setup in a plugin https://www.youtube.com/watch?v=QQU2RDzoFQA.
 
+## Decide whether kick or bass is more important
+In virtually every track, in the sub/low-end you'll have to decide whether the kick is the main thing or whether the bass is the main thing. It really depends on the genre and refence track you're using to decide that. And based on that you'll want to set your volume levels accordingly and either slightly EQ your kick around your bass or EQ your bass around your kick if the kick is the main thing. In modern EDM genres, it's usually the kick but in more, less mainstream genres, it can be bass.
+
+## Don't obsess over LUFS
+https://www.youtube.com/watch?v=QQU2RDzoFQA
+
+Make a track sound good. If your track needs compression to be in your face sounding, do it. If it needs less compression, then do that. Sure, LUFS matching is good for referencing but for the end result it doesn't matter that much at all.
+
 ## Introduction
 Before we begin the article I'd like to say that song creation starts 100% with sound selection/design, composition and arrangement. You (usually) can have a COMPLETELY unmixed and unmastered song sounding well if the sound is high quality, the composition is high quality and the arrangement (or orchestration) is high quality. This is incredibly important because often new producers get bogged down into "but it doesn't sound loud and in your face" or "it doesn't sound perfectly mixed" and all these things which is distracting from song creation. 
 
