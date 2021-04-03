@@ -62,6 +62,6 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 ## Analysis
 Analysis articles are handy together with the commonities article and the reference tracks if you're making a song in a similar style in one of these docs.
 
-- [Analysis ideas and how to](/analysis/analysis-ideas.md)
-- [Analysis docs](/analysis/index.md)
-- [Analysis checklist](analysis-checklist.md)
+- [Checklist](analysis-checklist.md)
+- [Documents](/analysis/index.md)
+- [Ideas](/analysis/analysis-ideas.md)
