@@ -64,4 +64,4 @@ Analysis articles are handy together with the commonities article and the refere
 
 - [Checklist](analysis-checklist.md)
 - [Documents](/analysis/index.md)
-- [Ideas](/analysis/analysis-ideas.md)
+- [Tracks](/analysis/analysis-ideas.md)
