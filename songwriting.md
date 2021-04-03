@@ -1,5 +1,5 @@
 # Songwriting
-TODO: Sort this article out and reduce tips like merging stuff that is the same or similar.
+> These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
 1. [Contrast is key](#contrast-is-key)
@@ -17,6 +17,14 @@ TODO: Sort this article out and reduce tips like merging stuff that is the same 
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 
 ## Contrast is key
+## Call and response
+// Todo add more examples here
+suoer important link some examples not only melody but sections etc. like its so effective like sometimes not really call and response but even then its always home > journey > home, but ofc can be broken and sometimes just alll tension tension tension and then home
+Whether it's your sectons, your whole song or a melody or something else. There is a lot of call and response in songs. Especially getting out of 4-bar loops (not 8 bars), you can make the first four bars a call and then the next four bars a response, or first two bars and then two bars after that as a response.
+https://www.youtube.com/watch?v=-x1kn0-HIO8&t=295s
+
+...or question and answer. Silences leave space, epsecially melodies, like put this in clean mix
+
 ## Be cohesive on a micro and macro scale
 It's important for a song to sound cohesive as it helps the listener to vibe to your song. It's finding that balance between not abruptly killing the vibe (and going where the listener expects you to go) and somehow still suprising and interesting the listener. Now, a lot of producers struggle with this so here is some advice. 
 
@@ -95,13 +103,6 @@ Don't try to invent stuff and keep it simple. Don't try to overcomplicate rhythm
 Like, just ask yourself whether something adds value to a song. Or, if you're trying to get in a complex part but it's not working out just scratch it. Also, often you see in remixes that they will change the melody that suddenly it adds these weird syncopations just because it needs to be a remix while now it sounds kind of weird and more for the sake of being able to call it a remix rather than for the sake of the song or to adjust to the new style. Like with rhythms and melodies too sometimes you try so hard to add some kind of complex rhythms and fast arpeggiated melodies or whatever but again, does it really work? Is it approppriate for the music? Again of course, add some clever things in there but try to stick to clever and tried or true things or clever things but in moderation. 
 
 Like watch the video. Like sure, throwing in an odd note ina fully consonant piece can like literally totally throw around a mood which is what you might want or need but again use sparingly and in a clever way. Same with using 7th chords, like especiall if it's with a major third it has this really dominant sound but if the V chord is'nt meant to be dominant a simple triad or an add9 without the 7th might sound better so yeah you don't always need chord extensions. It's good to have in back pocket but realize when needed.
-
-## Call and response
-suoer important link some examples not only melody but sections etc. like its so effective like sometimes not really call and response but even then its always home > journey > home, but ofc can be broken and sometimes just alll tension tension tension and then home
-Whether it's your sectons, your whole song or a melody or something else. There is a lot of call and response in songs. Especially getting out of 4-bar loops (not 8 bars), you can make the first four bars a call and then the next four bars a response, or first two bars and then two bars after that as a response.
-https://www.youtube.com/watch?v=-x1kn0-HIO8&t=295s
-
-...or question and answer. Silences leave space, epsecially melodies, like put this in clean mix
 
 ## Rhythm is more important than harmony
 https://www.youtube.com/watch?v=Vjj0aA933_s beginning
