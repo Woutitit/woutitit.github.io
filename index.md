@@ -58,6 +58,7 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Sample quality in a digital world](/in-depth/sample-quality-in-a-digital-world.md)
 - [Sidechaining](/in-depth/sidechaining.md)
 - [Synthesis](/in-depth/synthesis.md)
+- [Timbre and layering](/in-depth/timbre-and-layering.md)
 - [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
 
 ## Analysis
