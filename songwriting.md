@@ -16,8 +16,18 @@ TODO: Sort this article out and reduce tips like merging stuff that is the same 
 12. [Keep it simple](#keep-it-simple)
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 
-## Make song sections sound more coherent
-So this is just general advice at all but if you struggle with coming up with a next part of your song or if certain parts of your song are incoherent even though they should be subsequent, this tip can help. Basically, you'll hear that a lot of songs going in the next part keep the same rhythm and same chord progressions however, maybe they change up a bit the rhythm of the chords whilst maintaining the beat or they make the beat a bit quieter in addition. Or, they might change up the beat but keep chords the same or change both up but keep the progression of the previous section or maybe totally switch melody but keep the rest the same. Or they might change a bit of the sound design, making it go rhytmically or openend up more or make different sounds play the same melody and harmony. Like, the point is, the way to keep stuff coherent and transition well is not have the sections not be different and often that means that if u make one thing different (like the harmony), you might wanna leave other stuff the same (like the beat but maybe quieter or whatever or more hats for interest). Again, this is not a hard and fast rule but if you struggle with jelling sections, keep it in mind that really you don't need a lot of change to add extra interest.
+## Contrast is key
+## Be cohesive on a micro and macro scale
+It's important for a song to sound cohesive as it helps the listener to vibe to your song. It's finding that balance between not abruptly killing the vibe (and going where the listener expects you to go) and somehow still suprising and interesting the listener. Now, a lot of producers struggle with this so here is some advice. 
+
+In fact, it's very simple. If you analyze a lot of productions, you'll hear that one section usually carries over into the next section. A few examples:
+- Keep the same rhythm and same chord progression in the next section
+- Keep the progression but change the rhythm/beat of/under the song/progression.
+- Switch the melody but keep the rest the same.
+- Switch the sound design, making it go rhytmically or openend up more or make different sounds play the same melody and harmony.
+
+The point is, whilst your first intuition might be to fully change up the next section, often that leads to an incoherent transition and/or song (sure, such suprising transitions also exist so analyze those why they still work). Often you can make a section sound or perceived "totally" different just by changing a few things. And that's the balance you'll want to try and strike. Changing it up too little might bore your listener but changing too much startle your listeners and kill the vibe.
+
 
 ### Tame energy levels and boringness by (briefly) dropping rhythm and or low-end
 A song is all about energy and depending on the song you'll want to distribute that energy a certain way. The only problem is that having the same energy whether that is happy or sad, is boring so you kind of want to have breaks from that. If your song is going four on the floor the whole time, there is probably the same amounts of energy going on for too long and your song will sound boring. Therefore, it's very effective to sometimes do a drum (and bass) fill and going back into rhtyhm to just briefly interrupt the monotone. Same with briefly dropping out the low-end bass and or drums (mainly the kick/snare) to kind of drop energy before going back into it. There are other types of fills too of course (like in jazz or orchestra making stuff real loud, loads of energy/energy overload briefly to go into section).
