@@ -1,6 +1,6 @@
 [Home](../index.md)
 
-# Analysis ideas and how to
+# Analysis tracks
 > Consult the external learning resources article if you're looking for more resources of artists (like livestreams or insightful comments and stuff or even FLPs and where to find/buy them).
 
 ## Table of contents
