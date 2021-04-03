@@ -8,6 +8,9 @@
 5. Mix and mastering checklist
 6. Notes
 
+## Don't mix for too long
+Composing and arranging you can usually do for quite long but mixing you really can't. So many times have I caught myself mixing for hours and ending with nothing or a worse mix than before. This is because you turn up and/or down your mix, your ears get used to certain sounds, etc. A reference track helps with that but even with that your ears will start to hear weird stuff. So seriously, you'll want to not mix for longer than 30-45min and take a break. If you want continue with composition or whatever but actual mixing and making a lot of mixing decisions you better not do anymore. Just leave it and then when you come back, then mix again as you ears will be fresh and stuff. Perhaps after having listened to a few reference tracks to have your ears prepared.
+
 ## Have a reference track
 You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
