@@ -58,7 +58,6 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Sidechaining](/in-depth/sidechaining.md)
 - [Synthesis](/in-depth/synthesis.md)
 - [Timbre and layering](/in-depth/timbre-and-layering.md)
-- [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
 
 ## Analysis
 Analysis articles are handy together with the commonities article and the reference tracks if you're making a song in a similar style in one of these docs.
@@ -73,3 +72,4 @@ More specific articles that are either too big, too specific or too hard to real
 - [How to mix kick, snare and bass](#hi)
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
 - [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
+- [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
