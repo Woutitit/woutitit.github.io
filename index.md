@@ -4,15 +4,14 @@
 ## Overview
 1. [How to use this site](#how-to-use-this-site)
 2. [Planning](#planning)
-3. [General](#general)
-4. [Tips](#tips)
-5. [Checklists](#checklists)
-6. [In depth](#in-depth)
-7. [Analysis](#analysis)
+3. [Quick reference](#quick-reference)
+4. [General](#general)
+5. [In depth](#in-depth)
+8. [Analysis](#analysis)
+9. [Articles](#articles)
 
 ## How to use this site
 During song making, the most useful articles are under the **"Quick reference"** header. For song analysis or more specific examples, all the resources are under **"Analysis"**. The other articles are more in depth explanations usually so they are more for learning purposes.
-
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
