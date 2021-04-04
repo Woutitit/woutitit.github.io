@@ -21,6 +21,7 @@
 15. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
 16. [Mixing for loudness](#mixing-for-loudness)
 17. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+18. [Mind the order of your FX](#mind-the-order-of-your-FX)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
