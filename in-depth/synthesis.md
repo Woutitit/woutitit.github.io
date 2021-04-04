@@ -1,4 +1,20 @@
 # Synthesis
+## Settings
+### Unison and detune
+> See more in stereo imaging article.
+
+The unison knob is an important but overused one. What it does is basically make a sound wider. What it does **not** do, unlike popular belief, is make the sound denser as making stuff wide does not magically add harmonic content. A sound with unison sounds fat because it has added voices all spread accross the stereo field making for a "big" sound. If these voices weren't spread (and/or the same pitch), the sound would just increase in volume.
+
+That said, heavy detune, i.e. unison where the added voices are "heavily" different in pitch, there will be noticeable harmonic content added since the pitches are so different from the original pitch. This is indeed used to add thicknes but usually this one is mixed in with a less detuned oscillator to make the awful sound of that heavy detuned (but thick) oscillator be noticed less.
+
+Either way, this fx is overused or too much unison is added to a sound, especially by beginners. Since unison makes stuff wide it adheres to the same drawbacks as other stereo imaging techniques and practices. For example, for a pad, a (dense) chord stack on a synth patch with a lot of unison and/or detune is usually okay (and perhaps what you want) as the pad atmosphere nicely spans the stereo field due to the patch and due to the chord stack it also nicely spans the frequency spectrum. And since a pad is usually not a main element, there doesn't need to be focus on it and also it's further back in the mix so the density doesn't overpower the track.
+
+And that's the main drawback: lack of direction and focus. For example, a supersaw chord stack in future bass often also has a lot of unison and is pretty wide. Again, this is okay because it fill up the stereo and frequency field making a wall of sound. But on top of that and below that you'll usually find that the bass and/or leads are less wide and more focused. So the listener has some elements to focus on whilst the supersaws fill up the mix. Also the chord stack doesn't always have to be super wide and/or stereo either. If in your mix the chord stack's purpose is to be more focused and less wide (and more intimate), then reduce the unison by all means.
+
+So with unison you want to think what the purpose and function of a sound is. Often a lead you'll want to be more focused and sometimes even mono. That doesn't mean it can't have unison, in fact, often times a (very) width lead layer gets layered under the focused (more) mono layer for extra fatness. Same with bass, you'll want that more focused usually so (almost) mono but that doesn't mean you can't layer a wide bass with/under it. Or, you can straight up make your patches some kind of wide but usually your focused patches you'll want less voices and less detune in case you add a bit of width just to keep them more focused.
+
+In short, you can use unison on a lot of patches but think about the purpose. A pad usually benefits from this, a chord stack that is meant to be filling usually too, leads, bass and other elements you want to be careful width. Either way, look at some (e.g. Serum) presets and look at their unison settings (for leads and basses). Do keep in mind they may be exagarated as lots of those are designed to sound good and huge on their own.
+
 ## Waveforms
 What's their usage etc. their overthones
 
