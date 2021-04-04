@@ -30,6 +30,8 @@ This handy list is meant as a reference for when you don't get your mix right or
 - LUFS match (a) similar reference track(s) and mix to that
 - For compression, start with a 4:1 ratio -6db gain reduction. Tweak from there.
 - If sub bass too high or too inaudible on some notes, switch key.
+- Put the 20-20k Hz EQ preset on the master. Inaudible frequencies but eat up headroom.
+
 ## Production
 - Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
 - Tapestop automation on end phrases on lead/chords
