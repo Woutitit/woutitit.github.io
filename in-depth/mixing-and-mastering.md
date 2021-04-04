@@ -14,8 +14,10 @@
 11. [Sound selection vs. processing](#sound-selection-vs-processing)
 12. [Don't use presets as-is](#dont-use-presets-as-is)
 12. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-13. 12. 8. 5. Don't use presets as-is](#mix-and-master-in-three-stages)
-14. 12. 8. 5. Don't use presets as-is](#mix-and-master-in-three-stages)
+13. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+14. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+15. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
