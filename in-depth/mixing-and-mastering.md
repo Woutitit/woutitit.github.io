@@ -19,6 +19,7 @@
 13. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
 14. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
 15. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+16. [Mixing for loudness](#mixing-for-loudness)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
@@ -126,4 +127,4 @@ Audition all your sounds in context of the (full) mix. Really, often your sound 
 Same goes for layering, audition everything together as some layers may be thin but added to the main layer it will give it a great timbre.
 
 ## Mixing for loudness
-Mixing and mastering for loudness is an important topic. Checkout *Loudness wars and why it matters* article for why it matters and how to apply it to your own mix.
+There is mixing and there is mixing (and mastering) for loudness. Checkout *Loudness wars and why it matters* article for why it matters and how to apply it to your own mix.
