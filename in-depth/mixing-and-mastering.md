@@ -26,7 +26,7 @@ This als goes for highpassing. Don't be afraid to high pass as low as 50-60Hz ev
 ## Don't be afraid to tame high-end
 Similarly, don't be afraid to tame the high-end. For example, a saw is very bright and often there is no need for all upper-highs brightness in the patch. Of course, coming from all that brightness any filter may make it sound dull but again, if you'd come back with fresh ears you'd agree that after putting on that filter you'd have a patch that sounds less ear piercing. Same goes for other synth patches, don't be afraid to roll or shelf off some of those highs as they might sometimes can get out of control. Again, use a reference track and band reference to get a grasp of how bright your mix should sound.
 
-## Mix and master in three stages
+## 3-stage mixing and mastering
 ### Stage 1: Mixing on the go
 So I know I just said that a mix with high quality everything will sound good even completely unmixed. That is not entirely true, especially for more electronic genres. The thing is that during song creation you'll (have to) make a few mixing moves to make stuff sit well or sound better (which arguably is sound design). For example, you'll make some rough high pass EQ moves to remove low-end rumble because it interferes with bass, you'll sidechain because the sub region is audibly bad and boomy, you'll compress because you think the piano has too little sustain, you'll add stereo width and/or panning to make instruments sit better next or around eachother, etc.
 
