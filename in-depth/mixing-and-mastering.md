@@ -5,8 +5,17 @@
 2. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
 3. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
 4. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-5. [Mix and master in three stages](#mix-and-master-in-three-stages)
-
+5. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+6. [Have a reference track](#have-a-reference-track)
+7. [Mixing is about prioritization](#mixing-is-about-prioritization)
+8. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-FX)
+9. [Increase and work transients](#increase-and-work-transients)
+10. [Mastering 101](#mastering-101)
+11. [Sound selection vs. processing](#sound-selection-vs-processing)
+12. [Don't use presets as-is](#dont-use-presets-as-is)
+12. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+13. 12. 8. 5. Don't use presets as-is](#mix-and-master-in-three-stages)
+14. 12. 8. 5. Don't use presets as-is](#mix-and-master-in-three-stages)
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
@@ -65,8 +74,7 @@ You give sounds transients to be audible and pack a lot of energy in a short sou
 
 Overdo transients slightly, make them a bit bigger and distorted and stuff just so u get the punch certainly when squashing. Also it's common to put on shit that needs to be bright and or heard to kind of add a 1-6DB boost in the 2-4k Hz range (and sometimes for instruments that need body a boost in the 200-500Hz range too). Like a snare, again, since it will lose some transients, make it at least more audible by boosting a bit of the high-end so even when it's squashed it's still audible.
 
-## Replace (a part of) transients with saturation
-Transient heavy sounds have a huge dynamic range and quite some highs in that transient range. Very often what producers do is that if their transients get squashed too much and are lost too much, they use a saturator on them. See, a saturator will reduce the peaks and kind of "replace" them with distortion. This is a very neat trick since on short sounds distortion doesn't sound like distortion, it sounds like more transients since the sounds is too short to hear the distortion but due to those added harmonics it seems to hear as more/replaced transients whilst having a reduced peak. This is handy as this means the stuff will punch through more. Note do that you first will want to check your volume balance and/or sample as maybe there is the issue. Like, sometimes your master will clip due to your kick just being too loud (and thus the transients being loud too) not because your transient is too loud (on a correct balance level).
+Additionally, transient heavy sounds have a huge dynamic range and quite some highs in that transient range. Very often what producers do is that if their transients get squashed too much and are lost too much, they use a saturator on them. See, a saturator will reduce the peaks and kind of "replace" them with distortion. This is a very neat trick since on short sounds distortion doesn't sound like distortion, it sounds like more transients since the sounds is too short to hear the distortion but due to those added harmonics it seems to hear as more/replaced transients whilst having a reduced peak. This is handy as this means the stuff will punch through more. Note do that you first will want to check your volume balance and/or sample as maybe there is the issue. Like, sometimes your master will clip due to your kick just being too loud (and thus the transients being loud too) not because your transient is too loud (on a correct balance level).
 
 This works for kicks, snares, percussion, drum busses, plucks and basically anything where you want the transients to be accentuated. Do note that the longer your sound the less you can use as it's still a saturator and thus too much saturation on long sounds will sound bad (but usually on those sounds you don't care too much about the transients anyway and could use perhaps a transient processor or a more plucky layer).
 
