@@ -138,3 +138,8 @@ Don't obsess over hitting a certain LUFS. Again, it's just normalization and whe
 Regardless, LUFS and RMS are definitely a great way to reference tracks as it's more accurate and easier to match your loudness with your reference's tracks loudness. ANd from there you can make decisions like "I need to turn up my track way more to match the LUFS of this track, so not busy enough? Not enough elements? Not enough layers?". Or, "I don't need to turn up my track at all? Perhaps over compressed?". Also good that at the end of your track making to just have a listen to how your track sounds normalized vs. other (similar) tracks on the same platform.
 
 It's also good to have LUFS-matched reference tracks for mixing and composing purposes as we've already discussed.
+
+## Mind the order of your FX
+> See article "Why order of FX chain matters"
+
+If your chain is all linear FX, sure go ahead and order them how you want. However, if there are non-linear processes such as distortion and compression in there (and EQ?) you'll want to make sure to order them accordingly as often it does matter whether the EQ goes first or the compressor (as both COULD be right but it depends what you want or need).
