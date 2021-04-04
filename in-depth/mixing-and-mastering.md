@@ -8,7 +8,7 @@
 5. Mix and mastering checklist
 6. Notes
 
-## Limit the duration of mixing sessions
+## Limit the duration of a mixing session
 As a beginner, you might need to find this out for yourself first but a lot of us have spend countless of hours in a single mixing session trying to mix a song only to have it come out worse than it was before the session. For example, you have a mix with a piano and you think it sounds too muddy so you cut a whole chunk of low-end and you think it sounds better. Then when you come back with fresh ears and you listen to it, it sounds super thin because of all that cut low-end on the piano and readding it sounds way better (maybe slightly muddy but way better). Weird!
 
 This is because after x amount of time, your ears kind of get biased or out of tune so you can't really tell anymore whether your mix is good. You might hear that your mix is good or bad but that's not an observation based on reality due to the ear fatigue. And thus, the worst mistake you can make is to make hefty mixing decisions whilst having ear fatigue as often you'll end up over-correcting or you'll end up screwing up stuff that was fine.
