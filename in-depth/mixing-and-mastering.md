@@ -8,6 +8,7 @@
 5. [Mix and master in three stages](#mix-and-master-in-three-stages)
 
 ## Introduction
+This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
 ## Limit the duration of a mixing session
 As a beginner, you might need to find this out for yourself first but a lot of us have spend countless of hours in a single mixing session trying to mix a song only to have it come out worse than it was before the session. For example, you have a mix with a piano and you think it sounds too muddy so you cut a whole chunk of low-end and you think it sounds better. Then when you come back with fresh ears and you listen to it, it sounds super thin because of all that cut low-end on the piano and readding it sounds way better (maybe slightly muddy but way better). Weird!
