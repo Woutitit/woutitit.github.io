@@ -25,17 +25,6 @@ This als goes for highpassing. Don't be afraid to high pass as low as 50-60Hz ev
 ## Don't be afraid to tame high-end
 Similarly, don't be afraid to tame the high-end. For example, a saw is very bright and often there is no need for all upper-highs brightness in the patch. Of course, coming from all that brightness any filter may make it sound dull but again, if you'd come back with fresh ears you'd agree that after putting on that filter you'd have a patch that sounds less ear piercing. Same goes for other synth patches, don't be afraid to roll or shelf off some of those highs as they might sometimes can get out of control. Again, use a reference track and band reference to get a grasp of how bright your mix should sound.
 
-## Have a reference track
-You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
-
-## Decide whether kick or bass is more important
-In virtually every track, in the sub/low-end you'll have to decide whether the kick is the main thing or whether the bass is the main thing. It really depends on the genre and refence track you're using to decide that. And based on that you'll want to set your volume levels accordingly and either slightly EQ your kick around your bass or EQ your bass around your kick if the kick is the main thing. In modern EDM genres, it's usually the kick but in more, less mainstream genres, it can be bass.
-
-## Don't obsess over LUFS
-https://www.youtube.com/watch?v=QQU2RDzoFQA
-
-Make a track sound good. If your track needs compression to be in your face sounding, do it. If it needs less compression, then do that. Sure, LUFS matching is good for referencing but for the end result it doesn't matter that much at all.
-
 ## Mix and master in three stages
 There are three stages of mixing and mastering
 - Mixing on the go
@@ -62,27 +51,37 @@ So for specifically mixing and mastering for loudness (so if it really matters),
 
 The blow mixing and mastering tips will help with that though, as they are targeted for loudness maximization though.
 
-## Guides
-Following guide is very good and made notes with it, see "Analysis > The art of mixing David Gibson"
-- [The art of mixing David Gibson](https://www.youtube.com/watch?v=TEjOdqZFvhY)
+## Have a reference track
+You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
-### Mixing is about choosing main elements and making space
-In every mix there will always be main elements. They won't be the same throughout the whole song but there will always be main elements. As a mixer you need to realize that not everything can be on the foreground. Therefore use balancing to your advantage and decide this way what needs to be on the foreground and what needs to be on the background. Be careful with this though as pushing something too far back or too up front can be quickly done. Same with EQ, you might need to carve out some space from elements that are backing so that the main stuff shines. Same with layers, there is always a main layer and so the other layers you have to cut and accomodate to that layer (such ascutting fudnamental and stuff). Stereo panning is good too etc. Write this more and structure ithis article better.
+## Decide whether kick or bass is more important
+In virtually every track, in the sub/low-end you'll have to decide whether the kick is the main thing or whether the bass is the main thing. It really depends on the genre and refence track you're using to decide that. And based on that you'll want to set your volume levels accordingly and either slightly EQ your kick around your bass or EQ your bass around your kick if the kick is the main thing. In modern EDM genres, it's usually the kick but in more, less mainstream genres, it can be bass.
+
+## Don't obsess over LUFS
+https://www.youtube.com/watch?v=QQU2RDzoFQA
+
+Make a track sound good. If your track needs compression to be in your face sounding, do it. If it needs less compression, then do that. Sure, LUFS matching is good for referencing but for the end result it doesn't matter that much at all.
+
+### Mixing is about prioritization
+Mixing is all about making decisions about what to prioritize and what aids more as a supportive role. Balancing and EQ, panning and stereo imaging are your friend here. You want the lead to be the center of attention? Make it (or the main layer) centered (doesn't have to be fully mono) and have the chords perhaps be more wide "getting out of the way" of the leads (whilst adding to a wide mix). You want to add a timbre to your main centered layer? Well, make it less loud and/or EQ the fundamentals out, octave it up, pan it or widen it and m/sed it or stuff so it doesn't over power the main sound.
+
+Basically, what you want to do is get out of the way of your main elements whilst also trying to squeeze as much sound of the supporting elements too. Stuff like compression can help with that as well to make back elements more steady and noticeable. Either way though, be careful with your decisions. A little mid scoop on kick/snare, a scoop on the chords too and it really adds up to making space in the mids for your leads. Don't be too drastic since little changes add up. Same goes for rebalancing supporting elements. No element needs to be fully turned down, turning down a few elements more gently adds up too.
+
+Lastly, a very common and famous example is the sub and low-end, namely the kick and bass. They cannot co-exist and you have to decide whether the bass is going to be the low-end king or if it's the kick. Again, often it's the kick but this also depends on the genre and your reference track as sometimes the kick really is making room for the whole arrangement to shine (think busy big band mixes). The option is to turn either one heavily down but that's not an option. Rather, utilize sidechaining, EQ and proper volume balancing to get it so sit right (where is my tutorial on this? Or maybe I need to write an own tutorial for this?).
 
 ### Little fattening helps master
 These little compressing things for a bit added sustain or that slight saturator really help beefen up the sound, or that layer you barely hear, (like with layering it's not about vertical loudness it's horizontal thickness really adding fatness and frequency content needed there/wanted) especially when it hits the master and especially on a lot of things (like little things add up to a big thing). Because, a lot of these moves you can't maybe hear that well but since the master reduces dynamics all these little things will go up in volume and if you add some OTT before that, then those will be accented even more. So all these little things and fattening up of certain instruments can really in the end fatten up your master and make it sound bigger and louder.
 
 ### Make transient sounds audible even on laptop speakers
-Again, transients of kicks and stuff are getting squashed so the transients are already a bit less so in laptop speakers sometimes it might be hard to really hear a snare or kick at all. Usually it thus helps to give stuff like this a bit of boosting in the high frequencies to help make them cut through a bit better on low-bass speakers as well. Especially important for kick and snare as these are the main rhythm dictators and song drivers (maybe bass too sometimes).
+You give sounds transients to be audible and pack a lot of energy in a short sound but on a modern mix these transients often get squashed down quite a lot and a lot of that high-end click might be gone making them not super noticeable on laptop speakers and less low-end systems. If that is the case it usually dones't hurt to kind of boost a good range in the highs a bit to give a bit of extra to the transients. It also doesn't hurt to use a kick that is already very rich in the highs so you don't need that much processing. Same goes for other transient sounds, boost a bit of highs (maybe a bit of fundamental) just to have them stick out a bit more even when transients are more squashed. Again, use a reference to compare yours to theirs on a laptop speaker (though take with a grain of salt especially if your kick is different from his but perhaps that is a sign you might need a different kick).
 
-### Use references (but with a grain of salt)
-Reference tracks usually sound louder and bigger and more brighter since they are mastered so keep that in mind. Of course, level match them (easy plugin "Reference" can do that) and you can have a quick master chain and you can then occasionally see whether you're actually far off or not vs. the reference track. But yeah again, use them because regardless of smashing in the mastering, there will always be quieter elements and louder elements. On the louder elements the smashing will most likely happen. Often that's the drums and stuff but sometimes could just be the leads and chords and the drums more in the background. Again, the levels don't matter to make your master loud, you gotta level as to what you want in forefront and what you want in back. Of course, not having too much dynamic range to not have to make the mastering too difficult.
+### Use references
+> See "Reference tracks" article
 
-### Saturation to replace transients (sometimes)
-Transient heavy sounds have a huge dynamic range. Of course you can reduce the peaks a bit with limiting/compressing but then you're losing punch. You could try, as a replacement (or next to it) to add some saturation instead. It will reduce dynamic range by basically replacing some of the transient with distortion. On short plucky elements such as kick, snare, percussion, etc. that distortion really sounds like a transient despite now the peak being chopped off (more) / reduced.
+### Replace transients with saturation (sometimes)
+Transient heavy sounds have a huge dynamic range and quite some highs in that transient range. Very often what producers do is that if their transients get squashed too much and are lost too much, they use a saturator on them. See, a saturator will reduce the peaks and kind of "replace" them with distortion. This is a very neat trick since on short sounds distortion doesn't sound like distortion, it sounds like more transients since the sounds is too short to hear the distortion but due to those added harmonics it seems to hear as more/replaced transients whilst having a reduced peak. This is handy as this means the stuff will punch through more. Note do that you first will want to check your volume balance and/or sample as maybe there is the issue. Like, sometimes your master will clip due to your kick just being too loud (and thus the transients being loud too) not because your transient is too loud (on a correct balance level).
 
-## Mastering tips
-https://splice.com/blog/mastering-101-limiting/#:~:text=The%20more%20gain%20reduction%20you,no%20more%20than%202.5%20dB.
+This works for kicks, snares, percussion, drum busses, plucks and basically anything where you want the transients to be accentuated. Do note that the longer your sound the less you can use as it's still a saturator and thus too much saturation on long sounds will sound bad (but usually on those sounds you don't care too much about the transients anyway and could use perhaps a transient processor or a more plucky layer).
 
 ### Mastering 101
 In essence, modern day mastering boils down to slapping a limiter on the master channel and just limit your stuff until it's basically brickwalled. 
@@ -105,11 +104,17 @@ Overdo transients slightly, make them a bit bigger and distorted and stuff just 
 ### Cut ANY unnecessary low/sub frequencies
 There are so many elements in a mix that have low-end rumble but don't need it AT ALL, cut all those out. Usually a high pass of at least 100Hz is same on every instrument that isn't bass or kick or snare but you'll usually want to go 200-500Hz depending on where it lives and how important the information is. Again, you really want to cut to not have stacking frequencies (so extra amplitudes) and thus less headroom when limiting. Also, it just sounds bad together then probably.
 
-### EQ preset cut 20-20k Hz
-it's very common to do a 20 (or even 30/40) -17-20K Hz cut as a first thing on the master. This is for extra headroom and it cuts out any of the useless rumble and very high hiss we don't or barely hear but really eat up headroom nonetheless and can sound rumbly.
+### Sound selection vs. processing
+Really, a great mix starts with great sound selection. In an ideal world the sounds you pick are perfectly complementary and you'll see that you really do not have to mix a whole lot. Just the basic enhancing stuff like EQ, balancing, compression and saturation but you don't really have to like process a sound to make it go from shitty to decent. That said, in reality you should try and do the same but often you'll find yourself that you find a certain sound like and has potential but just sounds shitty and in those cases you might want to process hard. It's always a bit of a thing where you have to see whether it's worth processing or whether your better of flicking through more sound until you found a good one.
 
-### Sound selection
-Again, picking sounds that have good transients by default, good sustain, fatness, treble etc. will all majorly help with the master because you don't have to do so much effort to try and get something out of the song that isn't there (or hardly there) and you need to do so much processing and it will always sound sub par. If you want a kick audible everywhere AND you want loudness, you will want high end in your kick and good transients all together.
+As an example, I heard Lenno once said he didn't even process the kick in his official track. The kick sample itself already had the perfect bottom-end and transient (perhaps it was processed before but regardless it was just a sample) and with some balancing it fitted right in. So yeah, don't think that if you don't process a sound hard, that it is a bad sound. Hear for yourself and then decide. Also, always be a bit mindful with processing, especially samples. Look at the waveform and spectrum analyzer see if there is already like a lot of compression going on and/or mid scooping like on a kick. In that case you should use the sample as is as even more compression will just make the sample sound bad and more mid scooping will hurt too. So in those cases you'll want to just go over to a new sound probably and audition that.
+
+## Don't use presets as-is
+Presets are an invaluable source but using them as-is will most likely mud up your mix a lot. A preset is just a preset. A preset doesn't have any knowledge about how bright or dark it needs to sound in your mix. In fact, a preset doesn't know your mix at all, whether it's a dry in your face mix or a reverb-y in your face mix, whether your sound needs to be quite reverb-y in context of the mix or just a little. 
+
+The thing is, a preset is simply designed to present itself in its best and fullest form, in a way where you think "That's a cool sound, I can do stuff with that". That means that it oftens sounds good and big on its own. This usually means a lot of FX like delay, reverb and unison on it to make it happen. However, often those are too much as your mix is busier than just that preset. On top of that, if you add more presets (which all have that same treatment of sounding good and big on themselves) you'll have a very quick mud due to all the excessive delays, reverbs and wideness and stuff adding together. Added to that, you might want to use distortion on it to process it but if the delay and reverb are in the synth, they'll be OTTed/distorted too so it will sound worse too. 
+
+This is why it's often good practice to simply turn off all synth fx, reduce wideness a bit, (or at least turn off the reverb and delay fx which add most to the mud and want to be processed last) and add your own so all the presets don't sound as big anymore and now fit way better in the mix and you can tailor it to your mix.
 
 ### Mastering (and mixing) for loudness is a trade-off
 You'll always lose transients when reducing dynamic range, no matter what. It's simply a trade-off and using clever techniques that can make you retain the transients as good as possible in your final master.
