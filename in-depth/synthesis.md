@@ -15,6 +15,8 @@ And that's the main drawback: lack of direction and focus. For example, a supers
 
 So with unison you want to think what the purpose and function of a sound is. Often a lead you'll want to be more focused and in your face and sometimes even mono. That doesn't mean it can't have unison, in fact, often times a (very) width lead layer gets layered under the focused (more) mono layer for extra fatness. Same with bass, you'll want that more focused usually so (almost) mono but that doesn't mean you can't layer a wide bass with/under it. Or, you can straight up make your patches some kind of wide but usually your focused patches you'll want less voices and less detune in case you add a bit of width just to keep them more focused.
 
+*Intermezzo: Contrast is important and cool stuff has been created by working around wide ande centered patches. [A common complextro thing is to have a centered bass quickly followed by a wide supersaw stab making for a really cool contrast](https://www.reddit.com/r/edmproduction/comments/1bz53t/how_often_do_you_use_stereo_width_techniques/). Or having basses fast following eachother having different widths or even automated widths for cool stereo imaging fx. Again, goes hand in hand with "if everything is width nothing is."*
+
 In short, you can use unison on a lot of patches but think about the purpose. A pad usually benefits from this, a chord stack that is meant to be filling usually too, leads, bass and other elements you want to be careful width. Either way, look at some (e.g. Serum) presets and look at their unison settings (for leads and basses). Do keep in mind they may be exagarated as lots of those are designed to sound good and huge on their own.
 
 ## Waveforms
