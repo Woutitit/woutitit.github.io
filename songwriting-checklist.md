@@ -5,13 +5,17 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Mixing and mastering](#mixing-and-mastering)
-3. [Production](#production)
-4. [Composition and arrangement](#composition-and-arrangement)
-5. [Phrasing](#phrasing)
+2. [Guides](#guides)
+3. [Mixing and mastering](#mixing-and-mastering)
+4. [Production](#production)
+5. [Composition and arrangement](#composition-and-arrangement)
+6. [Phrasing](#phrasing)
 
 ## Introduction
 This handy list is meant as a reference for when you don't get your mix right or when your composition isn't working out as you can check and try stuff (you might've forgotten) on the list here. It can also serve as a source of inspiration.
+
+## Guides
+- [The art of mixing - David Gibson](#)
 
 ## Mixing and mastering
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC curve/Mix levels for different elements?
