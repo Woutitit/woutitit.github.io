@@ -1,7 +1,7 @@
 # Synthesis
 ## Settings
 ### Unison and detune
-> See more in stereo imaging article.
+> See stereo imaging article for how exactly unison/detune works
 
 The unison knob is an important but overused one. What it does is basically make a sound wider. What it does **not** do, unlike popular belief, is make the sound denser as making stuff wide does not magically add harmonic content. A sound with unison sounds fat because it has added voices all spread accross the stereo field making for a "big" sound. If these voices weren't spread (and/or the same pitch), the sound would just increase in volume.
 
