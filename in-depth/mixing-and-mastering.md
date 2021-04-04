@@ -20,6 +20,7 @@
 14. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
 15. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
 16. [Mixing for loudness](#mixing-for-loudness)
+17. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
@@ -134,4 +135,6 @@ There is mixing and there is mixing (and mastering) for loudness. Checkout *How 
 
 Don't obsess over hitting a certain LUFS. Again, it's just normalization and whether your track hits a 100 LUFS or 1 LUFS, it will get normalized to a certain amount either way. On top of that, a lot of platforms use slightly different algorithms anyway to normalize your music so it may not even be accurate.
 
-Regardless, LUFS and RMS are definitely a great way to reference tracks as it's more accurate and easier to match your loudness with your reference's tracks loudness. ANd from there you can make decisions like "I need to turn up my track way more to match the LUFS of this track, so not busy enough? Not enough elements? Not enough layers?". Or, "I don't need to turn up my track at all? Perhaps over compressed?". It's also good to have LUFS-matched reference tracks for mixing and composing purposes as we've already discussed.
+Regardless, LUFS and RMS are definitely a great way to reference tracks as it's more accurate and easier to match your loudness with your reference's tracks loudness. ANd from there you can make decisions like "I need to turn up my track way more to match the LUFS of this track, so not busy enough? Not enough elements? Not enough layers?". Or, "I don't need to turn up my track at all? Perhaps over compressed?". Also good that at the end of your track making to just have a listen to how your track sounds normalized vs. other (similar) tracks on the same platform.
+
+It's also good to have LUFS-matched reference tracks for mixing and composing purposes as we've already discussed.
