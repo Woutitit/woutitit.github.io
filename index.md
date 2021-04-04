@@ -71,5 +71,5 @@ Analysis articles are handy together with the commonities article and the refere
 ## Articles
 More specific articles that are either too big, too specific or too hard to really categorize.
 
-- [How to mix kick and bass](#hi)
+- [How to mix kicks, snare and bass](#hi)
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
