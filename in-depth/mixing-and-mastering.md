@@ -127,4 +127,11 @@ Audition all your sounds in context of the (full) mix. Really, often your sound 
 Same goes for layering, audition everything together as some layers may be thin but added to the main layer it will give it a great timbre.
 
 ## Mixing for loudness
-There is mixing and there is mixing (and mastering) for loudness. Checkout *Loudness wars and why it matters* article for why it matters and how to apply it to your own mix.
+There is mixing and there is mixing (and mastering) for loudness. Checkout *How to mix for loudness and why it matters* article for why it matters and how to apply it to your own mix.
+
+## Don't obsess over LUFS and RMS
+> See my article How to mix for loudness and why it matters for more about LUFS and RMS.
+
+Don't obsess over hitting a certain LUFS. Again, it's just normalization and whether your track hits a 100 LUFS or 1 LUFS, it will get normalized to a certain amount either way. On top of that, a lot of platforms use slightly different algorithms anyway to normalize your music so it may not even be accurate.
+
+Regardless, LUFS and RMS are definitely a great way to reference tracks as it's more accurate and easier to match your loudness with your reference's tracks loudness. ANd from there you can make decisions like "I need to turn up my track way more to match the LUFS of this track, so not busy enough? Not enough elements? Not enough layers?". Or, "I don't need to turn up my track at all? Perhaps over compressed?". It's also good to have LUFS-matched reference tracks for mixing and composing purposes as we've already discussed.
