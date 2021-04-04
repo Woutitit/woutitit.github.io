@@ -1,3 +1,5 @@
+[Home](#../index.md)
+
 # Mixing and mastering tips
 
 ## Table of contents
