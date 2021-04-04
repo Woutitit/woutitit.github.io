@@ -103,10 +103,12 @@ The thing is, a preset is simply designed to present itself in its best and full
 
 This is why it's often good practice to simply turn off all synth fx, reduce wideness a bit, (or at least turn off the reverb and delay fx which add most to the mud and want to be processed last) and add your own so all the presets don't sound as big anymore and now fit way better in the mix and you can tailor it to your mix.
 
-## Add a soft clipper before master limiter
+## Master chain FX
 To preserve a bit more punch, it can sometimes be useful to put a soft clipper before your main limiter. This soft clipper will clip the absolute highest of peaks and essentially replace them with distortion but less high peak. Though, since this saturation (especially on those short peaks) sound like a big transient you have basically "retained" the transients whilst reducing the peaks. Now, with these reduced peaks, you can hit the limiter and now there is less chopping of to do and also because these peaks are clipped they'll still sound like a transient more even when attenuated by a limiter (since it's distortion not an actual transient peak).
 
 Now, you really don't want to overdo this (like maybe 1 max 2 db of clipping) as it can very quickly start making stuff distorted if more than just the highest peaks (and especially some sustain sounds since of course you hear distortion better on those type of sounds because you hear them longer) get clipped. 
+
+Additionally, adding a teensy inch of OTT to brighten a mix also helps often if your mix needs to be bright. Just like shelving lows and boosting highs (with maximum -1db or +1db). Again, in mastering, you REALLY don't want to overdo stuff as your changes affect your whole song.
 
 ## Consider splitting bass and sub bass
 > See under Articles > Sub seperation for more.
