@@ -124,3 +124,6 @@ If you have a piano that's playing in the background of the chorus, you don't ne
 Audition all your sounds in context of the (full) mix. Really, often your sound may sound a bit too oversaturated but you may find that's what makes it cut through the mix. Or, a sound may sound really thin, almost too thin, but when you audition it in your mix it is fine because your mix is already busy.
 
 Same goes for layering, audition everything together as some layers may be thin but added to the main layer it will give it a great timbre.
+
+## Mixing for loudness
+> Mixing and mastering for loudness is an important topic. Checkout "Loudness wars and why it matters" article for why it matters and how to apply it to your own mix.
