@@ -15,15 +15,18 @@ This is because after x amount of time, your ears kind of get biased or out of t
 
 To combat this there are three things. First is practice and time. Again, the more experienced you come the more you kind of know and feel how to mix certain sounds so even with ear fatigue you might not be that wrong. A better option, though, is to simply take a break every 30-45 minutes. At least a mixing break. Sure, keep composing and arranging if you want but leave hefty mixing decisions for when your ears are fresh again. The third option is to use a reference track as a reference track will often ground you back to reality too. But again, preferably used in combination with giving your ears a break. It also helps to listen to a few reference tracks before mixing to prepare your ears.
 
-## Have a reference track
-You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
-
 ## Don't be afraid of low-end
 In many articles, this one included, we'll state that you don't want to mud the low-end and that cluttering it is very easy. However, that doesn't mean that you should be fully afraid of the low-end. For example, you'll often see producers put a bass AND then a piano on top of it that goes as low as F2 or whatever. In this case it just adds a lot of warmth. Of course, the notes are very much spaced out in the bottom to not crowd it, and extensions on top per usual. However, usually upper C2-C3 range fine for your normal instruments to go and in upper C3-C4 you can even start to layer in more sounds.
 
 The reason I say this is because warmth is important to a track so you really do want a substantial amount of low-end/low-mids in your track either way (depends a bit on genre but either way). It's just that you need to mix it well. For example, you might turn the piano down in volume compared to the bass, you might turn the other low-mid layer way down too (or only have the piano be the main volume warmth). You might roll off between 50-100Hz to have the piano clash not that much with the piano. Because of course, if all that warmth is going to be at max volume, of course it's going to be muddy. You need to do it tastefully and know what to prioritize.
 
 This als goes for highpassing. Don't be afraid to high pass as low as 50-60Hz even and don't be afraid to put and even layer stuff in the low-mids/mid-mids. It's your job as a producer to know how to offset that with high-end sounds and layers and how to balance it and mix it together and stuff. Also, some genres and mixes are warmer and some mixers are brighter. This is again why it's important to have a reference track and checkout in SPAN or tonal balance control 2 whether the low-end/mids are pronounced and/or whether it's mainly the high-end so you know which route to go. Again, band analyzing also helps with that to figure out what instruments (and how much) contribute to the low or high end. This can be done in tonal balance control or band soloing can sometimes be setup in a plugin https://www.youtube.com/watch?v=QQU2RDzoFQA.
+
+## Don't be afraid to tame high-end
+Similarly, don't be afraid to tame the high-end. For example, a saw is very bright and often there is no need for all upper-highs brightness in the patch. Of course, coming from all that brightness any filter may make it sound dull but again, if you'd come back with fresh ears you'd agree that after putting on that filter you'd have a patch that sounds less ear piercing. Same goes for other synth patches, don't be afraid to roll or shelf off some of those highs as they might sometimes can get out of control. Again, use a reference track and band reference to get a grasp of how bright your mix should sound.
+
+## Have a reference track
+You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
 ## Decide whether kick or bass is more important
 In virtually every track, in the sub/low-end you'll have to decide whether the kick is the main thing or whether the bass is the main thing. It really depends on the genre and refence track you're using to decide that. And based on that you'll want to set your volume levels accordingly and either slightly EQ your kick around your bass or EQ your bass around your kick if the kick is the main thing. In modern EDM genres, it's usually the kick but in more, less mainstream genres, it can be bass.
@@ -33,30 +36,25 @@ https://www.youtube.com/watch?v=QQU2RDzoFQA
 
 Make a track sound good. If your track needs compression to be in your face sounding, do it. If it needs less compression, then do that. Sure, LUFS matching is good for referencing but for the end result it doesn't matter that much at all.
 
-## Introduction
-Before we begin the article I'd like to say that song creation starts 100% with sound selection/design, composition and arrangement. You (usually) can have a COMPLETELY unmixed and unmastered song sounding well if the sound is high quality, the composition is high quality and the arrangement (or orchestration) is high quality. This is incredibly important because often new producers get bogged down into "but it doesn't sound loud and in your face" or "it doesn't sound perfectly mixed" and all these things which is distracting from song creation. 
-
-Of course I understand the craving for loudness and soundgoodizingness since mastered tracks really do sound full, big and bright. However, the more you get familiar with how unmastered tracks sound like vs. how their mastered counterparts sound the more you'll realize that unmastered mixes are indeed not meant and will never sound super big or in your face. In fact, they often sound a bit dull (especially compared to the mastered one) since they are really only meant to sound correct (i.e. levels correct, tonal balance correct, etc.) Again, the more you get familiar with this the more you can decide when a mix really is lacking or when a mix sounds correct and will completely come alive through mastering.
-
-## Three stages
+## Mix and master in three stages
 There are three stages of mixing and mastering
 - Mixing on the go
 - Mixing after song creation
 - Mastering after mixing
 
-### Mixing on the go
+### Stage 1: Mixing on the go
 So I know I just said that a mix with high quality everything will sound good even completely unmixed. That is not entirely true, especially for more electronic genres. The thing is that during song creation you'll (have to) make a few mixing moves to make stuff sit well or sound better (which arguably is sound design). For example, you'll make some rough high pass EQ moves to remove low-end rumble because it interferes with bass, you'll sidechain because the sub region is audibly bad and boomy, you'll compress because you think the piano has too little sustain, you'll add stereo width and/or panning to make instruments sit better next or around eachother, etc.
 
 All these are mixing moves and they are totally fine to do on the go (there are more examples such as beefing up with saturation, parallel compression, etc.). The reason they are fine is that they really are there for the purpose of making your song sound better and less muddy. You don't really make these moves with optimizing your master and loudness later on. Also, often these moves are a bit rough (just to get you going) and they will really be optimized in the next stage. Either way, if your composition and mixing-on-the-go is on point you should have a demoable song now.
 
-### Mixing after song creation
+### Stage 2: Mixing after song creation
 Now, this is the stage where you start thinking about how to optimize your master. Of course, not only that, you think about how to not rip people's ears of at certain points or how to increase intelligibility or how to clean up mud or really beef up some sounds. Here is where you really will fine tune the already rough mix that you have and add some extra techniques (or possibly removing). 
 
 In the end, the end goal of this one is to really have no out of wack dynamics (though still trying to preserve those tamed transients), very clear and clean sounding, correct tonal balance, etc. and generally setup for loudness by using compression, saturation and eq (    and balancing.
 
 Also, note that this stage might often come hand in hand with mastering as often (and recommended) you'll find issues once your mastering that you'll probably want to solve in your mix (like too much or too little peaks for example).
 
-### Mastering
+### Stage 3: Mastering
 This is the last stage and is really just meant to bring up loudness as much as you can and to hit the limiter as hard as you can without starting to distort or lose too much transients (you still want a punchy mix). This is also the point where you may add some flavour as in add a little tiny bit off OTT for some brightness and or add a bit of a brightness eq boost and some low frequnecy cut etc (maybe some very slight stereo). Again, goes hand in hand with mixing, especially right when you start mastering.
 
 ## Mixing and master for loudness
