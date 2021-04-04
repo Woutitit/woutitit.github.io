@@ -8,7 +8,17 @@
 5. Mix and mastering checklist
 6. Notes
 
-## Don't mix for too long
+## Limit the duration of mixing sessions
+As a beginner, you might need to find this out for yourself first but a lot of us have spend countless of hours in a single mixing session trying to mix a song only to have it come out worse than it was before the session. For example, you have a mix with a piano and you think it sounds too muddy so you cut a whole chunk of low-end and you think it sounds better. Then when you come back with fresh ears and you listen to it, it sounds super thin because of all that cut low-end on the piano and readding it sounds way better (maybe slightly muddy but way better). Weird!
+
+This is because after x amount of time, your ears kind of get biased or out of tune so you can't really tell anymore whether your mix is good. You might hear that your mix is good or bad but that's not an observation based on reality due to the ear fatigue. And thus, the worst mistake you can make is to make hefty mixing decisions whilst having ear fatigue as often you'll end up over-correcting or you'll end up screwing up stuff that was fine.
+
+To combat this there are three things. First is practice and time. Again, the more experienced you come the more you kind of know and feel how to mix certain sounds so even with ear fatigue you might not be that wrong. A better option, though, is to simply take a break every 30-45 minutes. At least a mixing break. Sure, keep composing and arranging if you want but leave hefty mixing decisions for when your ears are fresh again. The third option is to use a reference track as a reference track will often ground you back to reality too. But again, preferably used in combination with giving your ears a break.
+
+
+Ears get used to certain stuff but ears also get biased after listening for the same stuff over and over again. The mix gets dull, the bass sounds like too much or too little and even though the spectrum seems okay you can't really tell it anymore with your ears.
+
+
 Composing and arranging you can usually do for quite long but mixing you really can't. So many times have I caught myself mixing for hours and ending with nothing or a worse mix than before. This is because you turn up and/or down your mix, your ears get used to certain sounds, etc. A reference track helps with that but even with that your ears will start to hear weird stuff. So seriously, you'll want to not mix for longer than 30-45min and take a break. If you want continue with composition or whatever but actual mixing and making a lot of mixing decisions you better not do anymore. Just leave it and then when you come back, then mix again as you ears will be fresh and stuff. Perhaps after having listened to a few reference tracks to have your ears prepared.
 
 ## Have a reference track
