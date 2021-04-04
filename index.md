@@ -48,7 +48,6 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Distortion](/in-depth/distortion.md)
 - [Equalization](/in-depth/equalization.md)
 - [Intermodulation](/in-depth/intermodulation.md)
-- [Loudness wars and why it matters](/in-depth/loudness-wars-and-why-it-matters.md)
 - [Mixing and mastering guide](/in-depth/mixing-and-mastering.md)
 - [Mono, stereo and imaging](/in-depth/mono-stereo-and-imaging.md)
 - [Music history and fundamental concepts](/in-depth/music-history-and-fundamental-concepts.md)
@@ -73,3 +72,4 @@ More specific articles that are either too big, too specific or too hard to real
 
 - [How to mix kick, snare and bass](#hi)
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
+- [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
