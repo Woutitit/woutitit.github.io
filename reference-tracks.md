@@ -18,6 +18,9 @@ Here I post all the reference tracks I find useful. Perhaps post also the genre 
 
 A reference track is handy but you need to know a bit how to use it in order to actual get something out of it. Here are a few ways how to use a reference track.
 
+### Have a master chain on
+Reference tracks usually sound louder and bigger and more brighter since they are mastered so keep that in mind. Of course, level match them (easy plugin "Reference" can do that) and you can have a quick master chain and you can then occasionally see whether you're actually far off or not vs. the reference track. But yeah again, use them because regardless of smashing in the mastering, there will always be quieter elements and louder elements. On the louder elements the smashing will most likely happen. Often that's the drums and stuff but sometimes could just be the leads and chords and the drums more in the background. Again, the levels don't matter to make your master loud, you gotta level as to what you want in forefront and what you want in back. Of course, not having too much dynamic range to not have to make the mastering too difficult.
+
 ### Direct out
 No matter what purpose you use a reference track it's always useful to have it run straight to the speakers instead of through the master (you can do this by having it on a mix track and then the ouput to something like "Out 1 - Out 2". It's useful as it won't be affected by master channel fx and also you can then mute the reference without muting your track and you can mute your track (one-click-mute via master) without muting the reference. Very handy.
 
