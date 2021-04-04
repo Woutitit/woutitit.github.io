@@ -16,6 +16,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 
 ## Guides
 - [The art of mixing - David Gibson](#)
+- [Simple Mixing Formula For Beginners - Arcade](https://www.youtube.com/watch?v=hAIOj0wexFI)
 
 ## Mixing and mastering
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC curve/Mix levels for different elements?
