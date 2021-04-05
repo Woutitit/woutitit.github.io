@@ -7,7 +7,9 @@ The saw wave is the most useful and versatile wave since it's super harmonically
 
 Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw. 
 
-That doesn't mean that starting from a saw is always easiest. There are other waves too with different timbres that may already put us closer to what we're after so in that case it would be a bit silly to start from a saw wave.
+Again, a common thing is to low pass filter saw waves at least a little bit since the loud harmonics are really harsh especially in the upper ranges. Additionally, this also mimicks a bit the harmonics decay that normal instruments also go through making the wave a bit more musical.
+
+Either way, all this doesn't mean that starting from a saw is always easiest. There are other waves too with different timbres that may already put us closer to what we're after so in that case it would be a bit silly to start from a saw wave.
 
 
 Also in electronic music of course, you don't need realism necessarily so yeah it all depends. But in the end a saw wave is just really versatile. 
