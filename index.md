@@ -72,3 +72,4 @@ More specific articles that are either too big, too specific or too hard to real
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
 - [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
 - [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
+- [Guitar recording tips](/articles/guitar-recording-tips.md)
