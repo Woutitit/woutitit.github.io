@@ -1,6 +1,6 @@
 [Home](../index.md)
 
-## Audio quality & Recording
+# Analog recording in a digital world
 
 ## Table of content
 1. [TL;DR](#tldr)
