@@ -10,7 +10,7 @@
 6. [Sample rate & Audio Quality](#sample-rate-audio-quality)
 7. [Theoretical Reconstruction Accuracy: A theorem & a formula](#theoretical-reconstruction-accuracy-a-theorem--a-formula)
 8. [Nyquist-Shannon theorem: a closer look](#nyquist-shannon-theorem-a-closer-look)
-9. [Low sample rate, aliasing & uniqueness](#low-sample-rate-aliasing-uniqueness)
+9. [Low sample rate, aliasing & uniqueness](#low-sample-rate-aliasing--uniqueness)
 10. [Bandlimiting](#bandlimiting)
 11. [PRACTICAL Reconstruction Accuracy: Quantization](#practical-reconstruction-accuracy-quantization)
 12. [Bit depth](#bit-depth)
