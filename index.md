@@ -30,7 +30,7 @@ General articles that can't really be grouped and are also not in depth enough t
 
 - [External learning resources](external-learning-resources)
 - [Gear](gear.md)
-- [Sound recipes](sound-recipes.md)
+- [Sound design and recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
 - [Audio recording](audio-recording.md)
 - [General tips and advice](general-tips-and-advice.md)
