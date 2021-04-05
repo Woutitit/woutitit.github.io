@@ -22,6 +22,11 @@
 20. TODOs
 21. Unprocessed notes
 
+## TL;DR
+In this article we go over sample and recording quality since recording analog sound waves and storing them digital does pose some challenges. That said, there are plenty of ways now to correctly record sounds digitally. The main gist is that we want to record at at least a sample rate of 44.1k Hz and a bit depth of 16 bits. Luckily for us, in practically all audio interfaces this is the standard so we don't really have to worry about it.
+
+The same goes for digitally created sounds. They don't need any stored digital numbers. You see, whenever a digital synth plays it simply interprets MIDI and patch information and then (through some routing via its own mixer channel and the master channel) it sends out electric voltages DIRECTLY to the speakers.
+
 ## A bit of history
 So all the way back in the 19th century there was no way to capture audio. Whatever was heard was forever gone and only captured in memory. That was until in that same age Thomas Edison (yes, that guy) invented the phonographe. Basically a device that could capture the vibration of analog sound through its horn which then got etched into a metal layer around a cillinder (https://nl.wikipedia.org/wiki/Fonograaf). This, in turn, was the precursor to the grammophone (https://nl.wikipedia.org/wiki/Platenspeler) which was basically an improved version that etched stuff into a vynl plate instead. Even later came tape recording (https://en.wikipedia.org/wiki/Tape_recorder) that also used some analog magnetic wizardry to store recordings of whatever sound information it got and was even more improvement upon its predecessors!
 
