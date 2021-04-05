@@ -42,6 +42,7 @@ General articles that can't really be grouped and are also not in depth enough t
 All topics in here are thoroughly explained to get a good understanding. For briefer explanations see either "Tips" or "General".
 
 - [Aliasing](/in-depth/aliasing.md)
+- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
 - [Common FX explained](/in-depth/common-fx-explained.md)
 - [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
 - [Distortion](/in-depth/distortion.md)
@@ -53,7 +54,6 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Music theory: Basics](/in-depth/music-theory-basics.md)
 - [Music theory: Genres](/in-depth/music-theory-genres.md)
 - [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
-- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
 - [Sidechaining](/in-depth/sidechaining.md)
 - [Synthesis](/in-depth/synthesis.md)
 - [Timbre and layering](/in-depth/timbre-and-layering.md)
