@@ -180,7 +180,7 @@ liek saw wave real good cuz so rich in harmonics like in a synth like sytrus u c
 
 drums have overtones rather than harmonics
 
-Like snare have overtones rather than harmoniocs and follow more like a bessel function but that doesn't matter because those are used as percussive hits anyway and not meant melodically. They are kinda like full freq all over the place stuff which is also why often white noise can kinda represent a snare or add to the thickness of it.
+Like snare have overtones rather than harmoniocs and follow more like a bessel function but that doesn't matter because those are used as percussive hits anyway and not meant melodically. They are kinda like full freq all over the place stuff which is also why often white noise can kinda represent a snare or add to the thickness of it. So yeah that why it dont matter for those to be in tune cuz short percussive hits anyway.
 
 What about kick? More melodic but sitll not function except fundamental tone more clear sometimes?
 
