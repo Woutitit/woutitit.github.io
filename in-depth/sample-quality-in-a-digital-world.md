@@ -17,7 +17,7 @@
 13. [Quantization noise](#quantization-noise)
 14. [Low bit depth and dither](#low-bit-depth-and-dither)
 15. [Signal-to-noise ratio (SNR)](#signal-to-noise-ratio-snr)
-17. [Audio vs. MIDI](#audio-vs-midi)
+17. [Audio vs. MIDI playback](#audio-vs-midi-playback)
 
 ## TL;DR
 In this article we go over sample and recording quality since recording analog sound waves and storing them digital does pose some challenges. That said, there are plenty of ways now to correctly record sounds digitally. The main gist is that we want to record at at least a sample rate of 44.1k Hz and a bit depth of 16 bits. Luckily for us, in practically all audio interfaces this is the standard so we don't really have to worry about it.
