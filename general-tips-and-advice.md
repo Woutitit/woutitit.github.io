@@ -58,6 +58,3 @@ You want your OS drive to be incredibly light-weight. Any data, like music proje
 
 ## Back up torrent files
 Torrent files are light weight and if we do lose a certain thing it can be easily redownloaded from that torrent.
-
-## If forgetting to record...
-You can always get whatever you played on your MIDI keyboard if you go 
