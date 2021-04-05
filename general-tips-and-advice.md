@@ -1,6 +1,9 @@
 # Tips & advice
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
 
+## Don't get bogged down in the details
+In the forums you'll often hear people discussing at lengths about stuff like phase cancellation, aliasing, LUFS, a bazillion compressors and other stuff that often really don't matter as much as they make it seem out to be. Even countless articles written on a subject may suggest that the subject is a big deal. Often times, though, these subjects are way smaller of a deal than you think. Like, in the end a compressor is a compressor, an EQ is an EQ and anyone saying different is arguing semantics (or over that 5% of difference in taste a diff EQ/compressor can bring). Same with aliasing, phase cancellation and all stuff like that. In practically all cases it's just not something to foucs on so hard. Just be aware of how it sounds and high-level when it can occur and the rest you'll clearly hear and see in your mix. 
+
 ## Learn to hear and see sound
 - Low and high (and mids) frequencies
 - Plucks and sustains sound
