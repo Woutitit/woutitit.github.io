@@ -241,19 +241,19 @@ Lastly, you do need to be aware about *aliasing* and when it can occur, what it 
 
 So, to conclude this article we should ask the question whether MIDI suffers from the same limitations as audio. Perhaps suprising but MIDI does **not** suffer from all the drawbacks audio has. The thing is that a digitally stored wave is stored as digital rounded numbers, these numbers then get interpreted by our speakers to construct an electric voltage (i.e. a wave) based on those numbers which is kind of the original wave but not really. With MIDI, you aren't storing numbers or samples, MIDI really is only note and patch information (i.e. synth settings) and that's it. A synth can interpret it and it can actually let the speaker directly know what kind of electric voltage is needed based on the MIDI information send through the synth. A synth doesn't need to rely on slightly rounded numbers and thus in this case, the electrical wave (which is continous) can be fully accurate and thus the digital-to-analog conversaion will also be fully accurate. And thus, since snytnhs do not need to rely on quantized and truncated sample values but rather can rely on direct information, the speakers will be able to
 
-## General sources
-https://www.bax-shop.be/blog/studio-recording/sample-rate-en-bit-diepte-betekent-geluidskwaliteit/
-https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html
-https://www.reddit.com/r/explainlikeimfive/comments/4d4krv/eli5_what_is_the_difference_between_sample_rate/
-https://charlottekeating.files.wordpress.com/2012/11/bit-depth.jpg
-https://www.youtube.com/watch?v=yWqrx08UeUs
-https://www.youtube.com/watch?v=U2mwXiJqAgA
-https://www.youtube.com/watch?v=cIQ9IXSUzuM
-https://www.youtube.com/watch?v=zC5KFnSUPNo&t=339s
-https://www.sciencedirect.com/topics/computer-science/quantization-noise
-https://www.sciencedirect.com/topics/engineering/dither-signal
-https://www.sciencedirect.com/topics/engineering/nyquist-frequency
-https://www.sciencedirect.com/topics/engineering/samplerate
-https://www.youtube.com/watch?v=-jCwIsT0X8M
+## Sources
+- https://www.bax-shop.be/blog/studio-recording/sample-rate-en-bit-diepte-betekent-geluidskwaliteit/
+- https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html
+- https://www.reddit.com/r/explainlikeimfive/comments/4d4krv/eli5_what_is_the_difference_between_sample_rate/
+- https://charlottekeating.files.wordpress.com/2012/11/bit-depth.jpg
+- https://www.youtube.com/watch?v=yWqrx08UeUs
+- https://www.youtube.com/watch?v=U2mwXiJqAgA
+- https://www.youtube.com/watch?v=cIQ9IXSUzuM
+- https://www.youtube.com/watch?v=zC5KFnSUPNo&t=339s
+- https://www.sciencedirect.com/topics/computer-science/quantization-noise
+- https://www.sciencedirect.com/topics/engineering/dither-signal
+- https://www.sciencedirect.com/topics/engineering/nyquist-frequency
+- https://www.sciencedirect.com/topics/engineering/samplerate
+- https://www.youtube.com/watch?v=-jCwIsT0X8M
 
 
