@@ -18,7 +18,7 @@ On top of your VST (on the Fruity Wrapper top bar) you'll see to the right (some
 ![nklz651m1x461](https://user-images.githubusercontent.com/17428965/113638649-a648de00-9677-11eb-8427-04c95c4888af.png)
 
 #### I forgot to record my MIDI keyboard
-- If playing on MIDI input and forgot to record, go to Tools > dump latest recorded score to recover what you've played.
+Go to Tools > dump latest recorded score to recover what you've played in a pattern.
 
 ## Synths
 ### Serum
