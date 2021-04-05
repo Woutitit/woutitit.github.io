@@ -53,7 +53,7 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 - [Music theory: Basics](/in-depth/music-theory-basics.md)
 - [Music theory: Genres](/in-depth/music-theory-genres.md)
 - [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
-- [Sample quality in a digital world](/in-depth/sample-quality-in-a-digital-world.md)
+- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
 - [Sidechaining](/in-depth/sidechaining.md)
 - [Synthesis](/in-depth/synthesis.md)
 - [Timbre and layering](/in-depth/timbre-and-layering.md)
