@@ -1,43 +1,14 @@
 # Synthesis
-## Waveforms
-### Saw wave
-The saw wave is the most useful and versatile wave since it's super harmonically rich. That is, it has all(?) the harmonics and these harmonics are all very and equally loud. In fact, a saw wave's harmonics are so loud that it's hard to clearly hear a fundamental tone, especially considering higher frequencies don't need to be as loud as lows to be perceived loud.
+## Table of contents
+1. [Introduction](#introduction)
+2. [Why synthesis](#why-synthesis)
+3. [Synthesis techniques](#synthesis-techniques)
+4. [MIDI](#midi)
+5. [Waveforms](#waveforms)
+6. [Synthesizer settings](#synthesizer-settings)
 
-*Intermezzo: A saw wave's overtone dominance is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the upper harmonics are tamed. If you don't do this, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. With filtering you can keep the wave at your current volume where it gives nice bottom-end without them being ear-piercingly loud due to the harmonics. Also, for sounds where you mainly want high-end, doing the opposite is also true of course.*
-
-Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw. 
-
-Again, a common thing is to low pass filter saw waves at least a little bit since the loud harmonics are really harsh especially in the upper ranges. Additionally, this also mimicks a bit the harmonics decay that normal instruments also go through making the wave a bit more musical.
-
-Either way, all this doesn't mean that starting from a saw is always easiest. There are other waves too with different timbres that may already put us closer to what we're after so in that case it would be a bit silly to start from a saw wave.
-
-
-Also in electronic music of course, you don't need realism necessarily so yeah it all depends. But in the end a saw wave is just really versatile. 
-
-A sqaure wave and triangle same, just the triangle gets rolled of in highs much faster. It's usually a chip tune bass. A sine is just a pure tone.
-
-## Settings
-### Unison and detune
-> See stereo imaging article for how exactly unison/detune works
-
-The unison knob is an important but overused one. What it does is basically make a sound wider. What it does **not** do, unlike popular belief, is make the sound denser as making stuff wide does not magically add harmonic content. A sound with unison sounds fat because it has added voices all spread accross the stereo field making for a "big" sound. If these voices weren't spread (and/or the same pitch), the sound would just increase in volume.
-
-That said, heavy detune, i.e. unison where the added voices are "heavily" different in pitch, there will be noticeable harmonic content added since the pitches are so different from the original pitch. This is indeed used to add thicknes to a wide sound but usually this one is mixed in with a less detuned oscillator to make the awful sound of that heavy detuned (but thick) oscillator be noticed less.
-
-Either way, this fx is overused or too much unison is added to a sound, especially by beginners. Since unison makes stuff wide it adheres to the same drawbacks as other stereo imaging techniques and practices. For example, for a pad, a (dense) chord stack on a synth patch with a lot of unison and/or detune is usually okay (and perhaps what you want) as the pad atmosphere nicely spans the stereo field due to the patch and due to the chord stack it also nicely spans the frequency spectrum. And since a pad is usually not a main element, there doesn't need to be focus on it and also it's further back in the mix so the density doesn't overpower the track but thanks to width and thickness it creates this nice air around the whole track.
-
-And that's the main drawback: lack of direction and focus. For example, a supersaw chord stack in future bass often also has a lot of unison and is pretty wide. Again, this is okay because its purpose is to fill up the stereo and frequency field making a wall of sound, there is no need for it to be focused/in your face/intimate. Also, on top of that and below that you'll usually find that the bass and/or leads are less wide and more focused. So the listener has some elements to focus on whilst the supersaws fill up the mix. Also the chord stack doesn't always have to be super wide and/or stereo either. If in your mix the chord stack's purpose is to be more focused and less wide (and more intimate), then reduce the unison by all means.
-
-*Intermezzo: If everything is wide, nothing is wide. And if everything is wide, everything sounds super directionless adn there isn't really a clear thing to focus on for the listener. Seriously, the graph of your music sounding better does not go up with the wider you make every sound. It's about contrast. Make some stuff wide that you want to be wide make other stuff less wide or completely mono that you want to be more focused. This is what will create a multidemnsional mix rather than a mono 1D or a 1D directionless mix.*
-
-*Intermezzo 2: Rhodes and stuff often also have a bit of imaging going on (how?) but usually not as wide and directionless. Again, they are also not meant to be this wide and stereo-filling entity like a future bass supersaw. Meanwhile, there is a preset for strings on a stereo enhancer because often strings are kind of like pads these backing entities of sounds that you kind of want to be mix filling and don't need to be focused.*
-
-So with unison you want to think what the purpose and function of a sound is. Often a lead you'll want to be more focused and in your face and sometimes even mono. That doesn't mean it can't have unison, in fact, often times a (very) width lead layer gets layered under the focused (more) mono layer for extra fatness. Same with bass, you'll want that more focused usually so (almost) mono but that doesn't mean you can't layer a wide bass with/under it. Or, you can straight up make your patches some kind of wide (but that they are still centered which is the point but have some width) but usually your focused patches you'll want less voices and less detune in case you add a bit of width just to keep them more focused.
-
-*Intermezzo: Contrast is important and cool stuff has been created by working around wide ande centered patches. [A common complextro thing is to have a centered bass quickly followed by a wide supersaw stab making for a really cool contrast](https://www.reddit.com/r/edmproduction/comments/1bz53t/how_often_do_you_use_stereo_width_techniques/). Or having basses fast following eachother having different widths or even automated widths for cool stereo imaging fx. Again, goes hand in hand with "if everything is wide nothing is".*
-
-In short, you can use unison on a lot of patches but think about the purpose. A pad usually benefits from this, a chord stack that is meant to be filling usually too, leads, bass and other elements you want to be careful width. Either way, look at some (e.g. Serum) presets and look at their unison settings (for leads and basses). Do keep in mind they may be exagarated as lots of those are designed to sound good and huge on their own.
-
+## Introduction
+//
 ## Why synthesis
 While in theory you could recreate any sound you'd like with synthesis, synthesis (and synthesizers for that matter) are generally NOT meant for that purpose. They are meant for you to be able to create your own sounds. This is (partially) why (subtractive, see later) synths don't offer realistic waveforms but harsh, frequency-rich waveforms because the math is easy and the frequency content is so rich that through a combination of these waveforms, filters, ADSR, LFOs, etc. you can make sounds that sound musical. They might not sound like a real instrument, but they sound musical, especially since real instruments alre also nothing more than filtered out, ADSRed (sometimes LFOd) waveforms. Also, since these waveforms are so rich, it's a very good way to start and sculpt something good out of it rather than have realistic unrich waveforms and try and sculpt something else out of it. With these waveforms you can be flexible and go any direction you'd like.
 
@@ -66,70 +37,9 @@ Mind though that whether it is from a sample or something you construct yourself
 
 crossfade interpolation to smoothen
 
-## Notes
-especially in a supersaw so many harmonics, makes it dends but also muddy which is why need open even without distortion
-Analog vs. Digital synth
-
-so basic thing is 
-if in 3xosc itself aliasing, once you render, it's gone, however the aliasing caused by a plugin outside 3xosc will still be in render because the chain goes like
-
-3xosc wave > distortion > distortion causes aliasing and introduces frequencies in audible spectrum > signal goes to DAC and DAC bandlimits signal, however, since these harmonics, due to the distortion are already in the audible spectrum, the bandlimiter doesn't filter these frequencies out. So can we even prevent aliasing if going from digital to analog? Digital band limiter but how do they limit chain?
-
-digital synth adheres to DSP - *digital signal processing*.
-
-so 32 bit float is basically same resolution as 24 bit but with 8-bit float and apparently makes for more accurate culaculation, especially for internal soft synths and stuff so very little error and so much headroom. Not only soft synth shit but basically any process is calculated with 32 bit floating point???
-
-in synts, stuff ain't band limited, but a lot of synths give you the option to do so if you want (or to go the oversampling route)
-
-cool with 3xosc u can make an amplitude oscillator of ur 3rd osc, it changes sound but what does it do to osc 1 (and 2????) exactly in terms of harmonics, also is its level volume not counted then, i guess so tho with fm u need to make the level 0 to not have the freq play, at least in serum maybe cuz serum not real fm?????
-
-which go to speaker zeros and 1's and but then obviously already qunatization errors so speakers will spit that out
-Like chitpune, did they use these arsh saw sounds or where they also somehow eq'd?
-analog vbs diigital synthesis
-
-since sine waves and its counterparts can makeup theoretically all sound waves, thx to Fourier, it's enough to have these in a synth and since they are easy to produce from a mathematical standpoint we thus don't need to try and calculate complex shit for complex tones. Nope. And also, adding complex shit is harder than just adding simple tones like sines and squares and stuff.
-
-all kinds of synthesis
-like additive fm subtr wavetable etc.
-
-granular synthesis??
-
-granular synthesis vs. wavetable
-
-they both work based on samples
-
- how they work
-
- they use MIDI how midid defers from audio
-
- How MIDI goes into sound
-So is midi playback analog?  I guess so there is nother way to hear sound right
-
-MIDI just a bunch of messages, smaller than audio so good, that gets interpreted by a synth, a synth generates a sound based on its settings (preset) and based on the MIDI message.
-
-the only "conversion that's" happening is the MIDI interpretation, and from there the synth just automatically sends electrical signal to
-
-AD/DA conversion u see. Its only necessary if our analog signal was analog to begin with and thus stored digitally.
-
-ok so there doesn't need to be conversion i guess because a synth already generates a voltage and goes straight to speaker??
-
-D/A also changes stuff to electric voltages and send to our speakers
-Same with synth, create voltages and send to speakers so it never needs to construct from any digital stuff anyway, like the only thing we store is midi information we don't store samples!!!!
-
-D/A is only to convert to contious wave but in digital that means electirc synth already converts into eletrical wave!!
-So what about MIDI then
-
-
-MIDI has advantages and disadvantages look up
-
-But one main advantage is that is incredibly small in storage to store compared to audio samples. also u can change still without needing to rerecord and u can change patch in synth or change synth without having to rerecord on different patch/instruments as you would with real audio. because a lot of synth and virt instrument can read and interpret MIDI
-with SAMPLERS instead of synths MIDI are mapped to sample sounds obviously rather than actualy synth output but concept remains the same (i guess velocity info actually mapped to actual new sample bvut perhaps only a few velocity levels at which it changes???)
-
-### What about Synthesis & MIDI vs. Audio?
-http://digitalsoundandmusic.com/6-1-3-midi-data-compared-to-digital-audio/
-https://en.wikipedia.org/wiki/MIDI
-
-> See "Synthesis" for full explanation on synthesis and MIDI.
+### MIDI
+- http://digitalsoundandmusic.com/6-1-3-midi-data-compared-to-digital-audio/
+- https://en.wikipedia.org/wiki/MIDI
 
 So you could ask yourself the question, what about (software, so not analog but the concept is the same) synthesizer output audio? Surely, to hear the sounds from those we should also do some conversion magic right?
 
@@ -152,10 +62,53 @@ And then if we hit play our synth will interpret all of this:
 
 "Ok I see a square wave in the settings, that means I need to generate an electric signal that looks like a waveform with a fundamental frequency at C5 and contains the odd harmonics that thus resembles the classic square wave."
 "But oops, since velocity is maximum I need to send out the electric signal so that it also looks like it makes the fundamental and odd harmonics at max value."
-"Oh, but I also need to low pass at 2000 Hz, therefore I need to send out the signal so that it also looks like the above but also looks like it removes all the frequencies above 2000Hz."
-
-Etc.
+"Oh, but I also need to low pass at 2000 Hz, therefore I need to send out the signal so that it also looks like the above but also looks like it removes all the frequencies above 2000Hz." Etc.
 
 Can you now see how a synth has indeed correct and full information with just numbers to fully send out an accurate electric wave. Of course, the synth still needs to be able to convert/interpret these numbers accurately to electrical waves but that's all and since we're not working with samples but only number settings and then straight electricity (which IS continuous in nature) this will always be 100% accurate. Also, you can even hit play of your synth and hear the sound changing (like if you are opening/close a low pass filter), that is literally the synth modifying it's electrical signal in real-time and sending it to the speakers so that we hear it being modified too in real-time.
 
 One last thing. It IS true that from the moment you are bouncing the sound output of your synth to actual audio (which is called *resampling*) through a digital audio recorder like Edison (named after the guy that FIRST ever recorded an audio signal, cool!), sample rate AND bit depth will of course be relevant again. That is, Edison's recording is of course no different or better from audio interfaces' recording and thus also records at a certain audio rate and also saves the audio at a certain bit depth. This is even clearer to see when you realize that you don't have MIDI anymore, you have an audio file. And thus, you can't also just swap your notes and stuff and you literally have only the audio file (and thus its sample points) to work with (even though it gets displayed graphically as an actual wave, it's just sample points, it's kinda like a preview of what the reconstruction algorithm will do).
+
+## Waveforms
+### Saw wave
+The saw wave is the most useful and versatile wave since it's super harmonically rich. That is, it has all(?) the harmonics and these harmonics are all very and equally loud. In fact, a saw wave's harmonics are so loud that it's hard to clearly hear a fundamental tone, especially considering higher frequencies don't need to be as loud as lows to be perceived loud.
+
+*Intermezzo: A saw wave's overtone dominance is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the upper harmonics are tamed. If you don't do this, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. With filtering you can keep the wave at your current volume where it gives nice bottom-end without them being ear-piercingly loud due to the harmonics. Also, for sounds where you mainly want high-end, doing the opposite is also true of course.*
+
+Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw. 
+
+Again, a common thing is to low pass filter saw waves at least a little bit since the loud harmonics are really harsh especially in the upper ranges. Additionally, this also mimicks a bit the harmonics decay that normal instruments also go through making the wave a bit more musical.
+
+Either way, all this doesn't mean that starting from a saw is always easiest. There are other waves too with different timbres that may already put us closer to what we're after so in that case it would be a bit silly to start from a saw wave.
+
+### Square wave
+A square wave is similar to a saw as in that it is very harmonically rich. A square wave is what "perfect" distortion would look like basically. The difference between a square and a saw is that the square only has odd harmonics. This is still rich in sound but less rich and it also has a different timbre than the saw.
+
+### Triangle wave
+A triangle wave is less rich in harmonics and decays quickly too. Because of this it is the go-to waveform for chiptune basses. It can also be used for non-chiptune basses but since we have access to filters and stuff, producers often tend to use a low-passed saw filter which gives a similar effect and is a bit more versatile in where you place the cut off.
+
+### Sine wave
+A sine wave is a pure tone. It's very harmonically poor as it has no harmonics which means it doesn't really have charachter and may get lost in the mix. This is why a sine wave often gets saturated a bit to at least give it some bite. Also, since the sine wave is so thin it can be plopped into a mix without taking much space, just make sure to not make it too loud since because you don't hear it cut through the mix you tend to boost it. Favor saturation over it and favor not making a sine wave a main element (though in quiet sections or sparse mixes it can definitely work if you have some saturation and a bit of width and octave layering).
+
+Either way, the sine is often used as a (sub) bass. Again, in the lows you don't necessarily need too much harmonic content anyway so having bass and preventing the low-end to mud up is easily done with a pure tone single frequency sine wave. Again, to prevent from sounding a bit too clean and thin in the low-end you usually start either from a saw and low-pass it until it sounds like a saturated sine or you saturate the sine straight away.
+
+## Settings
+### Unison and detune
+> See stereo imaging article for how exactly unison/detune works
+
+The unison knob is an important but overused one. What it does is basically make a sound wider. What it does **not** do, unlike popular belief, is make the sound denser as making stuff wide does not magically add harmonic content. A sound with unison sounds fat because it has added voices all spread accross the stereo field making for a "big" sound. If these voices weren't spread (and/or the same pitch), the sound would just increase in volume.
+
+That said, heavy detune, i.e. unison where the added voices are "heavily" different in pitch, there will be noticeable harmonic content added since the pitches are so different from the original pitch. This is indeed used to add thicknes to a wide sound but usually this one is mixed in with a less detuned oscillator to make the awful sound of that heavy detuned (but thick) oscillator be noticed less.
+
+Either way, this fx is overused or too much unison is added to a sound, especially by beginners. Since unison makes stuff wide it adheres to the same drawbacks as other stereo imaging techniques and practices. For example, for a pad, a (dense) chord stack on a synth patch with a lot of unison and/or detune is usually okay (and perhaps what you want) as the pad atmosphere nicely spans the stereo field due to the patch and due to the chord stack it also nicely spans the frequency spectrum. And since a pad is usually not a main element, there doesn't need to be focus on it and also it's further back in the mix so the density doesn't overpower the track but thanks to width and thickness it creates this nice air around the whole track.
+
+And that's the main drawback: lack of direction and focus. For example, a supersaw chord stack in future bass often also has a lot of unison and is pretty wide. Again, this is okay because its purpose is to fill up the stereo and frequency field making a wall of sound, there is no need for it to be focused/in your face/intimate. Also, on top of that and below that you'll usually find that the bass and/or leads are less wide and more focused. So the listener has some elements to focus on whilst the supersaws fill up the mix. Also the chord stack doesn't always have to be super wide and/or stereo either. If in your mix the chord stack's purpose is to be more focused and less wide (and more intimate), then reduce the unison by all means.
+
+*Intermezzo: If everything is wide, nothing is wide. And if everything is wide, everything sounds super directionless adn there isn't really a clear thing to focus on for the listener. Seriously, the graph of your music sounding better does not go up with the wider you make every sound. It's about contrast. Make some stuff wide that you want to be wide make other stuff less wide or completely mono that you want to be more focused. This is what will create a multidemnsional mix rather than a mono 1D or a 1D directionless mix.*
+
+*Intermezzo 2: Rhodes and stuff often also have a bit of imaging going on (how?) but usually not as wide and directionless. Again, they are also not meant to be this wide and stereo-filling entity like a future bass supersaw. Meanwhile, there is a preset for strings on a stereo enhancer because often strings are kind of like pads these backing entities of sounds that you kind of want to be mix filling and don't need to be focused.*
+
+So with unison you want to think what the purpose and function of a sound is. Often a lead you'll want to be more focused and in your face and sometimes even mono. That doesn't mean it can't have unison, in fact, often times a (very) width lead layer gets layered under the focused (more) mono layer for extra fatness. Same with bass, you'll want that more focused usually so (almost) mono but that doesn't mean you can't layer a wide bass with/under it. Or, you can straight up make your patches some kind of wide (but that they are still centered which is the point but have some width) but usually your focused patches you'll want less voices and less detune in case you add a bit of width just to keep them more focused.
+
+*Intermezzo: Contrast is important and cool stuff has been created by working around wide ande centered patches. [A common complextro thing is to have a centered bass quickly followed by a wide supersaw stab making for a really cool contrast](https://www.reddit.com/r/edmproduction/comments/1bz53t/how_often_do_you_use_stereo_width_techniques/). Or having basses fast following eachother having different widths or even automated widths for cool stereo imaging fx. Again, goes hand in hand with "if everything is wide nothing is".*
+
+In short, you can use unison on a lot of patches but think about the purpose. A pad usually benefits from this, a chord stack that is meant to be filling usually too, leads, bass and other elements you want to be careful width. Either way, look at some (e.g. Serum) presets and look at their unison settings (for leads and basses). Do keep in mind they may be exagarated as lots of those are designed to sound good and huge on their own.
