@@ -43,9 +43,7 @@ All topics in here are thoroughly explained to get a good understanding. For bri
 
 - [Aliasing](/in-depth/aliasing.md)
 - [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
-- [Common FX explained](/in-depth/common-fx-explained.md)
 - [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
-- [Distortion](/in-depth/distortion.md)
 - [Equalization](/in-depth/equalization.md)
 - [Intermodulation](/in-depth/intermodulation.md)
 - [Mixing and mastering guide](/in-depth/mixing-and-mastering.md)
