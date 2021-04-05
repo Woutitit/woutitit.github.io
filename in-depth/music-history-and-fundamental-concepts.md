@@ -179,6 +179,11 @@ https://physics.stackexchange.com/questions/352754/why-are-cosine-and-sine-funct
 liek saw wave real good cuz so rich in harmonics like in a synth like sytrus u can literally just subtract harmonic amplitude to mimic certain instruments cuz a lot of instruments have only harmonics as overtones so close to mimic timbre (if u can get the adsr right too)
 
 drums have overtones rather than harmonics
+
+Like snare have overtones rather than harmoniocs and follow more like a bessel function but that doesn't matter because those are used as percussive hits anyway and not meant melodically. They are kinda like full freq all over the place stuff which is also why often white noise can kinda represent a snare or add to the thickness of it.
+
+What about kick? More melodic but sitll not function except fundamental tone more clear sometimes?
+
 Harmonics
 So when a string vibrates or other stuff a lot of type of vibration happen basically but only the integer multiples of a string keep vibrating and don't die out immediately, since they nicely fit in the string, and thus the loudness of these vibrations and how long they do before they die out (which is all depending on the type of wood, instrument, how u played the string, etc.) defines the timbre:
 https://music.stackexchange.com/questions/5489/why-do-harmonics-happen
