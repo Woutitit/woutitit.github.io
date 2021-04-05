@@ -20,6 +20,7 @@
 14. [Low bit depth and dither](#low-bit-depth-and-dither)
 15. [Signal-to-noise ratio (SNR)](#signal-to-noise-ratio-snr)
 17. [Audio vs. MIDI playback](#audio-vs-midi-playback)
+18. [Sources](#sources)
 
 ## TL;DR
 In this article we go over sample and recording quality since recording analog sound waves and storing them digital does pose some challenges. That said, there are plenty of ways now to correctly record sounds digitally. The main gist is that we want to record at at least a sample rate of 44.1k Hz and a bit depth of 16 bits. Luckily for us, in practically all audio interfaces this is the standard so we don't really have to worry about it.
@@ -230,17 +231,6 @@ https://www.lifewire.com/signal-to-noise-ratio-3134701
 
 Now, all this said though, is that you should really not worry too much about dither. As you can see here https://www.youtube.com/watch?v=cIQ9IXSUzuM& in the dither section, 16 and 24 bits have literally inaudible disortion. In fact, they have a *signal-to-noise* ratio of respectively 96db for 16-bit and 144db for 24-bit (or is that for *noise floor* with dither? Either way it's not going to be too fluctuating). What that means is that for 16-bit, the actual signal is 96db louder than the *noise floor*. And thus, ,if your signal is not even 96db loud (which is already very loud) you won't even hear the *noise*. On top of that, even if the noise becomes as loud as for a human to be audible, the actual signal is already so loud that it completely drowns out - to our ear anyway - the noise.
 
-## Conclusion
-So to conclude, should we still worry about samplerate and bit depth in a practical setting? Well, yes but not in depth. 
-
-First of all, you should know that in order to have a quality recording you'd want to have a samplerate of at least 44.1k Hz and a bit depth of 16-24 bit. However, you usually don't need to worry about that since most modern audio interfaces will already do that out-of-the-box obviously. Even if processing your audio with non-linear effects (which can cause aliasing) you don't need to worry since our soundcard (and any good soundcard) has a bandlimit of 20k anyway (?).
-
-Secondly, you also need to be high-level aware of what recording at HIGHER rates and bit depths can do for you. They do NOTHING for audio quality but they can be useful if you want to later manipulate and add (non-linear) effects to the audio. See "Sampling" for exactly what they can do for you. Note also that in terms of intermodulation distortion (See "Intermodulation Distortion"), a higher sample rate is disfavored and that if you're recording at a high sample rate (and your mic can pick it up) and then downsample (without filtering) you'll get a ton of aliasing of these higher frequencies (see "Aliasing", the distortion part, it's basically the same).
-
-Thirdly, you need to be high-level aware of what recording at LOWER rates and bit depths can do for you. You need to know that these will audibly lower audio quality. Generally, when you see samples out there that are recorded at a sample rate of less than 44.1k Hz and/or a bit depth of 8-bits and lower you need to realize these are low bandwidth/resolution recordings. That said, they CAN be used if you like how they sound and if you like the distortion that both aliasing and/or bigger quantization errors bring. In fact, often people might *bitcrush* (https://en.wikipedia.org/wiki/Bitcrusher) a perfectly fine sample or synth sound as a form of saturation/distortion because these effects both add (and in case of *downsampling* also remove) harmonics thus make a sound warmer (what is warmer?). To read more about how people use both sample rate reduction and resolution reduction as effects read "Common FX explained" and "Sampling".
-
-Lastly, you do need to be aware about *aliasing* and when it can occur, what it sounds like, when it is a problem and what can be done about it. We touched on it here, but to really learn about it, go to the article "Aliasing" and "Sampling".
-
 ## Audio vs. MIDI playback
 > To learn more about MIDI, see "Synthesis" article.
 
@@ -264,5 +254,3 @@ The thing is, MIDI really is only note and patch information (i.e. synth setting
 - https://www.sciencedirect.com/topics/engineering/nyquist-frequency
 - https://www.sciencedirect.com/topics/engineering/samplerate
 - https://www.youtube.com/watch?v=-jCwIsT0X8M
-
-
