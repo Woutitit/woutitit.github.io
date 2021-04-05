@@ -27,7 +27,7 @@ In this article we go over sample and recording quality since recording analog s
 
 The same goes for digitally created sounds. We also don't need to worry about those since it's MIDI information and not sample information needing to be converted.
 
-The only thing that is still kind of relevant is downsampling or upsampling. Upsampling is rare and doesn't really have benefits but downsampling is often done to purposely make a sound sound less high quality because people like the aesthetics of it.
+The only thing that is still kind of relevant is downsampling or upsampling. Upsampling is rare and doesn't really have benefits (only if you want to apply non-linear FX maybe but even then it's worse for intermodulation) but downsampling is often done to purposely make a sound sound less high quality because people like the aesthetics of it.
 
 ## A bit of history
 So all the way back in the 19th century there was no way to capture audio. Whatever was heard was forever gone and only captured in memory. That was until in that same age Thomas Edison (yes, that guy) invented the phonographe. Basically a device that could capture the vibration of analog sound through its horn which then got etched into a metal layer around a cillinder (https://nl.wikipedia.org/wiki/Fonograaf). This, in turn, was the precursor to the grammophone (https://nl.wikipedia.org/wiki/Platenspeler) which was basically an improved version that etched stuff into a vynl plate instead. Even later came tape recording (https://en.wikipedia.org/wiki/Tape_recorder) that also used some analog magnetic wizardry to store recordings of whatever sound information it got and was even more improvement upon its predecessors!
