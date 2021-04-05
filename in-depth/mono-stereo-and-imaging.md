@@ -14,9 +14,9 @@ There used to be a time where we didn't have to talk about this topic. Everythin
 Now, at first glance, stereo might just seem like it trumps mono in every aspect. In terms of theoretical possibilities, this is true since stereo can do everything mono does and more. However, practically there are benefits to both and depending on the situation you'll want to favor one over the other.
 
 ## Mono vs. Stereo
-https://music.stackexchange.com/questions/24631/what-is-the-difference-between-mono-and-stereo
-https://www.gearslutz.com/board/low-end-theory/493561-can-someone-explain-phantom-center-me.html
-https://en.wikipedia.org/wiki/Phantom_center
+- https://music.stackexchange.com/questions/24631/what-is-the-difference-between-mono-and-stereo
+- https://www.gearslutz.com/board/low-end-theory/493561-can-someone-explain-phantom-center-me.html
+- https://en.wikipedia.org/wiki/Phantom_center
 
 The linked answer could not have worded it better. Mono is the use of a single channel (audio signal) that can then be send out to one or more speakers. Stereo is the use of two channels that requires at least two speakers so that 1 channel can be send to one speaker and the other channel to the other speaker.
 
@@ -25,7 +25,7 @@ Now obviously, in the case of stereo, if you're just going to play an exact copy
 Now, one note to add here is that when we here mono from a stereo setup (so two speakers with 2 different channels) it simply means the 2 different channels have the exact same output making it APPEAR as a mono signal, i.e. a center. We also call this the *phantom center*. This is an "important" distinction since if you would have 2 different speakers, but they are mono, next to eachother, you would have the same signal too, BUT you'd have it louder (?) since the waves add up.
 
 ## How stereo gives direction
-https://www.dawsons.co.uk/blog/what-is-panning
+- https://www.dawsons.co.uk/blog/what-is-panning
 
 Now, how can having 2 channels create direction? Well, you can test it yourself. Get two speakers, setup one left of you and one right of you. Then, sit right in the middle of them. Alright, now just produce a basic sine wave in your DAW. What you'll hear is a mono signal since the signal of the sound wave gets send to both your speakers equally. However, if you were to hard pan this sound to the right, you'll notice something. Yup, indeed, the sound appears as if it comes from the right! 
 
@@ -38,9 +38,9 @@ Later we'll go over some common applications of "direction stereo" but read my i
 That said though, you generally don't want to go overboard with panning sound left and right, especially not with your main sounds since it's going to be very weird to have, e.g. your kick drum being audibly louder in the right ear than the left ear. Therefore, generally speaking, if you're going to do "direction stereo" you should mainly do it on ear candy things or on short sounds rather than main elements such as bass, drums, leads and chords that usually really need to be equally heard in both ears to not make the sound weird. Of course, you can still experiment with some short automations here and there of these elements to add some suprising effects but in these cases you want to keep it brief and/or subtle.
 
 ## How stereo gives width
-https://www.justmastering.com/article-stereo-width.php
-https://www.soundonsound.com/techniques/classic-stereo-widening
-https://www.kontactrecords.com/easy-ways-to-greatly-improve-your-mixing-fundamentals/
+- https://www.justmastering.com/article-stereo-width.php
+- https://www.soundonsound.com/techniques/classic-stereo-widening
+- https://www.kontactrecords.com/easy-ways-to-greatly-improve-your-mixing-fundamentals/
 
 Where the x-axis depicts the frequency range of a sound and the z-axis the volume, the y-axis represents the width/panning of the sound.
 
