@@ -5,10 +5,10 @@ The saw wave is the most useful and versatile wave since it's super harmonically
 
 *Intermezzo: A saw wave's harmonical richness is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the upper harmonics are tamed. If you don't do this, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. With filtering you can keep the wave at your current volume where it gives nice bottom-end without them being ear-piercingly loud due to the harmonics. Also, for sounds where you mainly want high-end, doing the opposite is also true of course.*
 
-Either way,
-What's their usage etc. their overthones
+Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw. 
 
-If you also apply this knowledge briefly to synthesizer waves, you can see how useful the saw wave is. The saw wave basically has ALL harmonics and has them ALL very strongly making it a really rich waveform. This is really handy in subtractive synthesis (were you start with a certain wavefrom and cut harmonics) as it gives you a blank canvas in which direction you want to go with the sound. A common way is simply low-pass filtering the saw wave in the high grequencies to mimick a bit how real instruments harmonics also kind of diminish usually the further up they go. However, you could literally go as far as mimicking certain real instrument by making the harmonics of your saw the same in strength as on the real instrument. If you then mimick the ADSR a bit then you'll have a sound that sounds close to that instrument (in theory). So yeah, the saw gives you a lot of potential into crafting sounds that sound realistic or just as if they could be real instruments. Of course, that doesn't render other waves useless (see Synthesis article).
+That doesn't mean that starting from a saw is always easiest. There are other waves too with different timbres that may already put us closer to what we're after so in that case it would be a bit silly to start from a saw wave.
+
 
 Also in electronic music of course, you don't need realism necessarily so yeah it all depends. But in the end a saw wave is just really versatile. 
 
