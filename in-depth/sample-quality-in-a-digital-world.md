@@ -1,27 +1,30 @@
 ## Audio quality & Recording
 
 ## Table of content
-1. A bit of history
-2. Analog vs. Digital recording
-3. DAC/ADCS & Storing sound digitally
-4. AD/DA Conversion
-5. AD Conversion: Sampling
-6. Sample rate & Audio Quality
-7. THEORETICAL Reconstruction Accuracy: A theorem & a formula
-8. Nyquist-Shannon theorem: a closer look
-9. Low sample rate, aliasing & uniqueness
-10. Bandlimiting
-11. PRACTICAL Reconstruction Accuracy: Quantization
-12. Bit depth
-13. Quantization noise
-14. Low bit depth and dither
-15. Signal-to-noise ratio (SNR)
-17. Audio vs. MIDI
+1. [TL;DR](#tldr)
+1. [A bit of history](#a-bit-of-history)
+2. [Analog vs. Digital recording](#analog-vs-digital-recording)
+3. [DAC/ADCS & Storing sound digitally](#dacadcs-storing-sound-digitall)
+4. [AD/DA Conversion](#adda-conversion)
+5. [AD Conversion: Sampling](#ad-conversion-sampling)
+6. [Sample rate & Audio Quality](#sample-rate-audio-quality)
+7. [Theoretical Reconstruction Accuracy: A theorem & a formula](#theoretical-reconstruction-accuracy-a-theorem-a-formula)
+8. [Nyquist-Shannon theorem: a closer look](#nyquist-shannon-theorem-a-closer-look)
+9. [Low sample rate, aliasing & uniqueness](#low-sample-rate-aliasing-uniqueness)
+10. [Bandlimiting](#bandlimiting)
+11. [PRACTICAL Reconstruction Accuracy: Quantization](#practical-reconstruction-accuracy-quantization)
+12. [Bit depth](#bit-depth)
+13. [Quantization noise](#quantization-noise)
+14. [Low bit depth and dither](#low-bit-depth-and-dither)
+15. [Signal-to-noise ratio (SNR)](#signal-to-noise-ratio-snr)
+17. [Audio vs. MIDI](#audio-vs-midi)
 
 ## TL;DR
 In this article we go over sample and recording quality since recording analog sound waves and storing them digital does pose some challenges. That said, there are plenty of ways now to correctly record sounds digitally. The main gist is that we want to record at at least a sample rate of 44.1k Hz and a bit depth of 16 bits. Luckily for us, in practically all audio interfaces this is the standard so we don't really have to worry about it.
 
-The same goes for digitally created sounds. They don't need any stored digital numbers. You see, whenever a digital synth plays it simply interprets MIDI and patch information and then (through some routing via its own mixer channel and the master channel) it sends out electric voltages DIRECTLY to the speakers.
+The same goes for digitally created sounds. We also don't need to worry about those since it's MIDI information and not sample information needing to be converted.
+
+The only thing that is still kind of relevant is downsampling or upsampling. Upsampling is rare and doesn't really have benefits but downsampling is often done to purposely make a sound sound less high quality because people like the aesthetics of it.
 
 ## A bit of history
 So all the way back in the 19th century there was no way to capture audio. Whatever was heard was forever gone and only captured in memory. That was until in that same age Thomas Edison (yes, that guy) invented the phonographe. Basically a device that could capture the vibration of analog sound through its horn which then got etched into a metal layer around a cillinder (https://nl.wikipedia.org/wiki/Fonograaf). This, in turn, was the precursor to the grammophone (https://nl.wikipedia.org/wiki/Platenspeler) which was basically an improved version that etched stuff into a vynl plate instead. Even later came tape recording (https://en.wikipedia.org/wiki/Tape_recorder) that also used some analog magnetic wizardry to store recordings of whatever sound information it got and was even more improvement upon its predecessors!
