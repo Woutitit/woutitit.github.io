@@ -2,7 +2,7 @@
 
 # Analog recording in a digital world
 
-## Table of content
+## Table of contents
 1. [TL;DR](#tldr)
 1. [A bit of history](#a-bit-of-history)
 2. [Analog vs. digital recording](#analog-vs-digital-recording)
