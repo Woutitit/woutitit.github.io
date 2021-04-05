@@ -50,6 +50,7 @@ List of all the gear that I currently own or want to own.
 - Tweakbench Toad (classic NES drums emulation)
 - Repro 1 & 5
 - Diva
+- Vital
 
 ### Monitoring
 - Voxengo SPAN (frequency analyzer)
