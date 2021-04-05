@@ -13,7 +13,7 @@ Alt + Dragging (?) on velocity = normalizing notes on default velocity
 
 ### Troubleshoot
 #### 3rd-party VSTs lose focus after knob tweak
-On top of your VST (on the Fruity Wrapper top bar) you'll see to the right (somewhere next to the 'x' icon) a keyboard thingy. You have to toggle that:
+On top of your VST (on the Fruity Wrapper top bar) you'll see to the right (somewhere next to the 'x' icon) a keyboard thingy. You have to toggle that (see below picture, though, on the picture you can't see it well as it's half out of frame):
 
 ![nklz651m1x461](https://user-images.githubusercontent.com/17428965/113638649-a648de00-9677-11eb-8427-04c95c4888af.png)
 
