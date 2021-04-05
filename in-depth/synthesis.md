@@ -3,7 +3,7 @@
 ### Saw wave
 The saw wave is the most useful and versatile wave since it's super harmonically rich. That is, it has all(?) the harmonics and these harmonics are all equally loud. In fact 
 
-*Intermezzo: A saw wave's harmonics are so loud that it's hard to hear the fundamental tone. This is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the. Otherwise, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. For sounds where you mainly want high-end, doing the opposite is also true of course.*
+*Intermezzo: A saw wave's harmonics are so loud that it's hard to clearly hear a fundamental tone, especially considering higher frequencies don't need to be as loud as lows to be perceived loud. This is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the. Otherwise, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. For sounds where you mainly want high-end, doing the opposite is also true of course.*
 
 Either way,
 What's their usage etc. their overthones
