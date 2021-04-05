@@ -1,7 +1,4 @@
 # EQ
-https://www.musicianonamission.com/approach-equalization-two-types-eq/
-https://ledgernote.com/columns/mixing-mastering/mixing-eq-tips/
-https://ledgernote.com/columns/mixing-mastering/how-to-mix-vocals/
 
 ## Table of contents
 1. EQ as an effect
@@ -70,33 +67,18 @@ Automation on a so called EQ sweep is common together with a filter sweep to cre
 ## EQ vs. Volume vs. Compression
 EQ is also done vs volume for if the patch would hit that certain range, then the volume gets a bit tampered on those frequencies. You see, if the patch is loud enough but if it hits a certain area where it shouldnt be the dominant thing, we have the EQ in place to lower the volume there then.
 
-## Notes
-best practices
-cut before you boost but don't be afraid to boost (see livestreams)
 
-mid scoop kick and bass and boost highs and lows
+## EQ useless frequency 
+In a hypothetical situation, if you use a pure saw wave as a bass (because you like the richness) you'll find that it is very loud right? And so, you'll proceed to turn it down. However, now you find that it seems like your bottom end is too little if you look on a spectrum analyze so you turn it back up. But then the saw wave is too harsh again. You can play this game all day. So the problem here is that you want the nice bottom end of your bass, that's what bass is for (it also plays in the sub range for that reason). So, what you want to do is EQ out the top range.
 
-Also, for a lot of things (lead top bass chords anything that isn't bass or kick) you'll want to cut out the lows since lows get cluttered very easily. How much exactly depends but usually starting from 50Hz (sub bass zone) onwards, do a gentle slope cuz else ur mix might get cut out too much since too harsh cut.
-
-so might be something to say to be careful in high end too cuz two fundamentals same note high end will equally clash and amplify though. But i guess here more wiggle room because there are not so much main elements here and u can really like play with volume to make those that hit on the same fundamental hit a bit lower, also the timbres will be different and since there is more space between harmonics and stuff and different timbres and shit these will clash less so i guess mainly about stuff that hits the same notes and or certain octaves that we gotta be careful and play with some volume balancing and eqing and then maybe some other clashing too. Note that this strictly for mixing, for sound design fx you might wanna boost the high-end a ton to make ur patch or whatever brighter.
-
-Figuring out how much and if you need certain frequencies of an instrument if there are instrument already in that range. with mids and highs more room.
-
-
-
-we choose the kick to be the dominant instrument at its frequency range (usually 50-60Hz) because for that one hit that it does, we want it to be loud and clear. The bass
-
-
-at what frequency (range) you want to cut and why. A very common scenario is the low-end where there is very little space. Usually, the kick bass and a fair bit of the snare live there.
-
-
-
-If volume does not seem the issue, then you can start carving. Figure out thez dominant instrument in that area.
-
-cut fundamentals i guess for that nasally sound in intro of that ninja dude "u dont need 3rd part plugs" che k again that one or at fundamental of other
-
-boost in the other
-
+## How come if layer identical sounds (with harmonics)
+that it aint duplicating in volume?????? Like this is how i can layer like without cutting fundamental? Is this only problem in lows? Why? cuz harmonics closer on eachother or?
+Or it's not harmonics duplicating it's the total sound duplicating so all harmonics increase a teensy bit in volume to make a total of double so loud? But even then i don't see it on the meter. Investigate 
 ## Mid/Side EQ
 (on master sometimes to cut some of low-end i guess?
 and also cut some slight sub from bass???
+
+## Sources
+- https://www.musicianonamission.com/approach-equalization-two-types-eq/
+- https://ledgernote.com/columns/mixing-mastering/mixing-eq-tips/
+- https://ledgernote.com/columns/mixing-mastering/how-to-mix-vocals/
