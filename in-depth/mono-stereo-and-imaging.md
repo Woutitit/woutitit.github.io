@@ -1,13 +1,12 @@
 # Mono, stereo & stereo image
 ## Table of contents
-1. Introduction
-2. Mono vs. stereo
-3. How stereo gives direction
-4. How stereo gives width
-5. Stereo width techniques
-6. When to use stereo vs. mono
-7. Common stereo effects
-8. Notes
+1. [Introduction](#introduction)
+2. [Mono vs. stereo](#mono-vs-stereo)
+3. [How stereo gives direction](#how-stereo-gives-direction)
+4. [How stereo gives width](#how-stereo-gives-width)
+5. [Stereo width techniques](#stereo-width-techniques)
+6. [When to use stereo vs. mono](#when-to-use-stereo-vs-mono)
+7. [Common stereo effects](#common-stereo-effects)
 
 ## Introduction
 There used to be a time where we didn't have to talk about this topic. Everything used to be mono. However, now that stereo has been here for several years (decades?) we do need to talk about both of them.
@@ -81,73 +80,3 @@ in general but more purpose one should read the general anaylsis add here tip to
 - Slightly beef up lead
 - Double/Quad tracking guitar/(backing) vocals
 - Ping pong delay
-
-# Notes
-## Recording
-Recording stereo is since recording is also mono. // Talk here about recording in stereo vs. mono and when to do what.
-## How stereo gives width
-
-## Balancing stereo & mono
-
-## Mono compatibility
-Talk about what it is, why it is important (clubs, etc.) and how to (generally) achieve it. Also, the problems like phase issues or mud, why the occur and how to solve.
-- What is chorus flanger phaser?
-- So hyper is just pseudo chorus? why pseudo? And dimension is just pseudo stereo? Like with 4 delays, look in manual: file:///C:/Users/Wout/Documents/Xfer/Serum%20Presets/Serum_Manual.pdf Why 4 delays? Like "dum" "dum" "dum" "dum" what's the benefit of that than just one delay sound?
-- The classic âmagic numberâ for unison is 7 Why? I have seen 7 and 5 also? Like with what ratio then?
-- Why odd number when doing unison? Cuz it seems then we have a nice voice in the center, which is good for mono? When is even number beneficial? If wanting more detune? (Look up!)
-- detune (is detune always harmonic? Can detune be non-harmonic, like not produce 12-TET notes ) used to beef up sound.
-- How does reverb give stereo width? Why delay and reverb both for stereo? https://www.musicradar.com/how-to/8-ways-to-use-reverb-and-delay-to-create-super-stereo-mixes
-- LCR panning, why so common in rock? Why not just LR panning?
-- There is a wahwahwah sound if you left to right pan a sine wave, is that what chorus does too?
-- Talk about effects that can cause width.
-
-Also, for each section of production articles whether in depth or not (except general) keep a heading of unprocessed shit where u have a note that is related to an article but u havent had the time to properly write it down. 
-
-So dive into the concept of stereo image and how it is created and how i should care and share some techniques. In the general we can have stereo image tips but just like tips like (do x for a neat stereo fx or do x for interesint panning fx)
-!!! STEREO AND MONO !!!
-Note that we're talking mono image, stereo IMAGE and WIDENING and not just stereo itself since stereo ITSELF simply means 2 sounds from 2 sources like for example a headphone. If a headphone were mono you would only have a speaker on one ear. Same with mono, it's about centered sound and not "sound just coming from one speaker". You can't have stereo without more than 1 speaker though, that is true.
-
-So, the concept of stereo and mono is pretty simple. Usually in the real world pretty much all the sounds we hear come from a direction and we kind of hear that direction. So these sounds appear in the stereo field somewhere. However, when we play a synth, the sound output is not left or right to right biased. Nope, by default a synth init patch will output a sound that is 100% centered, i.e. mono. This means that the sound will appear as it comes from the center, i.e. one speaker in front of you. However, usually in modern music - to be able to create more lively experiences - we have stereo speakers. In fact, the headphones we wear are 2 speakers. One on our left ear and one on the right ear. Now, why does the synth still sound centered in stereo headphones? Well because the synth outputs the EXACT WAVEFORM (AND VOLUME) (note the stress on EXACT) with the exact same volume in both left and right ears. Our ears and brain will perceive this as mono, centered. Now, this can ONLY happen if the exact same waveform is output in left and right. From the moment that is not the case you will hear some form of stereo width/direction going on. For example, have your synth (or duplicate your exact synth) and pan a quarter to the left and a half to the right. It's the exact same synth but since the right is higher in volume (slightly different waveform due to volume?) you will perceive ur SINGLE synth coming from the right direction more. Now, this ain't really widening like for real, though, it's panning (also widening) and can be really handy. 
-
-Now for real wideness you thus want to create differences in the waveform of your single synth (or layer or whatever). This can for example be done by having a slight delay on ur synth and then panning both to the left and right. Basically your sound will bounce from left to right (so the waveform will be left, then right) earphone but since it's so fast you will not hear the delay but instead it more sounds like a stereo effect as in, sounds comes kind of from around you (which is true since it comes from left and right real fast alternating). This is known as the Haas effect. And though NOT recommended (due to monocompatibility issues - look up precisly what that is) it's still a technique that can be used.
-
-Also, with panning what you could is kind of pan layers (like maybe in orchestra pan a flute and piano or whatever) and kind of pan one right and the other left and let them play the same melody. This, while not the same sound can also give some stereo width.
-
-Now, there are many more techniques but basically you want to have instances of your synth (or a delay of one synth) and have them SLIGHTLY not similar because even the slightest change our ear can pick up. 
-
-Another trick is detuning. Not only does detuning (slightly) give us an interesting phase movement effect, it also detunes a waveform slightly so that when you have the same oscillator and then another detuned osc (for the rest it's exactly the same) or a detune delay emulation on the main synth whatever, you will immediately hear your sound being wider/fatter since now you have two sounds but two slightly but yet the same sound (though note that you NEED to pan the them both so that there is an actual widening since ohterwise you would just have an osc and a detuned osc blasting both 50/50 L/R, need to take advantage of the fact that one osc is very similar but slight detuned to make your sound wider, though some synths might do that out of the box with their detune knob). Now with detuning it's important to not DETUNE TOO HARD (like more than 50 cents) since then the waveforms will be so far apart (like almost a semitone) that instead of wide it's just going to sound like crap. Therefore, keep the detunes under 50 cents.
-
-Example of stereo widening in use could be a clap or snap where you kind of what a center snap but then you can also have different snaps panned more left and right somewhere in this video here: https://www.youtube.com/watch?v=6eCK7wwSGxY nice way to create a thick sounding snap, though you don't want everything wide but with perc like snap,; clap why not.
-
-what should be wide and what not? also in https://www.youtube.com/watch?v=6eCK7wwSGxY this video, though more research needs to be done.
-
-what is M/S EQ and stuff and how it helps in stereo
-unison vs. chorus vs. detune vs. flanger vs. phaser
-
-Other techniques to widen your stereo and also WHY you want to widen your stereo and WHY stereo sounds fatter and WHEN to stereo and WHICH instruments and WHICH not:
-https://blog.landr.com/stereo-widening/
-
-links:
-https://blog.landr.com/stereo-widening/
-https://www.reddit.com/r/edmproduction/comments/1i37bh/why_does_detuning_oscillators_widen_a_synths/
-https://www.reddit.com/r/edmproduction/comments/9luun3/how_does_the_widening_a_stereo_image_actually/
-
-IMPORTANT PICTURE WHEN PLACING MONITORS FOR CORRECT PERCEIVING OF STEREO IMAGE: http://coremic.com/wp-content/uploads/2017/10/Home-Studio-Monitors-Placement.jpg
-of course ain't no problem in headphones unless you're wearing them weird lol.
-
-what is (stereo) flanger?
-
-so i guess the more left or right (or left AND right) a sound ios the more wide???
-
-Chorus is an audio effect. It takes a dry input signal and delays it a tiny bit to create a second voice, and a little bit more to create a third voice, etc. These voices might be panned individually. Then, changing the depth (length of the delays) around over time makes the chorus effect.
-
-Chorus simulates multiple voices given an input signal.
-
-Unison is not an audio effect. Unison refers to the effect of multiple voices playing the same note, frequently with small variations in pitch. You know, like the violin section in an orchestra.
-
-Unison actually is multiple voices.
-
-
-## Notes
-YO PER TRACK DO ALSO LIKE A STEREO AND FREQUENCY ANALYSIS WITH THE VOXENGO TOOLS SO THAT WHEN I HEAR LIKE INTERESTING SOUNDS AND I AINT SURE IF THEY MONO OR STEREO I CAN SEE WITH THE TOOLS WHETHER IT IS ACTUALLY STEREO OR MONO. THIS IS HANDY TO SEE WHAT IS USUALLY STEREO/MONO IN GENRES I WANT TO PRODUCE (OR HOW MUCH).
-
