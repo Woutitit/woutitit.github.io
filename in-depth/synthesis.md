@@ -11,6 +11,7 @@
 
 ## Introduction
 //
+
 ## Why synthesis
 While in theory you could recreate any sound you'd like with synthesis, synthesis (and synthesizers for that matter) are generally NOT meant for that purpose. They are meant for you to be able to create your own sounds. This is (partially) why (subtractive, see later) synths don't offer realistic waveforms but harsh, frequency-rich waveforms because the math is easy and the frequency content is so rich that through a combination of these waveforms, filters, ADSR, LFOs, etc. you can make sounds that sound musical. They might not sound like a real instrument, but they sound musical, especially since real instruments alre also nothing more than filtered out, ADSRed (sometimes LFOd) waveforms. Also, since these waveforms are so rich, it's a very good way to start and sculpt something good out of it rather than have realistic unrich waveforms and try and sculpt something else out of it. With these waveforms you can be flexible and go any direction you'd like.
 
@@ -76,7 +77,7 @@ The saw wave is the most useful and versatile wave since it's super harmonically
 
 *Intermezzo: A saw wave's overtone dominance is why if you have a bass, especially one that doesn't need to fill the whole frequency spectrum, you'll want to low-pass (or at the very least low-shelf) filter the wave so that the upper harmonics are tamed. If you don't do this, for the bass to not be too loud in the mix you would need to turn down the wave in volume (since the high frequencies make it loud) but then you're turning down the low frequencies too causing you to have too little low-end. With filtering you can keep the wave at your current volume where it gives nice bottom-end without them being ear-piercingly loud due to the harmonics. Also, for sounds where you mainly want high-end, doing the opposite is also true of course.*
 
-Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw. 
+Because of this richness, a saw wave is ideal in subtractive synthesis since we basically have "everything" but every instrument or sound has "a few things (read: less harmonics and per harmonic it's less loud)" but just in a different way. So no matter which sound we want to make, we can technically always start from a saw and pair that together with the ADSR (also discuss here) - and some synths being able to precisely add harmonics/remove and amount - we can pretty much shape the sound to whatever we want and even mimick closely a lot of real instruments. 
 
 Again, a common thing is to low pass filter saw waves at least a little bit since the loud harmonics are really harsh especially in the upper ranges. Additionally, this also mimicks a bit the harmonics decay that normal instruments also go through making the wave a bit more musical.
 
