@@ -3,7 +3,7 @@
 Blabla
 
 ## A layer needs a purpose
-The key to a layer is that it has a purpose. For example, if you go to the extreme, you could technically layer two exactly the same sounds. Result? Well the same exact sound but just +3db louder. In that case you could have literally just turned up layer one +3db in volume. A better layer might have been the same sound but an octave up. In that case it may also increase total volume abour +3db but in that case at least it's not the exact same note. In that case you basically have a (very thin chord). However, again, no need for a layer as you could just make a chord in one of the same patch and get exactly the same result.
+You don't add layers for the sake of layers. The key to a layer is that it **always** has a purpose. For example, if you go to the extreme, you could technically layer two exactly the same sounds. Result? Well the same exact sound but just +3db louder. In that case you could have literally just turned up layer one +3db in volume. A better layer might have been the same sound but an octave up. In that case it may also increase total volume abour +3db but in that case at least it's not the exact same note. In that case you basically have a (very thin chord). However, again, no need for a layer as you could just make a chord in one of the same patch and get exactly the same result.
 
 Now, this doesn't mean that layers can't be similar or have a similar waveform, that layers can't be in the same frequency range or what not. Certainly not. However, the layer just needs to bring something extra to the table that the current patch doesn't have.
 
