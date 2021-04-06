@@ -148,3 +148,7 @@ It's also good to have LUFS-matched reference tracks for mixing and composing pu
 > See article "Why order of FX chain matters"
 
 If your chain is all linear FX, sure go ahead and order them how you want. However, if there are non-linear processes such as distortion and compression in there (and EQ?) you'll want to make sure to order them accordingly as often it does matter whether the EQ goes first or the compressor (as both COULD be right but it depends what you want or need).
+
+##
+> See "Layering" and "EQ articles
+Volume balance is and should be the first step in mixing instruments. However, often you'll find yourself that something isn't cutting through the mix even though it is already at a decent volume. A great example of this is with a kick (or snare). On its own it may be fine but played with other sounds it may get drowned in the mix. Now of course this could just mean that you need to EQ and balance your other sounds and/or EQ and volume balance your kick to solve it but often you might find yourself in a situation where the volume of the kick is quite loud already so turnining it up doesn't make sense. In this case it's often because the kick has a loud bottom end (which is good) so turning it up would just get overpowering in the bottom-end whilst still not cutting through (it may only cut through if you heavily increase the loudness of the kick in which case it just overpowers the whole mix and sounds quite bad). You can hear this especially on laptop speakers which inherently have less low-end.
