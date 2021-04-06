@@ -19,6 +19,10 @@ Additionally, very often transients get layered with sustains too. Like especial
 ## Layering for width
 One of the common things to do is layer for width. For example, you may have a focused mono lead but you do want to be represented a bit in the stereo field. You could make the mono lead a bit more stereo by adding a few voices and some slight detuning. You could also make it more stereo simply by keeping the lead as-is and just duplicating the lead and make that layer more stereo and mix it in. On top of that you could slighlty process that layer too seperately (like add a phase or chorus) for some extra ambient and texture.
 
+Another example may be in bass, you may find your bass is nice and steady in mono but may want some width so you could add a layer with some width to the bass. 
+
+Or for example you may want some very big spread out texture and or chords. A pad is a common example, you just make it thick with a big chord and then thick and wide in the patch to really fill up stuff. Again, as a pad this is okay because usually it's turned down way low but because of the denseness it adds nice texture and fatness and width to the mix. With chords you also just may want them to be wide to contrast the more centered leads and/or bass.
+
 ## Layering for octave(s) and harmony
 This one is prevalent in "analog" music (and stuff like in a voice too). You'll often hear in like jazz music that in the verse (or part of the chorus) perhaps just the piano plays the melody but then in the chorus (or a part of the chorus or like response to the piano call) you have a bell or a flute or whatever playing together. And often you'll hear those an octave up (and/or down). Same with vocal harmonies. Often you'll have some harmonies up (and/or down) to kind of reinforce and pierce through the mix and sound brighter. Again, bright is equal to more open and "this is the chorus" sounding while less bright is more like "this is the verse" sounding.
 
