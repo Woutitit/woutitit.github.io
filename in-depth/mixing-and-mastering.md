@@ -64,25 +64,14 @@ This is the last stage and is really just meant to bring up loudness as much as 
 
 You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
-## Mixing is about prioritization
-Mixing is all about making decisions about what to prioritize and what aids more as a supportive role. This goes for both on a song level as well as on a frequency range level.
+## Mixing is about sitting back and cutting through
+> Related articles are "How to properly sit back and cut through elements" and "How to mix kick and bass".
 
-Talking about frequency first. The bass is usually the main element in the low-end, however, you may as a beginner use a saw wave for that. The problem is that it adds to mud in the highs since it's a saw and very rich in harmonic content. It's also loud because of that but turning the volume down results in turning the low-end also down so you end up with a less loud bass but also a too quiet low-end. Therefore, high-passing is often done on a bass to preserve low-end loudness but diminish high-end loudness. Opposite is also true. If you have a lead that you need to have a certain loudness to be noticed, the lows might interfere with the bass (since too loud) so similarly you'd high-pass to get rid of that. Either way, read the article(s) for more on this.
+This tip is super important but too long to explain so please refer to above articles to know what I mean and techniques on how to do it. Basically, it's about choosing the elements that need to cut through and the elements that need to support. For example, often you'll want your kick to cut through. For cutting through you need sufficient highs so you may need to layer a kick that has highs (properly mixed) or you may need to boost the highs (or both) to make it cut through (adding more transients also helps). Similarly, if you use a saw wave as a bass you may want to sit back this element in the high frequency range (but keep the lows) since they are not needed and just interfere with elements in the highs that are meant to be there anyway. So you low-pass (or at the very least low-shelf) so the highs dissapear from the bass.
 
-Additionally getting out of the way
+Then there is also the part of, rather than making specific elements shine or tucked away based on the role, the aspect of making the support elements around the main elements get out of the way. Balancing and EQ, panning and stereo imaging are your friend here. For example, you want the lead to be the center of attention? Make it (or the main layer) centered (doesn't have to be fully mono) and have the chords perhaps be more wide "getting out of the way" of the leads (whilst adding to a wide mix). You want to add a timbre to your main centered layer? Well, make it less loud and/or EQ the fundamentals out, octave it up, pan it or widen it and m/sed it or stuff so it doesn't over power the main sound.
 
-And then paragraph cutting through. Refer to articles though so its a 3-point list of clear and priortizied mix.
-
-
-The supportive elements you usually want to make
-
-Balancing and EQ, panning and stereo imaging are your friend here. You want the lead to be the center of attention? Make it (or the main layer) centered (doesn't have to be fully mono) and have the chords perhaps be more wide "getting out of the way" of the leads (whilst adding to a wide mix). You want to add a timbre to your main centered layer? Well, make it less loud and/or EQ the fundamentals out, octave it up, pan it or widen it and m/sed it or stuff so it doesn't over power the main sound.
-
-Basically, what you want to do is get out of the way of your main elements whilst also trying to squeeze as much sound of the supporting elements too. Stuff like compression can help with that as well to make back elements more steady and noticeable. Either way though, be careful with your decisions. A little mid scoop on kick/snare, a scoop on the chords too and it really adds up to making space in the mids for your leads. Don't be too drastic since little changes add up. Same goes for rebalancing supporting elements. No element needs to be fully turned down, turning down a few elements more gently adds up too.
-
-> A famous example is featured in "How to mix kick and bass" article.
-
-
+With all these things, fx also helps. Saturation may be needed if not enough highs in th element to boost. Compression can make tucked away elements still present in the mix. And all stuff like that. But again, see the articles for a better explanation.
 
 ## Fatten a mix through layering and FX
 > See "Layering and timbre" article for more layering tips
