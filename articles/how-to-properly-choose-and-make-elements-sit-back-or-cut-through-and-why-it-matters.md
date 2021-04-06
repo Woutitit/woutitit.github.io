@@ -15,12 +15,10 @@ So with the example of the kick you have a few options. Either you choose a samp
 
 This principle also goes for other elements you want to cut through the mix. For example, a lead is often one you also want to cut through. So again, you might find yourself turning up the volume of your lead way too much and by doing that you also boost the lows in the lead muddying up the low-end of the mix. So again, you high pass the lead so you can boost the lead in volume without muddying up the sub range where it has no business anyway. And then if you still find yourself having to boost too much in volume you may need to boost the highs and/or saturate/OTT the leads or whatever you want to cut through (and again add transient shaper or layer for more cutting through). Again, you really want and need this. Even if you don't notice it in your headphones, laptop listeners will thank you.
 
-*Intermezzo: Kick is more important to cut through than bass usually. Like, low-end is hard on laptop speakers anyway and you don't want bass overpowering. You could have a top bass that has some low-mids to high-mids but no need to add highs to make the bass super noticeable. It's ok, the drum is there for the main beat and you got your chords and leads and stuff and so usually the point of song gets come accross. The bass is usually mainly there to provide the low-end, that it's function, not to be noticed. But again, this depends from mix to mix and genre to genre.*
+*Intermezzo: Kick is more important to cut through than bass usually. Like, low-end is hard on laptop speakers anyway and you don't want bass overpowering. You could have a top bass that has some low-mids to high-mids but no need to add highs to make the bass super noticeable. It's ok, the drum is there (and needs to be there) for the main beat and you got your chords and leads and stuff and so usually the point of song gets to come accross even on low low-end speakers. The bass is usually mainly there to provide the low-end, that it's function, not to be noticed so if a system can't output low-end, so be it. Like also, due to the nature of low vs. high frequencies low frequencies are hard to notice anyway and already need to be way louder than highs to be noticed so you'd overpower your mix trying to make your bass noticed on laptop speakers. Either way, all this depends from mix to mix and genre to genre.*
 
 
 
-also realize not all stuff playing same time so helps with cutting through also in highs
-sidechain
 
 
 
