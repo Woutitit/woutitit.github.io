@@ -65,11 +65,24 @@ This is the last stage and is really just meant to bring up loudness as much as 
 You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
 ## Mixing is about prioritization
-Mixing is all about making decisions about what to prioritize and what aids more as a supportive role. Balancing and EQ, panning and stereo imaging are your friend here. You want the lead to be the center of attention? Make it (or the main layer) centered (doesn't have to be fully mono) and have the chords perhaps be more wide "getting out of the way" of the leads (whilst adding to a wide mix). You want to add a timbre to your main centered layer? Well, make it less loud and/or EQ the fundamentals out, octave it up, pan it or widen it and m/sed it or stuff so it doesn't over power the main sound.
+Mixing is all about making decisions about what to prioritize and what aids more as a supportive role. This goes for both on a song level as well as on a frequency range level.
+
+Talking about frequency first. The bass is usually the main element in the low-end, however, you may as a beginner use a saw wave for that. The problem is that it adds to mud in the highs since it's a saw and very rich in harmonic content. It's also loud because of that but turning the volume down results in turning the low-end also down so you end up with a less loud bass but also a too quiet low-end. Therefore, high-passing is often done on a bass to preserve low-end loudness but diminish high-end loudness. Opposite is also true. If you have a lead that you need to have a certain loudness to be noticed, the lows might interfere with the bass (since too loud) so similarly you'd high-pass to get rid of that. Either way, read the article(s) for more on this.
+
+Additionally getting out of the way
+
+And then paragraph cutting through. Refer to articles though so its a 3-point list of clear and priortizied mix.
+
+
+The supportive elements you usually want to make
+
+Balancing and EQ, panning and stereo imaging are your friend here. You want the lead to be the center of attention? Make it (or the main layer) centered (doesn't have to be fully mono) and have the chords perhaps be more wide "getting out of the way" of the leads (whilst adding to a wide mix). You want to add a timbre to your main centered layer? Well, make it less loud and/or EQ the fundamentals out, octave it up, pan it or widen it and m/sed it or stuff so it doesn't over power the main sound.
 
 Basically, what you want to do is get out of the way of your main elements whilst also trying to squeeze as much sound of the supporting elements too. Stuff like compression can help with that as well to make back elements more steady and noticeable. Either way though, be careful with your decisions. A little mid scoop on kick/snare, a scoop on the chords too and it really adds up to making space in the mids for your leads. Don't be too drastic since little changes add up. Same goes for rebalancing supporting elements. No element needs to be fully turned down, turning down a few elements more gently adds up too.
 
-Lastly, a very common and famous example is the sub and low-end, namely the kick and bass. They cannot co-exist and you have to decide whether the bass is going to be the low-end king or if it's the kick. Again, often it's the kick but this also depends on the genre and your reference track as sometimes the kick really is making room for the whole arrangement to shine (think busy big band mixes). The option is to turn either one heavily down but that's not an option. Rather, utilize sidechaining, EQ and proper volume balancing to get it so sit right (where is my tutorial on this? Or maybe I need to write an own tutorial for this?).
+> A famous example is featured in "How to mix kick and bass" article.
+
+
 
 ## Fatten a mix through layering and FX
 > See "Layering and timbre" article for more layering tips
@@ -149,6 +162,7 @@ It's also good to have LUFS-matched reference tracks for mixing and composing pu
 
 If your chain is all linear FX, sure go ahead and order them how you want. However, if there are non-linear processes such as distortion and compression in there (and EQ?) you'll want to make sure to order them accordingly as often it does matter whether the EQ goes first or the compressor (as both COULD be right but it depends what you want or need).
 
-##
-> See "Layering" and "EQ articles
-Volume balance is and should be the first step in mixing instruments. However, often you'll find yourself that something isn't cutting through the mix even though it is already at a decent volume. A great example of this is with a kick (or snare). On its own it may be fine but played with other sounds it may get drowned in the mix. Now of course this could just mean that you need to EQ and balance your other sounds and/or EQ and volume balance your kick to solve it but often you might find yourself in a situation where the volume of the kick is quite loud already so turnining it up doesn't make sense. In this case it's often because the kick has a loud bottom end (which is good) so turning it up would just get overpowering in the bottom-end whilst still not cutting through (it may only cut through if you heavily increase the loudness of the kick in which case it just overpowers the whole mix and sounds quite bad). You can hear this especially on laptop speakers which inherently have less low-end.
+## Mixing is about choosing which elements to cut through or sit back
+> See "Layering" and "EQ" and "How to choose and make elements sit back or cut through and why it matters" articles
+
+This leans to prioritizng stuff. Basically in a mix there are certain elements you want to cut through such as kick and leads. Cutting through usuall
