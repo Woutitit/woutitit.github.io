@@ -71,7 +71,7 @@ The second part of this tip is so important for a clean mix. That's why I encour
 
 Not all elements can be equally on the forefront at the same time. That would just give a mush in which you cannot clearly hear any sound. It might be loud but it might be as musical and pleasing as straight up white noise. Either way, that's why prioritization and knowing how to prioritize is super important in a mix.
 
-Firstly, volume balancing is the number one way to prioritize. Make your lead a bit louder than your backing stuff, make your drums louder than the supporting stuff and so on. It's really easy to do and it's very effective. Now, again, use a reference track and some mixes you like as this depends heavily on genre as well the mix.
+Firstly, volume balancing is the number one way to prioritize. Make your lead a bit louder than your backing stuff, make your drums louder than the supporting stuff and so on. It's really easy to do and it's very effective. Now, again, use a reference track and some mixes you like as this depends heavily on genre as well as the mix as to what is priority and how much (and when in the song).
 
 But sadly, while volume balancing does a lot in a mix, ultimately it won't be enough, especially the busier the mix is. High frequencies (and transients) are the second important thing for cutting through and prioritizing. For example, if your kick is drowning in the mix, it may not be a volume issue, it may just be that your kick has too little highs. In that case you might want to swap your kick to a kick with more highs or you might want to layer (if you like the body of current kick) with a high-heavy kick or you might boost the highs through EQ or all of these techniques.
 
