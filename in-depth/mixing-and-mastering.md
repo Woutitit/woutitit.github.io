@@ -64,18 +64,22 @@ This is the last stage and is really just meant to bring up loudness as much as 
 
 You'll want to pull in one or multiple tracks that sound similar to yours. Checkout the curves in SPAN (do they have a dip somewhere, or less somewhere or some heightened stuff) or tonal balance control 2. For example if yours sounds thin and cold checkout the 200-500 ranges of yours vs. theirs. Also, don't forget to LUFS match your tracks and also preferably don't forget to have a quick master chain going so the comparison is a bit more fair. Either way, don't try to 100% copy the curve as that is hard to do and you probably also don't want to go the exact same route. But yeah, learn and take it as a guidance. Same goes for setting levels and brightness vs. darkness in your mix.
 
-## Mixing is about sitting back and cutting through
+## Mixing is about prioritization
 > **Important**: Related articles are "How to properly sit back and cut through elements" and "How to mix kick and bass".
 
-This tip is so important for a clean mix. That's why I encourage you to really read above articles.
+The second part of this tip is so important for a clean mix. That's why I encourage you to really read above articles.
 
-While volume balancing does a lot in a mix, ultimately it won't be enough, especially the busier the mix is. Next to volume, high frequencies (and transients) are important for cutting through. For example, if your kick is drowning in the mix, it may not be a volume issue, it may just be that your kick has too little highs. In that case you might want to swap your kick to a kick with more highs or you might want to layer (if you like the body of current kick) with a high-heavy kick or you might boost the highs through EQ or all of these techniques.
+Not all elements can be equally on the forefront at the same time. That would just give a mush in which you cannot clearly hear any sound. It might be loud but it might be as musical and pleasing as straight up white noise. Either way, that's why prioritization and knowing how to prioritize is super important in a mix.
+
+Firstly, volume balancing is the number one way to prioritize. Make your lead a bit louder than your backing stuff, make your drums louder than the supporting stuff. Volume balancing will really already get you 
+
+While volume balancing does a lot in a mix, ultimately it won't be enough, especially the busier the mix is. Next to volume, high frequencies (and transients) are important for cutting through and prioritizing. For example, if your kick is drowning in the mix, it may not be a volume issue, it may just be that your kick has too little highs. In that case you might want to swap your kick to a kick with more highs or you might want to layer (if you like the body of current kick) with a high-heavy kick or you might boost the highs through EQ or all of these techniques.
 
 Same goes in the opposite direction. You may not necessarily want a bass to cut through (as much) the mix as other elements are for that. A bass is mainly about providing low-end. Therefore, if you use a straight saw wave, you may find yourself low-passing that wave to cut back on highs. This way the low frequencies can stay while also giving way in the highs for elements that need and want to cut through. Another idea is to simply choose a patch with less natural high-end (or even just a sub bass).
 
 Lastly, *letting other elements cut through* is another thing for a clear mix. Again, figuring out what are the main elements and what are the (more) supporting elements. For example, the lead is a main element so you want to generally keep (the main layer)/it pretty centered. The chords are usually more supporting but they may be in the same range so you may widen them to get out of the way (whilst providing some nice width) and/or you may make them a bit quieter and/or you may EQ a bit of frequency range out right where the lead is playing. Panning techniques can be used to and compression and saturation can also be used to still make those back elements shine while still being in the back.
 
-Either way, all of this is not an on/off. The bass often leaves room for highs but that doesn't mean it needs to be a thin sterile sub bass. In fact, often to fill up a mix, you want some harmonics (and a teensy bit) of highs. Again, it really depends on the genre and band analyzing is very helpful to see what cuts through in what range and how much.
+Either way, all of this is not an on/off thing, it's a spectrum. The bass often leaves room for highs but that doesn't mean it needs to be a thin sterile sub bass. In fact, often to fill up a mix, you want some harmonics (and a teensy bit) of highs. Again, it really depends on the genre and band analyzing is very helpful to see what cuts through in what range and how much.
 
 ## Fatten a mix through layering and FX
 > See "Layering and timbre" article for more layering tips
