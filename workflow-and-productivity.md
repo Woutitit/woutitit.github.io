@@ -19,6 +19,7 @@
 16. [Focus on the 80%](#focus-on-the-80)
 17. [Occassionally force yourself](#occassionally-force-yourself)
 18. [Stop distractions](#stop-distractions)
+19. [Don't be too attached](#dont-be-too-attached)
 
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
