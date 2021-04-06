@@ -67,13 +67,11 @@ Automation on a so called EQ sweep is common together with a filter sweep to cre
 ## EQ vs. Volume vs. Compression
 EQ is also done vs volume for if the patch would hit that certain range, then the volume gets a bit tampered on those frequencies. You see, if the patch is loud enough but if it hits a certain area where it shouldnt be the dominant thing, we have the EQ in place to lower the volume there then.
 
+## EQ to be able to boost important frequencies
+So a bass, very often, the important frequencies are in the sub-bottom range. However, the mistake many beginners make is to make their bass too rich or simply use a straight saw for a bass. This won't work well because the upper harmonics clash with other parts of the song probably, make the bass loud and noticeable and thus you need to turn it down to make it sit better in the mix. However, then you also turn down the low-end so you end up with quieter sound but also less low-end. 
 
-## EQ useless frequency 
-In a hypothetical situation, if you use a pure saw wave as a bass (because you like the richness) you'll find that it is very loud right? And so, you'll proceed to turn it down. However, now you find that it seems like your bottom end is too little if you look on a spectrum analyze so you turn it back up. But then the saw wave is too harsh again. You can play this game all day. So the problem here is that you want the nice bottom end of your bass, that's what bass is for (it also plays in the sub range for that reason). So, what you want to do is EQ out the top range.
+Therefore, to be able to have your nice low-end at a nice volume you'll need to EQ out the highs out of your bass so that you can keep your bass at the good volume whilst also now hearing other stuff (since your bass is not overpowering) and not having to turn down your bass due to the sheer loudness so you also hear the bass well. Now, if you're making a genre in which your bass spans the whole spectrum or needs to be bright, then consider splitting your bass up. Have a sub bass giving the low-end and then have a top bass giving the brightness. The nice thing is now that you can adjust the bright bass in volume whilst keeping the low-end at the same level. And additionally you EQ out all the low-end from that bright bass so turning it up or down won't mud up the sub/low-end range/make it too loud. Double win!
 
-## How come if layer identical sounds (with harmonics)
-that it aint duplicating in volume?????? Like this is how i can layer like without cutting fundamental? Is this only problem in lows? Why? cuz harmonics closer on eachother or?
-Or it's not harmonics duplicating it's the total sound duplicating so all harmonics increase a teensy bit in volume to make a total of double so loud? But even then i don't see it on the meter. Investigate 
 ## Mid/Side EQ
 (on master sometimes to cut some of low-end i guess?
 and also cut some slight sub from bass???
