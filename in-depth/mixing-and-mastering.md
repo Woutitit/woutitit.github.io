@@ -52,7 +52,7 @@ All these are mixing moves and they are totally fine to do on the go (there are 
 ### Stage 2: Mixing after song creation
 Now, this is the stage where you start thinking about how to optimize your master. Of course, not only that, you think about how to not rip people's ears of at certain points or how to increase intelligibility or how to clean up mud or really beef up some sounds. Here is where you really will fine tune the already rough mix that you have and add some extra techniques (or possibly removing). 
 
-In the end, the end goal of this one is to really have no out of wack dynamics (though still trying to preserve those tamed transients), very clear and clean sounding, correct tonal balance, etc. and generally setup for loudness by using compression, saturation and eq (    and balancing.
+In the end, the end goal of this one is to really have no out of wack dynamics (though still trying to preserve those tamed transients), very clear and clean sounding, correct tonal balance, etc. and generally setup for loudness by using compression, saturation and eq and balancing.
 
 Also, note that this stage might often come hand in hand with mastering as often (and recommended) you'll find issues once your mastering that you'll probably want to solve in your mix (like too much or too little peaks for example).
 
@@ -71,9 +71,9 @@ The second part of this tip is so important for a clean mix. That's why I encour
 
 Not all elements can be equally on the forefront at the same time. That would just give a mush in which you cannot clearly hear any sound. It might be loud but it might be as musical and pleasing as straight up white noise. Either way, that's why prioritization and knowing how to prioritize is super important in a mix.
 
-Firstly, volume balancing is the number one way to prioritize. Make your lead a bit louder than your backing stuff, make your drums louder than the supporting stuff. Volume balancing will really already get you 
+Firstly, volume balancing is the number one way to prioritize. Make your lead a bit louder than your backing stuff, make your drums louder than the supporting stuff and so on. It's really easy to do and it's very effective. Now, again, use a reference track and some mixes you like as this depends heavily on genre as well the mix.
 
-While volume balancing does a lot in a mix, ultimately it won't be enough, especially the busier the mix is. Next to volume, high frequencies (and transients) are important for cutting through and prioritizing. For example, if your kick is drowning in the mix, it may not be a volume issue, it may just be that your kick has too little highs. In that case you might want to swap your kick to a kick with more highs or you might want to layer (if you like the body of current kick) with a high-heavy kick or you might boost the highs through EQ or all of these techniques.
+But sadly, while volume balancing does a lot in a mix, ultimately it won't be enough, especially the busier the mix is. High frequencies (and transients) are the second important thing for cutting through and prioritizing. For example, if your kick is drowning in the mix, it may not be a volume issue, it may just be that your kick has too little highs. In that case you might want to swap your kick to a kick with more highs or you might want to layer (if you like the body of current kick) with a high-heavy kick or you might boost the highs through EQ or all of these techniques.
 
 Same goes in the opposite direction. You may not necessarily want a bass to cut through (as much) the mix as other elements are for that. A bass is mainly about providing low-end. Therefore, if you use a straight saw wave, you may find yourself low-passing that wave to cut back on highs. This way the low frequencies can stay while also giving way in the highs for elements that need and want to cut through. Another idea is to simply choose a patch with less natural high-end (or even just a sub bass).
 
@@ -158,8 +158,3 @@ It's also good to have LUFS-matched reference tracks for mixing and composing pu
 > See article "Why order of FX chain matters"
 
 If your chain is all linear FX, sure go ahead and order them how you want. However, if there are non-linear processes such as distortion and compression in there (and EQ?) you'll want to make sure to order them accordingly as often it does matter whether the EQ goes first or the compressor (as both COULD be right but it depends what you want or need).
-
-## Mixing is about choosing which elements to cut through or sit back
-> See "Layering" and "EQ" and "How to choose and make elements sit back or cut through and why it matters" articles
-
-This leans to prioritizng stuff. Basically in a mix there are certain elements you want to cut through such as kick and leads. Cutting through usuall
