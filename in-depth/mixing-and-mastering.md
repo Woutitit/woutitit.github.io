@@ -10,7 +10,7 @@
 5. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
 6. [Have a reference track](#have-a-reference-track)
 7. [Mixing is about prioritization](#mixing-is-about-prioritization)
-8. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-FX)
+8. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
 9. [Increase and work transients](#increase-and-work-transients)
 10. [Mastering 101](#mastering-101)
 11. [Sound selection vs. processing](#sound-selection-vs-processing)
@@ -72,7 +72,11 @@ Basically, what you want to do is get out of the way of your main elements whils
 Lastly, a very common and famous example is the sub and low-end, namely the kick and bass. They cannot co-exist and you have to decide whether the bass is going to be the low-end king or if it's the kick. Again, often it's the kick but this also depends on the genre and your reference track as sometimes the kick really is making room for the whole arrangement to shine (think busy big band mixes). The option is to turn either one heavily down but that's not an option. Rather, utilize sidechaining, EQ and proper volume balancing to get it so sit right (where is my tutorial on this? Or maybe I need to write an own tutorial for this?).
 
 ## Fatten a mix through layering and FX
-These little compressing things for a bit added sustain or that slight saturator really help beefen up the sound, or that layer you barely hear, (like with layering it's not about vertical loudness it's horizontal thickness really adding fatness and frequency content needed there/wanted) especially when it hits the master and especially on a lot of things (like little things add up to a big thing). Because, a lot of these moves you can't maybe hear that well but since the master reduces dynamics all these little things will go up in volume and if you add some OTT before that, then those will be accented even more. So all these little things and fattening up of certain instruments can really in the end fatten up your master and make it sound bigger and louder.
+> See "Layering and timbre" article for more layering tips
+
+Layering is important because it adds sophistication to your sound. Different timbres playing together as one or simply make a fat bass with little layers or making a sound the ideal sound you want (like taking a transient from a kick and then the body from another to construct your ideal kick). Now, note that layering is not needed and always necessary and that when you layer, layering 2-3 sounds is usually enough. It depends on the role of the sounds, the genre, the business of the mix but just check a bit in reference tracks what gets layered when and how.
+
+FX is also important. Like, compressing things for a bit added sustain or that slight saturator really help beefen up the sound, or that layer you barely hear, (like with layering it's not about vertical loudness it's horizontal thickness really adding fatness and frequency content needed there/wanted) especially when it hits the master and especially on a lot of things (like little things add up to a big thing).
 
 ## Increase and work transients
 Transients will get squashed and also laptop speakers are less low-end-y so you want to make sure that transients get heard on those loud and clear.
