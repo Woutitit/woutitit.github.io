@@ -1,5 +1,20 @@
 ## How to properly cut through and sit back elements
+So this article is mainly about how to cut through and sit back elements (and why you should) it's not really talking much about the supporting elements, though it will kind of get clear either way for that too.
 
+Anyway, let's start with an examples. When you're making a song, a lot of times, you may start with kick which, to your ears, sounds fine. However, the more and more elements you add to the mix the more the kick starts to drown. A kick that was perfectly fine now has completely drowned. Now, first of all there may be some mix issues. There may be that some elements are too loud and some elements need to have their lows cut for keeping the kick breathing. Maybe the kick and bass need to be mixed well. However, let's assume that the mix is decent and not per se the issue and everything is balanced well.
+
+Now, the first thing you could do is simply turn up the the kick and this may be the thing that fixes it (a bit), however, often you'll notice you'll have to turn up the kick quite loud to get it noticed as much as you'd like or want. However, turning it back down to reasonable levels and your kick is yet again drowning in the mix. How does this come? You clearly see the kick peaking at maybe even louder than all the rest, yet it doesn't cut through.
+
+Well, this is a common issue and
+
+
+
+also realize not all stuff playing same time so helps with cutting through also in highs
+sidechain
+
+
+
+is already at a decent volume, yet doesn't cut through at all. This is then because your kick has a decent amount of lows which is good but not enough highs. So what you'll then notice is that turning up will make the kick overpower the low-end whilst still not cutting through (only if you turn it up real loud in which case the mix balance is completely off). Here it thus is a matter of increasing the high frequencies rather than all frequencies (i.e. volume balancing). You can do this in two ways (and both aren't mutually exclusive). Either you boost a bit of the highs and see if that solves the problem. Or, you layer a transient-heavy kick with it (of course mixing it well with the other kick). In this way the volume will still increase of your total kick but not this much and also this time it's caused byadditional high frequencies. In other words, we can now turn down the total kick in volume to the original volume (or one that feels good) and notice it cutting through.
 Noticeable usually means significant amount of high frequencies (and transients). 
 
 
