@@ -1,6 +1,4 @@
-
-
-
+also be careful cuz transients is not only in highs it's also in maybe upper lows like the click of a kick if eq too much in the 200-300 range then you may lose transients too maybe not highs but yeah u lose punch. So be careful and dont assume transients is only high freq content (same for snare or clap u dont wanna eq too much out of the fundamental or pass or shelf or bell like if u notice transiet gone u wanna dial it back again or less or none or somewhere else).
 
 ## Mixing and master for loudness
 So for specifically mixing and mastering for loudness (so if it really matters), your volume, compression EQ (and saturation) game will have to on point to MAXIMIZE HEADROOM. It's all about that headroom and any frequency that is too much, or sound that is too loud, or peak that is too high will slowly eat away at that headroom. Now, with LUFS being introduced (see Loudness (wars)) it is not a matter of being able to push the gain but more about being able to make it sound really "in your face" without sounding bad and or clipping, unlively.
