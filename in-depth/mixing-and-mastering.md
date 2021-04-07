@@ -23,6 +23,7 @@
 17. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
 18. [Mind the order of your FX](#mind-the-order-of-your-FX)
 19. [Use a spectrum analyzer](#use-a-spectrum-analyzer)
+20. [Use a proper wave candy volume meter)(#use-a-proper-wave-candy-volume-meter)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
@@ -168,7 +169,9 @@ It's also good to have LUFS-matched reference tracks for mixing and composing pu
 If your chain is all linear FX, sure go ahead and order them how you want. However, if there are non-linear processes such as distortion and compression in there (and EQ?) you'll want to make sure to order them accordingly as often it does matter whether the EQ goes first or the compressor (as both COULD be right but it depends what you want or need).
 
 ## Use a spectrum analyzer
-I always talk about the spectrum analyze but using it is so good especially for beginners and for people with average headphones. Use it on both individual tracks, use it on the master, us it before your master fx or after or after certain other fx and stuff. Like, for example, when you don't know (anymore if your sub is too much or sub + kick) you can simply check span and see if indeed your sub frequencies are like consistenly spiking too much above the rest (it could be that the rest is too thin or quiet, but we assume a full mix here). Or, when you have a flute or a bell or stuff you think or hear that is ear-piercing you could a span on the master or individual track and see if indeed there are certain resonant frequencies you may need to soothe. (Other ways to use it?)
+I always talk about the spectrum analyze but using it is so good especially for beginners and for people with average headphones. Use it on both individual tracks, use it on the master, us it before your master fx or after or after certain other fx and stuff. Like, for example, when you don't know (anymore if your sub is too much or sub + kick) you can simply check span and see if indeed your sub frequencies are like consistenly spiking too much above the rest (it could be that the rest is too thin or quiet, but we assume a full mix here). Or, when you have a flute or a bell or stuff you think or hear that is ear-piercing you could a span on the master or individual track and see if indeed there are certain resonant frequencies you may need to soothe (Other ways to use it?).
+
+Additionally, a heat map spectrum analyzer may sometimes also help you more visualize whether you are filling, overfilling or uderfilling your songs (or certain sections). Again see: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Wave%20Candy.htm > Spectrum. 
 
 ## Use a proper (Wave Candy) volume meter
 Your mixer meters often show peak (I think?) so sometimes something may sound very loud in terms of decibel according to the mixer meter but it really isn't on average or LUFS-wise (since perhaps it just has a big transient compared to body). Therefore, relying on mixer meter alone is not enough (unless you account a bit for transient spikes in your head) and it's better to rely on wave candy on master and or individual tracks to better gauge real loudness (also perceived loudness to human ear taken into account here? Read manual: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Wave%20Candy.htm) and thus be able to balance your elements better.
