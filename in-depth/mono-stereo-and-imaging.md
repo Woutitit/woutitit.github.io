@@ -75,6 +75,13 @@ So yeah, especially in the fundamental of a track (or a sound, so the lower freq
 
 Same with lead, you'll usually want it mono since you put chords stereo to make room for mono lead (since they both occupy a lot of same frequencies). However, you can add a stereo layer, which is often done, to give some width to the lead. But again, if other elmets, such as percussion and your chords are already wide you probably don't even need that much wideness on your lead and stuff cuz those background elements being wide is really what makes the mix wide and gives the frontal elements depth. Cuz again, if everything is wide nothing is wide.
 
+## Stereo doesn't add fatness
+No matter what stereo technique you use or how wide you make your sound, stereo does NOT make your sound fat. It makes them sound bigger and more dimensional but NOT fat. Double tracked guitars may sound much bigger than mono tracked but they are not fatter, it's sort of almost an illussion that they do indeed sound better (which is what is exactly is cool about stereo). Stereo sounds big as in "wide and encompassing" and together with more centered stuff (or less wide) it really puts those elements in a big wide space making the mix sound more dimensional.
+
+The reason I say this is because making a track stereo does not add harmonic content. It's the same notes and frequencies but they just sound wide because of the stereo techniques and/or unison, in reality it's still (almost) the same harmonic content. Of course with heavy detuning you could add fatness but that sounds bad (so usually more done as a subtle fatness layer just like white noise is).
+
+So yeah, just realize that making everything stereo is not going to make your mix sound professional. Stereo sounds wide and directionless and as I already said, without differences in width and/or if everything is wide, nothing really is wide and the stereo effect is only minimal. For example, a lead you'll often want more centered. However, if the lead is (meant to be) fully moono you might decide to give it a stereo layer just to give it a bit of side presence too (just like with bass). Again, MSED reference to see this.
+
 ## Common stereo effects
 in general but more purpose one should read the general anaylsis add here tip to download that voexngo and analyze frequency spectrum and check out my analysis shit.
 
