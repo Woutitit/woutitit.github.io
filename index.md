@@ -15,7 +15,7 @@ During song making, the most useful articles are under the **"Quick reference"**
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
-- [A framework for song creation](song-creation-plan.md)
+- [A framework for song creation](song-creation-routine.md)
 - [Practice session ideas](practice-session-ideas.md)
 
 ## Quick reference
