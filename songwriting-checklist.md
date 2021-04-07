@@ -40,7 +40,12 @@ This handy list is meant as a reference for when you don't get your mix right or
 - FX chain routing and order correct? No reverbs/delays before distortions? Compressors and EQs in right order?
 
 ## Production
-- Layering. Layer plucks with sustains, octaves up/down, interesting timbres.
+- Layers?
+  - Plucks with sustains, octaves up/down, interesting timbres.
+  - Octave harmonies (or other) vocal? Adlibs
+  - Subtle width layers?
+  - ...
+  - Clap/White noise/Reverb clap with snare
 - Tapestop automation on end phrases on lead/chords
 - Crusher automation
 - Vibrato macro
