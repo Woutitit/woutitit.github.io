@@ -42,7 +42,7 @@ So yeah work to that point and preferably you'd want to do this until you have m
 
 ### Stage 2: Clean up
 At this point the project is such a mess that I get demotivated to try and work in it. So usually what I do now is start cleaning the project file up, I:
-
+- Make a new version of the project, suffix it "myProject_reorganized"
 - Delete all muted channel instruments
 - Delete all muted patterns, samples and automation clips
 - Delete muted/unused FX
@@ -55,6 +55,8 @@ At this point the project is such a mess that I get demotivated to try and work 
 - Other...?
 
 After all this your project file should be easy again to edit and the barrier for you to get in and work on the project is low(er) (without the cleaning there would be some annoying inconveniences preventing you to be creative so you kind of give up quicker before you even start). Also, the file should simply look way cleaner now too, giving you mental rest and energy to go in there and work on your song.
+
+Lastly, this cleaning is about committing too. Don't try and audition muted shit to see if you still need it. No, just delete and commit to all the unmuted stuff you have. Of course there are exceptional cases where you know you really want to keep stuff but really don't treat it as the rule. Because also, if you really are missing a certain unmuted track, you can simply go back a version and see which sample or pattern that was and then get it back in your current file. That's why we make versions.
 
 ### Stage 3: Loop stage 1 and 2
 After cleaning, what you do now is just choose a part (preferably anything else than the chorus) and start working on it again. At this point you'll usually again duplicate tracks, add synths and samples and all the jazz you've been doing before. And again you should dabble until you have found something to work with (or start dabble another section if you ain't fully feeling it). Then you make that thing a reality or close to what it should be and again at this point it's going to be a mess again your project so you go through the cycle again of cleaning up. Again, this really doesn't need to be a drag because you can literally put on a video as you don't need to hear the music, just clean up.
