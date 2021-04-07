@@ -4,7 +4,7 @@
 2. [Find one or more reference track(s)](#find-one-or-more-reference-tracks)
 3. [Research and know your genre](#research-and-know-your-genre)
 4. [Have presets, samples and a template ready](#have-presets-samples-and-a-template-ready)
-5. [Work stages](#work-stages)
+5. [Practical work routine](#work-stages)
 
 ## Introduction
 Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine.
@@ -28,7 +28,7 @@ Here it helps to really have seperate sound design sessions. Keep a list of soun
 
 A template could also help. For example, you might not need some send tracks even but just some stuff that sets up sidechain quickly and stuff. Anything that makes you be creative faster.
 
-## Work stages
+## Practical work routine
 ### Stage 1: Dabble stage
 The first stage is simply dabbling. You have nothing so you start dabbling away until you have either nothing or something. Usually, here I add synths, I add melody lines I mute and unmute stuff and usually, in the case of having something, I end up pretty cluttered. But it's like a TDD (Software development) approach, right. Like, you work and work and work in the fastest way to get something done not looking at being clean or organized but just get something. Usually the mixing isn't great the sound design isn't great, the project is a bit of a mess but you now have something that sounds good and know how to improve. Like you have a decent bass line and melody but just too much notes a bit and maybe too much high-end on bass but for the rest it's where you want to go. 
 
