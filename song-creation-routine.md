@@ -1,4 +1,12 @@
 # Song creation routine
+## Table of contents
+1. [Introduction](#introduction)
+2. [Find one or more reference track(s)](#find-one-or-more-reference-tracks)
+3. [Research and know your genre](#research-and-know-your-genre)
+4. [Have presets, samples and a template ready](#have-presets-samples-and-a-template-ready)
+5. [Work stages](#work-stages)
+
+## Introduction
 Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine.
 
 ## Find one or more reference track(s)
