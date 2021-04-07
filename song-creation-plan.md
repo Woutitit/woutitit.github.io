@@ -38,18 +38,13 @@ At this point the project is such a mess that I get demotivated to try and work 
 - Delete all muted channel instruments
 - Delete all muted patterns, samples and automation clips
 - Delete muted/unused FX
-- Merge all patterns (vertically) per 4 - 8 bars
+- Merge patterns vertically and per 4 - 8 bars merge horizontally
 - Cut automation clips to be only the part where they actually automate
 - Clean up playlist
   -  Usually drums on one track and instruments pattern on one track 
   -  Samples grouped. Automations grouped.
 - If applicable, clean up mixer routing and bus layers (e.g. the sub and top bass)
-- Other?
-- 
--   start deleting all muted instruments and samples too, even the ones you in the back of your head "think" you need (this is in the spirit of committing). This is to have my project file and head clean so that I don't feel like
-- Also you organize your playlist a bit, 
-- try to put automations at the bottom and the rest at the top. If you feel extra fancy you can do some basic routing and clean up some midi notes and mixing/sound design too but in this stage.
-- Cut automations per sections (cuz like ull often move sections or like do an automation but automation move. Prfereably even cut till only where needed and or make unique
+- Other...?
 
 At this point your project file should be looking clean. At least clean enough that it looks manageable and nice to work in again. So what you do now is just choose a part (preferably anything else than the chorus) and start working on it again. At this point you'll usually again duplicate tracks, add synths and samples and all the jazz you've been doing before. And again you should dabble until you have found something to work with (or start dabble another section if you ain't fully feeling it). Then you make that thing a reality or close to what it should be and again at this point it's going to be a mess again your project so you go through the cycle again of cleaning up. Again, this really doesn't need to be a drag because you can literally put on a video as you don't need to hear the music, just clean up.
 
