@@ -73,4 +73,4 @@ Often a layer is also just introduced at certain points. Like perhaps a layer on
 
 ## TODO
 - Look up some common layered timbres, especially in classical jazz big band easy listening.
-
+- Research common/more ways to layer and their official name?
