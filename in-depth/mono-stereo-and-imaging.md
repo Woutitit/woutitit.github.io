@@ -8,7 +8,8 @@
 4. [How stereo gives width](#how-stereo-gives-width)
 5. [Stereo width techniques](#stereo-width-techniques)
 6. [When to use stereo vs. mono](#when-to-use-stereo-vs-mono)
-7. [Common stereo effects](#common-stereo-effects)
+7. [Stereo doesn't add fatness](#stereo-doesnt-add-fatness)
+8. [Common stereo effects](#common-stereo-effects)
 
 ## Introduction
 There used to be a time where we didn't have to talk about this topic. Everything used to be mono. However, now that stereo has been here for several years (decades?) we do need to talk about both of them.
