@@ -1,5 +1,5 @@
-# Project plan
-This talks about just an overview of how I do and should do my projects in an effort to better work on them and finish them.
+# Song creation routine
+Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine.
 
 ## Find one or more reference track(s)
 It really helps to have one or more reference tracks for any stage in the project creation stage. Reference tracks serve as your inspiration as well as a reference of whether your mixing is any good.
@@ -46,9 +46,11 @@ At this point the project is such a mess that I get demotivated to try and work 
 - If applicable, clean up mixer routing and bus layers (e.g. the sub and top bass)
 - Other...?
 
-At this point your project file should be looking clean. At least clean enough that it looks manageable and nice to work in again. So what you do now is just choose a part (preferably anything else than the chorus) and start working on it again. At this point you'll usually again duplicate tracks, add synths and samples and all the jazz you've been doing before. And again you should dabble until you have found something to work with (or start dabble another section if you ain't fully feeling it). Then you make that thing a reality or close to what it should be and again at this point it's going to be a mess again your project so you go through the cycle again of cleaning up. Again, this really doesn't need to be a drag because you can literally put on a video as you don't need to hear the music, just clean up.
+After all this your project file should be easy again to edit and the barrier for you to get in and work on the project is low(er) (without the cleaning there would be some annoying inconveniences preventing you to be creative so you kind of give up quicker before you even start). Also, the file should simply look way cleaner now too, giving you mental rest and energy to go in there and work on your song.
 
 ### Stage 3: Loop stage 1 and 2
+After cleaning, what you do now is just choose a part (preferably anything else than the chorus) and start working on it again. At this point you'll usually again duplicate tracks, add synths and samples and all the jazz you've been doing before. And again you should dabble until you have found something to work with (or start dabble another section if you ain't fully feeling it). Then you make that thing a reality or close to what it should be and again at this point it's going to be a mess again your project so you go through the cycle again of cleaning up. Again, this really doesn't need to be a drag because you can literally put on a video as you don't need to hear the music, just clean up.
+
 So basically you do this whole cycle about creating and cleaning for all sections until your whole song is basically "good enough" and your project is kind of clean. This is where the discipline part and commitment part starts. Now you have to go through your sections and really make them a good as possible. Try to add ear candy, extra layers, switch out samples for better ones, more humanisation, and cleaned up midi etc. but really those should've mostly come from the creation stages. Again, it's important here to really pay attention and think about what you're doing and to make deliberate decisions. It's also necessary to commit. Even if you think a section is thin but kind of cool sounding and you don't know what it lacks, leave it and make THAT sound as good as you can. Usually some FX here and there. You'll also want to have your routing in place and stuff and sends/inserts if needed and perhaps have every instrument have a playlist line rather than having a single pattern.
 
 ### Stage 4: Actual mixing/mastering
