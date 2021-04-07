@@ -1,7 +1,7 @@
 # Project plan
 This talks about just an overview of how I do and should do my projects in an effort to better work on them and finish them.
 
-## Have reference track(s)
+## Find one or more reference track(s)
 It really helps to have one or more reference tracks for any stage in the project creation stage. Reference tracks serve as your inspiration as well as a reference of whether your mixing is any good.
 
 You don't need a single reference track. You could have a track which you want to take as a blueprint for your project. However, maybe the mix is not what you want, so you have another track similarly to the genre and you reference that one for mixing. And then you have maybe other tracks (or the same) taking as inspiration.
@@ -33,7 +33,20 @@ The first stage is simply dabbling. You have nothing so you start dabbling away 
 So yeah work to that point and preferably you'd want to do this until you have more or less a song structure going on. Probably you're chorus is already going to be fleshed out and the other stuff sounds even more shit but you have a structure that you can work in now.
 
 ### Stage 2: Clean up
-At this point the project is such a mess that I get demotivated to try and work in it. So usually what I do now is start deleting all muted patterns, start deleting all muted instruments and samples too, even the ones you in the back of your head "think" you need (this is in the spirit of committing). 
+At this point the project is such a mess that I get demotivated to try and work in it. So usually what I do now is start cleaning the project file up, I:
+
+- Delete all muted channel instruments
+- Delete all muted patterns, samples and automation clips
+- Delete muted/unused FX
+- Merge all patterns (vertically) per 4 - 8 bars
+- Cut automation clips to be only the part where they actually automate
+- Clean up playlist
+  -  Usually drums on one track and instruments pattern on one track 
+  -  Samples grouped. Automations grouped.
+- If applicable, clean up mixer routing and bus layers (e.g. the sub and top bass)
+- Other?
+- 
+-   start deleting all muted instruments and samples too, even the ones you in the back of your head "think" you need (this is in the spirit of committing). This is to have my project file and head clean so that I don't feel like
 - Also you organize your playlist a bit, 
 - try to put automations at the bottom and the rest at the top. If you feel extra fancy you can do some basic routing and clean up some midi notes and mixing/sound design too but in this stage.
 - Cut automations per sections (cuz like ull often move sections or like do an automation but automation move. Prfereably even cut till only where needed and or make unique
