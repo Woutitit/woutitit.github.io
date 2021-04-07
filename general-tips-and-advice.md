@@ -1,6 +1,9 @@
 # Inspirational advice
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
 
+## Make songs you want to make
+This doesn't mean to stay in your comfort zone but for example if you want to make a house song because you heard this one house song and it's like mainstream and will get you on the radio but not because your motivated to make the song, you'll lose motivation too quickly and you won't want to work on the song at all. Figure out the genres you like, whether they are mainstream or not, and make those instead.
+
 ## A lot of project files and discussions on forums are far removed from reality
 Project files on forums often have all their instruments seperated in individual tracks, all their stuff color-coded, nicely routed, nicely named and have seemingly a bazillion automation clips (or that is the golden goal at least). Truth is, especially for me, all this organisational bull-crap gets in the way of creating, especially because so much is bound to change. On top of that, if you watch livestreams of real professional producers you'll often see that they don't have a bazillion automations and yet it still sounds good (as they know when to automate and when not). Maybe they may reach 5-10 total different ones in total over the whole song but certainly not all at the same time so even that wet dream is really not based in realitiy. Look under "Planning" for a practical plan how to go about creating and being productive.
 
