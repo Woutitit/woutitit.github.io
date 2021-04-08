@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Song creation routine
 ## Table of contents
 1. [Introduction](#introduction)
