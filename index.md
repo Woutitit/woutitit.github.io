@@ -34,7 +34,7 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Dictionary](dictionary.md)
 - [Audio recording](audio-recording.md)
 - [General tips and advice](general-tips-and-advice.md)
-- [Software (VSTs, DAW, Synths...)](software.md)
+- [Software tips (VSTs, DAW, Synths...)](software.md)
 - [Songwriting](songwriting.md)
 - [Workflow and productivity](workflow-and-productivity.md)
 
