@@ -4,7 +4,7 @@
 2. [Find one or more reference track(s)](#find-one-or-more-reference-tracks)
 3. [Research and know your genre](#research-and-know-your-genre)
 4. [Have presets, samples and a template ready](#have-presets-samples-and-a-template-ready)
-5. [Practical work routine](#work-stages)
+5. [Practical work routine](#practical-work-routine)
 
 ## Introduction
 Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine.
