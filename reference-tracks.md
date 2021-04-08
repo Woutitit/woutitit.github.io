@@ -65,5 +65,7 @@ The frequencies, there are a lot of sounds you'll want to have tinner than expec
 
 On the other side of the coin, there might be elemens or mixes in which the elements do need to be super thick or rather filling or substantially filling. Perhaps your chords need to be filling, perhaps your bass needs to be filling as that's the only element. Again it's a spectrum and you always have to judge in context of mix and layers and sound and functionality and importance;
 
-## Check stereo field
+## Check stereo field and use vectorscope
 Use a Mid/Side EQ or Voxengo MSED. It would be even better if you had indivual stems but in this way you can solo either mids or sides and you can see if for example the bass has any sides or only mids or both so you know if you want/need to make your bass (more) mono or stereo.
+
+Use a vectorscope to also aid to check your stereo image vs. the other. Like, if you find something something super width you need to check whether their width is more than yours and how. Maybe they simply did some tricks that you should do or maybe it's kinda mono but stuff around it make it sound like cool and dimensional.
