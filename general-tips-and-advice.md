@@ -1,6 +1,9 @@
 # Inspirational advice
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
 
+## Music theory is about practice, experience and overextending
+As a beginner you'll think you need x plugin(s) to be good so you buy x plugins and you realize your still shit so instead you start to learn and realize you need to put more time in mastering the tools. As a beginner you'll think you need to widen everything to sound pro but then you do that and realize your mix is still pretty shit so you start to understand you need to do stereo imaging. As a beginner you think that a master makes stuff super loud but then you try and start to realize that actually most loudness is coming because of the mix. Again, you need to experience all these and more and more you'll realize that you just need to get better and not buy more stuff or read more techniques. But you need to have been there first and experienced it. Of course, it also comes with realizing what you DO need. Perhaps your string vst is legit crap compared to other stuff. Perhaps your reverb plugin really is super user-unfriendly and makes it hard to do stuff. But again, this is with experience and you need to do and experience stuff and see if it's indeed the answer (or how much) and if not that's a lessons learned.
+
 ## Make songs you want to make
 This doesn't mean to stay in your comfort zone but for example if you want to make a house song because you heard this one house song and it's like mainstream and will get you on the radio but not because your motivated to make the song, you'll lose motivation too quickly and you won't want to work on the song at all. Figure out the genres you like, whether they are mainstream or not, and make those instead.
 
