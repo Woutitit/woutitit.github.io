@@ -38,6 +38,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - If sub bass too high or too inaudible on some notes, switch key.
 - Put the 20-20k Hz EQ preset on the master. Inaudible frequencies but eat up headroom.
 - FX chain routing and order correct? No reverbs/delays before distortions? Compressors and EQs in right order?
+- Check stereo image correlation and keep in check (for phase issues?)
 
 ## Production
 - Layers?
