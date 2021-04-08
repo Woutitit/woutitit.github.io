@@ -9,7 +9,7 @@
 5. [Practical work routine](#practical-work-routine)
 
 ## Introduction
-Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine.
+Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine. Keep in mind that this does kind of overlap with "Workflow and productivity" so refer there for mre tips.
 
 ## Find one or more reference track(s)
 It really helps to have one or more reference tracks for any stage in the project creation stage. Reference tracks serve as your inspiration as well as a reference of whether your mixing is any good.
