@@ -3,26 +3,38 @@
 # Workflow and productivity
 ## Table of contents
 1. [Introduction](#introduction)
-1. [Commit to your work](#commit-to-your-work)
-3. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
-4. [Play to your strengths](#play-to-your-strengths)
-5. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-6. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
-8. [Work in short focused bursts](#work-in-short-focused-bursts)
-9. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
-10. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
-11. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
-12. [Work fast](#work-fast)
-13. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
-14. [Plan, research, reference](#plan-research-reference)
-15. [Listen to music before producing](#listen-to-music-before-producing)
-16. [Focus on the 80%](#focus-on-the-80)
-17. [Occassionally force yourself](#occassionally-force-yourself)
-18. [Stop distractions](#stop-distractions)
-19. [Don't be too attached](#dont-be-too-attached)
+2. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
+3. [Give your song a rest](#give-your-song-a-rest)
+4. [Commit to your work](#commit-to-your-work)
+5. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
+6. [Play to your strengths](#play-to-your-strengths)
+7. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+8. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
+9. [Work in short focused bursts](#work-in-short-focused-bursts)
+10. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
+11. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
+12. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
+13. [Work fast](#work-fast)
+14. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
+15. [Plan, research, reference](#plan-research-reference)
+16. [Listen to music before producing](#listen-to-music-before-producing)
+17. [Focus on the 80%](#focus-on-the-80)
+18. [Occassionally force yourself](#occassionally-force-yourself)
+19. [Stop distractions](#stop-distractions)
+20. [Don't be too attached](#dont-be-too-attached)
 
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
+
+## Take notes and make a TODO list
+Once your song starts to take shape start going through your song and start taking notes. If your song is still out in the open then start by taking some macro notes like "section B needs much improvement" and the more everything falls in place start taking more micro notes like "I could do a pitch shift on note x at minute y". Stuff like that.
+
+Also, make a bit of a (todo) list from that and prioritize it. Perhaps you don't want to start with the part that is pretty much done but more start with the part that still needs a lot of shit. Or maybe you don't feel like creating so much, then you can still make progress with doing an item on the list that doesn't take as much brain power (but don't put off the big thing). Either way taking notes with timestamps and making a list can be handy to help you progress in your song.
+
+## Give your song a rest
+Seriously, your song will start to sound bad and kind of un-loud and all that jazz even though your ears previously told you it was cool and the meters also say that. Your ears are getting tired and biased from hearing the song so many times. Keep working and pushing through this tiredness and just hang yourself up on the fact that you used to think it sounded really cool. But then, when it's (almost) done. Put it in the freezer and give your song a rest
+
+You need to give your ears a rest from hearing that particular song. A long rest. That way you can come back to your song with fresh ears and listen it again. Again, there might still be that slight bias of you having heard the song many times (so maybe it sounds a bit dull, the longer the break the less this is an easy), however, the mixing should sound either good or bad to you and you can start adjusting again. Either way, this is not perfect and ultimately you should check against a reference track to make sure your song is good.
 
 ## Commit to your work
 - [Why You Should Follow Your Dharma - Your Purpose in Life](https://www.youtube.com/watch?v=0ZhPLzyNz9c)
