@@ -16,7 +16,7 @@ The first stage is simply dabbling. You have nothing so you start dabbling away 
 
 *Note: The creative stage is the hardest. Try to be deliberate and productive. Think about your decisions. Also, don't look too much at the end goal. Just be creative. Congratulate yourself for working on your song, achieving something small in your song, don't put yourself down for not finishing it. Be reasonable.*
 
-So yeah work to that point and preferably you'd want to do this until you have more or less a song structure going on. Probably you're chorus is already going to be fleshed out and the other stuff sounds even more shit but you have a structure that you can work in now.
+So yeah work to that point and preferably you'd want to do this until you have more or less a song structure going on. Probably you're chorus is already going to be fleshed out and the other stuff sounds even more shit but you have a structure that you can work in now. Also, in the first (succesful) iteration this is where I'll now put the project in my "WIP" folder
 
 ## Stage 2: Clean up
 *Note: This stage you preferably want to enter only after you have laid down your (initial) song structure, though, if progress is slow you can do it after more or less laying down the section you've worked on (and other stuff).*
@@ -43,7 +43,7 @@ Lastly, this cleaning is about committing too. Don't try and audition muted shit
 ## Stage 3: Make a priority list
 *Note: Adding to the list shouldn't always necessarily come after stage 2, if you happen to have ideas pop up at any time, just add them of course.*
 
-Now, you've probably got a good chunk of song, assuming that in stage 1 you laid (most of) your track down. Your chours (most likely) sounds okay so now it's making a decision on what to work on next. Deciding this can be hard which is why I advice you to listen through everything you already have (assuming you more or less have a song or parts of it) once or multiple times, listen critically and then note down (read: make a todo list) faults in a document. 
+Now, you've probably got a good chunk of song, assuming that in stage 1 you laid (most of) your track down. Your chours (most likely) sounds okay so now it's making a decision on what to work on next. Deciding this can be hard which is why I advice you to listen through everything you already have (assuming you more or less have a song or parts of it) once or multiple times, listen critically and then note down (read: make a todo list) faults in a document. Store it in the same folder as your project (and call it notes.txt).
 
 The notes can be about anything (composition, arrangement, mixing, sound design...). Now, in the early stages of your song, do this on a macro scale. Something like "the B section needs a total rework" or "Need to add one more chorus at the end" or "Add an intro". You can also already go in a few micro details like "I need to add vibrato on x and y notes" but try to not be too specfic yet as it will clutter.
 
