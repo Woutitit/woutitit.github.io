@@ -11,25 +11,6 @@
 ## Introduction
 Getting in a certain routine and workflow that you're comfortable with will help you create and finish songs faster. Here are some tips for that routine. Keep in mind that this does kind of overlap with "Workflow and productivity" so refer there for mre tips.
 
-## Find one or more reference track(s)
-It really helps to have one or more reference tracks for any stage in the project creation stage. Reference tracks serve as your inspiration as well as a reference of whether your mixing is any good.
-
-You don't need a single reference track. You could have a track which you want to take as a blueprint for your project. However, maybe the mix is not what you want, so you have another track similarly to the genre and you reference that one for mixing. And then you have maybe other tracks (or the same) taking as inspiration.
-
-Really, reference tracks can be used in various ways. Like, you could use them at the very start for inspiration to rip off a song structure or to rip off sound design or rhythms or elements or whatever (doesn't matter as all music is recycled) and/or you could use it for mixing/mastering and to check LUFS and stuff.
-
-## Research and know your genre
-Every song you make will lean close to one or more particular genres. Usually genres have some stylistic choices that make them sound like a certain genre. Whether that is sound design, a progression, certain rhythms, certain instrumentation, certain layering. It can be anything and knowing at least what you want to make and in which genre will help you  plan a project better.
-
-If there really isn't a genre but you know for example you want to have an electronic and modern tango/waltz vibe going you could for example go with stylistic elements of tango waltz but with modern synths and maybe a hard hitting drum loop and stuff like that.
-
-## Have presets, samples and a template ready
-It's critical that you need to have most (but preferably all) sounds already available before you create your songs. So have presets with the required macros and have samples that will help your genre so that you can minimize the amount of sound design that you need to do. Of course, tweaking to fit a song will always be necessary.
-
-Here it helps to really have seperate sound design sessions. Keep a list of sounds you want to make and then in some sessions try and make that sound. Save it and then you can either use it later or you can work on it later. Or if you happened to make a cool sound in a project, simply sample it with all it's FX and maybe you could use that sound bite in a next project.
-
-A template could also help. For example, you might not need some send tracks even but just some stuff that sets up sidechain quickly and stuff. Anything that makes you be creative faster.
-
 ## Practical work routine
 ### Stage 1: Dabble stage
 The first stage is simply dabbling. You have nothing so you start dabbling away until you have either nothing or something. Usually, here I add synths, I add melody lines I mute and unmute stuff and usually, in the case of having something, I end up pretty cluttered. But it's like a TDD (Software development) approach, right. Like, you work and work and work in the fastest way to get something done not looking at being clean or organized but just get something. Usually the mixing isn't great the sound design isn't great, the project is a bit of a mess but you now have something that sounds good and know how to improve. Like you have a decent bass line and melody but just too much notes a bit and maybe too much high-end on bass but for the rest it's where you want to go. 
@@ -79,3 +60,22 @@ Last stage is then obviously where everything is done, again, take a listen agai
 - Mix and master, perhaps from scratch, in a seperate file with audio stems only. Don't look back.
 - Device compatibility/Mono compatibility check, vibe check.
 - Ship!
+
+## Find one or more reference track(s)
+It really helps to have one or more reference tracks for any stage in the project creation stage. Reference tracks serve as your inspiration as well as a reference of whether your mixing is any good.
+
+You don't need a single reference track. You could have a track which you want to take as a blueprint for your project. However, maybe the mix is not what you want, so you have another track similarly to the genre and you reference that one for mixing. And then you have maybe other tracks (or the same) taking as inspiration.
+
+Really, reference tracks can be used in various ways. Like, you could use them at the very start for inspiration to rip off a song structure or to rip off sound design or rhythms or elements or whatever (doesn't matter as all music is recycled) and/or you could use it for mixing/mastering and to check LUFS and stuff.
+
+## Research and know your genre
+Every song you make will lean close to one or more particular genres. Usually genres have some stylistic choices that make them sound like a certain genre. Whether that is sound design, a progression, certain rhythms, certain instrumentation, certain layering. It can be anything and knowing at least what you want to make and in which genre will help you  plan a project better.
+
+If there really isn't a genre but you know for example you want to have an electronic and modern tango/waltz vibe going you could for example go with stylistic elements of tango waltz but with modern synths and maybe a hard hitting drum loop and stuff like that.
+
+## Have presets, samples and a template ready
+It's critical that you need to have most (but preferably all) sounds already available before you create your songs. So have presets with the required macros and have samples that will help your genre so that you can minimize the amount of sound design that you need to do. Of course, tweaking to fit a song will always be necessary.
+
+Here it helps to really have seperate sound design sessions. Keep a list of sounds you want to make and then in some sessions try and make that sound. Save it and then you can either use it later or you can work on it later. Or if you happened to make a cool sound in a project, simply sample it with all it's FX and maybe you could use that sound bite in a next project.
+
+A template could also help. For example, you might not need some send tracks even but just some stuff that sets up sidechain quickly and stuff. Anything that makes you be creative faster.
