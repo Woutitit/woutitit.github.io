@@ -64,7 +64,7 @@ Analysis articles are handy together with the commonities article and the refere
 - [Tracks](/analysis/analysis-ideas.md)
 
 ## Articles
-More specific articles that are either too big, too specific or too hard to really categorize.
+More specific articles that are either too big, too specific or too hard to really categorize. They are like one-offs that are very handy to reference when doing a more specific thing. Though they won't contain the full story which is when you'd consult the more in depth articles.
 
 - [How to mix kick, snare and bass](#hi)
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
