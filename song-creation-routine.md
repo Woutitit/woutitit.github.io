@@ -22,7 +22,9 @@ The first stage is simply dabbling. You have nothing so you start dabbling away 
 So yeah work to that point and preferably you'd want to do this until you have more or less a song structure going on. Probably you're chorus is already going to be fleshed out and the other stuff sounds even more shit but you have a structure that you can work in now.
 
 ## Stage 2: Clean up
-At this point the project is such a mess that I get demotivated to try and work in it. So usually what I do now is start cleaning the project file up, I:
+At this point the project is such a mess and you've heard your stuff on loop for a long time so your motivation is probably not the highest. This is where cleaning the project is ideal as it still allows you to push forward and progress in the track whilst not having to create actual music. And the best thing? You can do this while putting on a series (or even other music) on your second monitor.
+
+Here are the steps I go through when cleaning (don't worry, it looks more work than it is):
 - Make a new version of the project, suffix it "myProject_reorganized"
 - Delete all muted channel instruments
 - Delete all muted patterns, samples and automation clips
