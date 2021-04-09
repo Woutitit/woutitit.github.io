@@ -43,22 +43,22 @@ After all this your project file should be easy again to edit and the barrier fo
 
 Lastly, this cleaning is about committing too. Don't try and audition muted shit to see if you still need it. No, just delete and commit to all the unmuted stuff you have. Of course there are exceptional cases where you know you really want to keep stuff but really don't treat it as the rule. Because also, if you really are missing a certain unmuted track, you can simply go back a version and see which sample or pattern that was and then get it back in your current file. That's why we make versions.
 
-## Stage 3: Loop stage 1 and 2
-After cleaning, what you do now is just choose a part (preferably anything else than the chorus) and start working on it again. At this point you'll usually again duplicate tracks, add synths and samples and all the jazz you've been doing before. And again you should dabble until you have found something to work with (or start dabble another section if you ain't fully feeling it). Then you make that thing a reality or close to what it should be and again at this point it's going to be a mess again your project so you go through the cycle again of cleaning up. Again, this really doesn't need to be a drag because you can literally put on a video as you don't need to hear the music, just clean up.
+## Stage 3: Make a priority list
+*Note: Adding to the list shouldn't always necessarily come after stage 2, if you happen to have ideas pop up at any time, just add them of course.*
 
-So basically you do this whole cycle about creating and cleaning for all sections until your whole song is basically "good enough" and your project is kind of clean. This is where the discipline part and commitment part starts. Now you have to go through your sections and really make them a good as possible. Try to add ear candy, extra layers, switch out samples for better ones, more humanisation, and cleaned up midi etc. but really those should've mostly come from the creation stages. Again, it's important here to really pay attention and think about what you're doing and to make deliberate decisions. It's also necessary to commit. Even if you think a section is thin but kind of cool sounding and you don't know what it lacks, leave it and make THAT sound as good as you can. Usually some FX here and there. You'll also want to have your routing in place and stuff and sends/inserts if needed and perhaps have every instrument have a playlist line rather than having a single pattern.
+Now, you've probably got a good chunk of song, assuming that in stage 1 you laid (most of) your track down. Your chours (most likely) sounds okay so now it's making a decision on what to work on next. Deciding this can be hard which is why I advice you to listen through everything you already have (assuming you more or less have a song or parts of it) once or multiple times, listen critically and then note down (read: make a todo list) faults in a document. 
 
-## Stage 4: Actual mixing/mastering
+The notes can be about anything (composition, arrangement, mixing, sound design...). Now, in the early stages of your song, do this on a macro scale. Something like "the B section needs a total rework" or "Need to add one more chorus at the end" or "Add an intro". You can also already go in a few micro details like "I need to add vibrato on x and y notes" but try to not be too specfic yet as it will clutter.
+
+It's then up to you to prioritize the issues in your song (don't need to be super exact). For example, adding a B part may be more important than making the kick and bass sit slightly better in the mix and making the kick and bass sit better in the mix may be more important than color coding your patterns. Ideally, you would want to work on the highest priority things first, but if they are really too much, you can do other stuff on the list you're feeling more. Just note that you need to realize these highes priority things will need to be done (usually most work) and that in the beginning you usually have most drive and energy.
+
+## Stage 4: Rinse and repeat
+Once your list is done and you've chosen something (or multiple things) to work on (it doesn't need to be a single thing), you will essentially be going through stage 1 again. Here it's just the trick that once you've reached a milestone (e.g. your highest priority stuff done) or your project gets too cluttered to go into stage 2 again. And after that go into stage 3. You do this basically until you have a full song that may not sound super decently mixed but from a compositional side is 80% done.
+
+Also, this stage 1 - stage 3 thing is designed to give you a tangeable way of doing things and thus it will help you to simply create and finish songs easier.
+
+## Stage 5: Actual mixing and mastering
 Then the last stages of song making (in my case) is where your song sounds good and the composition and arrangement is (mostly) done. This is where you are critical about your sound FX, risers, things you automate and the enveloppes of it. This is also where you start REALLY mixing. Again, you should here be in a mindset of "I've commited to this composition and arrangement, let's make this sound as good as we can. Preferably, if you can, you want to start your mixing from scratch again, you might even want to render out every single instrument (with FX but just no mixing FX) (so not the whole song) and drop them all as stems in a mixing file (so you're focused more on working with what you have than trying to change stuff) and make that the best mix you can, again, paying really close attention. And mastering goes into this stage too.
 
-### Stage 5: Device referencing/Mono compatibility/Marketing
+### Stage 6: Finalizing
 Last stage is then obviously where everything is done, again, take a listen again and don't cry over the composition/arrangement AT ALL, it's done and over. Hear the mixing and mastering, listen it on different devices and see if it's okay. So you might need to go back a bit to mix and mastering but mostly it shouldn't be too big of mixing decisions anymore.
-
-### Stage summary:
-- Create, don't worry about stuff (mix on the go, presets, muddiness is ok). Clean up.
-- Loop step 1 until whole song good enough.
-- Listen critically, be disciplined and make decisions that will benefit/clean up/thicken/make interesting current composition and arrangement
-- Loop step 3 until done for all sections
-- Mix and master, perhaps from scratch, in a seperate file with audio stems only. Don't look back.
-- Device compatibility/Mono compatibility check, vibe check.
-- Ship!
