@@ -4,11 +4,12 @@
 > This goes hand in hand with the tips in "Workflow and productivity".
 
 ## Table of contents
-1. [Stage 1: Dabble](#introduction)
-2. [Stage 2: Clean up](#find-one-or-more-reference-tracks)
-3. [Stage 3: Rinse and repeat](#research-and-know-your-genre)
-4. [Stage 4: Actual mixing and mastering](#have-presets-samples-and-a-template-ready)
-5. [Stage 5: Finalizing](#practical-work-routine)
+1. [Stage 1: Dabble](#stage-1-dabble)
+2. [Stage 2: Clean up](#stage-2-clean-up)
+3. [Stage 3: Make a priority list](#stage-3-make-a-priority-list)
+4. [Stage 4: Rinse and repeat](#stage-4-rinse-and-repeat)
+5. [Stage 5: Actual mixing and mastering](#stage-5-actual-mixing-and-mastering)
+6. [Stage 6: Finalizing](#stage-6-finalizing)
 
 ## Stage 1: Dabble
 The first stage is simply dabbling. You have nothing so you start dabbling away until you have either nothing or something. Usually, here I add synths, I add melody lines I mute and unmute stuff and usually, in the case of having something, I end up pretty cluttered. But it's like a TDD (Software development) approach, right. Like, you work and work and work in the fastest way to get something done not looking at being clean or organized but just get something. Usually the mixing isn't great the sound design isn't great, the project is a bit of a mess but you now have something that sounds good and know how to improve. Like you have a decent bass line and melody but just too much notes a bit and maybe too much high-end on bass but for the rest it's where you want to go. 
