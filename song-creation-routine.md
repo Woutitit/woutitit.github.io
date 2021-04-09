@@ -1,6 +1,8 @@
 [Home](index.md)
 
 # Song creation routine
+> This goes hand in hand with the tips in "Workflow and productivity".
+
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Find one or more reference track(s)](#find-one-or-more-reference-tracks)
