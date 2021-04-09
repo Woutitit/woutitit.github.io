@@ -72,3 +72,4 @@ More specific articles that are either too big, too specific or too hard to real
 - [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
 - [Guitar recording tips](/articles/guitar-recording-tips.md)
 - [How to properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
+- [How to write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
