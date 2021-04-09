@@ -8,8 +8,8 @@
 2. [Stage 2: Clean up](#stage-2-clean-up)
 3. [Stage 3: Make a priority list](#stage-3-make-a-priority-list)
 4. [Stage 4: Rinse and repeat](#stage-4-rinse-and-repeat)
-5. [Stage 5: Actual mixing and mastering](#stage-5-actual-mixing-and-mastering)
-6. [Stage 6: Finalizing](#stage-6-finalizing)
+5. [Stage 5: Actual mixing and mastering](#stage-5-mix-and-master)
+6. [Stage 6: Finalizing](#stage-6-finalize)
 
 ## Stage 1: Dabble
 The first stage is simply dabbling. You have nothing so you start dabbling away until you have either nothing or something. Usually, here I add synths, I add melody lines I mute and unmute stuff and usually, in the case of having something, I end up pretty cluttered. But it's like a TDD (Software development) approach, right. Like, you work and work and work in the fastest way to get something done not looking at being clean or organized but just get something. Usually the mixing isn't great the sound design isn't great, the project is a bit of a mess but you now have something that sounds good and know how to improve. Like you have a decent bass line and melody but just too much notes a bit and maybe too much high-end on bass but for the rest it's where you want to go. 
@@ -52,10 +52,10 @@ It's then up to you to prioritize the issues in your song (don't need to be supe
 ## Stage 4: Rinse and repeat
 Once your list is done and you've chosen something (or multiple things) to work on (it doesn't need to be a single thing), you will essentially be going through stage 1 again. Here it's just the trick that once you've reached a milestone (e.g. your highest priority stuff done) or your project gets too cluttered to go into stage 2 again. And after that go into stage 3. You do this basically until you have a full song that may not sound super decently mixed but from a compositional side is 80% done.
 
-Also, this stage 1 - stage 3 thing is designed to give you a tangeable way of doing things and thus it will help you to simply create and finish songs easier.
+*Note: this stage 1 - stage 3 thing is designed to give you a tangeable way of doing things and thus it will help you to simply create and finish songs easier.*
 
-## Stage 5: Actual mixing and mastering
-Then the last stages of song making (in my case) is where your song sounds good and the composition and arrangement is (mostly) done. This is where you are critical about your sound FX, risers, things you automate and the enveloppes of it. This is also where you start REALLY mixing. Again, you should here be in a mindset of "I've commited to this composition and arrangement, let's make this sound as good as we can. Preferably, if you can, you want to start your mixing from scratch again, you might even want to render out every single instrument (with FX but just no mixing FX) (so not the whole song) and drop them all as stems in a mixing file (so you're focused more on working with what you have than trying to change stuff) and make that the best mix you can, again, paying really close attention. And mastering goes into this stage too.
+## Stage 5: mix and master
+So entering this stage your song should ideally be 80% done from a creation point of view. This stage is where you are actually critical about your mix, master, sounds, sound FX, risers, things you automate and the enveloppes of it. This is also where you start REALLY mixing. Again, you should here be in a mindset of "I've commited to this composition and arrangement, let's make this sound as good as we can. Preferably, if you can, you want to start your mixing from scratch again, you might even want to render out every single instrument (with FX but just no mixing FX) (so not the whole song) and drop them all as stems in a mixing file (so you're focused more on working with what you have than trying to change stuff) and make that the best mix you can, again, paying really close attention. And mastering goes into this stage too.
 
 ### Stage 6: Finalizing
 Last stage is then obviously where everything is done, again, take a listen again and don't cry over the composition/arrangement AT ALL, it's done and over. Hear the mixing and mastering, listen it on different devices and see if it's okay. So you might need to go back a bit to mix and mastering but mostly it shouldn't be too big of mixing decisions anymore.
