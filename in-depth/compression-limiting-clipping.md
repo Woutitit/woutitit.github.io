@@ -161,4 +161,4 @@ On top of that, synths work with MIDI which have velocity controls so if stuff i
 
 That doesn't mean a compressor isn't used in synths. For example a multiband compressor or an extreme multiband compressor like OTT we can use since it will compress a certain band while it leaves others alone. In this case there will be a difference because frequencies are being compressed differently. Often this is used to compress the highs a bit more to bring out the harmonics a bit louder and have that bite in it.
 
-So in essence, a compressor *in the tradional sense* isn't used nearly as much as it is on recordings, (unprocessed samples), real-sample VSTs, but as a means of *effect* like transient processing or making it brighter it has its uses on synths too of course.
+So in essence, a compressor *in the tradional sense* isn't used nearly as much as it is on recordings, (unprocessed samples), real-sample VSTs, but as a means of *effect* like transient processing or making it brighter (or sidechain compression) it has its uses on synths too of course.
