@@ -1,4 +1,4 @@
-# Loudness normalization (LUFS/RMS/Peak/Mastering)
+# Mixing and mastering for loudness (LUFS/RMS/Peak/Mastering)
 ## Sources
 https://www.tcelectronic.com/loudness-explained.html
 https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/mixer_levelsandmixing.htm#loudnesswars
@@ -11,6 +11,9 @@ https://old.reddit.com/r/mixingmastering/comments/lt1ptl/progressing_my_mixes_an
 3. What it means for mixing and mastering
 4. Conclusion
 5. Notes
+
+## Introduction
+Analyze any professional track these days and you'll pretty much see the same. The waveform having zero headroom (in the chorus or loudest part of the track). In fact, the song probably parts of the wave cut off. This is all due to limiting and/or soft clipping done during mastering and it's deliberately done to squish more loudness and fatness out of a track as that's what we want these days.
 
 ## Loudness normalization
 These days a lot of streaming platforms use loudness normalization (https://artists.spotify.com/faq/mastering-and-loudness) whenever they playback tracks. What this means is that they are going to turn up or turn down your track depending on how loud it is in an effort to normalize all tracks being equally loud.
