@@ -38,7 +38,7 @@ Here it also helps to have a quick master chain going on just to have a bit bett
 
 Also, again, for loudness you'll again have level/LUFS matched your stuff. In this case it's a bit easier as if you want to know the loudness of the kick you can actually low pass and then get most of the loudness of the kick (since mostly kick playing), of course it will be louder in the end with the high-end so you'll want to low-pass your kick too at the same point and level match that (have to see through the bass a bit) and then the high-end will add loudness but again, if low-end right that's a good start. Also the kick getting right (and bass) is also already a very good start as doing other stuff by ear and just watching spectrum is/becomes easier. Also, if you think "stuff is so loud" but clearly it's just because your mix is quieter, then you need to LUFS match again.
 
-## Spectrum matching
+### Spectrum matching
 Try to match the spectrum (or a certain frequency band) of the reference track you like. It doesn't have to be exact but if you see a certain dip in a range try to find out why he has that (composition and/or mixing) and then you can incorporate it too. Or if you see the highs are slightly sticking out try to figure out again why and again match that. On top of that, the lower you go in the spectrum the more easily you can see individual harmonics, this is very useful especially for kick and/or bass since in the low-end since space is cramped [all harmonics matter way more to adding either warmth or mud than harmonics in the upper range ](https://old.reddit.com/r/edmproduction/comments/mlx3qq/to_those_who_mix_on_headphones_how_do_you_mix/gtofewf/). Like, make both yours and his bass play the same line (or at the least music key-match) and check the low and sub harmonics of your vs. his bass (ideally without the kick interfering). If you see less harmonics it may mean your bass is muddying too much, if you see more harmonics or louder harmonics it may be that your bass is not fat enough.
 
 ### Put through STEMS converter
@@ -53,10 +53,10 @@ Similar to checking solos, just check the waveform and see how much (or little) 
 ### Get inspiration
 Use it for inspiration on everything of your track. It doesn't have to be the same track you use for mixing (as sometimes you might want to compose similar to an old song but have the mixing style of a modern song).
 
-## Band soloing
+### Band soloing
 https://www.youtube.com/watch?v=QQU2RDzoFQA&t=16s
 
-## Sounds often need to be tinner than you think
+### Sounds often need to be tinner than you think
 A lot of patches are designed to sound full without context of a mix. They have a lot of reverb and delay and probably a lot of frequencies they take in. Often all those things are to much for a sound and will muddy stuff up quickly, especially in layering.
 
 For the fx problem, a common thing is too simply strip a patch from its fx and then add your own fx to taste and too context. It depends as sometimes your mix is sparse and could indeed benefit (in a section) from a shitload of reverb and delay to fill space out. So again it depends but especially in chorus and busy parts you'll want to make sure you tailor fx.
@@ -65,7 +65,12 @@ The frequencies, there are a lot of sounds you'll want to have tinner than expec
 
 On the other side of the coin, there might be elemens or mixes in which the elements do need to be super thick or rather filling or substantially filling. Perhaps your chords need to be filling, perhaps your bass needs to be filling as that's the only element. Again it's a spectrum and you always have to judge in context of mix and layers and sound and functionality and importance;
 
-## Check stereo field and use vectorscope
+### Check stereo field and use vectorscope
 Use a Mid/Side EQ or Voxengo MSED. It would be even better if you had indivual stems but in this way you can solo either mids or sides and you can see if for example the bass has any sides or only mids or both so you know if you want/need to make your bass (more) mono or stereo.
 
 Use a vectorscope to also aid to check your stereo image vs. the other. Like, if you find something something super width you need to check whether their width is more than yours and how. Maybe they simply did some tricks that you should do or maybe it's kinda mono but stuff around it make it sound like cool and dimensional.
+
+### Tonal balance
+This one is super important. Check out with SPAN and tonal balance control 2 of iZotope whether your song has a good tonal balance. Also reference it with one (but preferably more) songs and see if it fits the balance. You don't want it to fit exactly but if you have a similar song with similar instrumentation and business and genre and you notice that your references all have their highs and very highs in the upper boundaries, while yours has mainly low and low-mids there, it's a very high chance your mix sounds way darker and less bright than those. And then you can get to work. Either boosting some highs, turning down some lows, adding some elements in composition, rearranging some stuff (typically it's an accumulation of small stuff that'll get you there). Again, make sure to compare similar tracks in similar genres that have a mix and balance you also want. And also make sure you're comparing chorus to chorus.
+
+Also reference the less chorus parts since usually there is less tonal balance there (as you don't want the track to sound super full per-se. Again, check if that is the case or check how much or how little or whether they lean to high or low-end for the verses and/or build-ups and stuff.
