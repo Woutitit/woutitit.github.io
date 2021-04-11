@@ -1,3 +1,5 @@
+[Home](../index.md) [Edit](https://github.com/Woutitit/woutitit.github.io/edit/master/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
+
 # How to write better melodies harmonies and rhythms
 - https://www.youtube.com/watch?v=myUITpTwm38&t=354s
 - https://www.youtube.com/watch?v=oYZecKE8a4U
