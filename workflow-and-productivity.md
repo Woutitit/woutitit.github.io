@@ -3,28 +3,32 @@
 # Workflow and productivity
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
-3. [Give your song a rest](#give-your-song-a-rest)
-4. [Commit to your work](#commit-to-your-work)
-5. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
-6. [Play to your strengths](#play-to-your-strengths)
-7. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-8. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
-9. [Work in short focused bursts](#work-in-short-focused-bursts)
-10. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
-11. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
-12. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
-13. [Work fast](#work-fast)
-14. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
-15. [Plan, research, reference](#plan-research-reference)
-16. [Listen to music before producing](#listen-to-music-before-producing)
-17. [Focus on the 80%](#focus-on-the-80)
-18. [Occassionally force yourself](#occassionally-force-yourself)
-19. [Stop distractions](#stop-distractions)
-20. [Don't be too attached](#dont-be-too-attached)
+2. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
+3. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
+4. [Give your song a rest](#give-your-song-a-rest)
+5. [Commit to your work](#commit-to-your-work)
+6. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
+7. [Play to your strengths](#play-to-your-strengths)
+8. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+9. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
+10. [Work in short focused bursts](#work-in-short-focused-bursts)
+11. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
+12. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
+13. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
+14. [Work fast](#work-fast)
+15. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
+16. [Plan, research, reference](#plan-research-reference)
+17. [Listen to music before producing](#listen-to-music-before-producing)
+18. [Focus on the 80%](#focus-on-the-80)
+19. [Occassionally force yourself](#occassionally-force-yourself)
+20. [Stop distractions](#stop-distractions)
+21. [Don't be too attached](#dont-be-too-attached)
 
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
+
+## Optimizing workflow is a process
+Getting a good workflow, one that fits you is a progress. It has two facets. First, you'll try the workflow that you think currently that is your best way of doing things. You see what works for you and over time you modify it to suit you better (or you stop doing it because it's unhelpful). Secondly, over time you also get more and more experience with your workflow but also your tools, your shortcuts, your software, your feel for music so in that way your productivity will all improve as well.
 
 ## Take notes and make a TODO list
 Once your song starts to take shape start going through your song and start taking notes. If your song is still out in the open then start by taking some macro notes like "section B needs much improvement" and the more everything falls in place start taking more micro notes like "I could do a pitch shift on note x at minute y". Stuff like that.
