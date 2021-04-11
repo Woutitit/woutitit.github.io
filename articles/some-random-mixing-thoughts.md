@@ -1,0 +1,6 @@
+# Some random mixing thoughts
+Were should I put this article? Or like how structure it?
+
+Often, especially with working with supersaws. Supersaws are often quiet dense, meaning that if they are too loud they'll eat up a lot of the mix and stuff will sound boxy and muddy and also due to their harmonic richness, all these notes together with their rich harmonics sound super harmonicially rich and dense.
+
+A few things to rememdy this sound or similar sound is first roll off some highs, perhaps make chord more spread out, especially in loudness. If you want something gritty often times it's better to have the saw is this dense chord of sound but more back in the mix and have the bass a bit louder and be the gritty element. This works because the saw bass is one note and thus is "cleaner" and doesn't take over the mix as much as a dense chord of sound would. Like in references you'll see that too. Of course in some mixes the saws can be super loud (like in future bass) but it depends on the roll. If the roll is indeed supersaws are important like in future bass then you'll have them louder but in that case also it's all about the saws and nothing else either way so they get space also they get processed anyway too.
