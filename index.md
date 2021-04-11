@@ -73,3 +73,4 @@ More specific articles that are either too big, too specific or too hard to real
 - [Guitar recording tips](/articles/guitar-recording-tips.md)
 - [How to properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
 - [How to write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
+- [Some random mixing thoughts](some-random-mixing-thoughts)
