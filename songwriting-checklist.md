@@ -32,7 +32,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - If element doesn't sit in mix, the workflow is usually Volume > EQ > Compression > FX.
 - Saturate transients to keep transients but gain headroom.
 - Boost high-end/low-end of kick and/or cut mids and/or use transient processor.
-- Check tonal balance (on busiest parts), recommended with iZotope Tonal balance 2
+- Check tonal balance (on busiest parts), recommended with iZotope Tonal balance 2. Usually want highs and/or very highs to upper parts of boundaries and lows and mids to lower parts of boundaries.
 - LUFS match (a) similar reference track(s) and mix to that
 - For compression, start with a 4:1 ratio -6db gain reduction. Tweak from there.
 - If sub bass too high or too inaudible on some notes, switch key.
@@ -40,7 +40,6 @@ This handy list is meant as a reference for when you don't get your mix right or
 - FX chain routing and order correct? No reverbs/delays before distortions? Compressors and EQs in right order?
 - Check stereo image correlation and keep in check (for phase issues?).
 - Mind transients when (heavily) limiting.
-
 ## Production
 - Layers?
   - Plucks with sustains, octaves up/down, interesting timbres.
