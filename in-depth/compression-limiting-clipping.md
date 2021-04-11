@@ -1,21 +1,22 @@
+[Home](../index.md)
+
 # Compression, Limiting & Clipping
-Note: this article will probably be added to and rewritten the more I learn about compression and have experience with it.
-
-// TODO: Change this more into a tips style thing.
-
 ## Table of contents
-1. What is a compressor
-2. What is a limiter
-3. What is a clipper
-4. Dangers of compressor
-5. Compression vs. volume automation
-6. Why use a compressor
-7. How does a compressor work
-8. How to use a compressor
-9. Most common compression techniques
-10. Tips
-11. Notes
+1. [Introduction](#introduction)
+1. [What is a compressor](#what-is-a-compressor)
+2. [Why reduce dynamic range](#why-reduce-dynamic-range)
+3. [What is a limiter](#what-is-a-limiter)
+4. [What is a clipper](#what-is-a-clipper)
+5. [Compressor vs. limiter vs. clipper](#compressor-vs-limiter-vs-clipper)
+6. [Dangers of using a compressor](#dangers-of-using-a-compressor)
+7. [Compression vs. volume automation](#compression-vs-volume-automation)
+8. [Compressor settings](#compressor-settings)
+9. [Transparant compression](#transparant-compression)
+10. [Compression techniques](#compression-techniques)
+11. [Tips](#tips)
 
+## Introduction
+//
 
 ## What is a compressor
 A compressor is a device that **reduces the dynamic range of a signal**. Say we have a certain sound sample. Accross its duration, the sample fluctuates between 2db and 20db loudness, an 18db dynamic range. To reduce this, we can put the signal through a compressor. Through the compressor settings we can tell it to turn down the signal whenever it goes above a certain threshold in loudness. For example, anytime it goes above 18db, we might want to turn the signal down in volume so that the overall signal is less fluctuating in dynamic range.
@@ -99,7 +100,7 @@ In other words, you want your compressed signal to sound like it's not even bein
 Generally speaking, setting a slow attack and release will be the most transparant. In fact, set the slowest attack and release and no matter the ratio or threshold, your signal will barely get compressed and even if it gets compressed, there will never be big fluctuations in your sound due to the slow release. Add in a very low ratio, in fact the lowest 1:1 and you have the most transparant compression: no compression at all.
 
 
-## Most common compression techniques
+## Compression techniques
 (Note: this section needs to be added to/changed until I learn more about compression)
 
 There are tons of ways of using a compressor, whether that is how you set its settings or how you use/chain it in your fx chain, but here I will try to cover the most basic and common use cases for compressors.
