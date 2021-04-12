@@ -353,6 +353,11 @@ So you can switch up, for example the pinnacle is dream theather the dance of et
 
 ## Other kinds of metering
 
+## Timbre
+https://en.wikipedia.org/wiki/Timbre#Harmonics
+
+So timbre is harmonics and ADSR mostly as according to the wiki page.
+
 ## Notes
 Related to cadence and go hand in hand
 
