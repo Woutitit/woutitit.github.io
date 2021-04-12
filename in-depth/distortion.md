@@ -4,6 +4,22 @@
 - What is fuzz btw and why so famous and what is difference with overdrive?
 - Anyway, not really talk about the effect distortion here and point to "Common FX eplained" to talk about like most common distortion and how they are used.
 
+## Intro
+When talking distortion we're usually talking about harmonic distortion since eq and stuff and any non-linear wave bending is equal to distortion which simply means distorting, ie chaning a wave.
+
+Gotta look more into it
+https://www.reddit.com/r/edmproduction/comments/3flzcp/whats_the_huge_difference_between_saturation_and/
+
+Basically u got all kinds of harmonic distortion. I guess if u hard clip, usquarify ur wave making odd harmincs more prominent and/or adding more odd harmonics of not present. Sofr clipping kinda the same, again only odd harmonics added and stuff but again the clipping cuz its clipping, it chops off stuff fully without altering other stuff i guess(?). Tube distortion is kind of equal to saturation usually (why?) and they add even harmonics though not as simple as that like they add 2nd, 3rd and 4th order. Either way this is usually the go to saturation since it amplifies/adds the even harmonics which are like the octave and fifth and stuff so they generally go well. Tape distortion i sgener ally avoided(?) as it usually mainly addss odd harmonics and they don't play will with fundametanl and are too harmonically defining, especially if even attempting to play chords even when fx is not used a lot.
+
+So yeah, if dont know what to choose go for tube distortion.
+
+And then u got bit crushing which does distortion by adding digital distortion (aliasing?) u kinda wanna be careful witht that but as an fx its cool.
+
+and then got shit like overdrive too.
+
+So distortion is running signal too hot if doing tube distortion kinda act like saturation. Saturation is not running shit too hot but rather faults in equipment adding harmonics, but again non-linear but tube distortion is even and stuff but tape saturation kinda same but also third order harmonic too and stuff so a bit different but kinda same either way (?).
+
 ## Intermodulation (Distortion)
 
 In fact, a higher sample rate might even do more good then bad because of a phenomenon called *intermodulation*. Intermodulation is basically amplitude modulation (AM, which is different from FM) between two or more signals and this interaction causes extra undesired harmonics to appear in the output signal.
