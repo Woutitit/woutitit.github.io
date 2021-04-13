@@ -63,7 +63,9 @@ https://www.youtube.com/watch?v=ukFIhHBtXHE
 - CHORD/LICK - Very common resolving progression at end of progressions, lick over it is very common too. Of course has varations to make it less resolving (what's the progression? Todo!):
     -  1:51-1:54 [Riki The Legendary Heropon - Xenoblade Chronicles: Definitive Edition OST OG] (https://www.youtube.com/watch?v=mo_dkMRTqTo)
     - 3:45 [Bill wurtz - here comes the sun] (https://www.youtube.com/watch?v=zNTaVTMoNTk)
-
+- CHORDS- The royal road progression. Incredibly popular, especially in VGM and anime. You do need to modify it and be creative and substitute chords to not fully sound cliché
+    - https://www.reddit.com/r/anime/comments/b1z1yg/the_royal_road_progression_an_absurdly_common/
+ 
 ### Transitions
 - Pryda snare. Often used right before drop or next part, often full song cuts out and one pryda snare hits
     - [Generic example] (https://www.youtube.com/watch?v=9iO-Cv1pU7w)
