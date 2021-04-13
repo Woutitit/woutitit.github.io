@@ -1,6 +1,18 @@
 # Inspirational advice
+## Table of contents
+1. [Introduction](#introduction)
+2. [Compare only to yourself](#compare-only-to-yourself)
+3. [Music theory is about practice, experience and overextending](#music-theory-is-about-practice-experience-and-overextending)
+4. [Make songs you want to make](#make-songs-you-want-to-make)
+5. [Don't read too much into project files and forum discussions](#dont-read-too-much-into-project-files-and-forum-discussions)
+
+## Introduction
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
 
+## Compare only to yourself
+// See notepad
+
+## Put out your songs, even if they are "bad"
 ## Figure out who you are
 Figure out whether you lean to sound design or to music theory. Like often u lean towards one or other in spectrum and polay to that dont try to be dusbtep epic sound design if not thats ok as u ll never be interested dont try to force and rather play to stregnth interests. Dont try to make mainsteeam shit if u aint mainstream aint gonna work and uhate it and unmotivated. That said of course be a bit good in the other part but yeah play to strengths and interests. Be better this point.
 
@@ -10,8 +22,8 @@ As a beginner you'll think you need x plugin(s) to be good so you buy x plugins 
 ## Make songs you want to make
 This doesn't mean to stay in your comfort zone but for example if you want to make a house song because you heard this one house song and it's like mainstream and will get you on the radio but not because your motivated to make the song, you'll lose motivation too quickly and you won't want to work on the song at all. Figure out the genres you like, whether they are mainstream or not, and make those instead.
 
-## A lot of project files and discussions on forums are far removed from reality
-Project files on forums often have all their instruments seperated in individual tracks, all their stuff color-coded, nicely routed, nicely named and have seemingly a bazillion automation clips (or that is the golden goal at least). Truth is, especially for me, all this organisational bull-crap gets in the way of creating, especially because so much is bound to change. On top of that, if you watch livestreams of real professional producers you'll often see that they don't have a bazillion automations and yet it still sounds good (as they know when to automate and when not). Maybe they may reach 5-10 total different ones in total over the whole song but certainly not all at the same time so even that wet dream is really not based in realitiy. Look under "Planning" for a practical plan how to go about creating and being productive.
+## Don't read too much into project files and forum discussions
+A lot of project files and discussions on forums are far removed from reality. Project files on forums often have all their instruments seperated in individual tracks, all their stuff color-coded, nicely routed, nicely named and have seemingly a bazillion automation clips (or that is the golden goal at least). Truth is, especially for me, all this organisational bull-crap gets in the way of creating, especially because so much is bound to change. On top of that, if you watch livestreams of real professional producers you'll often see that they don't have a bazillion automations and yet it still sounds good (as they know when to automate and when not). Maybe they may reach 5-10 total different ones in total over the whole song but certainly not all at the same time so even that wet dream is really not based in realitiy. Look under "Planning" for a practical plan how to go about creating and being productive.
 
 Same goes for lengthy internet discussions where some make subjects seem way more important than they really are. Stuff like phase cancellation, gain staging, aliasing, LUFS, a bazillion compressors and other stuff that often really don't matter as much as they make it seem (unless you're heavily recording instruments, which is why back in the day, all this mattered more) out to be. Even countless articles written on a subject may suggest that the subject is a big deal. Often times, though, these subjects are way smaller of a deal than you think. Like, in the end a compressor is a compressor, an EQ is an EQ and anyone saying different is arguing semantics (or over that 5% of difference in taste a diff EQ/compressor can bring). Same with aliasing, phase cancellation and all stuff like that. In practically all cases it's just not something to foucs on so hard. Just be aware of how it sounds and high-level when it can occur and the rest you'll clearly hear and see in your mix. Like being high-level aware of these issues is good (and knowing  what they sound like) but during song creation you really do not think about all that crap (only perhaps at thend during some device checks or mix checks or whatever and even then all these things are probably minor).
 
