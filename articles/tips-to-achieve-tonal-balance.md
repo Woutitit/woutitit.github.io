@@ -3,7 +3,7 @@
 # Tips to achieve tonal balance
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Common tonal balance](common-tonal-balance-configurations)
+2. [Common tonal balance configurations](common-tonal-balance-configurations)
 
 ## Introduction
 In this article I go over some tips to help achieving tonal balance (but also the tonal balance you want).
