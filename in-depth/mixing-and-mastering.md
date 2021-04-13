@@ -29,6 +29,8 @@
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
 ## Strive for tonal balance
+> See article "tips for tonal balance" for more.
+
 Tonal balance in a mix means that there is sufficient (but balanced) representation of lows, mids and highs in your mix. You'll notice that a lot of professional tracks (kind of) follow the Fletcher-Munson curve. Following the Fletcher-Munson curve ensures that your highs and lows and mids are all kind of the same **perceived** loudness in your mix (because, in absolute numbers, a for example 6db C1 sine wave is much quieter than a 6db C6, that's how human hearing works).
 
 First of all, we want this same *perceived* loudness in our mix because having too much high-end will make us turn up the song for the bass but we can't since the high-end volume will pierce our ears. Same with when there is too much lows or mids. We want a nice flat balance so that we can perceive all ranges well without the need for turning the radio louder or quieter to hear stuff better.
