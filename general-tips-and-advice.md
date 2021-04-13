@@ -10,9 +10,11 @@
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
 
 ## Compare only to yourself
-// See notepad
+// See notepad.
 
 ## Put out your songs, even if they are "bad"
+// See sass notepad as well.
+
 ## Figure out who you are
 Figure out whether you lean to sound design or to music theory. Like often u lean towards one or other in spectrum and polay to that dont try to be dusbtep epic sound design if not thats ok as u ll never be interested dont try to force and rather play to stregnth interests. Dont try to make mainsteeam shit if u aint mainstream aint gonna work and uhate it and unmotivated. That said of course be a bit good in the other part but yeah play to strengths and interests. Be better this point.
 
