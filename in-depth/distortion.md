@@ -10,6 +10,8 @@ When talking distortion we're usually talking about harmonic distortion since eq
 Gotta look more into it
 https://www.reddit.com/r/edmproduction/comments/3flzcp/whats_the_huge_difference_between_saturation_and/
 
+Distortion is like compression actually, like what is difference then cuz yeah both do like reduce dynamic range? I guess a distortion does it by running too hot and stuff and a bit more drastically?
+
 Basically u got all kinds of harmonic distortion. I guess if u hard clip, usquarify ur wave making odd harmincs more prominent and/or adding more odd harmonics of not present. Sofr clipping kinda the same, again only odd harmonics added and stuff but again the clipping cuz its clipping, it chops off stuff fully without altering other stuff i guess(?). Tube distortion is kind of equal to saturation usually (why?) and they add even harmonics though not as simple as that like they add 2nd, 3rd and 4th order. Either way this is usually the go to saturation since it amplifies/adds the even harmonics which are like the octave and fifth and stuff so they generally go well. Tape distortion i sgener ally avoided(?) as it usually mainly addss odd harmonics and they don't play will with fundametanl and are too harmonically defining, especially if even attempting to play chords even when fx is not used a lot.
 
 So yeah, if dont know what to choose go for tube distortion.
