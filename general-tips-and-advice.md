@@ -8,13 +8,15 @@
 7. [Don't read too much into project files and forum discussions](#dont-read-too-much-into-project-files-and-forum-discussions)
 
 ## Introduction
-This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
+For some inspirational advice. A lot of "do as I say, not as I do" advice in here but at least being aware is already part of the solution. Also, I'm working on it as well. 
 
 ## Compare only to yourself
-// See notepad.
+Seriously. There is nothing more depressing than hearing other people's work and thinking you are bad compared to that. Especially if you hear your own track after hearing another track and they were supposed to be similar tracks and yours sounds way worse. Super disheartening for a learner. This is why you don't compare to others as it is not productive and doesn't give you a sense of scale. Instead, after having heard that same new recent song you made after the professional track, put on a track from a year ago, or even your first track, you'll notice that you have improved (immensily). This is actually productive as it compares you to you. You at a point you once were and a point you are now. It's also super motivating because after hearing that last track you're probably like "Hmm I actually made a lot of progress".
 
 ## Put out your songs, even if they are "bad"
-// See sass notepad as well.
+Especially in the beginning, your songs compared to pros will suck. It's demotivating but as the tip "compare to yourself" said, you shouldn't compare yourself to that and it shouldn't stop you from making tracks. Make tracks with your current abilities and put them out, not thinking too much about not sounding pro. You'll get practice in, learn how to finish tracks and all that great stuff.
+
+On top of that, it's often the production that is the hardest so if you work a bit on your musical ideas you may get something listenable quite quick (as that does not require any engineering knowledge or guidance) and the stuff you put out, while not super professional produced, may be already a bop. And from there you improve. It's either that, or not putting out anything at all. There is no point in bottling it up, you won't get better magically if you do.
 
 ## Figure out who you are
 Figure out whether you lean to sound design or to music theory. Like often u lean towards one or other in spectrum and polay to that dont try to be dusbtep epic sound design if not thats ok as u ll never be interested dont try to force and rather play to stregnth interests. Dont try to make mainsteeam shit if u aint mainstream aint gonna work and uhate it and unmotivated. That said of course be a bit good in the other part but yeah play to strengths and interests. Be better this point.
