@@ -1,10 +1,11 @@
 # Inspirational advice
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Compare only to yourself](#compare-only-to-yourself)
-3. [Music theory is about practice, experience and overextending](#music-theory-is-about-practice-experience-and-overextending)
-4. [Make songs you want to make](#make-songs-you-want-to-make)
-5. [Don't read too much into project files and forum discussions](#dont-read-too-much-into-project-files-and-forum-discussions)
+3. [Compare only to yourself](#compare-only-to-yourself)
+4. [Put out your songs, even if they are "bad"](#put-out-your-songs-even-if-they-are-bad)
+5. [Music theory is about practice, experience and overextending](#music-theory-is-about-practice-experience-and-overextending)
+6. [Make songs you want to make](#make-songs-you-want-to-make)
+7. [Don't read too much into project files and forum discussions](#dont-read-too-much-into-project-files-and-forum-discussions)
 
 ## Introduction
 This section is meant to store some general but useful tips, tricks and advice that I find while watching productions or producing myself. Usually a timestamp to the technique with a short description will suffice. Also, for tips I don't really know where to put (yet).
