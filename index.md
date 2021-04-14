@@ -30,31 +30,29 @@ General articles that can't really be grouped and are also not in depth enough t
 
 - [External learning resources](external-learning-resources)
 - [Gear](gear.md)
-- [Sound design and recipes](sound-recipes.md)
 - [Dictionary](dictionary.md)
 - [Audio recording](audio-recording.md)
-- [Inspirational advice](general-tips-and-advice.md)
 - [Software tips (VSTs, DAW, Synths...)](software.md)
 - [Songwriting](songwriting.md)
+- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
+- [Synthesis](/in-depth/synthesis.md)
+
+## Advice
+- [Inspirational advice](general-tips-and-advice.md)
 - [Workflow and productivity](workflow-and-productivity.md)
 
-## In depth
-All topics in here are thoroughly explained to get a good understanding. For briefer explanations see either "Tips" or "General".
-
-- [Aliasing](/in-depth/aliasing.md)
-- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
-- [Compression, limiting, clipping](/in-depth/compression-limiting-clipping.md)
+## Production
+- [Compression, limiting and clipping](/in-depth/compression-limiting-clipping.md)
+- [Distortion](/in-depth/distortion.md)
 - [Equalization](/in-depth/equalization.md)
-- [Intermodulation](/in-depth/intermodulation.md)
-- [Mixing and mastering guide](/in-depth/mixing-and-mastering.md)
+- [Mixing and mastering tips](/in-depth/mixing-and-mastering.md)
 - [Mono, stereo and imaging](/in-depth/mono-stereo-and-imaging.md)
+- [Sound design and recipes](sound-recipes.md)
+
+## Music theory
 - [Music history and fundamental concepts](/in-depth/music-history-and-fundamental-concepts.md)
-- [Music theory: Basics](/in-depth/music-theory-basics.md)
-- [Music theory: Genres](/in-depth/music-theory-genres.md)
-- [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
-- [Sidechaining](/in-depth/sidechaining.md)
-- [Synthesis](/in-depth/synthesis.md)
-- [Timbre and layering](/in-depth/timbre-and-layering.md)
+- [Basics](/in-depth/music-theory-basics.md)
+- [Genres](/in-depth/music-theory-genres.md)
 
 ## Analysis
 Analysis articles are handy together with the commonities article and the reference tracks if you're making a song in a similar style in one of these docs.
@@ -63,9 +61,15 @@ Analysis articles are handy together with the commonities article and the refere
 - [Documents](/analysis/index.md)
 - [Tracks](/analysis/analysis-ideas.md)
 
-## Articles
-More specific articles that are either too big, too specific or too hard to really categorize. They are like one-offs that are very handy to reference when doing a more specific thing. Though they won't contain the full story which is when you'd consult the more in depth articles.
+## What-is
+- [Aliasing](/in-depth/aliasing.md)
+- [Intermodulation](/in-depth/intermodulation.md)
+- [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 
+## How-to
+More specific articles that are either too big, too specific or too hard to really categorize. They are like one-offs that are very handy to reference when doing a more specific thing. Though they won't contain the full story which is when you'd consult the more in depth articles.
+- [Timbre and layering](/in-depth/timbre-and-layering.md)
+- [Sidechaining](/in-depth/sidechaining.md)
 - [How to mix kick, snare and bass](#hi)
 - [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
 - [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
