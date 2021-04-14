@@ -58,6 +58,8 @@ Any reverb on it? Like in the beginning is that the lead or?
 
 ### Drums
 Kick and mainly snare super big, however, the hihats and/or rides and cymbals kind not that loud i think thats pretty common tho again look for loudness.
+
+like what kinda hiats are it open closed and or rides and where cymbals and how loud these guys, i think he briefly showed his rack
 ### Notes
 
 also the supersaws 11:00 look at the EQ on it
