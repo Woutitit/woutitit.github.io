@@ -6,7 +6,7 @@
 2. [Tips](#tips)
 3. [Recipes](#recipes)
 
-## Introcution
+## Introduction
 This article is for specific sound recipes, like a "DnB snare" or an 'EDM riser". It's not meant for generic stuff and it's also just suggestions to throw into there.
 
 ## Tips
