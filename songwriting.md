@@ -19,6 +19,9 @@
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 14. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
+## Write in a neutral patch
+For virtually every song (unless its super sound-design heavy or whatever) it may help to keep it simple and write your first creative lines of the song in a neutral patch. A bit like how composers write on a piano and then orchestrate it later. It helps to get the fundamentals and ideas of the melody, harmony and rhythm down and it also helps in that you don't need to do any sound design before you do any song writing. Hell, even for things like a dubstep  drop you can briefly sketch what the rhythmic drop needs to sound like in a saw patch drone pattern and then fill it in with cool basses later.
+
 ## Contrast is key
 Contrast is also tension and release
 the longer the tension the sweeter the release which is why for example u don't want to give people
