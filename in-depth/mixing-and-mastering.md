@@ -22,8 +22,8 @@
 16. [Mixing for loudness](#mixing-for-loudness)
 17. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
 18. [Mind the order of your FX](#mind-the-order-of-your-FX)
-19. [Use a spectrum analyzer](#use-a-spectrum-analyzer)
-20. [Use visual feedback](#use-visual-feedback)
+19. [Use visual feedback](#use-visual-feedback)
+20. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
@@ -199,4 +199,9 @@ Additionally, a heat map spectrum analyzer may sometimes also help you more visu
 Your mixer meters often show peak (I think?) so sometimes something may sound very loud in terms of decibel according to the mixer meter but it really isn't on average or LUFS-wise (since perhaps it just has a big transient compared to body). Therefore, relying on mixer meter alone is not enough (unless you account a bit for transient spikes in your head) and it's better to rely on wave candy on master and or individual tracks to better gauge real loudness (also perceived loudness to human ear taken into account here? Read manual: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Wave%20Candy.htm) and thus be able to balance your elements better.
 
 ### Vectorscope
-USe a vectorscope to check your stereo image and wheter your correlation is still okay.
+Use a vectorscope to check your stereo image and wheter your correlation is still okay.
+
+## Make your mix translate
+You may need to mixing decisions based on the fact that it will be played on several different systems. For example, a common use case is when you add sub bass to your track. On headphones you can probably hear it (albeit barely) and perhaps it indeed adds the right amount of low-end energy for the track. However, when the track is played on laptop speakers, notorious for having very little low-end coming through, there will be no trace of bass. Same with perhaps a lead in the mids, if it doesn't have (enough) high-end it may get lost in the mix when played on high-end-favouring systems like laptop speakers. Also, regardless, it's always better for your mix to have the elements you want to stand stand out so doing these mixing decisions isn't (usually) detrimental to the headphone experience.
+
+Now, there are a few things you can do and a few we are talking about here. For example, often the loudness of an instrument isn't the problem, it's the higher harmonics that aren't there (or not prominent). Boosting stuff like broad bell curves on the highs (or even shelves) may remedy. Stuff like saturation and OTT also helps. For example, it's common to make a sub bass more noticeable by adding a bit of saturation. Again, if the (sub) bass is not meant to be this super noticeable instrument in the mix, no need to go and make it super noticeable, just a tad bit better that perhaps it's (more) intelligble on various systems and simply more present. Same with super saww stacks (though you want to be careful to not harshen sounds, especially if they are already chords).
