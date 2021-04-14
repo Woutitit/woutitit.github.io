@@ -1,6 +1,6 @@
 [Home](#index.md)
 
-# Sound design (and recipes)
+# Sound design and recipes
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Tips](#tips)
