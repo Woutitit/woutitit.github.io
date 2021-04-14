@@ -5,16 +5,18 @@
 1. [How to use this site](#how-to-use-this-site)
 2. [Planning](#planning)
 3. [Quick reference](#quick-reference)
-4. [General](#general)
-5. [In depth](#in-depth)
-8. [Analysis](#analysis)
-9. [Articles](#articles)
+4. [General tips](#general-tips)
+5. [Production](#production)
+8. [Music theory](#music-theory)
+9. [What-is](#what-is)
+10. [How-to](#how-to)
+11. [Other](#to-sort)
 
 ## How to use this site
 - During song making: See "Quick reference" header. 
 - Analysis: See "Analysis" header. 
 - Learning:
-  - Consult "General tips"
+  - Consult "General tips".
   - If nothing found, consult any headers under it. 
   - If still nothing, consult the "What-is" or "How-to" articles.
 
@@ -71,7 +73,7 @@
 - [Tips-to-achieve-tonal-balance](/articles/tips-to-achieve-tonal-balance.md)
 - [Common EDM sounds](/articles/common-edm-sounds)
 
-## To-sort
+## Other
 - [Audio recording](audio-recording.md)
 - [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
 - [External learning resources](external-learning-resources)
