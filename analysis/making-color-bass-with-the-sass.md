@@ -24,6 +24,9 @@ Notice no EQ cutting though for making space lead, perhaps he did after mixing.
 how loud are supersaws and are it the same supersaws as in the drop as in the solo section? like any solos of all those different super saws??
  
  reverb delay? again seems like reverb is the main thing and delay not so much for at least th emain elements. Is this common?
+ 
+ At 13:50 he also see that he added like the second stack, like extra chords or what is that? Or is that the second arp he was tlaking about or is that a pad? Anywhere in the vid i can find this second layer making? Or lke named or whatever how loud it is?
+ 
 ### Lead in solo
 Has a saw as bass and then a pwm modulated on top. The bass layer quieter than the +1 layer. Why is that tho? Just to give some body?
 
