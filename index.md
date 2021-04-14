@@ -11,7 +11,7 @@
 9. [Articles](#articles)
 
 ## How to use this site
-During song making, the most useful articles are under the **"Quick reference"** header. For song analysis or more specific examples, all the resources are under **"Analysis"**. The other articles are more in depth explanations usually so they are more for learning purposes.
+During song making, the most useful articles are under the **"Quick reference"** header. For song analysis or more specific examples, all the resources are under **"Analysis"**. For learning you should first consult general tips. If nothing found, go to the more specific headers under it. If still nothing, consult the "What-is" or "How-to" articles.
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
@@ -27,7 +27,7 @@ The articles in here are meant to be very sparse in explanation and are just the
 
 ## General tips
 - [Mixing and mastering](/in-depth/mixing-and-mastering.md)
-- [Software (shortcuts, ...)](software.md)
+- [Software](software.md)
 - [Songwriting](songwriting.md)
 - [Workflow, productivity and inspirational](workflow-and-productivity.md)
 
