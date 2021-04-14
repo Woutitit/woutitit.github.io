@@ -18,7 +18,7 @@ You can also take a song and analye
 
 ## Livestream, tutorial, other
 - [ak+q - 1 Hour Production Challenge](https://www.youtube.com/watch?v=wjx9K2vI2wo&t=1954s)
-- [Shades of Light in a Transcendent Realm](https://www.youtube.com/watch?v=nP70bnzpYDY)
+- Melodic DnB: [Shades of Light in a Transcendent Realm](https://www.youtube.com/watch?v=nP70bnzpYDY)
 - Bass house: [【ライブ配信】ひたすら曲作りました【DTM制作】](https://www.youtube.com/watch?v=nBySElFVrdg)
 - Color bass: [Making color bass with the sass](https://www.youtube.com/watch?v=OJn9_Y58jDU)
 ## How to analyze
