@@ -11,7 +11,12 @@
 9. [Articles](#articles)
 
 ## How to use this site
-During song making, the most useful articles are under the **"Quick reference"** header. For song analysis or more specific examples, all the resources are under **"Analysis"**. For learning you should first consult general tips. If nothing found, go to the more specific headers under it. If still nothing, consult the "What-is" or "How-to" articles.
+- During song making: See "Quick reference" header. 
+- Analysis: See "Analysis" header. 
+- Learning:
+  - Consult "General tips"
+  - If nothing found, consult any headers under it. 
+  - If still nothing, consult the "What-is" or "How-to" articles.
 
 ## Planning
 - [Personal improvement plan](personal-improvement-plan.md)
@@ -19,8 +24,6 @@ During song making, the most useful articles are under the **"Quick reference"**
 - [Practice session ideas](practice-session-ideas.md)
 
 ## Quick reference
-The articles in here are meant to be very sparse in explanation and are just there to give you a list of things to try and check (whether that is mixing, mastering, composition or whatever). Very handy for workflow, inspiration and improving a song.
-
 - [Commonities](commonities.md)
 - [Song creation checklist](songwriting-checklist.md)
 - [Reference tracks](reference-tracks.md)
