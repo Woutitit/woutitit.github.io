@@ -125,6 +125,8 @@ Layering is important because it adds sophistication to your sound. Different ti
 
 FX is also important. Like, compressing things for a bit added sustain or that slight saturator really help beefen up the sound, or that layer you barely hear, (like with layering it's not about vertical loudness it's horizontal thickness really adding fatness and frequency content needed there/wanted) especially when it hits the master and especially on a lot of things (like little things add up to a big thing).
 
+Stuff like delay and reverb also help a lot to make stuff sound big and busy. Do notice that you want to treat this differenlty in a scarce mix vs. a busy mix. Usually in a busy mix you want more of these fx as every element kind of counts and you want to fill the void more. In a busy mix you'll probably want to tone down on these (perhaps only reverb and perhaps not so much or not on all elements as much) or perhaps more automate those fx on emptier parts of the song or as brief fx so it doesn't overpower.
+
 ## Increase and work transients
 Transients will get squashed and also laptop speakers are less low-end-y so you want to make sure that transients get heard on those loud and clear.
 
