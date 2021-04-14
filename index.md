@@ -45,8 +45,6 @@ The articles in here are meant to be very sparse in explanation and are just the
 - [Genres](/in-depth/music-theory-genres.md)
 
 ## Analysis
-Analysis articles are handy together with the commonities article and the reference tracks if you're making a song in a similar style in one of these docs.
-
 - [Checklist](analysis-checklist.md)
 - [Documents](/analysis/index.md)
 - [Tracks](/analysis/analysis-ideas.md)
@@ -57,7 +55,6 @@ Analysis articles are handy together with the commonities article and the refere
 - [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 
 ## How-to
-More specific articles that are either too big, too specific or too hard to really categorize. They are like one-offs that are very handy to reference when doing a more specific thing. Though they won't contain the full story which is when you'd consult the more in depth articles.
 - [Timbre and layering](/in-depth/timbre-and-layering.md)
 - [Sidechaining](/in-depth/sidechaining.md)
 - [How to mix kick, snare and bass](#hi)
@@ -70,7 +67,6 @@ More specific articles that are either too big, too specific or too hard to real
 - [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
 - [Tips-to-achieve-tonal-balance](/articles/tips-to-achieve-tonal-balance.md)
 - [Common EDM sounds](/articles/common-edm-sounds)
-
 
 ## To-sort
 - [Audio recording](audio-recording.md)
