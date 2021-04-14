@@ -25,21 +25,16 @@ The articles in here are meant to be very sparse in explanation and are just the
 - [Song creation checklist](songwriting-checklist.md)
 - [Reference tracks](reference-tracks.md)
 
-## General
-General articles that can't really be grouped and are also not in depth enough to be placed under "In depth".
-
-- [External learning resources](external-learning-resources)
-- [Gear](gear.md)
-- [Dictionary](dictionary.md)
-- [Software tips (shortcuts, ...)](software.md)
+## General tips
+- [Mixing and mastering](/in-depth/mixing-and-mastering.md)
+- [Software (shortcuts, ...)](software.md)
 - [Songwriting](songwriting.md)
-- [Workflow, productivity and inspirational advice](workflow-and-productivity.md)
+- [Workflow, productivity and inspirational](workflow-and-productivity.md)
 
 ## Production
 - [Compression, limiting and clipping](/in-depth/compression-limiting-clipping.md)
 - [Distortion](/in-depth/distortion.md)
 - [Equalization](/in-depth/equalization.md)
-- [Mixing and mastering tips](/in-depth/mixing-and-mastering.md)
 - [Mono, stereo and imaging](/in-depth/mono-stereo-and-imaging.md)
 - [Sound design and recipes](sound-recipes.md)
 - [Synthesis](/in-depth/synthesis.md)
@@ -80,3 +75,6 @@ More specific articles that are either too big, too specific or too hard to real
 ## To-sort
 - [Audio recording](audio-recording.md)
 - [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
+- [External learning resources](external-learning-resources)
+- [Gear](gear.md)
+- [Dictionary](dictionary.md)
