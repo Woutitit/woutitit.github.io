@@ -4,31 +4,35 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-3. [Strive for tonal balance](#strive-for-tonal-balance)
-4. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-5. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-6. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-7. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-8. [Have a reference track](#have-a-reference-track)
-9. [Mixing is about prioritization](#mixing-is-about-prioritization)
-10. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-11. [Increase and work transients](#increase-and-work-transients)
-12. [Mastering 101](#mastering-101)
-13. [Sound selection vs. processing](#sound-selection-vs-processing)
-14. [Don't use presets as-is](#dont-use-presets-as-is)
-15. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-16. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-17. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-18. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-19. [Mixing for loudness](#mixing-for-loudness)
-20. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-21. [Mind the order of your FX](#mind-the-order-of-your-FX)
-22. [Use visual feedback](#use-visual-feedback)
-23. [Make your mix translate](#make-your-mix-translate)
+2. [Don't mix in solo](#dont-mix-in-solo)
+3. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+4. [Strive for tonal balance](#strive-for-tonal-balance)
+5. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+6. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+7. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+8. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+9. [Have a reference track](#have-a-reference-track)
+10. [Mixing is about prioritization](#mixing-is-about-prioritization)
+11. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+12. [Increase and work transients](#increase-and-work-transients)
+13. [Mastering 101](#mastering-101)
+14. [Sound selection vs. processing](#sound-selection-vs-processing)
+15. [Don't use presets as-is](#dont-use-presets-as-is)
+16. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+17. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+18. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+19. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+20. [Mixing for loudness](#mixing-for-loudness)
+21. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+22. [Mind the order of your FX](#mind-the-order-of-your-FX)
+23. [Use visual feedback](#use-visual-feedback)
+24. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
+
+## Don't mix in solo
+Try to not mix your instruments and sounds in solo, of course, you may audition them in solo to hear the effect is applying but ultimately you should always hold what you've applied against the whole mix to really gauge whether it was too much too little or the wrong fx. This is a similar comment as to using presets as-is.
 
 ## Small moves on a lot of tracks add up
 The number one mixing mistake you can make is to do big moves on a single track. Mixing is really all about doing small moves on a lot of tracks. For example, you might saturate your sub bass a lot, and then you might saturate your saws a lot, perhaps your lead too, all for presence and brightness. However, that will result in harshness in the highs and all fighting for the same space. Same with EQ carving, you might carve out a -3 to -6db bell curve out from your instrument to make room for lead, but you might do that out of a pad, and perhaps your strings layer too and all of a sudden your mids are weak. Same with reverb, you add a shitton of reverb to a sound because it sounds good in solo, you do it to another sound as it sounds good in solo too and then another and so on. It will be muddy together and you wonder why.
