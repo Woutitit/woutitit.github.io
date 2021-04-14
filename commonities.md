@@ -54,7 +54,7 @@ Quick reference for common clichés in music. Whether that is composition or sou
     - At  1:20 [Windmill isle - Sonic Unleashed](https://www.youtube.com/watch?v=2b8TKhIz_ZY)
 - iv - V - iii - vi and variation on it. Very common and sounds really nice. Sometimes extend towards a ii (- V - I). This chord progression is often spiced up. E.g. picardy th
 - The lick. A cliche lick that even gets called "The lick" and gets used very often in jazz in a wide amount of contexts
- - At 00:13 [Here comes the sun - Bill Wurtz] (https://www.youtube.com/watch?v=zNTaVTMoNTk)
+ - At 00:13 [Here comes the sun - Bill Wurtz](https://www.youtube.com/watch?v=zNTaVTMoNTk)
 - MELODY: very common lick over a (IV-V) - iii-VI dom7b9 chord (the jump up mario one)
 - BASS - Very common EDM-y/housy dotted note basslines and variations:
 https://www.youtube.com/watch?v=ukFIhHBtXHE
