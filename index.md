@@ -13,9 +13,9 @@
 11. [Other](#to-sort)
 
 ## How to use this site
-- During song making: See "Quick reference" header. 
-- Analysis: See "Analysis" header. 
-- Learning:
+- **Song making:** Quick reference. 
+- **Analysis:** Analysis. 
+- **Learning:**
   - Consult "General tips".
   - If nothing found, consult any headers under it. 
   - If still nothing, consult the "What-is" or "How-to" articles.
