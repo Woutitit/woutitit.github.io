@@ -93,8 +93,13 @@ Most of these terms might have a seperate article where I go in more detail abou
 - Funk
 - Soul
 - RnB
-- Neo Soul ("Neo Soul Chords" very important for ballads, future bass and basically anything: https://www.youtube.com/watch?v=DEYzVzJmZk4 Neo Soul instruments?)
+- Neo Soul
+    - ("Neo Soul Chords" very important for ballads, future bass and basically anything: https://www.youtube.com/watch?v=DEYzVzJmZk4 Neo Soul instruments?)
 - Artcore: Melodic Dnb very common in rhythm games
+- Color bass
+- Future bass
+- Liquid DnB
+
 ## Synths
 - Wavetable: A table of stored sound waves. Modulated wavetables are often used in dubstep these days
 - Macro: Allows to have multiple fx in a synth mapped to a single know, a macro. Turning said macro will then change all the mapped fx at the same time based on how you mapped them. Handy for fx that commonly needs to modulate together so you don't need multiple automation clips for that.
