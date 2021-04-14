@@ -16,6 +16,9 @@ just make a 4chord bar long to esbtalish harmony and then cut it to make it more
 
 #### Drop comp
 Like in the drop is a common way is to have on one beat the sub + mid and then a "dry" supersaw and then in the mids of that it's you-time. And then sometimes on the next 1 beat you do that same combo again and sometimes as there you do a fill in the 4 beat (its usuall in the 4th bar leading up to 5th) so u got like "bat 1 hit bar 3 hit 2 end beats bar 4 hit bar 5 hit repeat kinda". where you have a dom chord or any leading chord and then going back up to main or somewhere else don't matter. But yeah, that's the main framework of the drop a lot of time. That "dry" and sub on the 1 beat everytime and then sometimes again have those as fill together. The sub also plays with the cool-ass basses ofc but that sub + normal saw is what does it. Also, he automates cut off, quickly letting the saws come in. And also sometimes also kind of tapestopping them tho its not really tape stopping in this case its the cut off turning down for no verb and just very thight.
+
+Should perhaps also put that common structure down as a complextro dubstep kinda cliché trope somewhere. In commonities? But i wanna explain hmm where then?
+
 ### Supersaws
 Layered with a saw and a square on top basically. 
 
