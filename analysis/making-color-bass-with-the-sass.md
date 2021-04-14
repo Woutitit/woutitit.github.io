@@ -41,6 +41,8 @@ Any reverb on it? Like in the beginning is that the lead or?
 ### Fills and transitions
 12:07: very common snare fill, any automations on that? Only thing i can see is the velocity automation. Again very common and should put somewhere.
 
+### Drums
+Kick and mainly snare super big, however, the hihats and/or rides and cymbals kind not that loud i think thats pretty common tho again look for loudness.
 ### Notes
 
 also the supersaws 11:00 look at the EQ on it
