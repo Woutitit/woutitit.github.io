@@ -4,6 +4,7 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
+1. [Write in a neutral patch](#write-in-a-neutral-patch)
 1. [Contrast is key](#contrast-is-key)
 2. [Energy distribution is key](#energy-distribution-is-key)
 3. [Call and response is key](#call-and-response-is-key)
