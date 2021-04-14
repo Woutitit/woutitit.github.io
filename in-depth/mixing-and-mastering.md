@@ -4,7 +4,6 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Don't mix in solo](#dont-mix-in-solo)
 3. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
 4. [Strive for tonal balance](#strive-for-tonal-balance)
 5. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
@@ -30,9 +29,6 @@
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
-
-## Don't mix in solo
-Try to not mix your instruments and sounds in solo, of course, you may audition them in solo to hear the effect is applying but ultimately you should always hold what you've applied against the whole mix to really gauge whether it was too much too little or the wrong fx. This is a similar comment as to using presets as-is.
 
 ## Small moves on a lot of tracks add up
 The number one mixing mistake you can make is to do big moves on a single track. Mixing is really all about doing small moves on a lot of tracks. For example, you might saturate your sub bass a lot, and then you might saturate your saws a lot, perhaps your lead too, all for presence and brightness. However, that will result in harshness in the highs and all fighting for the same space. Same with EQ carving, you might carve out a -3 to -6db bell curve out from your instrument to make room for lead, but you might do that out of a pad, and perhaps your strings layer too and all of a sudden your mids are weak. Same with reverb, you add a shitton of reverb to a sound because it sounds good in solo, you do it to another sound as it sounds good in solo too and then another and so on. It will be muddy together and you wonder why.
@@ -182,6 +178,8 @@ If you have a piano that's playing in the background of the chorus, you don't ne
 Audition all your sounds in context of the (full) mix. Really, often your sound may sound a bit too oversaturated but you may find that's what makes it cut through the mix. Or, a sound may sound really thin, almost too thin, but when you audition it in your mix it is fine because your mix is already busy.
 
 Same goes for layering, audition everything together as some layers may be thin but added to the main layer it will give it a great timbre.
+
+Also, try to not mix your instruments and sounds in solo, of course, you may audition them in solo to hear the effect is applying but ultimately you should always hold what you've applied against the whole mix to really gauge whether it was too much too little or the wrong fx. This is a similar comment as to using presets as-is.
 
 ## Mixing for loudness
 There is mixing and there is mixing (and mastering) for loudness. Checkout *How to mix for loudness and why it matters* article for why it matters and how to apply it to your own mix.
