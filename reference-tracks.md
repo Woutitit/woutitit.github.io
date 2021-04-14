@@ -11,7 +11,7 @@
 Here I post all the reference tracks I find useful. Perhaps post also the genre and whether it's mainly for mixing or compositional reference or both.
 
 ## Tracks
-//
+- [Figment - Neddie (The Sass remix](https://soundcloud.com/the-sass-music/neddie-figment-the-sass-remix)
 
 ## How to use a reference track
 *TODO: Add stuff and maybe put somewhere else.*
