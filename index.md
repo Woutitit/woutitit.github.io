@@ -30,6 +30,11 @@
 - [Song creation checklist](songwriting-checklist.md)
 - [Reference tracks](reference-tracks.md)
 
+## Analysis
+- [Checklist](analysis-checklist.md)
+- [Documents](/analysis/index.md)
+- [Tracks](/analysis/analysis-ideas.md)
+
 ## General tips
 - [Mixing and mastering](/in-depth/mixing-and-mastering.md)
 - [Software](software.md)
@@ -48,11 +53,6 @@
 - [History and sound fundamentals](/in-depth/music-history-and-fundamental-concepts.md)
 - [Basics](/in-depth/music-theory-basics.md)
 - [Genres](/in-depth/music-theory-genres.md)
-
-## Analysis
-- [Checklist](analysis-checklist.md)
-- [Documents](/analysis/index.md)
-- [Tracks](/analysis/analysis-ideas.md)
 
 ## What-is
 - [Aliasing](/in-depth/aliasing.md)
