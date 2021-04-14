@@ -50,7 +50,7 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Sound design and recipes](sound-recipes.md)
 
 ## Music theory
-- [Music history and fundamental concepts](/in-depth/music-history-and-fundamental-concepts.md)
+- [History and sound fundamentals](/in-depth/music-history-and-fundamental-concepts.md)
 - [Basics](/in-depth/music-theory-basics.md)
 - [Genres](/in-depth/music-theory-genres.md)
 
