@@ -56,9 +56,9 @@
 - [Genres](/in-depth/music-theory-genres.md)
 
 ## What-is
-- [Aliasing](/in-depth/aliasing.md)
-- [Intermodulation](/in-depth/intermodulation.md)
-- [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
+- [What is aliasing](/in-depth/aliasing.md)
+- [What is intermodulation](/in-depth/intermodulation.md)
+- [What is phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 
 ## How-to
 - [How to layer](/in-depth/timbre-and-layering.md)
@@ -71,7 +71,6 @@
 - [How to properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
 - [How to write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
 - [How to achieve tonal balance](/articles/tips-to-achieve-tonal-balance.md)
-- [Common EDM sounds](/articles/common-edm-sounds)
 
 ## Other
 - [Audio recording](audio-recording.md)
@@ -80,3 +79,4 @@
 - [Gear](gear.md)
 - [Dictionary](dictionary.md)
 - [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
+- [Common EDM sounds](/articles/common-edm-sounds)
