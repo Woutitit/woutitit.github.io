@@ -17,7 +17,7 @@
 - **Song making:** Quick reference. 
 - **Analysis:** Analysis. 
 - **Learning:**
-  - Consult "General tips".
+  - Consult *General tips*.
   - If nothing found, consult any headers under it. 
   - If still nothing, consult the "What-is" or "How-to" articles.
 
