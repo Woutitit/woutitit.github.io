@@ -11,6 +11,11 @@
 ### General
 In structure and essence, this track is also kind of "simple", you basically have the A and B drop section which take most work but it really is the A section that needs most work and if you know how-to it's a bit of a walk in the park (so like 10 sec of music). You then copy for the B section basically and you just change a few things up here and there so less work and then the stuff after is literally just just playing out the stuff the solo, very easy. The main hard part is about knowing how to make the basses sound cool and getting the rhythm and melody and harmony right and of course the sounds. But again, reinforces my idea of simlicity and just small changes and not all parts are crazy. Here it's only the drop and really only the A section of the drop that requires a full amount of work. And again reuse sounds etc.
 
+also helps to emphasize the hits with kick like stab + bass + kick is yummyt
+
+
+seperate synth also for the highest lead note very common just so it has i guess more mono and more volume to be slightly more present
+
 ### Composition
 What kind of extensions on the supersaws, also he doesn't use any pads but he was about to add two (or one?) arp as alternative? He calles it an amiga arp? Is that an established word? Also look at where the saw hit, in the solo they don't seem to like ever filter in also but they don't sustained at all. Also he did seem to first
 just make a 4chord bar long to esbtalish harmony and then cut it to make it more rhythmic and to add more space. Again, good cuz you don't want all those highs and fulls to be playing all the time but you also stuff in the background to fill a bit. Perhaps he could've added a reverb automation on the lead or supersaws to fill up gaps more?
@@ -30,6 +35,8 @@ Supersaws EQ cut off start from 75Hz (see 11:00 in vid) with a NOT steep slope u
 Notice no EQ cutting though for making space lead, perhaps he did after mixing.
 
 how loud are supersaws and are it the same supersaws as in the drop as in the solo section? like any solos of all those different super saws??
+ 
+ detune automation like put lfo or enveloppe on detune and then like fast slope and kinda give it some movement or what u mean?
  
  reverb delay? again seems like reverb is the main thing and delay not so much for at least th emain elements. Is this common?
  
