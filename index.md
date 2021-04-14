@@ -56,21 +56,21 @@
 - [Genres](/in-depth/music-theory-genres.md)
 
 ## What-is
-- [What is aliasing](/in-depth/aliasing.md)
-- [What is intermodulation](/in-depth/intermodulation.md)
-- [What is phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
+- [...aliasing](/in-depth/aliasing.md)
+- [...intermodulation](/in-depth/intermodulation.md)
+- [...phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 
 ## How-to
-- [How to layer](/in-depth/timbre-and-layering.md)
-- [How to sidechain](/in-depth/sidechaining.md)
-- [How to mix kick, snare and bass](#hi)
-- [How to seperate sub and top bass](/articles/steady-clean-low-end-with-sub-seperation.md)
-- [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
-- [How to order FX chain properly](/in-depth/why-order-of-fx-chain-matters.md)
-- [How to record guitar](/articles/guitar-recording-tips.md)
-- [How to properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
-- [How to write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
-- [How to achieve tonal balance](/articles/tips-to-achieve-tonal-balance.md)
+- [...layer](/in-depth/timbre-and-layering.md)
+- [...sidechain](/in-depth/sidechaining.md)
+- [...mix kick, snare and bass](#hi)
+- [...seperate sub and top bass](/articles/steady-clean-low-end-with-sub-seperation.md)
+- [...mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
+- [...order FX chain properly](/in-depth/why-order-of-fx-chain-matters.md)
+- [...record guitar](/articles/guitar-recording-tips.md)
+- [...properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
+- [...write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
+- [...achieve tonal balance](/articles/tips-to-achieve-tonal-balance.md)
 
 ## Other
 - [Audio recording](audio-recording.md)
