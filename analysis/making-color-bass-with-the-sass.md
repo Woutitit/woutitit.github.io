@@ -35,6 +35,9 @@ Lead has **sync** and **fine tuning** for vibrato on (see 11:00 and onwards). Th
 
 Any reverb on it? Like in the beginning is that the lead or?
 
+### Fills and transitions
+12:07: very common snare fill, any automations on that? Only thing i can see is the velocity automation. Again very common and should put somewhere.
+
 ### Notes
 
 also the supersaws 11:00 look at the EQ on it
