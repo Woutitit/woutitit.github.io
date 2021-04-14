@@ -31,15 +31,9 @@ General articles that can't really be grouped and are also not in depth enough t
 - [External learning resources](external-learning-resources)
 - [Gear](gear.md)
 - [Dictionary](dictionary.md)
-- [Audio recording](audio-recording.md)
-- [Software tips (VSTs, DAW, Synths...)](software.md)
+- [Software tips (shortcuts, ...)](software.md)
 - [Songwriting](songwriting.md)
-- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
-- [Synthesis](/in-depth/synthesis.md)
-
-## Advice
-- [Inspirational advice](general-tips-and-advice.md)
-- [Workflow and productivity](workflow-and-productivity.md)
+- [Workflow, productivity and inspirational advice](workflow-and-productivity.md)
 
 ## Production
 - [Compression, limiting and clipping](/in-depth/compression-limiting-clipping.md)
@@ -48,6 +42,7 @@ General articles that can't really be grouped and are also not in depth enough t
 - [Mixing and mastering tips](/in-depth/mixing-and-mastering.md)
 - [Mono, stereo and imaging](/in-depth/mono-stereo-and-imaging.md)
 - [Sound design and recipes](sound-recipes.md)
+- [Synthesis](/in-depth/synthesis.md)
 
 ## Music theory
 - [History and sound fundamentals](/in-depth/music-history-and-fundamental-concepts.md)
@@ -80,3 +75,8 @@ More specific articles that are either too big, too specific or too hard to real
 - [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
 - [Tips-to-achieve-tonal-balance](/articles/tips-to-achieve-tonal-balance.md)
 - [Common EDM sounds](/articles/common-edm-sounds)
+
+
+## To-sort
+- [Audio recording](audio-recording.md)
+- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
