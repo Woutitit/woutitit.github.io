@@ -13,3 +13,6 @@ See index.md for a read.me though probably I could add some explanation here abo
 
 ## Ideas
 - A section (inside an article) or article for listing reference tracks.
+
+## Tips
+- Articles will get more scattered and some articles may overlap in contents so try to link articles with like "See more at x and y article" as good as possible and stuff to have me on my way.
