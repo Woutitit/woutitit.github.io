@@ -42,6 +42,10 @@ how loud are supersaws and are it the same supersaws as in the drop as in the so
  
  At 13:50 he also see that he added like the second stack, like extra chords or what is that? Or is that the second arp he was tlaking about or is that a pad? Anywhere in the vid i can find this second layer making? Or lke named or whatever how loud it is?
  
+ unison detune? Like is consensus that if u have two stacks saws (but then different saws) u dont +1 for extra fatness but since no +1 ud need bigger chord. Else, if two times a saw, it might be good to do the +1 and then u dont need to do super stacked chords or what is consensus like is that less fat or?
+ 
+ Either way, also mono supersaws or a mono layer? Like i heard synthion talk about he has mono layer and stereo and octave layer. (see livestream again on his channel). Either way, i guess for the supersaws u want more stereo mixed in than mono than for th eleads where u want more mono mixed in like the chorus and shit too not at 100% mix lvl and stuff.
+ 
 ### Lead in solo
 Has a saw as bass and then a pwm modulated on top. The bass layer quieter than the +1 layer. Why is that tho? Just to give some body?
 
