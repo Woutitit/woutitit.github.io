@@ -5,7 +5,7 @@ This document is meant to list ideas that I can do during practice sessions. It'
 
 ## General
 - Research specific examples or sub-ideas for entries in this list.
-- Research, audition samples and presets
+- Research, audition and clean samples and presets
 
 ## Analysis
 > See analysis checklist to help analyze.
