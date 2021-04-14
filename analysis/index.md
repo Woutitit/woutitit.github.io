@@ -6,3 +6,4 @@ Here all the analysis documents are stored. **Note:** Screenshots of transcripti
 //
 ## Livestream, tutorial, guide...
 - [GUIDE: The art of mixing - David Gibson](the-art-of-mixing-david-gibson.md)
+- Melodic dubstep/Color bass [Making COLOR BASS w/ The Sass](https://www.youtube.com/watch?v=OJn9_Y58jDU)
