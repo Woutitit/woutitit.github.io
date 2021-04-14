@@ -61,17 +61,16 @@
 - [Phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
 
 ## How-to
-- [Timbre and layering](/in-depth/timbre-and-layering.md)
-- [Sidechaining](/in-depth/sidechaining.md)
+- [How to layer](/in-depth/timbre-and-layering.md)
+- [How to sidechain](/in-depth/sidechaining.md)
 - [How to mix kick, snare and bass](#hi)
-- [Steady, clean low-end with sub seperation](/articles/steady-clean-low-end-with-sub-seperation.md)
+- [How to seperate sub and top bass](/articles/steady-clean-low-end-with-sub-seperation.md)
 - [How to mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
-- [Why order of FX chain matters](/in-depth/why-order-of-fx-chain-matters.md)
-- [Guitar recording tips](/articles/guitar-recording-tips.md)
+- [How to order FX chain properly](/in-depth/why-order-of-fx-chain-matters.md)
+- [How to record guitar](/articles/guitar-recording-tips.md)
 - [How to properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
 - [How to write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
-- [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
-- [Tips-to-achieve-tonal-balance](/articles/tips-to-achieve-tonal-balance.md)
+- [How to achieve tonal balance](/articles/tips-to-achieve-tonal-balance.md)
 - [Common EDM sounds](/articles/common-edm-sounds)
 
 ## Other
@@ -80,3 +79,4 @@
 - [External learning resources](external-learning-resources)
 - [Gear](gear.md)
 - [Dictionary](dictionary.md)
+- [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
