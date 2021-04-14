@@ -1,4 +1,4 @@
-[Home](#index.md)
+[Home](index.md)
 
 # Sound design and recipes
 ## Table of contents
