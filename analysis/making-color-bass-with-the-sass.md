@@ -1,6 +1,7 @@
 # Making color bass with the SASS
 ## Basic info
 - Source: https://www.youtube.com/watch?v=OJn9_Y58jDU
+- BPM: 150
 
 
 ## Analysis
@@ -15,7 +16,7 @@ What kind of extensions on the supersaws, also he doesn't use any pads but he wa
 just make a 4chord bar long to esbtalish harmony and then cut it to make it more rhythmic and to add more space. Again, good cuz you don't want all those highs and fulls to be playing all the time but you also stuff in the background to fill a bit. Perhaps he could've added a reverb automation on the lead or supersaws to fill up gaps more?
 
 #### Drop comp
-Like in the drop is a common way is to have on one beat the sub + mid and then a "dry" supersaw and then in the mids of that it's you-time. And then sometimes on the next 1 beat you do that same combo again and sometimes as there you do a fill in the 4 beat (its usuall in the 4th bar leading up to 5th) so u got like "bat 1 hit bar 3 hit 2 end beats bar 4 hit bar 5 hit repeat kinda". where you have a dom chord or any leading chord and then going back up to main or somewhere else don't matter. But yeah, that's the main framework of the drop a lot of time. That "dry" and sub on the 1 beat everytime and then sometimes again have those as fill together. The sub also plays with the cool-ass basses ofc but that sub + normal saw is what does it. Also, he automates cut off, quickly letting the saws come in. And also sometimes also kind of tapestopping them tho its not really tape stopping in this case its the cut off turning down for no verb and just very thight.
+Like in the drop is a common way is to have on one beat the sub + mid and then a "dry" supersaw and then in the mids of that it's you-time. And then sometimes on the next 1 beat you do that same combo again and sometimes as there you do a fill in the 4 beat (its usuall in the 4th bar leading up to 5th) so u got like "bat 1 hit bar 3 hit 2 end beats bar 4 hit bar 5 hit repeat kinda". And that leading chord inside bar 4 is where you have a dom chord or any leading chord and then going back up to main or somewhere else don't matter. Also feel free to change up that rudimentory structure a bit. And also bar 4 is supposed to be bar 2 heere cuz of half time at 120bpm but hey u catch my drift. But yeah, that's the main framework of the drop a lot of time. That "dry" and sub on the 1 beat everytime and then sometimes again have those as fill together. The sub also plays with the cool-ass basses ofc but that sub + normal saw is what does it. Also, he automates cut off, quickly letting the saws come in. And also sometimes also kind of tapestopping them tho its not really tape stopping in this case its the cut off turning down for no verb and just very thight.
 
 Should perhaps also put that common structure down as a complextro dubstep kinda cliché trope somewhere. In commonities? But i wanna explain hmm where then?
 
