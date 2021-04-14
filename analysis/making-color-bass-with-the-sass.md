@@ -11,6 +11,7 @@
 In structure and essence, this track is also kind of "simple", you basically have the A and B drop section which take most work but it really is the A section that needs most work and if you know how-to it's a bit of a walk in the park (so like 10 sec of music). You then copy for the B section basically and you just change a few things up here and there so less work and then the stuff after is literally just just playing out the stuff the solo, very easy. The main hard part is about knowing how to make the basses sound cool and getting the rhythm and melody and harmony right and of course the sounds. But again, reinforces my idea of simlicity and just small changes and not all parts are crazy. Here it's only the drop and really only the A section of the drop that requires a full amount of work. And again reuse sounds etc.
 
 ### Composition
+What kind of extensions on the supersaws, also he doesn't use any pads but he was about to add two (or one?) arp? He calles it an amigos arp? Is that an established word?
 ### Supersaws
 Layered with a saw and a square on top basically. 
 
