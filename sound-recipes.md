@@ -9,5 +9,6 @@ You can also make a pluc
 
 ## Chiptune-y lead
 Examples:
+- https://www.youtube.com/watch?v=OJn9_Y58jDU
 - https://www.youtube.com/watch?v=GM7JtFZ5yyU
 - https://www.youtube.com/watch?v=nTArSq_oqz4
