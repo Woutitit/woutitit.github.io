@@ -2,6 +2,9 @@
 # Analysis documents
 Here all the analysis documents are stored. **Note:** Screenshots of transcription FLPs or MuseScore sheets or other assets may be provided but the real files are stored in Google drive under "Files > Analysis".
 
+## Small analysis
+- [Smol](smol.md)
+
 ## Songs
 //
 ## Livestream, tutorial, guide...
