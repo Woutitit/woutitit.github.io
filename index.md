@@ -50,6 +50,10 @@
 - [Sound design and recipes](sound-recipes.md)
 - [Synthesis](/in-depth/synthesis.md)
 
+## Sound design
+- [Sound design tips](sound-design-tips.md)
+- [Recipes](sound-recipes.md)
+
 ## Music theory
 - [History and sound fundamentals](/in-depth/music-history-and-fundamental-concepts.md)
 - [Basics](/in-depth/music-theory-basics.md)
