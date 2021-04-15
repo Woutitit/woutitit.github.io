@@ -10,15 +10,7 @@
 Quick reference for common clichés in music. Whether that is composition or sound design or other stuff.
 
 ## Sound design
-### Presets and sound patches
-> See "sound recipes" on how to recreate these sounds
-
-- PWM Lead: Has a nice opening up modulation (sometimes with added vibrato) that is often used on sustain/climax notes
-    - Examples needed!
-- Bendy (vibrato) lead
-    - Examples needed! (see ak+q breakdown video)
-- The "opening filter up" pluck. Often macro where the cut off parameter opens up making it more sustain.
-    - https://www.youtube.com/watch?v=fO_JkNN7gh4
+> See "Sound recipes".
 
 ### Instrumentation
 - Steel drums. Very common in tropical sounding music:
