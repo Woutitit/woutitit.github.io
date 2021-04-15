@@ -47,6 +47,8 @@ For the rest, common cuts are a slope around 100-200 Hz and then some OTT/Multib
 Common modulations like vocoder and like the getting in like filtering in
 
 ### EDM chiptune-y lead
+A few examples:
+  - https://www.youtube.com/watch?v=GM7JtFZ5yyU
 Common modulations, have a pulse kind of way and then emulate sync (which is pwm i think) and vibrato can have them in a single macro if you want.
 
 ### EDM basses
