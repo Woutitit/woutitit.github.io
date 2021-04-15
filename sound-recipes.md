@@ -7,6 +7,7 @@ You can also make a pluc
     - https://www.youtube.com/watch?v=fO_JkNN7gh4
 
 
-https://www.youtube.com/watch?v=GM7JtFZ5yyU
-
-https://www.youtube.com/watch?v=nTArSq_oqz4
+## Chiptune-y lead
+Examples:
+- https://www.youtube.com/watch?v=GM7JtFZ5yyU
+- https://www.youtube.com/watch?v=nTArSq_oqz4
