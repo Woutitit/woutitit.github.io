@@ -8,6 +8,7 @@
 4. [Analysis](#analysis)
 5. [General tips](#general-tips)
 6. [Production](#production)
+7. [Sound design](#sound-design)
 8. [Music theory](#music-theory)
 9. [What-is](#what-is)
 10. [How-to](#how-to)
