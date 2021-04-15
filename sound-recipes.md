@@ -1,11 +1,30 @@
 # Sound recipes
 ## Pluck
-https://www.youtube.com/watch?v=mfyacc6iWTE at 5:09
-A pluck is more often than not
-You can also make a pluc
-- The "opening filter up" pluck. Often macro where the cut off parameter opens up making it more sustain.
-    - https://www.youtube.com/watch?v=fO_JkNN7gh4
+Common way to pluck is to instead of having the ADSR of the volume short, have the ADSR of the cut off filter short and inver it so that it goes from "allow all frequencies" to "allow none" and downwards from high to low. Gives it this extra typical EDM vibey sound and on top of that gives you this common modulation macro where you can open up the filter essentially making your pluck slowly more and more legato (so from staccato to legato really):
+- https://www.youtube.com/watch?v=mfyacc6iWTE at 5:09
+- https://www.youtube.com/watch?v=fO_JkNN7gh4
 
+## Basses
+Like EDM dnb dubstep basses i mean here more.
+
+## Supersaws
+- https://www.youtube.com/watch?v=OJn9_Y58jDU
+
+Cut off also depends heavily on the genre. Usually you can cut off at 75Hz but then in the mid range you may find you shelving a bit until 500-600Hz. and perhaps from 2.5-5K Hz you may be boost shelving the highs a bit for extra presence. You may nonetheless cut off like the top 18-20kHz for the harshness but you can roll of more if the genre calls for it. Reference track it.
+
+Unison/Detune/Layer. Two saw stacks is done but then +1 and/or detune one of the saws (which adds thickness, usually mixed in a bit lower). You may also layer with a square. You may want to layer a mono and a stereo layer an depending on genre you want the saws to be less or or more paddy or floaty you want to either mix in the stereo or mono more. Octave layer is also common, if you don't have that, then you might need thicker chords if important.
+
+So 3 possible layers:
+- Mono layer (or not if not needed)
+- Stereo layer (or 2nd oscillator)
+- Octave layer (or 2nd oscillator)
+
+Voicings? Usually extensions on top? Where start? Usually have root and then fifth and then root and then fifth and then maybe extensions. Be aware of repeating a note too many times as it may create too much resonance and stuff. Don't make stuff too dense, but not too sparse. Again all depends on genre how dense or not dense and how low and or high the saws need to reach. Also, sometimes, voicings don't need to be all fully on top. you could have a third in the middle but then the 9th more on top not to clash or sound better.
+
+Vocoder? Resonator saw? If you have a heavy mid bass, you 
+
+### Automation and modulation
+On stabs, often you may automate the filter cut off. Having them come in (usually not fully from 0 though) and increase in loudness. Makes them more interesting and less busy.
 
 ## Chiptune-y lead
 Examples:
