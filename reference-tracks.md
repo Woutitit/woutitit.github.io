@@ -12,6 +12,7 @@ Here I post all the reference tracks I find useful. Perhaps post also the genre 
 
 ## Tracks
 - Dubstep/Color bass: [ Figment - Neddie (The Sass remix)](https://soundcloud.com/the-sass-music/neddie-figment-the-sass-remix)
+- Brostep/Melodic dubstep: [Jump - The Sass](https://soundcloud.com/the-sass-music/jump)
 
 ## How to use a reference track
 *TODO: Add stuff and maybe put somewhere else.*
