@@ -52,7 +52,7 @@
 - [Synthesis](/in-depth/synthesis.md)
 
 ## Sound design
-- [Sound design tips](sound-design-tips.md)
+- [Tips](sound-design-tips.md)
 - [Recipes](sound-recipes.md)
 
 ## Music theory
