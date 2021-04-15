@@ -24,7 +24,7 @@ For vibrato, you'll usually want to do it on sustained notes and/or on accent or
 
 For warp mode, you may choose sync but other warp mode options like pwm are also used. In case of sync you may choose to do window sync (especially for softer sounds). With sync the automation curve, if not used with vibrato, maybe more gradual up and down (never max or min really, so it's more gradual but you may have some sudden jumps on impact and accent notes, like in leaps).
 
-Often doesn't seem to be any unison, just a single voice (but need more data on that). I guess that's so it has a strong center/mono presence.
+Often doesn't seem to be any unison, just a single voice (but need more data on that). I guess that's so it has a strong center/mono presence. However, it's not uncommon to layer this with a more plucky timbre (like a bell an octave up) or perhaps with a different timbre (like a piano) or whatever. It depends on song and section.
 
 In terms of FX:
     - (Tube) saturation: Just a tiny bit. Can also just be a bit of waveshaping. Again for slightly more RMS and high-end presence.
@@ -39,8 +39,7 @@ In terms of FX:
 
 So yeah, it's mainly about giving the lead enough presence to cut through and also having a bit of stereo width whilst also still having a strong mono and centered presence. The rest is kind of fluff and up to taste.
 
-mono and porta
-
+Then the last main thing is the mono and/or porta. I don't immediately recall the difference. But basically they allow for gliding notes and basically pitch bending and fading into eachother when you basically write overlapping notes in your MIDI. This is common to do and you have to play with the settinfs (you also may only need mono or porta or sometimes both). I guess you may want to automate these for when you want pitch bends or when you don't?
 
 the +1 or not cuz like extra harmonics but also like eq'ed out??? isnt that just bad?
 
