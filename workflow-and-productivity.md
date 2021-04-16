@@ -2,8 +2,8 @@
 
 # Workflow and productivity
 ## Table of contents
-1. [Work to publish, not to finish](#work-to-publish-not-to-finish)
 1. [Introduction](#introduction)
+1. [Work to publish, not to finish](#work-to-publish-not-to-finish)
 2. [Song complexity and the snowball effect](#song-complexity-and-the-snowball-effect)
 3. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
 4. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
