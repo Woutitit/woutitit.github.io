@@ -28,6 +28,20 @@
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
+## Work to publish, not to finish
+- https://www.youtube.com/watch?v=5EuWCFCgy58
+- https://old.reddit.com/r/musicproduction/comments/mrq88b/i_can_never_finish_any_projects/
+
+Seriously, work to publish work and not to finish it. In music and creation is hard because there is no finished point. There is also nothing that say now you should do x or y, that's all up to you. However, you do have certain limits currently, whether that is laziness or music production limits which make it seem that your current songs suck and you don't feel like finishing them because they are bad.
+
+That's something you need to get over. Just work to publish them. Work deliberately (do try and do think when working) but work fast and don't overthink, especially when no more ideas and work to publicize. Don't fear about not being creative or wasting a god-tier idea on a mediocre song. Ideas will come, creativity will come. That's something you'll have to trust yourself with.
+
+This is why having dedicated practice sessions is also necessary because again, you want to work fast, in your comfort zone and stuff during song creation so being better prepared helps you working at that pace whilst being able to make a better song than you did before. So yeah have music making session and practice sessions and work to publish, not to finish and don't be demotivated by stuff. You'll get better at your own pace.
+
+That said, you still need to try and stuff won't be easy even working fast and you'll stiff have demotivation and writer's block, that's normal. But yeah, you do need to genuinely try, like, if you work fast and half-ass stuff then sure you're stuff is never going to sound better. If you never practice, then sure you're stuff is never going to sound better.
+
+Of course, you can have moments of slacking off or failing to do this. That's normal, it's a process and we're all human anyway.
+
 ## Song complexity and the snowball effect
 Most songs are often less complex than it may seem. For example, take a typical brostep tune. The A section of the chorus is usually well-produced and takes some time to get right. However, the B section of the chorus also seems well-produced on the surface but if you look closer, often it's actually the A section but just with a few notes and/or sounds mixed up. 80% of the chorus was done in making that A section. And then on top of that, the sections before or after that are often/usually less complex, perhaps having a progression loop and stuff and having a synth play on it so it's not as hard as getting that brostep drop right (which is the main thing in brostep). And on top of that, usually the chorus and the verses will get repeated somewhere down the line so you practically have 80% of the song just out of that.
 
