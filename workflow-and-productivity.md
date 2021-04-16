@@ -3,33 +3,34 @@
 # Workflow and productivity
 ## Table of contents
 1. [Introduction](#introduction)
-1. [Work to publish, not to finish](#work-to-publish-not-to-finish)
-2. [Song complexity and the snowball effect](#song-complexity-and-the-snowball-effect)
-3. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
-4. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
-5. [Give your song a rest](#give-your-song-a-rest)
-6. [Commit to your work](#commit-to-your-work)
-7. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
-8. [Play to your strengths](#play-to-your-strengths)
-9. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-10. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
-11. [Work in short focused bursts](#work-in-short-focused-bursts)
-12. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
-13. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
-14. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
-15. [Work fast](#work-fast)
-16. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
-17. [Plan, research, reference](#plan-research-reference)
-18. [Listen to music before producing](#listen-to-music-before-producing)
-19. [The 80 20 rule](#the-80-20-rule)
-20. [Occassionally force yourself](#occassionally-force-yourself)
-21. [Stop distractions](#stop-distractions)
-22. [Don't be too attached](#dont-be-too-attached)
+2. [Get rid of your ego, only compare to yourself](#get-rid-of-your-ego-only-compare-to-yourself)
+3. [Work to publish, not to finish](#work-to-publish-not-to-finish)
+4. [Song complexity and the snowball effect](#song-complexity-and-the-snowball-effect)
+5. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
+6. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
+7. [Give your song a rest](#give-your-song-a-rest)
+8. [Commit to your work](#commit-to-your-work)
+9. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
+10. [Play to your strengths](#play-to-your-strengths)
+11. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+12. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
+13. [Work in short focused bursts](#work-in-short-focused-bursts)
+14. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
+15. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
+16. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
+17. [Work fast](#work-fast)
+18. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
+19. [Plan, research, reference](#plan-research-reference)
+20. [Listen to music before producing](#listen-to-music-before-producing)
+21. [The 80 20 rule](#the-80-20-rule)
+22. [Occassionally force yourself](#occassionally-force-yourself)
+23. [Stop distractions](#stop-distractions)
+24. [Don't be too attached](#dont-be-too-attached)
 
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
-## Get rid of your ego, compare to yourself
+## Get rid of your ego, only compare to yourself
 Having an ego will greatly hamper your learning. Having too much pride to learn from others or to remake or listen to other songs is really bad because you really do need to do these things to get better. You really do need music theory. You really do need music tutorials and you really do need to analyze and reference other (way better) people's songs in order to get better.
 
 On that topic, your ego will also compare to others. That's the worst thing you can do. Sure compare yourself to others to see what there still is to learn but ALWAYS compare yourself to yourself. ALWAYS. For example, if you feel bad after having listened to another person's song and then listened to yours (which you thought was a banger), go listen right after to a track you made a year ago or even your first track. You'll instantely hear the progress YOU made. And that's what should motivate you, nothing else.
