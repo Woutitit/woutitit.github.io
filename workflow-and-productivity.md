@@ -3,7 +3,7 @@
 # Workflow and productivity
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Producing music or a single song is a snowball effect](#producing-music-or-a-single-song-is-a-snowball-effect)
+2. [Song complexity and the snowball effect](#song-complexity-and-the-snowball-effect)
 3. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
 4. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
 5. [Give your song a rest](#give-your-song-a-rest)
@@ -28,7 +28,7 @@
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
-## Producing music or a single song is a snowball effect
+## Song complexity and the snowball effect
 Most songs are often less complex than it may seem. For example, take a typical brostep tune. The A section of the chorus is usually well-produced and takes some time to get right. However, the B section of the chorus also seems well-produced on the surface but if you look closer, often it's actually the A section but just with a few notes and/or sounds mixed up. 80% of the chorus was done in making that A section. And then on top of that, the sections before or after that are often/usually less complex, perhaps having a progression loop and stuff and having a synth play on it so it's not as hard as getting that brostep drop right (which is the main thing in brostep). And on top of that, usually the chorus and the verses will get repeated somewhere down the line so making the verses. So as you can see, while the initial track creation, the chorus (or another idea), takes a lot of time, it really snowballs faster and faster.
 
 Like, also once you have your sound palette which you may already have mostly from your chorus and/or intro, you also already have most of your sound palette for your other sections. When you've done some on-the-go mixing for your chorus, there is also already some mixing done for all the other sections. I can continue these examples, really. The point is that don't be down if the initial idea takes long, that's normal so spend your time there and then after you'll notice it speed up.
