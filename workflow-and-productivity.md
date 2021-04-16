@@ -29,6 +29,11 @@
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
+## Get rid of your ego
+Having an ego will greatly hamper your learning process. This is because your ego cannot handle having to look things up. Your ego cannot handle listening to good songs and then going back to your shitty song. The truth is, you need to reference and analyze these good songs for insipration and learning. You need to watch tutorials to learn. You need music theory to learn.
+
+And yes, this is easier and sometimes it goes better. However, please keep the "compare only to yourself" tip in mind with this and then your ego can hamper a bit either way.
+
 ## Work to publish, not to finish
 - https://www.youtube.com/watch?v=5EuWCFCgy58
 - https://old.reddit.com/r/musicproduction/comments/mrq88b/i_can_never_finish_any_projects/
