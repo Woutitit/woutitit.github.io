@@ -33,7 +33,7 @@ Most songs are often less complex than it may seem. For example, take a typical 
 
 Or maybe you are into bass genres where you kind of have to make unique basses. Again, making the basses takes some time, and laying them out in a coherent section takes some time but again, once you have that, it's snowballing as the section can be reused and the basses can be reused (in fact these basses can now also be reused in different projects). So yeah, once you have your sound palette (presets or samples or whatever), which you may already have mostly from your chorus and/or intro, you also already have most of your sound palette for your other sections. When you've done some on-the-go mixing for your chorus, there is also already some mixing done for all the other sections. I can continue these examples, really.
 
-The point is that don't be down if the initial idea and sound selectiond and stuff takes long, that's normal so spend your time there and then after you'll notice it speed up.
+The point is that don't be down if the initial idea and sound selection and stuff takes long, that's normal so spend your time there and then after you'll notice it speed up. That doesn't mean that making the full song is easy, and adding the finer details can also still take a bit of time, but usually this should drastically speed you up and set you up to make a good song.
 
 *Note: The best thing about repetition and similarness and reusing sounds for sections is that it is indeed lazy but actually it's what makes a song more recognizable and coherent. So it's a win for us and it's a win for the listener."
 
