@@ -19,7 +19,7 @@
 15. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
 16. [Plan, research, reference](#plan-research-reference)
 17. [Listen to music before producing](#listen-to-music-before-producing)
-18. [Focus on the 80%](#focus-on-the-80)
+18. [The 80 20 rule](#the-80-20-rule)
 19. [Occassionally force yourself](#occassionally-force-yourself)
 20. [Stop distractions](#stop-distractions)
 21. [Don't be too attached](#dont-be-too-attached)
