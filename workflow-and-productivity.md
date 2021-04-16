@@ -3,29 +3,39 @@
 # Workflow and productivity
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
-3. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
-4. [Give your song a rest](#give-your-song-a-rest)
-5. [Commit to your work](#commit-to-your-work)
-6. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
-7. [Play to your strengths](#play-to-your-strengths)
-8. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
-9. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
-10. [Work in short focused bursts](#work-in-short-focused-bursts)
-11. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
-12. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
-13. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
-14. [Work fast](#work-fast)
-15. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
-16. [Plan, research, reference](#plan-research-reference)
-17. [Listen to music before producing](#listen-to-music-before-producing)
-18. [The 80 20 rule](#the-80-20-rule)
-19. [Occassionally force yourself](#occassionally-force-yourself)
-20. [Stop distractions](#stop-distractions)
-21. [Don't be too attached](#dont-be-too-attached)
+2. [Producing music or a single song is a snowball effect](#producing-music-or-a-single-song-is-a-snowball-effect)
+3. [Optimizing workflow is a process](#optimizing-workflow-is-a-process)
+4. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
+5. [Give your song a rest](#give-your-song-a-rest)
+6. [Commit to your work](#commit-to-your-work)
+7. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
+8. [Play to your strengths](#play-to-your-strengths)
+9. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
+10. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
+11. [Work in short focused bursts](#work-in-short-focused-bursts)
+12. [Perfect is the enemy of done](#perfect-is-the-enemy-of-done)
+13. [Don't open DAW without purpose](#dont-open-daw-without-purpose)
+14. [Don't have expectations and focus on small achievements](#dont-have-expectations-and-focus-on-small-achievements)
+15. [Work fast](#work-fast)
+16. [When writer's block hits, stop and get inspired](#when-writers-block-hits-stop-and-get-inspired)
+17. [Plan, research, reference](#plan-research-reference)
+18. [Listen to music before producing](#listen-to-music-before-producing)
+19. [The 80 20 rule](#the-80-20-rule)
+20. [Occassionally force yourself](#occassionally-force-yourself)
+21. [Stop distractions](#stop-distractions)
+22. [Don't be too attached](#dont-be-too-attached)
 
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
+
+## Producing music or a single song is a snowball effect
+Most songs are often less complex than it may seem. For example, take a typical brostep tune. The A section of the chorus is usually well-produced and takes some time to get right. However, the B section of the chorus also seems well-produced on the surface but if you look closer, often it's actually the A section but just with a few notes and/or sounds mixed up. 80% of the chorus was done in making that A section. And then on top of that, the sections before or after that are often/usually less complex, perhaps having a progression loop and stuff and having a synth play on it so it's not as hard as getting that brostep drop right (which is the main thing in brostep). And on top of that, usually the chorus and the verses will get repeated somewhere down the line so making the verses. So as you can see, while the initial track creation, the chorus (or another idea), takes a lot of time, it really snowballs faster and faster.
+
+Like, also once you have your sound palette which you may already have mostly from your chorus and/or intro, you also already have most of your sound palette for your other sections. When you've done some on-the-go mixing for your chorus, there is also already some mixing done for all the other sections. I can continue these examples, really. The point is that don't be down if the initial idea takes long, that's normal so spend your time there and then after you'll notice it speed up.
+
+You can also extend this to producing in general. In the beginning you'll struggle because everything takes a lot of time and you don't know what you're doing. You also don't know what samples you have and how to use them and stuff so everything drags on so hard. The more experience you get the more you immediately know how to mix stuff, enhance stuff and then you can apply some knowledge you've learned to other stuff so this one thing you've learned makes you better in a multitude of areas. Also you get to know your tools better, your samples, the song structure, what you need, how to mix, how to master and all this good stuff. So again, with experience (assuming you're a dedicated learned too), you'll yet again snowball into becoming better and better.
+
+Of course, the snowball will stop or slow down at some point whenevr you take a bit of a back seat or whenever you're reach semi-pro and/or pro levels as there isn't that much more to learn or to speed up in.
 
 ## Optimizing workflow is a process
 Getting a good workflow, one that fits you is a progress. It has two facets. First, you'll try the workflow that you think currently that is your best way of doing things. You see what works for you and over time you modify it to suit you better (or you stop doing it because it's unhelpful). Secondly, over time you also get more and more experience with your workflow but also your tools, your shortcuts, your software, your feel for music so in that way your productivity will all improve as well.
