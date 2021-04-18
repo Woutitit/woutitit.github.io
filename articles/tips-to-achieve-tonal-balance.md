@@ -46,6 +46,8 @@ But yeah the fullness just comes from that reverb space creation and then that n
 
 Also all this shit doesn't mean you can't add a lot. No it depends like a vocal chop just add it like it's not gonna be the thing to peak the meters again in the highs it's lead and the claps and the hats and stuff like. Add that extra layer too, again just mix it well and don' tbe too too loud ands stuff. Like you can add a shitton but just adhere to the principles. 
 
+Also, it matters way more to be musical rather than filling a spectrum. again keep mixing tropes and compositoinal tropes in mind like how to sound full and open but for the rest seriously just compose and make music. **Composition and sounds and complementary sounds/composition** is way more important for a good song and should be focus, don't think at all about filling frequneices.
+
 ## Common tonal balance configurations
 The tonal balance may be the reason (or one of) why your song doesn't sound as good or as similar as your references. That's why referencing the tonal balanace and seeing it through a spectrum analyzer how it looks and comparing it with yours (assuming you compare it in the same section and genre and similar vibe) is very important. However, there are definitely some tendencies that we can deduce.
 
