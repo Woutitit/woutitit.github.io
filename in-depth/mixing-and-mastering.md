@@ -4,6 +4,7 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
+2. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
 3. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
 4. [Strive for tonal balance](#strive-for-tonal-balance)
 5. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
@@ -29,6 +30,11 @@
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
+
+## Mixing can solve composition and vice versa
+So, your composition doesn't have to be flawless. You can fix some stuff with mixing but it does depend a bit on the composition "mistake". A blatant example is a top loop but the kick is still in there. Well, in that case you may be ok with having the high end of the kick (perhaps lowering it a bit on your own kick) but you don't want the kick low-end so having that kick would be a composition mistake. We simply high-pass filter it out and done. Same for other composition "mistakes". We can use filters and other mixing techniques.
+
+Same for mixing. Sometimes composing your thing better can improve the mixing of the track rather than you doing stuff in the mixer. Like, putting stuff an octave higher and or lower or leaving out adding notes to change a chord and stuff like that. So yeah, it really is tied together.
 
 ## Small moves on a lot of tracks add up
 The number one mixing mistake you can make is to do big moves on a single track. Mixing is really all about doing small moves on a lot of tracks. For example, you might saturate your sub bass a lot, and then you might saturate your saws a lot, perhaps your lead too, all for presence and brightness. However, that will result in harshness in the highs and all fighting for the same space. Same with EQ carving, you might carve out a -3 to -6db bell curve out from your instrument to make room for lead, but you might do that out of a pad, and perhaps your strings layer too and all of a sudden your mids are weak. Same with reverb, you add a shitton of reverb to a sound because it sounds good in solo, you do it to another sound as it sounds good in solo too and then another and so on. It will be muddy together and you wonder why. Same with adding some brightness, you may boost 6db of highs in your chord saws, then in your lead and in other stuff too. That's not brightness but arshness now. Rather, try slight ott and saturation and slight eq boost for all and that will add up significantly for brightness purposes.
