@@ -42,6 +42,8 @@ Also in low-mids can get crowded soon cuz chords lots of harmonics so thats why 
 
 But yeah the fullness just comes from that reverb space creation and then that nice sub thing and the opness of the composition trope hats and snare and then maybe some stuff in the middle but yeah. And just a few textures and shit. You really don't need to have layer or a shitton of them, you just need the basic composition tropes and mix them well and then you good.
 
+Also all this shit doesn't mean you can't add a lot. No it depends like a vocal chop just add it like it's not gonna be the thing to peak the meters again in the highs it's lead and the claps and the hats and stuff like. Add that extra layer too, again just mix it well and don' tbe too too loud ands stuff. Like you can add a shitton but just adhere to the principles. 
+
 ## Common tonal balance configurations
 The tonal balance may be the reason (or one of) why your song doesn't sound as good or as similar as your references. That's why referencing the tonal balanace and seeing it through a spectrum analyzer how it looks and comparing it with yours (assuming you compare it in the same section and genre and similar vibe) is very important. However, there are definitely some tendencies that we can deduce.
 
