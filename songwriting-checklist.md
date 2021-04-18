@@ -20,6 +20,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - [Mastering tips](https://splice.com/blog/mastering-101-limiting/#:~:text=The%20more%20gain%20reduction%20you,no%20more%20than%202.5%20dB.)
 
 ## Mixing and mastering
+- When (sub) bass and kick and snare hit together? Overlap? Need eq or maybe different snare (like just use a clap instead)?
 - Sidechain: Which elements? Sub and/or top bass? To snare too? Different SC curve/Mix levels for different elements?
 - General high pass: Most stuff doesn't need < 60Hz. Try hi-pass all elements 50-150Hz range except (sub) bass.
 - Set lvls by muting all. Start with kick and bring stuff up around it.
