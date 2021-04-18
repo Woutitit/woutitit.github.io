@@ -104,7 +104,7 @@ Most of these terms might have a seperate article where I go in more detail abou
 - Wavetable: A table of stored sound waves. Modulated wavetables are often used in dubstep these days
 - Macro: Allows to have multiple fx in a synth mapped to a single know, a macro. Turning said macro will then change all the mapped fx at the same time based on how you mapped them. Handy for fx that commonly needs to modulate together so you don't need multiple automation clips for that.
  - Mod wheel: Same as a macro except that it's for live performance as its found on hardware synths and midi controllers. A common use is vibrato whilst playing: https://electronicmusic.fandom.com/wiki/Mod_wheel
-
+- Fifth patch/Chord patch: A patch but like a chord so if u play one note it's a chord. What is patch called that's an arpeggio inside the patch then?
 ## Horns
 ### Trumpet
 - Flutter tongue (Can also be for flute and clarinet)
