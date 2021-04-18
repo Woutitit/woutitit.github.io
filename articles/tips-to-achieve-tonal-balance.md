@@ -8,7 +8,9 @@
 ## Introduction
 In this article I go over some tips to help achieving tonal balance (but also the tonal balance you want).
 
-Once you start getting how mixing works, it's really not THAT hard
+Once you start getting how mixing works, it's not that hard as it really is always a bit the same decisions you have to make depending on the sound and its role in the mix.
+
+For example, to have a good tonal balance and a goo
 ## Use a spectrum analyzer
 
 ##
