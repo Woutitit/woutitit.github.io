@@ -1,6 +1,6 @@
 [Home](../index.md)
 
-# Tips to achieve tonal balance
+# Practical tonal balance and mixing advance
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Common tonal balance configurations](common-tonal-balance-configurations)
@@ -8,6 +8,10 @@
 ## Introduction
 In this article I go over some tips to help achieving tonal balance (but also the tonal balance you want).
 
+Once you start getting how mixing works, it's really not THAT hard
+## Use a spectrum analyzer
+
+##
 ## Common tonal balance configurations
 The tonal balance may be the reason (or one of) why your song doesn't sound as good or as similar as your references. That's why referencing the tonal balanace and seeing it through a spectrum analyzer how it looks and comparing it with yours (assuming you compare it in the same section and genre and similar vibe) is very important. However, there are definitely some tendencies that we can deduce.
 
