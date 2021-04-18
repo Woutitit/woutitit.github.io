@@ -5,7 +5,7 @@
 1. [Introduction](#introduction)
 2. [Common tonal balance configurations](common-tonal-balance-configurations)
 
-## Introduction
+## Mixing rant
 In this article I go over some tips to help achieving tonal balance (but also the tonal balance you want).
 
 Once you start getting how mixing works, it's not that hard as it really is always a bit the same decisions you have to make depending on the sound and its role in the mix.
@@ -23,9 +23,23 @@ Then the snare is the same thing. It depends a bit on whether it hits with the k
 And then with the kick snare and hats (and other perc) you usually already have a very good framework for tonal balance and a good open mix. Usually your kick proves bottom and a bit of highs, the snare has a lot of highs when it comes in, the the hats provide the more sustained highs and stuff like that and then we have our more melodic elements in the mids and high-mids providing the bridge and our bass to support a bit more in the low-end and have it be more melodic as well as adding to the warmth.
 
 Other thing is with the sub bass. Like yes you have a nice foundation but again, very hard to hear on high-end favored speakers so you might need to saturate and/or OTT a bit. How much depends on how noticeable it needs to be. Usually you don't do too much but then you add a mid bass which is identical to the sub. This way the sub can be recongized thanks to he harmonics in the mid bass but you don't want that mid bass too loud to not mud up the low-mids and also you don't need absolute high-end for stuff to be recognized. Unlike the kick and snare, bass doesn't need to be (unless heavy bass genre) crystal clear and recongized so having a bit of low-mids presence and then fading out to 1-2k Hz range is acceptable depends a bit on the genre and the mix.
-## Use a spectrum analyzer
 
-##
+Then, your main instruments will be written in the mids to low-highs usually. So most fundamentals may reside there (though you may occasionally have some pure high-end textures). The thing is, this will very often mud up the low-mids easily and especially for brighter mixes this is bad so you do want to mix it well Again, you can layer all you want you can add textures and stuff, all stuff that is musical. This usually means OTT'ing a lot of stuff and/or turning down/shelving the low-mids around 75-350Hz. Again, you don't want to fully high pass (unless it's around 75-100Hz) but you want to low shelf so stuff gets turned down but you still keep the warmth there. This takes a bit of mixing and stuff like that.
+
+Then there may be a lead or a vocal or whatever and those also usually reside in mids for most but again, especially those are bright shimmery and loud usually and very present in the highs so those really add to those high energies a lot usually.
+
+So yeah having the basic composition tropes in place will help your mix sound open and full already and then doing the basic above mixing technniques should give you a bright mix. Again, always reference to others and always reference to SPAN and see whether stuff is too much or too little.
+
+Then for a full mix, you also need to utilze reverb and delay, without it your instruments are going to feel empty and a bit dry and your mix won't sound full. It's that shimmer of that reverb on a lot of instruments that really does it. Now, you usually want to start with just reverb (or subtle delay added) and see how that works. The sparse the mix or section the more reverb you'd usually want on your instruments (except for perhaps your low-end kick bass and stuff). Like this really gives a dimensions to your stuff. Like also adding it on that snare and having a nice reverb tail is really nice. So yeah definitely don't shy away from it but again, especially in a busy mix you have to choose the elements which have reverb or less or more of it (so definitely tweak the presets because those are usually too much).
+
+Then there is also stereo space. You might want to add some extra unsion and or stereo layers stuff to make some things more wide and things and to get out of the way of the other stuff like more mono centered things will give mix a bit more nice space and dimension.
+
+Also to go back to the tonal balance. So your drums usually add the nice framework and then you have instruments filling up the rest. Again, the fullness of a mix really comes from the nice stable sub-end and then having stuff going on above like transients (like percussion) some nice things coming in and coming out and stuff like that. Like, you can't make stuff full with a loud supersaw chord stack. I mean, you can but a saw is super rich in harmonics, a supersaw chord stack is definitely even richer in so many harmonics so having that loud will seriously be very harsh on the ears. So again, instead try a pad, a more rounded texture for that high-end shimmer and use the supersaws either as a transient stab or if sustained stab not too long sustained and/or not too much in high-end, som reverb for push back and space perhaps some stereo width to get out of the way and perhaps some chord clean up too.
+
+Also in low-mids can get crowded soon cuz chords lots of harmonics so thats why u want to have like octaves and fifths only to leave enough space and also not beat too much though you also can have extensions there but again then you'll have to lower and/or shelf the sound and/or OTT and so on.
+
+But yeah the fullness just comes from that reverb space creation and then that nice sub thing and the opness of the composition trope hats and snare and then maybe some stuff in the middle but yeah. And just a few textures and shit. You really don't need to have layer or a shitton of them, you just need the basic composition tropes and mix them well and then you good.
+
 ## Common tonal balance configurations
 The tonal balance may be the reason (or one of) why your song doesn't sound as good or as similar as your references. That's why referencing the tonal balanace and seeing it through a spectrum analyzer how it looks and comparing it with yours (assuming you compare it in the same section and genre and similar vibe) is very important. However, there are definitely some tendencies that we can deduce.
 
