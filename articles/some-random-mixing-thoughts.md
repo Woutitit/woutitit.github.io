@@ -9,8 +9,24 @@ This also helps because often I'd turn up something I couldn't hear well in the 
 So yeah, if you know a bit about how reference tracks in your genre (and in general) usually have their spectrum, you can make easy quick and rough decisions with a SPAN on your master.
 
 ## How-to bright mix but not harsh mix.
+So modern EDM, and generally a lot of modern genres and/or mixes are usually more on the bright side of things. There is usually a well defined low-end > 200Hz for nice energy that's important but then usually the muddy area 200-350Hz is usually a bit less and the mix goes up and up and up in spectrum until high-end where it's usually more even than the sub range (or kind of equal). Also, depending on how bright the mix needs to be (and the genre), the 200-350Hz may not be that different and the SPAN curve maybe more linear. Nonetheless, there is always kind of a tendency to brightness, even if slight.
+
+But yeah, songs with supersaws can get bright really quickly but can also get harsh really quickly. This is because a saw is rich. One saw is rich in harmonics, so a chord stack of saws is certainly very rich in harmonics and thus very prominent (especially the higher notes can be ear piercing). So with saws you usually don't want to be the sustain elements in a mix because they'll just overpower the mix, leaving no room for other stuff, and they'll also sound harsh. Your SPAN curve may look nice but your mix won't. So yeah, saws you kind of want treat. Either you use them as (relatively) short saw stabs as we usually see. We filter them a bit on top, and/or chorus, put some reverb on it too. Maybe less and/or more detuned. But yeah, basically, if you need sustain, you rather should choose a pad or something with a more rounder timbre that doesn't sound as harsh in the high-end due to the harmonics and have that be the sustain and then give the supersaws the stab role. Automating the supersaws cut off also helps and stuff.
+
+But yeah, supersaws definitely contribute to brightness but you just need to know how to use them in your mix.
+
+That said, other terms in brightness is OTT and EQ. Basically, especially in EDM genres, you'll want to be shelving stuff from the 150-350Hz range. You may high pass stuff at 75-100Hz but then you also shelve up until 500Hz. Again, you don't want to lose all the warmth but you also don't want all that mids especially. And with EQ you can do this.
+
+What this allows is first of all it's a brighter mix and second of all you can turn stuff up as the mids are less so you can turn up the brightness (turning up the mids too though but since we shelved) it's okay. Like your supersaws can have this treatment, your pads can have this treatment, your leads as well. Again, it depends a bit from genre to genre and track to track. You may find that the pad doesn't need it to keep some warmth. Or, you may want it as you have a mid bass that nicely fills that space up anyway (again it's a small space).
+
+Again, the illusion here is that since we have a strong > 200Hz going on. If we have some nice high-mids and highs and very highs, the mix will sound full too thanks to that bass and the stuff on top is more like decoration. Again, the 150-350Hz range you certainly want but really not too much and how much kind of depends on the genre. But again, you also don't want to compose your stuff all the way up. No, lett the harmonics do their work, keep your stuff down there and let saturation, OTT, and EQ of harmonics do the work of the brightness. Like having composed stuff down there is exactly what helps the warmth.
+
+Next is OTT. Again, it's important for basiclaly shifting frequencies from the low mids to the highs more. This makes instruments more intelligible but it also again makes them brighter as the upper harmonics are more pronounced. This can be done together with the EQ and/or in place of it as EQ mid cuts and/or upper boost kind of act the same way but a bit different (like OTT alsy makes stuff keep in check so it can be handy to OTT and then EQ boost cut where/if needed).
+
+But yeah, again, it depends in your genre and mix. If your genre allows more for mids (like more analog genres) than OTT and mid cutting don't need to be as drastic.
 
 
+why reverb stereo width? Why chorus makes stuff less harsh?
 
 Were should I put this article? Or like how structure it?
 
