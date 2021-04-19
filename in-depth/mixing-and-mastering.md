@@ -32,6 +32,10 @@
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
+## Don't be afraid to transpose key
+- https://www.youtube.com/watch?v=qcNkoojBCKI at 13:50
+So sometimes the sub simply doesn't hit the right spots for your song (like too much high not enough sub and stuff) and in that case, instead of trying to somehow solve it, it may be better to transpose to a different key so you don't have to solve anything. I've seen many people do that or talk about that (see ak+q stream too). In that case you have to indeed just transpose everything individually but it will be worth it. Again, this is mainly for tunes where you really want that sub (like club music, DnB) to be consistent (especially if there isn't much bass next to that like in liquid DnB). More analog stuff and/or other genres don't need to worry as much about that.
+
 ## Bus stuff that fits together
 - https://www.youtube.com/watch?v=qcNkoojBCKI at 3:53
 
