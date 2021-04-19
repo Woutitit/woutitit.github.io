@@ -14,6 +14,7 @@ This document is meant to list ideas that I can do during practice sessions. It'
 - Analyze and/or remake a song
 - Transcribe a passage or song in MuseScore
 - Take a(n uncategorized) commonities article entry and actually transcribe it/make MIDI pattern of it
+- Analyze a MIDI pattern from a sample/sound pack (like a supersaw chord stack pattern progression)
  
 ## Synth
 - Choose a synth and make a patch
