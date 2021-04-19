@@ -75,6 +75,6 @@ A few examples:
 Common modulations, have a pulse kind of way and then emulate sync (which is pwm i think) and vibrato can have them in a single macro if you want.
 
 ### Sub bass
-Usually around 60-100Hz. Write in Cm or Fm for ideal sub. Can either be a straight up sub with preferably some saturation to be better heard or it can be a low-passed. Both are kind of the same thing.
+Usually around 60-100Hz. Write in Cm or Fm (https://www.youtube.com/watch?v=qcNkoojBCKI at 12:30) for ideal sub. Can either be a straight up sub with preferably some saturation to be better heard or it can be a low-passed. Both are kind of the same thing.
 
 ### EDM basses
