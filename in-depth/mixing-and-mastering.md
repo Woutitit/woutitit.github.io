@@ -4,35 +4,38 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Bus stuff that fits together](#bus-stuff-that-fits-together)
-3. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
-4. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-5. [Strive for tonal balance](#strive-for-tonal-balance)
-6. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-7. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-8. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-9. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-10. [Have a reference track](#have-a-reference-track)
-11. [Mixing is about prioritization](#mixing-is-about-prioritization)
-12. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-13. [Increase and work transients](#increase-and-work-transients)
-14. [Mastering 101](#mastering-101)
-15. [Sound selection vs. processing](#sound-selection-vs-processing)
-16. [Don't use presets as-is](#dont-use-presets-as-is)
-17. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-18. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-19. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-20. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-21. [Mixing for loudness](#mixing-for-loudness)
-22. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-23. [Mind the order of your FX](#mind-the-order-of-your-FX)
-24. [Use visual feedback](#use-visual-feedback)
-25. [Make your mix translate](#make-your-mix-translate)
+2. [Key to full and clean mix](#key-to-full-and-clean-mix)
+3. [Bus stuff that fits together](#bus-stuff-that-fits-together)
+4. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
+5. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+6. [Strive for tonal balance](#strive-for-tonal-balance)
+7. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+8. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+9. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+10. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+11. [Have a reference track](#have-a-reference-track)
+12. [Mixing is about prioritization](#mixing-is-about-prioritization)
+13. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+14. [Increase and work transients](#increase-and-work-transients)
+15. [Mastering 101](#mastering-101)
+16. [Sound selection vs. processing](#sound-selection-vs-processing)
+17. [Don't use presets as-is](#dont-use-presets-as-is)
+18. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+19. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+20. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+21. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+22. [Mixing for loudness](#mixing-for-loudness)
+23. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+24. [Mind the order of your FX](#mind-the-order-of-your-FX)
+25. [Use visual feedback](#use-visual-feedback)
+26. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
 ## Key to full and clean mix
+> See x and y articles (todo).
+
 I always thought that having a huge and full mix was about filling frequency spectrum. It really isn't. Stuff like "huge low-end" but there is only about 200Hz of frequencies in the low-end so not much notes and definitely not much harmonics so there is not much huge to be had there. Besides, white noise fills the spectrum but that doesn't sound particularly or full doesn't it?
 
 So yeah, it seriously is first of all more about stereo width. Knowing how to pan what to pan and simply having a lot of stuff in stereo (but different width for different instruments and focuses and layers) and panning and reverb and delay (like ping pong delay) really helps creating that vertical space. Again, try to MSED mono your favorite mix and then go back to stereo and see how much more it's filling the room. There haven't been any frequencies added, it's simply the stereo image. Solo frequency bands and see what's stereo per band.
