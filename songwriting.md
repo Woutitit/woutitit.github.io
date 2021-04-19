@@ -4,6 +4,8 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
+1. [Overdo, then delete](#overdo-then-delete)
+1. [Write around a theme](#write-around-a-theme)
 1. [Write in a neutral patch](#write-in-a-neutral-patch)
 1. [Contrast is key](#contrast-is-key)
 2. [Energy distribution is key](#energy-distribution-is-key)
@@ -19,6 +21,9 @@
 12. [Keep it simple](#keep-it-simple)
 13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 14. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+
+## Overdo, then delete
+It may help generating ideas, whether that is a bassline, layers, song sections or whatever to not hold yourself back on generating a lot of different ideas and trying them all out. Like, you may start with a funky bass you like but then when adding more stuff on top you may find you need to slim down your bass line. Or with sections you are stuck but you should simply allow yourself to generate a few ideas and then you can pick the best one and delete the others. Again, just generate overdo, make your mix to busy and then think of things you can delete and take away.
 
 ## Write around a theme
 Write some sentences, a word or a certain theme or whatever down or have it in your head. Often this can kind of lead you into a direction of what your song is about, what genre, what style, what sounds. Like the song "Centipede" has these sounds that sound like little feet of the centipede and stuff like that. It can help always, especially if you don't know what to make or the creative direction to take your song.
