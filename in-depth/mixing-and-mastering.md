@@ -4,32 +4,42 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
-3. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-4. [Strive for tonal balance](#strive-for-tonal-balance)
-5. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-6. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-7. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-8. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-9. [Have a reference track](#have-a-reference-track)
-10. [Mixing is about prioritization](#mixing-is-about-prioritization)
-11. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-12. [Increase and work transients](#increase-and-work-transients)
-13. [Mastering 101](#mastering-101)
-14. [Sound selection vs. processing](#sound-selection-vs-processing)
-15. [Don't use presets as-is](#dont-use-presets-as-is)
-16. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-17. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-18. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-19. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-20. [Mixing for loudness](#mixing-for-loudness)
-21. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-22. [Mind the order of your FX](#mind-the-order-of-your-FX)
-23. [Use visual feedback](#use-visual-feedback)
-24. [Make your mix translate](#make-your-mix-translate)
+2. [Bus stuff that fits together](#bus-stuff-that-fits-together)
+3. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
+4. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+5. [Strive for tonal balance](#strive-for-tonal-balance)
+6. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+7. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+8. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+9. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+10. [Have a reference track](#have-a-reference-track)
+11. [Mixing is about prioritization](#mixing-is-about-prioritization)
+12. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+13. [Increase and work transients](#increase-and-work-transients)
+14. [Mastering 101](#mastering-101)
+15. [Sound selection vs. processing](#sound-selection-vs-processing)
+16. [Don't use presets as-is](#dont-use-presets-as-is)
+17. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+18. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+19. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+20. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+21. [Mixing for loudness](#mixing-for-loudness)
+22. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+23. [Mind the order of your FX](#mind-the-order-of-your-FX)
+24. [Use visual feedback](#use-visual-feedback)
+25. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
+
+## Bus stuff that fits together
+- https://www.youtube.com/watch?v=qcNkoojBCKI at 3:53
+
+For example, it's often the case you have a snare layer that consists of a snare and one or more claps and stuff. While all different sounds, they act as the snare layer as they are meant to hit together. The problem is that you can't really gauge how loud the hit is. Per usual, you want the kick and snare to be roughly the same in volume but adding extra claps on top of the snare may not immediately ring a bell that the the total snare layer is now raised in volume and thus overpowering the mix. Therefore, bussing all these layers together makes you able to gauge that more easily and so you can balance the bus and/or individual elements. This goes for stuff like bass layers and lead layers too.
+
+A next thing is also for making your layers sound more like a whole by having busses that apply the same effects. For example, you may have two lead layers but it's kind of like two layers that are meant to sound as one so you can bus them and process them together (like, same reverb, glue compression...). Same with a drum bus. You want to kind of process all of your drums on a bus to get a nice thight groove going by applying fx on the bus (which doesn't mean you can't apply and process individual stuff of course).
+
+In some scenarious you could even bus the lows and the mids and the highs to see the volume distributions in each and check on SPAN how they are doing and stuff if you need that. Usually not done but could sometimes be helpful.
 
 ## Mixing can solve composition and vice versa
 So, your composition doesn't have to be flawless. You can fix some stuff with mixing but it does depend a bit on the composition "mistake". A blatant example is a top loop but the kick is still in there. Well, in that case you may be ok with having the high end of the kick (perhaps lowering it a bit on your own kick) but you don't want the kick low-end so having that kick would be a composition mistake. We simply high-pass filter it out and done. Same for other composition "mistakes". We can use filters and other mixing techniques. Another example would be having certain notes too loud, a compressor can help there.
