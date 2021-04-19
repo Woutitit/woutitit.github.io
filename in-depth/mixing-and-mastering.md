@@ -32,6 +32,23 @@
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
+## Key to full and clean mix
+I always thought that having a huge and full mix was about filling frequency spectrum. It really isn't. Stuff like "huge low-end" but there is only about 200Hz of frequencies in the low-end so not much notes and definitely not much harmonics so there is not much huge to be had there. Besides, white noise fills the spectrum but that doesn't sound particularly or full doesn't it?
+
+So yeah, it seriously is first of all more about stereo width. Knowing how to pan what to pan and simply having a lot of stuff in stereo (but different width for different instruments and focuses and layers) and panning and reverb and delay (like ping pong delay) really helps creating that vertical space. Again, try to MSED mono your favorite mix and then go back to stereo and see how much more it's filling the room. There haven't been any frequencies added, it's simply the stereo image. Solo frequency bands and see what's stereo per band.
+
+Next is also simply the layers. But again, layers don't necessarily add to the peaks or add extra harmonics. They mare reinforce some harmonics, add some transient and that may give interesting timbre but if the layer is the same stuff or the same fundamental note, it's not suddenly going to add harmonics from somwhere. 
+
+Thirdly, it's also just about the compositional tropes. A 4/4 kick without any snare and/or top layer and/or percussion with a bass line will never sound groovy. One with an off-beat open hihat, an interesting snare and all that will sound open and groovy way more. It's typical tropes in music composition and your genre that will make stuff sound full and clean.
+
+The composition and sounds used. The sounds and how complementary they are to eachother is super important. Again, it's not about filling a spectrum, it's about the sound; Same with composition. Do you have an interesting composistion actually? Do the rhythms and/or harmonies complement eachother?
+
+Reverb and/or delay. Like reverb especially simply puts sounds in a space or even further back in the mix if needed. Reverb often really gives that air to the mix and that padiness to really fill up space. Make sure to low-cut from 300 and up (maybe sidechain) and not overdo, know how to do it tastefully. With delay, though a bit less, same. You can fill up some nice gaps if you havea bit of (ping-pong) delay on your lead for example.
+
+And lastly, mixing. Like making stuff brighter, cutting out the lows and stuff, empahsizing highs but in a tasteful.
+
+Either way, if you follow compositional tropes, know how to mix and apply fx, use stereo in a good way and have a good composition and complemenatary sounds, your mix will sound full and professional. And this is seriously not about filling a certain spectrum.
+
 ## Don't be afraid to transpose key
 - https://www.youtube.com/watch?v=qcNkoojBCKI at 13:50
 So sometimes the sub simply doesn't hit the right spots for your song (like too much high not enough sub and stuff) and in that case, instead of trying to somehow solve it, it may be better to transpose to a different key so you don't have to solve anything. I've seen many people do that or talk about that (see ak+q stream too). In that case you have to indeed just transpose everything individually but it will be worth it. Again, this is mainly for tunes where you really want that sub (like club music, DnB) to be consistent (especially if there isn't much bass next to that like in liquid DnB). More analog stuff and/or other genres don't need to worry as much about that.
