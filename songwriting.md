@@ -4,7 +4,7 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
-1. [Transitions are important](#transients-are-important)
+1. [Transitions are important](#transitions-are-important)
 2. [Verse doesn't mean thin and sparse](#verse-doesnt-mean-thin-and-sparse)
 3. [Overdo, then delete](#overdo-then-delete)
 4. [Write around a theme](#write-around-a-theme)
