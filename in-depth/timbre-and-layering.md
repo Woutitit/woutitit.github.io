@@ -73,6 +73,9 @@ That sai,d if you're going to layer a lot of sounds on the same frequency you do
 ## Layer doesnt need to play full blown the whole time
 Often a layer is also just introduced at certain points. Like perhaps a layer only plays in the chorus or perhaps only the first bar or perhaps only the last bar. Like with bells, they are very resonant (so if bells loud) so they'll play a few nice notes in the beggining or end as a nice accent. Or you play the layer on accent notes like maybe a weird stab or pitch shift or drop or whatever. You know, it doesn't always have to go all the way. Definitely not.
 
+## Common timbres and usages
+A common usage in layering is when you use a supersaws chord stack. The supersaws are super rich (with one saw having many harmonics, imagine a chord stack) and harsh so having them loud in the mix, they'll be harsh and overtaking. The thing is though, that they sound huge and you do want stuff of that stack loud in the mix. In that case commonly we'll have a certain lead layer playing accent notes of the chord stack. This way, it's only a single note being louder in the mix (thus less harsh harmonics) but because it's so similar to, and backed by, the chord stack, and the chord stack is huge and stereo and the lead more focused and centered, you get this huge sounding illusion. Add on top of that a sub bass with the stack as well as a stereo width bass and you get some huge chord stacks (at 11:30 an example https://www.youtube.com/watch?v=R8KQ5-ycfdU)
+
 ## TODO
 - Look up some common layered timbres, especially in classical jazz big band easy listening.
 - Research common/more ways to layer and their official name?
