@@ -27,7 +27,7 @@
 ## Transitions are important
 A transition is very important for flowing nicely into the other section. The last few chords, the last few fx, the last few automations and stuff like that really can have a huge impact on whether the next part flows, sounds huge or note. Like, if you have a section and then you simply cut a beat to complete silence and then the beat drops, it's not huge. Instead, try bandpass automation fills, the chords at the end being more alluding to the drop.
 
-Either way, reference how people do it because depending on the genre the transition is more in composition or FX. Usually, transitions are either just an incrase in loudness at the end and business in the composition (and alludings to the next part) or it's the oppositse with brief quiet (though some composition alludingt too) and then going into the section. Or sometimes it may just be fully a compositional change. (Like from I centered to IV centered perhaps).
+Either way, reference how people do it because depending on the genre the transition is more in composition or FX. Usually, transitions are either just an incrase in loudness at the end and business in the composition (and alludings to the next part) or it's the oppositse with brief quiet (though some composition alludingt too) and then going into the section. Or sometimes it may just be fully a compositional change (Like from I centered to IV centered perhaps).
 
 ## Verse doesn't mean thin and sparse
 - Example: Au5/Chime - Voidwalkers. Notice how full the "quiet sections" are.
