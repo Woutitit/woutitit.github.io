@@ -4,23 +4,30 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
-1. [Overdo, then delete](#overdo-then-delete)
-1. [Write around a theme](#write-around-a-theme)
-1. [Write in a neutral patch](#write-in-a-neutral-patch)
-1. [Contrast is key](#contrast-is-key)
-2. [Energy distribution is key](#energy-distribution-is-key)
-3. [Call and response is key](#call-and-response-is-key)
-4. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
-5. [It's about the details](#its-about-the-details)
-6. [Work with instrument limitations and techniques](#work-with-instrument-limitations-and-techniques)
-7. [Musical ability over technical ability](#musical-ability-over-technical-ability)
-8. [Rhythm over harmony](#rhythm-over-harmony)
-9. [Work around driving elements](#work-around-driving-elements)
-10. [Limitations aren't bad, they are your style](#limitations-arent-bad-they-are-your-style)
-11. [Syncopation and swing](#syncopation-and-swing)
-12. [Keep it simple](#keep-it-simple)
-13. [You don't always need a chorus](#you-dont-always-need-a-chorus)
-14. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+1. [Transitions are important](#transients-are-important)
+2. [Verse doesn't mean thin and sparse](#verse-doesnt-mean-thin-and-sparse)
+3. [Overdo, then delete](#overdo-then-delete)
+4. [Write around a theme](#write-around-a-theme)
+5. [Write in a neutral patch](#write-in-a-neutral-patch)
+6. [Contrast is key](#contrast-is-key)
+7. [Energy distribution is key](#energy-distribution-is-key)
+8. [Call and response is key](#call-and-response-is-key)
+9. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
+10. [It's about the details](#its-about-the-details)
+11. [Work with instrument limitations and techniques](#work-with-instrument-limitations-and-techniques)
+12. [Musical ability over technical ability](#musical-ability-over-technical-ability)
+13. [Rhythm over harmony](#rhythm-over-harmony)
+14. [Work around driving elements](#work-around-driving-elements)
+15. [Limitations aren't bad, they are your style](#limitations-arent-bad-they-are-your-style)
+16. [Syncopation and swing](#syncopation-and-swing)
+17. [Keep it simple](#keep-it-simple)
+18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
+19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+
+## Transitions are important
+A transition is very important for flowing nicely into the other section. The last few chords, the last few fx, the last few automations and stuff like that really can have a huge impact on whether the next part flows, sounds huge or note. Like, if you have a section and then you simply cut a beat to complete silence and then the beat drops, it's not huge. Instead, try bandpass automation fills, the chords at the end being more alluding to the drop.
+
+Either way, reference how people do it because depending on the genre the transition is more in composition or FX. Usually, transitions are either just an incrase in loudness at the end and business in the composition (and alludings to the next part) or it's the oppositse with brief quiet (though some composition alludingt too) and then going into the section. Or sometimes it may just be fully a compositional change. (Like from I centered to IV centered perhaps).
 
 ## Verse doesn't mean thin and sparse
 - Example: Au5/Chime - Voidwalkers. Notice how full the "quiet sections" are.
