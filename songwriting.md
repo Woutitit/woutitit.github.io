@@ -24,6 +24,19 @@
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
+## Sound selection is important
+- https://www.youtube.com/watch?v=DzW0o9IKqqI
+- 
+Sound selection is super important. The reason is that for example, over a funky bass line you can play a 4/4 on the flour drum pattern by huge dubstep kick and snare drums or you can make it be played by a more funky "analog" drum kit. The funky drum kit will sound a miles better for the kind of vibe you're going for of course even though the two drum sets play the exact same pattern.
+
+Therefore, you need to start to get a bit of a feel for when you know the composition is right but the sounds aren't right or complimenting and you should be able to get a feel for how to remedy that.
+
+And again, that's were researching genres or songs you want to sound like. Check out the sounds they huge. For example, in hiphop you'll typically use longer kicks and shorter snappier snares. In EDM it's the opposite you'll use shorter kicks but huge (usually layered) snares. So you can 
+
+Also analyze the sounds in terms of what they bring to the table in terms of frequency content. Typically in EDM you'll have the hats claps cymbals and snare top-end in the very high-end, in the high-end the lead upper harmonics are very prominent and so on. Try to analyze how much or little space certain instruments take up in a certain mix. For example, in a dubstep mix, the drop often has a single bass simply because the huge drums and that single bass fill up the full spectrum so adding extra (audible stuff) would mud stuff (which is what we don't want anyway).
+
+So yeah, reference songs in terms of sounds they use, the processing on them (ike do they have a lot of reverb and stuff) and what sounds fill what of the frequency spectrum and how dominant are they. This is incredibly integral to making a good-sounding song.
+
 ## Transitions are important
 A transition is very important for flowing nicely into the other section. The last few chords, the last few fx, the last few automations and stuff like that really can have a huge impact on whether the next part flows, sounds huge or note. Like, if you have a section and then you simply cut a beat to complete silence and then the beat drops, it's not huge. Instead, try bandpass automation fills, the chords at the end being more alluding to the drop.
 
