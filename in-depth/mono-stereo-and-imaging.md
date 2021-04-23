@@ -68,12 +68,12 @@ Lastly, get more familiar with stereo and mono imaging by anaylizing tracks and 
 ### Reverb/delay
 So, first techniques for more dimenion in the mix is simple use of reverb and (ping-pong delay). Again, a delay, especially a ping pong one will create a bit of dimension since it ping pongs between the speakers. Have it faster and it will really give a sense of width. You can use this to your advantage as a natural widening technique. Same with reverb. Reverb makes stuff sit by putting it in a space but that also makes it to appear more wide as (I think) reverb in left and ride speakers channels don't (have to be) are the same.
 
-Again, try these techniques first as they are the most natural stereo technique next with panning.
+Again, try these techniques first as they are the most natural stereo technique next with panning and certainly don't overlook them as sometimes these two alone or combined are almost enough for the track/instrument.
 
 ### Stereo seperation knob
 - https://www.youtube.com/watch?v=wjx9K2vI2wo
 
-This one is a knob in the fl studio mixer and basically works the same as the stereo enhancer plugin. It let's you choose the stereo seperation of the track. This one actually gets fairly used as for example the guy at 32:53 indeed uses it. It's a very good tool for stereo enhancement without any plugins. Of course, the elements need to have stereo to begin with (?) but then you can basically choose their place in the stereo image with those buttons either making them super wide (mono signal is still present but it's just that the stereo is super persent too) or more narrow (know to the right). Together with the mixer panning these are both very good tools to treat the stereo image.
+This one is a knob in the fl studio mixer and basically works the same as the stereo enhancer plugin. It let's you choose the stereo seperation of the track. This one actually gets fairly used as for example the guy at 32:53 indeed uses it. It's a very good tool for stereo enhancement without any plugins. Of course, the elements need to have stereo to begin with (?) but then you can basically choose their place in the stereo image with those buttons either making them super wide (mono signal is still present in the same volume but it's just that the stereo signal is now super present too) or more narrow (know to the right). Together with the mixer panning these are both very good tools to treat the stereo image.
 
 ### Other FX
 - Flanger, phaser, chorus, unison, dimension...
