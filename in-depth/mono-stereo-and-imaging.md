@@ -80,7 +80,13 @@ This one is a knob in the fl studio mixer and basically works the same as the st
 
 These are the main "artificial" ways to create stereo. For example, unison is cool as it give us a lot of voices that we can spread in the stereo field. The others too or they create some cool fx that is also stereo or whatever. Use those if a sound needs stereo and/or a certain fx and/or voices and simple reverb/delay won't really cut it (especially in the hugeness departement.
 
-### What to use?
+Either way, on your background elements, definitely don't shy away from aggressive stereo widening (LCR/widening/panning)to make room for important stuff. Also don't shy away for adding stereo layers to more centered things. But again be smart about it, in some songs the supersaws may need to be more mono in other songs you want them completely wide and stuff like that.
+
+### Panning
+- https://www.reddit.com/r/edmproduction/comments/4jxjd4/difference_between_pan_lr_vs_stereo_separation/d3agfde?utm_source=share&utm_medium=web2x&context=3
+
+So with panning, you usually pan stuff like your drum kit and maybe other few elements. Panning is less important though and when you do it, have stuff like 25%-50%-100% Don't do like slight pans and shit like that because then it could be as well centered. You could even do LCR (on some stuff) or just aggressive stereo imaging because again it helps for huge mixes and also it gets out of the way of main elements. Either way get experience and mainly reference other songs to get your stereo image right.
+
 ## Notes
 m/s eq
 
