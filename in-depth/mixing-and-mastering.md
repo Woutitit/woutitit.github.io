@@ -4,34 +4,41 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Key to full and clean mix](#key-to-full-and-clean-mix)
-3. [Bus stuff that fits together](#bus-stuff-that-fits-together)
-4. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
-5. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-6. [Strive for tonal balance](#strive-for-tonal-balance)
-7. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-8. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-9. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-10. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-11. [Have a reference track](#have-a-reference-track)
-12. [Mixing is about prioritization](#mixing-is-about-prioritization)
-13. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-14. [Increase and work transients](#increase-and-work-transients)
-15. [Mastering 101](#mastering-101)
-16. [Sound selection vs. processing](#sound-selection-vs-processing)
-17. [Don't use presets as-is](#dont-use-presets-as-is)
-18. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-19. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-20. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-21. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-22. [Mixing for loudness](#mixing-for-loudness)
-23. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-24. [Mind the order of your FX](#mind-the-order-of-your-FX)
-25. [Use visual feedback](#use-visual-feedback)
-26. [Make your mix translate](#make-your-mix-translate)
+2. [Take care of the stereo image](#take-care-of-the-stereo-image)
+3. [Key to full and clean mix](#key-to-full-and-clean-mix)
+4. [Bus stuff that fits together](#bus-stuff-that-fits-together)
+5. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
+6. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+7. [Strive for tonal balance](#strive-for-tonal-balance)
+8. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+9. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+10. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+11. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+12. [Have a reference track](#have-a-reference-track)
+13. [Mixing is about prioritization](#mixing-is-about-prioritization)
+14. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+15. [Increase and work transients](#increase-and-work-transients)
+16. [Mastering 101](#mastering-101)
+17. [Sound selection vs. processing](#sound-selection-vs-processing)
+18. [Don't use presets as-is](#dont-use-presets-as-is)
+19. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+20. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+21. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+22. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+23. [Mixing for loudness](#mixing-for-loudness)
+24. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+25. [Mind the order of your FX](#mind-the-order-of-your-FX)
+26. [Use visual feedback](#use-visual-feedback)
+27. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
+
+## Take care of the stereo image
+> See my article "Stereo imaging" for what stereo is and how it works and what you can do to make stuff wide.
+- https://www.youtube.com/watch?v=wjx9K2vI2wo
+
+Having a good stereo image is crucial for giving you that wide huge open sound that you're looking for. A good stereo image contributes so much to the mix in terms of "professional sounding" and "hugeness". However, you have to be smart about it and again reference tracks to check their stereo image and what instruments are stereo and how much.
 
 ## Key to full and clean mix
 > See "Key to full and clean mix" article.
