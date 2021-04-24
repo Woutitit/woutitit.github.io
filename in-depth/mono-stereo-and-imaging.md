@@ -62,6 +62,8 @@ But yeah, that's a common trick where you can have a wider lead layer and then a
 
 Either way, what I want to say is that you have to treat stereo imaging and panning carefully and thoughtful. Often the focal points of your track you want to have more centered, other stuff more stereo and/or panned. That doesn't mean you want all of those elements super stereo or super panned. As I said, it's a spectrum and depending on the role and the genre and what you want, you will have it more or less stereo.
 
+Also, an easy way to make elements more stereo is through the stereo seperation (either knob or stereo enhancer) as it makes a sound more or less wide (it needs to be stereo already though to be able to work with it, I think). This also again helps in loudness as backing elements can be louder without significantly getting in the way. For example, use it on supersaws and stuff but again, don't overuse and don't do it all the way always. Look a bit at other peole (like ak+q) how they do it and how much and on what elements.
+
 Lastly, get more familiar with stereo and mono imaging by anaylizing tracks and see what is stereo and how much stereo it is.
 
 ## Stereo width techniques
