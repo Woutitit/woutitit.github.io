@@ -33,6 +33,8 @@ And this is why harmony matters, especially in the low-end (0-500Hz range). We w
 
 This is why it's often good practice that in the C2 to C3 ranges you only use octaves and fifths as they are reasonably clean. Also, the fifth does add a bit of extra beef thanks to it being different from the root or octave (like the fundamental tone is already a different harmonic) so depending on the situation you might want to throw in less and/or more fifths in the bottom.
 
+*Intermezzo: Do note you really do want extensions for spice and stuff and also richness else it would just be very uninteresting harmony along the way and thin. it's just how you create it that matters and makes it less cluttered.*
+
 This also goes for harmonies with other instruments. Make sure that your one layer of chords isn't accidentally beating against another layer of chords because the other layer did decide to throw in a third in the low-end range. Again, clean that third up in there as well (or lower the volume significantly or EQ stuff out or whatever is best). Same with if a bass note is playing something and then in combination with a chord that makes a third interval in the low-end. Again, clean your chord up that it doesn't do that.
 
 *Intermezzo: This doesn't mean you can't play low-end triad chords but it usually is played as more like a one-off shock chord or really a harmony that is meant to be super muddy and chaotic*.
