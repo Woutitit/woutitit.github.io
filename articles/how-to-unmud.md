@@ -1,10 +1,6 @@
 # How to unmud and add clarity to a mix
-## Sources
-- https://www.audio-issues.com/music-mixing/muddy-mixes/2
-- https://www.tunecore.com/blog/2016/05/5-tips-to-avoid-ruining-your-mix-with-muddy-sound.html#:~:text=Low%20end%20instruments%20also%20end,mix%20clearer%2C%20crisper%20and%20punchier.
-- https://www.musicianonamission.com/separation-clarity/
-- https://www.waves.com/ultimate-guide-to-clarity-and-separation-in-your-mix
-- https://www.soundonsound.com/sound-advice/q-how-can-achieve-clarity-my-mixes
+## Keywords
+- Air, shimmer, brightness, mudiness, boxiness.
 
 ## Decide and mix based on priority and supportive roles
 In your mix you'll most likely have elements and/or layers that are more important than others. As it's impossible to give every element in your mix the same attention, you'll want to decide what are the *important* elements and what are the *supportive* elements. On top of that, also think of it in frequency range. Which instrument is priority in what frequency range.
@@ -64,11 +60,26 @@ Either way, too little harmonics may make your stuff thin but too much of them a
 You want to be smart with your stereo imaging. You don
 
 ## EQing and/or sidechaining reverb and delay
-300Hz and not on pads also not too much depends on business mix and/or section.
+- https://old.reddit.com/r/WeAreTheMusicMakers/comments/n0bj8v/how_often_do_you_have_elements_in_a_mix_without/
+
+If your mix is sparse or if certain sections are sparse you can go pretty ham on the reverb (long decay, high wetness) on a lot of elements in a way to fill up the mix. In busy sections or songs it can simply mud stuff up quickly. 
+
+You'll always want to cut the lows and (very) highs of your reverb for stopping the harshness as well as the mudiness in it. Usually around 300Hz or more and then 10kHz (I think). Also, make sure the wetness and decay (and room?) is not too much in a busy mix. As, in solo, often elements may sound good but in the mix with other verb-y elements, the mix will be muddy.
+
+Therefore, decided the elements that get the more noticeable reverbs (usually some backing stuff I think, but *not* pads see sources). Usually the lead and perhaps the snare and maybe some backing stuff. Other things more subtle. Again, having a bit more but on fewer elements still makes it seems like the whole mix has reverb.
+
+Also, to pack a bit more punch you can decide for a pre-delay and/or sidechaining. In this case you can have more reverb on your stuff but in case of the delay it will only play a bit later (making the normal sound clear) and in case of the sidechaining the reverb/delay will only play when the sound is not playing so it fills up stuff in between, the sound keeps clear, and there is also less mud. Nice!
 
 ## Seperation
 
 also eq kinda next to volume though in terms of what to do first
 
 ## Reference
-reference to see if mud or ok cuz depends on genre and also again how u want ur mix modern and bright or darker and muddier like that also depends.
+To clean up, it's again very important to reference. Some songs are naturally more "muddy" others less. Some may be more harsh others less and it's a good guideline to see or hear whether you're not taking away or adding too much harshness or muddiness.
+
+## Sources
+- https://www.audio-issues.com/music-mixing/muddy-mixes/2
+- https://www.tunecore.com/blog/2016/05/5-tips-to-avoid-ruining-your-mix-with-muddy-sound.html#:~:text=Low%20end%20instruments%20also%20end,mix%20clearer%2C%20crisper%20and%20punchier.
+- https://www.musicianonamission.com/separation-clarity/
+- https://www.waves.com/ultimate-guide-to-clarity-and-separation-in-your-mix
+- https://www.soundonsound.com/sound-advice/q-how-can-achieve-clarity-my-mixes
