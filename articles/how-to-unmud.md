@@ -74,6 +74,8 @@ Therefore, decided the elements that get the more noticeable reverbs (usually so
 
 Also, to pack a bit more punch you can decide for a pre-delay and/or sidechaining. In this case you can have more reverb on your stuff but in case of the delay it will only play a bit later (making the normal sound clear) and in case of the sidechaining the reverb/delay will only play when the sound is not playing so it fills up stuff in between, the sound keeps clear, and there is also less mud. Nice!
 
+Also, it's certainly not that you shouldn't use reverb or never a lot of it as a lot of pros use reverb and sometimes (quite) a lot even in a quote on qoute busy mix but you simply need to get a feel for it for how and when to apply it.
+
 ## Seperation
 
 also eq kinda next to volume though in terms of what to do first
