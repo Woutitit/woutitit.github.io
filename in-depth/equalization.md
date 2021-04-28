@@ -61,6 +61,13 @@ So yeah I should add a few more common scenarios in here, however, especially in
 
 Lastly, if there is a certain instrument you want to hear clearly, usually you'll not want to cut its fundamental so you'll need to cut other's fundamental, if you do need to cut the fundamental of it (and not before or after) then you need to look at your composition and or sound and or other sounds to see what can be done about it. Cutting elsewhere to make a fundamental stick through (especially in low-end) is important 
 
+## Don't take away too much
+- https://old.reddit.com/r/musicproduction/comments/n01t9g/how_to_avoid_mud_when_mixing/gw4brce/
+
+For example, in a kick and/or snare you may want to mid-scoope, however, realize that the punch of those things are not only in lows and/or highs. The transients are mainly in the highs, the fundament is in the lows but the actual punch is really in the mids/low-mids. So again, be careful with mid scooping and do it where it doesn't lose too much punch as if you do that by attempting to carve out, you're simply making your sound way less puncny. Oppositely, if not enough punch you may try boosting here too of course.
+
+Same with taking away low-end. Don't always assume that you need to low and/or high-pass. Sure for sub-information you pretty much always high pass but the 100-500Hz is usually more shelving territory then passing territory for most "body" instruments. Else you lose too much warmth.
+
 ## EQ as an effect
 Automation on a so called EQ sweep is common together with a filter sweep to create those DnB sounds or just interesting sounds all round.
 
