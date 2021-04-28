@@ -4,37 +4,42 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Keep timbres and harmonics in mind](#keep-timbre-and-harmonics-in-mind)
-3. [Don't be afraid to transpose key](#dont-be-afraid-to-transpose-keys)
-4. [Take care of the stereo image](#take-care-of-the-stereo-image)
-5. [Key to full and clean mix](#key-to-full-and-clean-mix)
-6. [Bus stuff that fits together](#bus-stuff-that-fits-together)
-7. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
-8. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-9. [Strive for tonal balance](#strive-for-tonal-balance)
-10. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-11. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-12. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-13. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-14. [Have a reference track](#have-a-reference-track)
-15. [Mixing is about prioritization](#mixing-is-about-prioritization)
-16. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-17. [Increase and work transients](#increase-and-work-transients)
-18. [Mastering 101](#mastering-101)
-19. [Sound selection vs. processing](#sound-selection-vs-processing)
-20. [Don't use presets as-is](#dont-use-presets-as-is)
-21. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-22. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-23. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-24. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-25. [Mixing for loudness](#mixing-for-loudness)
-26. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-27. [Mind the order of your FX](#mind-the-order-of-your-FX)
-28. [Use visual feedback](#use-visual-feedback)
-29. [Make your mix translate](#make-your-mix-translate)
+2. [Relevant articles](#relevant-articles)
+3. [Keep timbres and harmonics in mind](#keep-timbre-and-harmonics-in-mind)
+4. [Don't be afraid to transpose key](#dont-be-afraid-to-transpose-keys)
+5. [Take care of the stereo image](#take-care-of-the-stereo-image)
+6. [Key to full and clean mix](#key-to-full-and-clean-mix)
+7. [Bus stuff that fits together](#bus-stuff-that-fits-together)
+8. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
+9. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+10. [Strive for tonal balance](#strive-for-tonal-balance)
+11. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+12. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+13. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+14. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+15. [Have a reference track](#have-a-reference-track)
+16. [Mixing is about prioritization](#mixing-is-about-prioritization)
+17. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+18. [Increase and work transients](#increase-and-work-transients)
+19. [Mastering 101](#mastering-101)
+20. [Sound selection vs. processing](#sound-selection-vs-processing)
+21. [Don't use presets as-is](#dont-use-presets-as-is)
+22. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+23. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+24. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+25. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+26. [Mixing for loudness](#mixing-for-loudness)
+27. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+28. [Mind the order of your FX](#mind-the-order-of-your-FX)
+29. [Use visual feedback](#use-visual-feedback)
+30. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
+
+## Relevant articles
+- [Key to full and clean mix](#)
+- [How to unmud and add clarity to mix](#)
 
 ## Keep timbre and harmonics in mind
 This also goes a bit hand in hand with composing but let's take the supersaw. A saw tooth has a lot of harmonics by itself. It sounds rich (though not particularly harsh and cold as a square since a square has odd harmonics which aren't simple fifths and octaves in the beginning, making it clash more). So, depending on your song, your composition and the role or section you might want to make them different. That is, because if you make a supersaw stack have some extensions (like thirds and maybe sevenths) AND the notes are all kind of close as well, that's a lot of harmonics and also a lot of first-order harmonics being next to eachother. If that happens in the lows, it will be muddy, if it happens in the highs, part of the timbre starts to sound like (harsh) white noise type of timbre. 
@@ -52,9 +57,6 @@ So yeah, when mixing, just keep timbres and richness in mind (also involves dist
 - https://www.youtube.com/watch?v=wjx9K2vI2wo
 
 Having a good stereo image is crucial for giving you that wide huge open sound that you're looking for. A good stereo image contributes so much to the mix in terms of "professional sounding" and "hugeness". However, you have to be smart about it and again reference tracks to check their stereo image and what instruments are stereo and how much.
-
-## Key to full and clean mix
-> See "Key to full and clean mix" article.
 
 ## Don't be afraid to transpose key
 - https://www.youtube.com/watch?v=qcNkoojBCKI at 13:50
