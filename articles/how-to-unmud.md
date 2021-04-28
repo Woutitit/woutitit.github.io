@@ -41,7 +41,7 @@ This also goes for harmonies with other instruments. Make sure that your one lay
 
 *Intermezzo: This doesn't mean you can't play low-end triad chords but it usually is played as more like a one-off shock chord or really a harmony that is meant to be super muddy and chaotic*.
 
-For the mids and highs these funky harmonies also can sometimes be a problem. Again, in the mids you may have more complex harmonies than in the lows but again, if stuff is too much different in terms of harmonics and harmonies (especially in lower mids) you'll want to clean that up. It may not necessary be muddy but it will be unclear at least. For the highs the same, here you can be liberal with how you place your extensions and then can be close by to eachother. This makes your harmony very rich and meaty, however, sometimes clarity can be lost because a little too much funk is going on in too little space. Therefore, you might want to space out your extensions and especially the on you'll be heard you want to have on top.
+For the mids and highs these funky harmonies also can sometimes be a problem. Again, in the mids you may have more complex harmonies than in the lows but again, if stuff is too much different in terms of harmonics and harmonies (especially in lower mids) you'll want to clean that up. It may not necessary be muddy but it will be unclear at least. For the highs the same, here you can be liberal with how you place your extensions and then can be close by to eachother. This makes your harmony very rich and meaty, however, sometimes clarity can be lost because a little too much funk is going on in too little space. Therefore, you might want to space out your extensions and especially the one you'll be heard you want to have on top. You may also want to straight up remove some notes (like if you have a 7th and an octave close to eachother you may want to drop the octave at that spot as you already have that (a few times) and this case it doesn't add much extra (anymore).
 
 This is also why such harmony and stacks are paired with a more centered lead. The centered lead is just one chain of harmonics (thus not much mud/beating happening) and is loud and clear. And then, you have the rich meaty chord stack and/or pad behind. In this case it's okay to have it unclear because it's there for meat and harmony but doesn't need to be clean. But it still sounds clean because of the louder single note lead and then beefy because of the less looud and more supportive chord stack. Again, depending on song/genre/whatever you still want the chord stack less or more clean either way. It's always in context.
 
@@ -60,6 +60,7 @@ You want to be smart with your stereo imaging. You don
 
 ## EQing and/or sidechaining reverb and delay
 300Hz and not on pads also not too much depends on business mix and/or section.
+
 ## Seperation
 
 also eq kinda next to volume though in terms of what to do first
