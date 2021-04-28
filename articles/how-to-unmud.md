@@ -45,15 +45,20 @@ For the mids and highs these funky harmonies also can sometimes be a problem. Ag
 
 This is also why such harmony and stacks are paired with a more centered lead. The centered lead is just one chain of harmonics (thus not much mud/beating happening) and is loud and clear. And then, you have the rich meaty chord stack and/or pad behind. In this case it's okay to have it unclear because it's there for meat and harmony but doesn't need to be clean. But it still sounds clean because of the louder single note lead and then beefy because of the less looud and more supportive chord stack. Again, depending on song/genre/whatever you still want the chord stack less or more clean either way. It's always in context.
 
+Also, don't forget that tones from lower also still have harmonics ringing up in the ranges too so even if your highs are decently spread apart, you may have too much mud because of the harmonics from lower (but again, if you have spread your low-end correctly it shouldn't be too much of an issue).
+
 ## Be aware of rich timbres
-rich timbres
+Related to the funky harmonies, you also have to be aware of timbre. For example, having a triad of two sine wave in the low-end is more okay than a triad of two saw waves in terms of mudiness as the sine waves are only two tones and the saw waves are two tones plus a whole bunch of harmonics on top (and also harmonics that get amplified).
 
+We'll use a saw wave wave as an example as it's super rich. 
 
+First of all, using an unfiltered saw wave as a sub bass is bad because it has many harmonics and the harmonics are also very audible. In this case, the sub would be barely heard as it gets overpowered by the first, second and maybe even third harmonic (and again, in low-end, especially sub, it's all in a very thight space so super muddy). There would also be no space in the low-end for other stuff to live like a kick some bleed from other instruments, a snare and so on because the harmonics take up most of that space.
 
-For example, play a C1 and D1 together and it will sound muddy. Play a C6 and D6 together and it sounds less muddy despite it being both a whole tone apart.
+Using a saw wave as a mid bass is also trick because its harmonics are very rich even in the mids and even in the highs so it will take up a lot of space there too potentiall sounding harsh and also simply not allowing anything else in the mids neither. Also, even if it's rolled off, it may still mud up the lower mids as a mid bass because it has very rich first harmonics and certainly together with other stuff this will be too much. you still want it to act as a mid bass so you shouldn't eq too much out (you should eq from other instruments) but you should definitely attentuate a bit of higher lows and/or the lower mids just in order to keep it in check. You may also want to MB compress (or cut down on the saturation) so that the loud fundamental tone and harmonics will lose some volume (and thus be less muddy) while still being present in the more mid and high-end. If it's still too much ou may find yourself choosing a less rich mid bass (and if needed apply some mixing techniques).
 
-## Be awa
-For example, play a triad choose sounds with not too much first harmonics then or? and or ott them and eq them and stuff to make the first harmonics less in volume 
+Lastly, same story in the high-end. Having a big fat chord stack of saw waves may be fine but because of all these harmonics, you'll find that the chord is super rich and kind of harsh and unclear. So if you want the richness of the chord you'd want to eq it a bit and/or probably turn it down and then maybe have some more natural and rounded high-end with it (like a pad and/or other things). Also, that's why it often gets used as stabs (in the case where it's clear and loud) as it's rich (which makes it effective for stabs or shorter transient things) but it's also too rich and harsh to be present for very long (especially as a susatin thing). Automation of the filter and stuff may also help.
+
+Either way, too little harmonics may make your stuff thin but too much of them and them being too rich (especially if you have multiple rich patches like that) will mud up the mix and/or make the mix unclear and harsh. Therefore, you should be mindful of (rich) timbres in your mix and know how to mix them well (especially if multiple rich timbres as in EDM music).
 
 ## Cut down on the stereo
 You want to be smart with your stereo imaging. You don
