@@ -43,7 +43,7 @@ This is also why such harmony and stacks are paired with a more centered lead. T
 
 Also, don't forget that tones from lower also still have harmonics ringing up in the ranges too so even if your highs are decently spread apart, you may have too much mud because of the harmonics from lower (but again, if you have spread your low-end correctly it shouldn't be too much of an issue). In this case you also can't just use EQ because while you EQ out the fundamental (and/or the first few harmonics) the other harmonics of that lower note are still present.
 
-## Be aware of rich timbres
+## Be aware of rich timbres and distortion/saturation
 Related to the funky harmonies, you also have to be aware of timbre. For example, having a triad of two sine wave in the low-end is more okay than a triad of two saw waves in terms of mudiness as the sine waves are only two tones and the saw waves are two tones plus a whole bunch of harmonics on top (and also harmonics that get amplified).
 
 We'll use a saw wave wave as an example as it's super rich. 
@@ -55,6 +55,10 @@ Using a saw wave as a mid bass is also trick because its harmonics are very rich
 Lastly, same story in the high-end. Having a big fat chord stack of saw waves may be fine but because of all these harmonics, you'll find that the chord is super rich and kind of harsh and unclear. So if you want the richness of the chord you'd want to eq it a bit and/or probably turn it down and then maybe have some more natural and rounded high-end with it (like a pad and/or other things). Also, that's why it often gets used as stabs (in the case where it's clear and loud) as it's rich (which makes it effective for stabs or shorter transient things) but it's also too rich and harsh to be present for very long (especially as a susatin thing). Automation of the filter and stuff may also help.
 
 Either way, too little harmonics may make your stuff thin but too much of them and them being too rich (especially if you have multiple rich patches like that) will mud up the mix and/or make the mix unclear and harsh. Therefore, you should be mindful of (rich) timbres in your mix and know how to mix them well (especially if multiple rich timbres as in EDM music).
+
+Related is also distortion and saturation as it essentially adds richness and timbre. You'll want to be careful there too in the low-end as again, it makes harmonics more present and stronger (which may be ok for high-end and high-mid) but not for low-end hig-lows. In that case it may just get too muddy. However, it depends on the mid bass. If it's a saw, then for sure, if it's another bass with less richness, then maybe you can go harder on the saturation (like a sub bass that is a sine). Like, you may need to (MB) compress then to get those extra harmonics at the beginning a bit less prominent whilst again bringing out the higher harmonics too (double win) and perhaps may need to EQ a bit more. It's about trying to find a strong thick low-end without being overpowering. 
+
+Also, with distortion you need to be careful with intermodulation if a patch (or multiple) are going through the same distortion fx (see "Intermodulation" article) and thus with chords, additionally on the "normal" mud you can have with not stacking well, you can have even more mud with the sum and difference frequencies added by IMD. Again, if done well it may add to beefiness (and if done sublte) but it also may be too much or simply not at all needed.
 
 ## Cut down on the stereo
 You want to be smart with your stereo imaging. You don
