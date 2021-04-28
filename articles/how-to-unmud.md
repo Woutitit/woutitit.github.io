@@ -22,10 +22,23 @@ Therefore, unless it's a sparse mix, you'll pretty much always need to unmud thi
 
 Other things like panning and other stuff described in this article will also work of course.
 
-## Be aware with funky harmonies
-What I mean by that is that anything more than a fifth in terms of harmony should be used strategically. This is because of harmonics and again the frequency range. For example, play a C1 and D1 together and it will sound muddy. Play a C6 and D6 together and it sounds less muddy despite it being both a whole tone apart.
+## Be aware of funky harmonies and rich timbres
+> See "sound fundamentals" for a bit of a primer on this one.
 
-For example, play a triad
+What I mean by that is that anything more than an octave or fifth in terms of harmony should be used strategically. This is because of harmonics and again the frequency range.
+
+For example,with  a saw wave (a patch that is harmonically rich so a good example), a C5 and C6 sound super clean together, right? In fact, even in the low-end C2 and C3 still sound kind of super clean. This is because all their harmonics overlap so essentialy the octave harmony above isn't adding more mud than the single tone would have. The only way it's adding a tad of extra mud is because it essentially acts as amplication of the harmonics of the lower tone (especially the first-order harmonics since the fundamental is equal to the first harmonics of the lower tone and its first harmonics are rich too).
+
+You can do the same with C5 and G5, the fifth interval. This time it sounds a bit more muddy if you will but still super clean. Again, this is because they have a lot of overlapping frequencies, especially in the first-order harmonics where it's most audible and prominent (and thus most important in terms of not muddying). You can play this in C2 and G2. Now you'll probably hear the mud a bit but you'll also still hear it's clean. So with fifths, low-ish your're also still kind of safe but less so in terms of mud.
+
+And thus we come to thirds and beyond. Again, in the C5-E5 range you might still hear it as clean and stuff but you can also kind of hear how it's less clean, especially if it's played in the C2-E2 range. This is because the root and third don't have as much overlapping harmonics (in the beginning) as the root and octave had or the root and fifth. So essentially there will be added harmonics quiet from the start (and also the third is very close to the root so that's also already ann issue there). In the low-end the problem becomes is that rather than having the same harmonics mostly just amplified, we have quiet a few extra harmonics because of the third in a very tiny space that is the low-end. Add a fifth on top of that and you'll have even more crowding (as now the third beats against the root and the fifth).
+
+It's basically just amplifying the harmonics of the bottom tone (which, sure, also causes a bit of mud if it's in the low-end).
+
+For example, play a C1 and D1 together and it will sound muddy. Play a C6 and D6 together and it sounds less muddy despite it being both a whole tone apart.
+
+## Be awa
+For example, play a triad choose sounds with not too much first harmonics then or? and or ott them and eq them and stuff to make the first harmonics less in volume 
 
 ## Cut down on the stereo
 You want to be smart with your stereo imaging. You don
