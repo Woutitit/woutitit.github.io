@@ -1,4 +1,6 @@
 # How to unmud and add clarity to a mix
+Link here also the how to cut through and sit back and all that stuf. 
+
 ## Keywords
 - Air, shimmer, brightness, mudiness, boxiness.
 

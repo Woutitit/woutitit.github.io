@@ -1,6 +1,6 @@
 [Home](../index.md)
 
-# Mixing and mastering tips
+# Tips: Mixing and mastering
 
 ## Table of contents
 1. [Introduction](#introduction)
@@ -38,8 +38,8 @@
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
 ## Relevant articles
-- [Key to full and clean mix](#)
-- [How to unmud and add clarity to mix](#)
+- [Production thoughts](/production/production-thoughts.md)
+- [Practical tips for a cleaner and professional mix](#hi)
 
 ## Keep timbre and harmonics in mind
 This also goes a bit hand in hand with composing but let's take the supersaw. A saw tooth has a lot of harmonics by itself. It sounds rich (though not particularly harsh and cold as a square since a square has odd harmonics which aren't simple fifths and octaves in the beginning, making it clash more). So, depending on your song, your composition and the role or section you might want to make them different. That is, because if you make a supersaw stack have some extensions (like thirds and maybe sevenths) AND the notes are all kind of close as well, that's a lot of harmonics and also a lot of first-order harmonics being next to eachother. If that happens in the lows, it will be muddy, if it happens in the highs, part of the timbre starts to sound like (harsh) white noise type of timbre. 
