@@ -1,4 +1,4 @@
-# Cliches, commonities and reference tracks
+# Tropes
 
 ## Table of contents
 1. [Introduction](#introduction)
@@ -7,7 +7,10 @@
 3. [FX, automation, modulation](#fx-automation-modulation)
 
 ## Introduction
-Quick reference for common clichés in music. Whether that is composition or sound design or other stuff.
+"Tropes" are certain ideas in music that are very common (almost cliché). This article is a portal to [Music theory tropes](#hi) and [Production tropes](#hoi).
+
+The first one specifically focuses on music theory and will, for the most part, disregard anything else. The latter focuses on the other stuff like song writing, sound design, timbres and layering and all that good stuff.
+
 
 ## Sound design
 > See "Sound recipes".
