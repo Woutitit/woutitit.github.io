@@ -5,34 +5,36 @@
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Relevant articles](#relevant-articles)
-3. [Keep timbres and harmonics in mind](#keep-timbre-and-harmonics-in-mind)
-4. [Don't be afraid to transpose key](#dont-be-afraid-to-transpose-keys)
-5. [Take care of the stereo image](#take-care-of-the-stereo-image)
-6. [Key to full and clean mix](#key-to-full-and-clean-mix)
-7. [Bus stuff that fits together](#bus-stuff-that-fits-together)
-8. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
-9. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
-10. [Strive for tonal balance](#strive-for-tonal-balance)
-11. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
-12. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
-13. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
-14. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
-15. [Have a reference track](#have-a-reference-track)
-16. [Mixing is about prioritization](#mixing-is-about-prioritization)
-17. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
-18. [Increase and work transients](#increase-and-work-transients)
-19. [Mastering 101](#mastering-101)
-20. [Sound selection vs. processing](#sound-selection-vs-processing)
-21. [Don't use presets as-is](#dont-use-presets-as-is)
-22. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
-23. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
-24. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
-25. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
-26. [Mixing for loudness](#mixing-for-loudness)
-27. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
-28. [Mind the order of your FX](#mind-the-order-of-your-FX)
-29. [Use visual feedback](#use-visual-feedback)
-30. [Make your mix translate](#make-your-mix-translate)
+3. [There are multiple ways of achieving (basically) the same thing](#hi)
+4. [A professional track has dimensions](#hi)
+5. [Keep timbres and harmonics in mind](#keep-timbre-and-harmonics-in-mind)
+6. [Don't be afraid to transpose key](#dont-be-afraid-to-transpose-keys)
+7. [Take care of the stereo image](#take-care-of-the-stereo-image)
+8. [Key to full and clean mix](#key-to-full-and-clean-mix)
+9. [Bus stuff that fits together](#bus-stuff-that-fits-together)
+10. [Mixing can solve composition and vice versa](#mixing-can-solve-composition-and-vice-versa)
+11. [Small moves on a lot of tracks add up](#small-moves-on-a-lot-of-tracks-add-up)
+12. [Strive for tonal balance](#strive-for-tonal-balance)
+13. [Limit the duration of a mixing session](#limit-the-duration-of-a-mixing-session)
+14. [Don't be afraid of low-end](#dont-be-afraid-of-low-end)
+15. [Don't be afraid to tame high-end](#dont-be-afraid-to-tame-high-end)
+16. [3-stage mixing and mastering](#3-stage-mixing-and-mastering)
+17. [Have a reference track](#have-a-reference-track)
+18. [Mixing is about prioritization](#mixing-is-about-prioritization)
+19. [Fatten a mix through layering and FX](#fatten-a-mix-through-layering-and-fx)
+20. [Increase and work transients](#increase-and-work-transients)
+21. [Mastering 101](#mastering-101)
+22. [Sound selection vs. processing](#sound-selection-vs-processing)
+23. [Don't use presets as-is](#dont-use-presets-as-is)
+24. [Add a soft clipper before master limiter](#add-a-soft-clipper-before-master-limiter)
+25. [Consider splitting bass and sub bass](#consider-splitting-bass-and-sub-bass)
+26. [The further back a sound the sloppier it can be](#the-further-back-a-sound-the-sloppier-it-can-be)
+27. [Audition everything in context of the mix](#audition-everything-in-context-of-the-mix)
+28. [Mixing for loudness](#mixing-for-loudness)
+29. [Don't obsess over LUFS and RMS](#dont-obsess-over-lufs-and-rms)
+30. [Mind the order of your FX](#mind-the-order-of-your-FX)
+31. [Use visual feedback](#use-visual-feedback)
+32. [Make your mix translate](#make-your-mix-translate)
 
 ## Introduction
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
@@ -59,7 +61,7 @@ The y-axis can be modified by adding to other octaves where no music is playing 
 
 The z-axis can be modified through loudness, reverb and filters mainly (anything that emulates and adds to or subtracts from distance). This is a really important axis as if all your elements have for example no reverb then your mix will sound very dry and very flat. Again, you need to be smart on what elements and how much but follow my guides to help with that.
 
-It's mainly the z-axis and the x-axis that'll give you "the pro sound" since if you have a good composition (so the x-axis) your stuff might still sound like a bop, it will sound very flat and very narrow so it's not even close to as immersive of an experience as it could be.
+**It's mainly the z-axis and the x-axis that'll give you "the pro sound"** since if you have a good composition (so the x-axis) your stuff might still sound like a bop, it will sound very flat and very narrow so it's not even close to as immersive of an experience as it could be.
 
 But again, you need to know how to apply them. Pan smart, stereo image smart, put reverb smart and fill the spectrum smart. You can't just 100% widen your master, 100% reverb your master and 100% supersaws and expect a good song obviously. So yeah, follow my guides and tips on that.
 
