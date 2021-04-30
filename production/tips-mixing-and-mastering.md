@@ -41,6 +41,28 @@ This is a general guide for mixing and mastering. Important to note that it is g
 - [Production thoughts](/production/production-thoughts.md)
 - [Practical tips for a cleaner and professional mix](#hi)
 
+## There are multiple ways of achieving (basically) the same thing
+Whether you boost somewhere instead of cutting somewhere else. Whether you use OTT instead of MB. Whether you EQ instead of do volume down. How you do your sidechaining Like a lot of techniques in mixing and mastering are more or less interchangeable so there usually isn't a singular way to (kind of) achieve what you want to. Of course, over the course you'll find the easiest and best techniques for your own music.
+
+## A professional track has dimensions
+- https://www.waves.com/fit-acoustic-guitars-into-a-dense-mix
+- https://www.blackghostaudio.com/blog/6-tips-for-creating-wider-mixes
+- 
+A professional sounding track is 3D. In fact, if a song was a graph representation, then:
+- the x-axis depicts the stereo field (panning/stereo)
+- the y-axis depicts the frequency spectrum
+- the z-axis depicts the depth (i.e. how close-by a sound is perceived)
+
+The x-axis can be modified through stereo imaging and panning. If you haven't done any x-axis imaging, then the mix will not sound huge (and also loses interest due to no panning stuff). It may sound good and full but not huge. Therefore, pan some things. Stereo image some things but certainly not all. Be
+
+The y-axis can be modified by adding to other octaves where no music is playing yet or by moving existing stuff through the range. It's quite easy. A nice and smart representation along this axis will make for a full sounding mix. Not a good representation and you may have a dark, boxy or harsh mix.
+
+The z-axis can be modified through loudness, reverb and filters mainly (anything that emulates and adds to or subtracts from distance). This is a really important axis as if all your elements have for example no reverb then your mix will sound very dry and very flat. Again, you need to be smart on what elements and how much but follow my guides to help with that.
+
+It's mainly the z-axis and the x-axis that'll give you "the pro sound" since if you have a good composition (so the x-axis) your stuff might still sound like a bop, it will sound very flat and very narrow so it's not even close to as immersive of an experience as it could be.
+
+But again, you need to know how to apply them. Pan smart, stereo image smart, put reverb smart and fill the spectrum smart. You can't just 100% widen your master, 100% reverb your master and 100% supersaws and expect a good song obviously. So yeah, follow my guides and tips on that.
+
 ## Keep timbre and harmonics in mind
 This also goes a bit hand in hand with composing but let's take the supersaw. A saw tooth has a lot of harmonics by itself. It sounds rich (though not particularly harsh and cold as a square since a square has odd harmonics which aren't simple fifths and octaves in the beginning, making it clash more). So, depending on your song, your composition and the role or section you might want to make them different. That is, because if you make a supersaw stack have some extensions (like thirds and maybe sevenths) AND the notes are all kind of close as well, that's a lot of harmonics and also a lot of first-order harmonics being next to eachother. If that happens in the lows, it will be muddy, if it happens in the highs, part of the timbre starts to sound like (harsh) white noise type of timbre. 
 
