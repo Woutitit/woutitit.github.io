@@ -70,6 +70,8 @@ But again, you need to know how to apply them. Pan smart, stereo image smart, pu
 
 Lastly, it's not only about being smartly represented in those areas. It's also about smartly playing with those areas. Like cool panning things or automating stereo stuff or contrast from more mono to more stereo. Or filtering frequencies out to make your song more closed or automating reverb to make something close dissapear in the distance. So it's kind of both that will really make your mix professional.
 
+Together with layering and automation and sound fx. These (and mainly y and z-axis) are what makes a professional sound.
+
 ## Keep timbre and harmonics in mind
 This also goes a bit hand in hand with composing but let's take the supersaw. A saw tooth has a lot of harmonics by itself. It sounds rich (though not particularly harsh and cold as a square since a square has odd harmonics which aren't simple fifths and octaves in the beginning, making it clash more). So, depending on your song, your composition and the role or section you might want to make them different. That is, because if you make a supersaw stack have some extensions (like thirds and maybe sevenths) AND the notes are all kind of close as well, that's a lot of harmonics and also a lot of first-order harmonics being next to eachother. If that happens in the lows, it will be muddy, if it happens in the highs, part of the timbre starts to sound like (harsh) white noise type of timbre. 
 
