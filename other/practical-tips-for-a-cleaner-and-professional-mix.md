@@ -1,4 +1,4 @@
-# How to unmud and add clarity to a mix
+# Tips for a crystal clear mix
 Link here also the how to cut through and sit back and all that stuf. 
 
 ## Keywords
@@ -16,7 +16,7 @@ Generally, this is the mudiness range. The annoying thing about this range is th
 
 Again, firstly in your composition, try to smartly arrange your instruments so that they naturally don't crowd this area too much. However, don't make the mistake of avoiding this area all together as we really need this area for a full mix. In fact, a lot of the bottom notes of chords and melodies and stuff will probably be in this range.
 
-Therefore, unless it's a sparse mix, you'll pretty much always need to unmud this range. You might be able to high-pass higher elements (such as leads and perhaps cymbals and stuff) at around 400-500Hz as are not required there. Pads and chords you perhaps do want this range off to provide the warmth. But again, to make them all sit better there you'll probably be looking at shelving around 100-500Hz. This can be a few tactical cuts or just one or two big shelfs up until around 500Hz on most of the instruments important in that register. What this will do is that these instruments will still provide the range but they only provide a little towards it each ending up in a normal 75-500Hz range instead of a muddy one.
+Therefore, unless it's a sparse mix, you'll pretty much always need to unmud this range around 75-500Hz range, often high-passing around 75-100Hz and then dipping somewhere between 200-500Hz (the vocal presence EQ preset in PEQ2 is good for setting this kind of EQ up). You might be able to high-pass higher elements (such as leads and perhaps cymbals and stuff) at around 400-500Hz as they are not required in the low-mids usually. Pads and chords you perhaps do want this range of to provide the warmth. But again, to make them all sit better there you'll probably be looking at shelving around 100-500Hz. This can be a few tactical cuts or just one or two big shelfs up until around 500Hz on most of the instruments important in that register. What this will do is that these instruments will still provide the range but they only provide a little towards it each ending up in a normal 75-500Hz range instead of a muddy one.
 
 Other things like panning and other stuff described in this article will also work of course.
 
