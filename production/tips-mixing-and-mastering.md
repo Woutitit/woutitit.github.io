@@ -68,7 +68,7 @@ The z-axis can be modified through loudness, reverb and filters mainly (anything
 
 But again, you need to know how to apply them. Pan smart, stereo image smart, put reverb smart and fill the spectrum smart. You can't just 100% widen your master, 100% reverb your master and 100% supersaws and expect a good song obviously. So yeah, follow my guides and tips on that.
 
-Lastly, it's not only about being smartly represented in those areas. It's also about smartly playing with those areas. Like cool panning things or automating stereo stuff or contrast from more mono to more stereo. Or filtering frequencies out to make your song more closed or automating reverb to make something close dissapear in the distance. So it's kind of both that will really make your mix professional.
+Lastly, it's not only about being smartly represented in those areas. It's also about smartly playing with those areas. Like cool panning things or automating stereo stuff or contrast from more mono to more stereo (or having verby stuff with in your face stuff or a verby section after a dry section). Or filtering frequencies out to make your song more closed or automating reverb to make something close dissapear in the distance. So it's kind of both that will really make your mix professional.
 
 Together with layering and automation and sound fx. These (and mainly y and z-axis) are what makes a professional sound.
 
