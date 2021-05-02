@@ -1,4 +1,4 @@
-# Tips for a crystal clear mix
+# How to get a crystal clear mix
 Link here also the how to cut through and sit back and all that stuf. 
 
 ## Keywords
