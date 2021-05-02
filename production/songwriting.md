@@ -24,6 +24,11 @@
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
+## Mind the cadences
+- https://www.youtube.com/watch?v=DhwTtof_sMw at 15:00
+
+Look at my music theory documents, but the cadences like either 2 4 6 8 (or 1 3 5) and stuff you can always do special stuff like throw in a cool different variation on melody, a dominant, a leading into something next. Stuff like that. These are really important for smoothness but also areaso where you can do special stuff and it won't sound weird. Really important to write around that. Of course also depends a bit on the time signature.
+
 ## Sound selection is important
 - https://www.youtube.com/watch?v=DzW0o9IKqqI
 - 
