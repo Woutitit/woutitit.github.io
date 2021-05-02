@@ -10,7 +10,7 @@ So depth is mainly done through (low-pass) filters, reverb, delays and loudness.
 
 Of course, a sound with loud reverb will still be like too in your face and close so you can create even more depth by having that sound also quieter and/or having reverb, making it seem the song is even more distant and perhaps this may seem like even more depth. You can add more depth with low-passing as well. All these are all "or" and "and" so you can use them interchangeably.
 
-But yeah, reverb is a big one in depth perception and it always depends a bit which elements get the smaller reverbs and which elements get the bigger ones to create a nice deep space.
+But yeah, reverb is a big one in depth perception and it always depends a bit which elements get the smaller reverbs and which elements get the bigger ones to create a nice deep space. A lot of things can benefit from at least a bit of reverb (maybe not bass or not much because muddy reverb and also want to have focused and in your face) as you want it to sound more natural (as dry sounding is kind of...dry and eary really).
 
 Also, simple loudness means much. You want less loud background elements and supportive elements and layers. You want elements that seem less loud as then it also seems that more deeper there is also stuff playing. So you have the "layer" of the front stage with all the main elements (lead and bass) and then the more back of a stage with the background elements. Again, reverb and filtering also helps with placing these things more in the background too.
 
