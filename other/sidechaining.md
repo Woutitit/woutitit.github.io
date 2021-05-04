@@ -70,7 +70,7 @@ Usually a very short inaudble tone or kick (which mimicks the notes of the actua
 
 Just like how MB compression is more transparant (= less obvious but still effective) compression, MB sidechaining is also more transparant sidechaining. The reason is that you often don't want to sidechaining anything from your sound that isn't sub frequencies competing with the kick as it is not necessary. Also, the frequencies you may want to sidechain depends (like it may be the sub range but maybe the upper-lows too) as well. MBSC helps with that as it allows you to set bands for SC purposes. Therefore, you could choose to have your mids and highs no or very little sidechaining while you could have your lows and sub a lot of sidechaining.
 
-Typical examples are a bass where you may have more than just a sub in the bass patch and you don't want to really sidechain the whole bass to the kick, but just the sub. In that case you don't even have to seperate the sub from the top bass (anymore) but rather you can do MBSC compression.
+Typical examples are a bass where you may have more than just a sub in the bass patch and you don't want to really sidechain the whole bass to the kick, but just the sub. In that case you don't even have to seperate the sub from the top bass (anymore) but rather you can do MBSC compression. Or, maybe your top bass still needs or has too much lows and it just gets a tad in the way in some notes, again, can configure a band for that.
 
 A great tool for this is Shaperbox 2.
 
