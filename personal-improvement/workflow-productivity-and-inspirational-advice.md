@@ -34,6 +34,8 @@ These are tips that will help you finish songs and be productive. Of course it's
 ## Patience is a virtue
 You need to learn to be patient in music production. The more you do it, the faster stuff comes of course but to find a good kick or a good sound or a good melody or tweaking the velocity/articulation to be super realistic or a good whatever you need to experiment and be patient. You really need to. Calm down. Sit down. Relax. Be patient and don't beat yourself up if you don't have it from the first time. It's often normal and this is where you need to be patient and calculated. Don't feel like this is a race and stuff. It's box with legos and you're building it at your own pace.
 
+This is also about following streams and tutorials and looking up stuff. Don't try get bored. Don't try to be immediately distracted. Relax and sit through it.
+
 ## Get rid of your ego, only compare to yourself
 Having an ego will greatly hamper your learning. Having too much pride to learn from others or to remake or listen to other songs is really bad because you really do need to do these things to get better. You really do need music theory. You really do need music tutorials and you really do need to analyze and reference other (way better) people's songs in order to get better.
 
