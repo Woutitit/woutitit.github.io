@@ -1,4 +1,9 @@
 # Tropes
+### ????
+- The "occassional reverb snare". Often in music (often disco but also edm) , the 1st snare hit is not very verb-y but then the 2nd is and then the 1st isn't (creates interest and depth). Can be vice versa or don't always need to always hit like that, or consecutive reverb hits can also be a thing:
+- Examples: ???
+- [Explained in: Au5 Dubstep black and yellow](https://www.youtube.com/watch?v=oLBqmi0ot_g)
+
 ## Sound design
 > See "Sound recipes" on how to make these sounds.
 
