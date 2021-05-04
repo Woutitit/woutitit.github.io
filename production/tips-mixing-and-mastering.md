@@ -45,6 +45,7 @@ This is a general guide for mixing and mastering. Important to note that it is g
 - [Practical tips for a cleaner and professional mix](#hi)
 - [How to choose the correct drums](#hi)
 - [How to sidechain](#hi)
+- [How to use reverb and delay](#hi)
 
 ## Mix with master off
 While it can't hurt to have a quick master chain for reference or to occasionally check, you should mix with your master off. Also, instead of mixing as in "how can I mix for an ideal master chain", mix (mostly) for what the song needs. For example, I had been really overdoing it on making the drums super loud and compressed in an acoustic song or have the transients really coming through but no punch as I thought that was necessary to have them be audible in a busy mix or have them turned down while still being audible. And it's an aspect but that's not how you should treat your drums. You need tp treat them for the song. If they need to be hard hitting like in DnB, sure go harder on the compressors and what not. If it's acoustic, you want a more mellow vibe on the drums. Stuff like that.
