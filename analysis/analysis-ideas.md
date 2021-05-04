@@ -22,6 +22,7 @@ You can also take a song and analye
 - Melodic DnB: [Shades of Light in a Transcendent Realm](https://www.youtube.com/watch?v=nP70bnzpYDY)
 - Bass house: [【ライブ配信】ひたすら曲作りました【DTM制作】](https://www.youtube.com/watch?v=nBySElFVrdg)
 - Color bass: [Making color bass with the sass](https://www.youtube.com/watch?v=OJn9_Y58jDU)
+- Au5 Dubstep tutorial: https://www.youtube.com/watch?v=oLBqmi0ot_g
 
 ## How to analyze
 So with analyzing you'll always want to replicate the harmony and melody to be able to visualize and analyze it. You can do that in MuseScore or in your DAW. The DAW is the quickest but in MuseScore is more learning because you are thinking about time and stuff and staff notation is generally clear so once done it gives a better overview than a DAW. 
