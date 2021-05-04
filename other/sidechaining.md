@@ -64,6 +64,15 @@ Fruity balance or peak controller LFO also volume atuomation or?
 
 ## Ghost kick
 Usually a very short inaudble tone or kick (which mimicks the notes of the actual) you use basically as a trigger point for the compressor (see first technique). It's so short that the compressor doesn't do weird stuff (as no compression is applied) but immediately ducks to 0db (or whatever). You can thus simply draw in the envelope you want (as the duck will have happened and now you can set the release to as slow or fast as you want depending on the sidechaining you want).
+ 
+## Multi-band sidechaining
+- [Au5 black and yellow](https://www.youtube.com/watch?v=oLBqmi0ot_g) (mentions it somewhere in here)
+
+Just like how MB compression is more transparant (= less obvious but still effective) compression, MB sidechaining is also more transparant sidechaining. The reason is that you often don't want to sidechaining anything from your sound that isn't sub frequencies competing with the kick as it is not necessary. Also, the frequencies you may want to sidechain depends (like it may be the sub range but maybe the upper-lows too) as well. MBSC helps with that as it allows you to set bands for SC purposes. Therefore, you could choose to have your mids and highs no or very little sidechaining while you could have your lows and sub a lot of sidechaining.
+
+Typical examples are a bass where you may have more than just a sub in the bass patch and you don't want to really sidechain the whole bass to the kick, but just the sub. In that case you don't even have to seperate the sub from the top bass (anymore) but rather you can do MBSC compression.
+
+A great tool for this is Shaperbox 2.
 
 ## FL Studio SC workflow shortcuts
 (This should go in my software tips)
