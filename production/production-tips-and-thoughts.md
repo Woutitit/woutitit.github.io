@@ -1,7 +1,10 @@
-# Production thoughts
+# Production tips and thoughts
 
 ## Introduction
-This article is to store my more "random" production thoughts that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles.
+This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
+
+## Sidechain (top) drum loops
+Often you may find yourself using a top loop that has still punchy stuff in it. It may even be kick and snare. You can high pass the punch out so you only get the hats but you'll still hear the click and some punch in the higher end anyway. Sidechain these drum loops (heavily) to your current kick and/or snare and they will sound as if there was never a kick and/or snare in the loop, certainly if you pair that with a high pass filter.
 
 ## Why you need to seperate your patches (lead, chords and bass)
 You'll notice that producers will often start writing in a single patch, often a saw wave patch. However, you'll see that they often split up the top (or any accent note) and the bottom (or any fundament note) in respective lead and/or bass patches.
