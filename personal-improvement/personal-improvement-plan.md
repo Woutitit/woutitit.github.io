@@ -14,3 +14,6 @@ Or same for composition like try out stuff and chord progressions and licks etc.
 Or for making or finding or researching samples or synth presets. 
 
 IT helps having seperate practice sessions so that your actual song creation process is free from those tedious things and in practice sessions it aint super tedious as thats ur foucs and again have no expecatations.
+
+## Areas to improve
+- Try and make a drop/chorus that is not just "I have a bunch of sounds I let them play together as loud and hard together as I can"
