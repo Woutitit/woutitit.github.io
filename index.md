@@ -49,27 +49,15 @@ Under "Quick reference" you'll find everything that you might need or want to co
 - [Software](#hi)
 - [Tropes](#hi)
 
-## Other
-- [...aliasing](/in-depth/aliasing.md)
-- [...intermodulation](/in-depth/intermodulation.md)
-- [...phase and phase cancellation](/in-depth/phase-and-phase-cancellation.md)
-- [...layer](/in-depth/timbre-and-layering.md)
-- [...sidechain](/in-depth/sidechaining.md)
-- [...mix kick, snare and bass](#hi)
-- [...seperate sub and top bass](/articles/steady-clean-low-end-with-sub-seperation.md)
-- [...mix for loudness and why it still matters](/in-depth/loudness-wars-and-why-it-matters.md)
-- [...order FX chain properly](/in-depth/why-order-of-fx-chain-matters.md)
-- [...record guitar](/articles/guitar-recording-tips.md)
-- [...properly sit back and/or cut through sound](/articles/how-to-properly-sit-back-and-or-cut-through-sound.md)
-- [...write better melodies, harmonies and rhythms](/articles/how-to-write-better-melodies-harmonies-and-rhythms.md)
-- [...achieve tonal balance](/articles/tips-to-achieve-tonal-balance.md)
-- [Audio recording](audio-recording.md)
-- [Analog recording in a digital world](/in-depth/analog-recording-in-a-digital-world.md)
-- [External learning resources](external-learning-resources)
-- [Gear](gear.md)
-- [Dictionary](dictionary.md)
-- [Some random mixing thoughts](/articles/some-random-mixing-thoughts.md)
-- [Common EDM sounds](/articles/common-edm-sounds)
+## Articles
+- [How to choose the correct drums](#hi)
+- [How to get a crystal clear mix][#hi]
+- [How to give your song dimensions](#hi)
+- [How to master and balance your song](#hi)
+- [How to sidechain](#hi)
+- [How to use a compressor, limiter and clipping](#hi)
+- [How to use reverb and delay](#hi)
+- [How to write better melodies, harmonies and rhythms](#hi)
 
 ## Personal improvement
 - [Personal improvement plan](personal-improvement-plan.md)
