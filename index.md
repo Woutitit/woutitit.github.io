@@ -11,7 +11,9 @@
 12. [Personal improvement](#personal-improvement)
 
 ## How to use this site
-Under "Quick reference" you'll find everything that you might need or want to consult during song making. They are not meant for learning. Under the "Analysis" header you'll find everything related to song analysis. All other articles are more in depth (and for actual learning) but they should be categorized well enough for you to find your way to what you need. Also, inside the articles I try to link to relevant articles as much as possible so usually you shouldn't have too hard of a time getting to the correct place.
+Under "Quick reference" you'll find everything that you might need or want to consult during song making. They are not meant for learning. Under the "Analysis" header you'll find everything related to song analysis.
+
+The other categories are more in depth. For more practical learning you may want to look under the "Articles" header.
 
 ## Quick reference
 - [Music production checklist](songwriting-checklist.md)
