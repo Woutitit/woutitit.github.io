@@ -7,7 +7,7 @@
 4. [Analysis](#analysis)
 6. [Production](#production)
 8. [Music theory](#music-theory)
-11. [Other](#other)
+11. [Articles](#articles)
 12. [Personal improvement](#personal-improvement)
 
 ## How to use this site
@@ -51,7 +51,7 @@ Under "Quick reference" you'll find everything that you might need or want to co
 
 ## Articles
 - [How to choose the correct drums](#hi)
-- [How to get a crystal clear mix][#hi]
+- [How to get a crystal clear mix](#hi)
 - [How to give your song dimensions](#hi)
 - [How to master and balance your song](#hi)
 - [How to sidechain](#hi)
