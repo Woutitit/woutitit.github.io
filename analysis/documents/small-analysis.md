@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=oLBqmi0ot_g
 
 Checkout kick. Notice how it's punchy and clicky but rather short as again you don't need that if the bass/sub provides it (which ususally is the case). And kick 2
-so yeah checkout his kick out again, it's a really punchy but short thing and uses kick 2 plugin like just hear 3:00 like u dont want long sub in there
+so yeah checkout his kick out again, it's a really punchy but short thing and uses kick 2 plugin like just hear 3:00 like u dont want long sub in there. Also checkout the kick in FL and see how long it is and how much sub and highs.
 
 alien weapon sample pack and snare layer occassqionally layered technique as i said 3:16
 
