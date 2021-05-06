@@ -376,4 +376,5 @@ a v - i is only a cadence if it feels like a phrase or part is ending. A v - I s
 make phrases more interesting by extendning them enlognating like making less obvious where it should stop
 4 types of cadences
 
-
+## Scales
+- https://old.reddit.com/r/musictheory/comments/n64rj8/who_made_up_the_scales_and_why_do_they_sound_good/
