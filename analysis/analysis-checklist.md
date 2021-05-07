@@ -22,3 +22,5 @@ Are there a lot of automations? What gets automated and when and why?
 frequency contents of sounds? Stereo seperation of sounds and why? How do they complement why not in the way?
 Are there lots of loops and or samples? What? Why and how? How loud?
 drag in daw possibly and timestamp and name all the different sections.
+
+-sound fx where they put on impacts t ransitions elsewhere which bar how long what fx??? what d ot hey do to make sounds interesitng?
