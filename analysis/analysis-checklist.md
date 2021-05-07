@@ -19,5 +19,6 @@ What does make the song alive? What automation what fx? where? How are transitio
 how many bars 
 Are there a lot of automations? What gets automated and when and why?
 
+frequency contents of sounds? Stereo seperation of sounds and why? How do they complement why not in the way?
 Are there lots of loops and or samples? What? Why and how? How loud?
 drag in daw possibly and timestamp and name all the different sections.
