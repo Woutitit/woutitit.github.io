@@ -15,6 +15,8 @@ Also, this does not mean you need to go over all these things. Just go over the 
 - Plucky/sustain
 - layers? Octave layers? fifth layers? pluck + sustain layer?
 
+What does make the song alive? What automation what fx? where? How are transitions, what elements or techniques used for those, same for intros what about the impacts or stuff right before transitions?
+how many bars 
 Are there a lot of automations? What gets automated and when and why?
 
 Are there lots of loops and or samples? What? Why and how? How loud?
