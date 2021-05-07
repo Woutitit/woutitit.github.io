@@ -35,17 +35,41 @@ And then at the 4 bar - classic - we have something special. In this case just a
 - Reversed arp, same as fade in (it seems)
 - And then to add a bit more we have a high vocal seemingly going together as a kind of bell functionining top melody to fully lead in
 - Notice NO uplifter as we don't want a big transition, we only want the reverse cymbal (shorter and less noise) as we're not going into something big or we don't go full quiet as a contrast either and our intro wasn't big either so it wouldn't have fit either way.
-
+- Some arp that seems to volume fade in and then stay a bit on impact (or maybe that's the delay idk) for some more melody transition
 ## Build up
 - Impact, notice no cymbal crash but we have the same downlifter as for intro.
 - It's a smooth transition because same chord progression keeps being used
 - And then the melody keeps going
 - The chords also keep going (maybe open up?)
-- Pluck also keeps going and I suspect it's actually was chords as it is opening up. It's the classic filter trick where you create a pluck through a filter and then you automate the filter and it's opening up. This together with the very big white noise uplifter really is nice.
+- Pluck also keeps going and I suspect it's actually was chords as it is opening up. It's the classic filter trick where you create a pluck through a filter and then you automate the filter and it's opening up. This together with the very big white noise uplifter really is nice (also again because big transients on the chord and transients are in highs so when pluck opens up even more transients + white noise is yummy).
 - Also some drums come in for extra energy and extra groove but they ain't full speed just yet. They are low-passed and I think maybe shortened as well to keep some energy away (mainly in the low-mids and mids regions).
 - Then some mid bass but again no sub bass just yet. It's a mid bass starting around 200Hz not sure if high passed or actual fundamental there. Sounds like fundamental.
+- Then also a lead is coming in lastly as some extra melody on top of all of this. Again, also low-passed and opening up like the pluck
+- Not sure about stereo. Everything is kinda stereo. Idk maybe the lead coming in a bit more centered for that nice space reation. What about the reverb on the lead?
+- Sound design? Very simply though btw. 
+- The lead has some kind of very fast pitch bend down making it sound like a zip and also some slight vibrato automation??
+- The lead also doesn't seem to have too much high-end, only at the end to fit in? Tbh not needed with the uplifter in there as well.
+- Also the little ear candies of the intro are in here too (except the last 7-8th bar synth)
+- We also hear some very high bell, again, not too much cuz resonances but adds some nice high-end shimmer
 
+- So per usual, we have a few things that ain't low-passed and keep consistent (the chords, the melody line on top the pluck) as we don't want like no energy or low-energy, still the groove going but we have some stuff that is low-passed fading in. Also the stuff low-passed are not super low-passed but just to fade in and the pluck is pretty high already but since it's pluck it has little energy so adds nice high-end and can still add energy by opening up cool! You see this in breakdown or transitional quiet moments where usually some elements are still (almost) full energy, usually some higher-end stuff, just to keep stuff moving, have the pc listeners still feel the groove and just cuz else it would feel too closed. like you can make less-energy sections but still feel open you know.
 - The whole thing also seems to be high-passed at around 150Hz so that drums (and bass) would not give too much energy away just and it may or may not get automated down towards the end of the build up (maybe slightly?)
+- transients of drums?
+
+## Build up transition
+2 bars goes from all that thing to very closed and low- passed (how he did this? Low pass on master but then still tails right?) But it's a very nice contrast to the super bright build up.
+
+You can hear the sidechain.
+
+We have a chord + bass stabs and then on the high end we have the bell shimmer. Also bass some slight deviation from chords some in betweeners for some slight groove and less quantized feel.
+
+- SOme kind of drum fill sample. Kick and then snare to toms run kind of thing
+- Some vocal shout a classic combo and the vocal shout has a delay but seems only 1 echo? or?
+- Also the low pass seems gone on that in between as there is full sub in kick and bass now. So very cool. (maybe even low passed for the extra contrast from highs to lows). 
+- Heere you can also hear that the bass has slight stereo actually and also the bass has some high-end peaking up till 2-3kHz (but slightly though I think it diminshes in harmonics). However the bass and probably the sub is close to centered though, as it should.
+- 
+## Verse
+So the build up was a fake out
 
 
 
