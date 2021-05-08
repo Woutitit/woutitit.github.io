@@ -16,8 +16,8 @@ But yeah, for most of my personal mixes, I'd want to strive for low dynamic rang
 ## EQ balancing
 Usually you'll do some (minor) frequency balance. Common things are a -1db on lows and +1 on highs or you may want to match your reference a bit more. Either way, it should be subtle and if you find yourself doing too much you might want to fix it in the mix for a cleaner result.
 
-## Stereo imagin
+## Stereo imaging
 You'll usually stereo image the bands. The sub you'll put in mono, the mids you'll give some width and for the air and hugeness you usually give the highs a lot of width (I think?) as a general guideline.
 
 ## Brickwall limiter
-At the end(?) of a mastering chain comes the brickwall. This is basically a limiter (what ADSR settings though) where you can do two things. Either you push it down until you hit your loudest points in the loudest parts of the mix (a bit further) and then you're sure that nothing above that is sounding. Or, in heavy/modern genres, you might push this even more down up until the point where you lose punch and/or where it starts to distort. This is for the even louder in your face vibe but if the music doesn't call for it, just brickwall it as good practice since there may always be some very short high transients that you'll want to chop off. 
+At the end(?) of a mastering chain comes the brickwall. This is basically a limiter (what ADSR settings though) where you can do two things. Either you push it down until you hit your loudest points in the loudest parts of the mix (a bit further) and then you're sure that nothing above that is sounding. Or, in heavy/modern genres, you might push this even more down up until the point where you lose punch and/or where it starts to distort. This is for the even louder in your face vibe but if the music doesn't call for it, just brickwall it as good practice since there may always be some very short high transients that you'll want to chop off (especially with LUFS you might not need super brickwal). Though keep a true peak meter in your shelf to check as well some stuff.
