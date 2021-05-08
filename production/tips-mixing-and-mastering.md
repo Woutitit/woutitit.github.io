@@ -49,13 +49,15 @@ This sounds weird but it really helps to turn down your mix or individual sounds
 
 ## Mix with master off
 While it can't hurt to have a quick master chain for reference or to occasionally check, you should mix with your master off. Also, instead of mixing as in "how can I mix for an ideal master chain", mix (mostly) for what the song needs. For example, I had been really overdoing it on making the drums super loud and compressed in an acoustic song or have the transients really coming through but no punch as I thought that was necessary to have them be audible in a busy mix or have them turned down while still being audible. And it's an aspect but that's not how you should treat your drums. You need tp treat them for the song. If they need to be hard hitting like in DnB, sure go harder on the compressors and what not. If it's acoustic, you want a more mellow vibe on the drums. Stuff like that.
+
 ## There are multiple ways of achieving (basically) the same thing
 Whether you boost somewhere instead of cutting somewhere else. Whether you use OTT instead of MB. Whether you EQ instead of do volume down. How you do your sidechaining Like a lot of techniques in mixing and mastering are more or less interchangeable so there usually isn't a singular way to (kind of) achieve what you want to. Of course, over the course you'll find the easiest and best techniques for your own music.
 
 ## A professional track has dimensions
 - https://www.waves.com/fit-acoustic-guitars-into-a-dense-mix
 - https://www.blackghostaudio.com/blog/6-tips-for-creating-wider-mixes
-- 
+- https://www.youtube.com/watch?v=2eAftfpvetM
+
 A professional sounding track is 3D. In fact, if a song was a graph representation, then:
 - the x-axis depicts the stereo field (panning/stereo)
 - the y-axis depicts the frequency spectrum
