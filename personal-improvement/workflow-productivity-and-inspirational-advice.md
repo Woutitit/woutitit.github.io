@@ -31,6 +31,22 @@
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
+## Don't rely on motivation and tomorrow
+- https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
+- https://www.youtube.com/watch?time_continue=1&v=kICh_d6tHQk
+- https://www.bol.com/nl/f/can-t-hurt-me/9200000100577500/?country=BE
+- https://sunshine-parenting.com/deep-work-rules-for-success-in-a-distracted-world-cal-newport/#:~:text=Deep%20work%20is%20the%20ability,fulfillment%20that%20comes%20from%20craftsmanship.
+
+It's a big topic and checkout the links for more on how building habits (by making them easy and stuff, stuff I also say) and deep work (so not shallow) will help you do more and better high-quality work.
+
+Either way, part of it is that motivation is weird thing. Motivation is the feeling that you feel motivated to do something. The weird thing is, though, that with or without motivation you can still do the thing? So why don't you do the thing?
+
+This is where you need to learn to just do the thing (sometimes). Relying on motivation is okay, but ONLY relying on it and you'll never be able to get far. You need to start being okay to work on your stuff even when not motivated. Rely on your drive and on your desire to make a song rather than on your motivation. Motivation is such a temporary thing anyway. The better you can do this the easier it will become to finish stuff.
+
+Of course, you can facilitate this. One big thing is to, as I said, have a low-barrier to entry. If doing the thing is easy, then there is not much stopping you from doing the thing. Also, start creating habbits and plannings and set small goals/todos and check them off. The habbits part will help since then it's not about motivation, it's about doing the thing. 
+
+For example, you're not always motivated in the evening to brush your teeth, right? Yet, we still do it every day. Why is that? Well, first of all, it's drive that we have to not have our teeth rot that we decide to do it. On top of it, it's also such a habit at this point that we don't think about it and just do it. On top of it, it just takes 2 minutes and the brush is there, i.e. it's easy to do it. See? And you have to do something similar with production. The drive to make a good song, keep your file clean to make it easy to modify. Have small goals AND reward yourself for those goal so that you have something attainable you can do. Make it a habbit and create habits around your process (as I kind of do already in one aspect, with the create > organize cycle)
+
 ## Patience is a virtue
 You need to learn to be patient in music production. The more you do it, the faster stuff comes of course but to find a good kick or a good sound or a good melody or tweaking the velocity/articulation to be super realistic or a good whatever you need to experiment and be patient. You really need to. Calm down. Sit down. Relax. Be patient and don't beat yourself up if you don't have it from the first time. It's often normal and this is where you need to be patient and calculated. Don't feel like this is a race and stuff. It's box with legos and you're building it at your own pace.
 
