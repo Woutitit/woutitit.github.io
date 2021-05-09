@@ -1,4 +1,6 @@
 # How to give your song dimensions.
+- https://www.youtube.com/watch?v=2eAftfpvetM
+
 A modern professional song will always have dimensions. The song will sound 3D, that is, sounds appearing from the sides, from the center, a bit in the back, fully front, and on lows and highs.
 
 Here we'll talk all the dimensions axises. And while I talk about them seperately, they do kind of all go together to truly create an immersive experience. Also, even without the depth and the width dimensions, your song itself still needs to be solidly composed to be good in the first place but to truly sound professional, the dimensions need to be there.
@@ -6,6 +8,8 @@ Here we'll talk all the dimensions axises. And while I talk about them seperatel
 Either way, you'll find it's all about being smart and having contrast. If everything is (the same amount of depth or) deep then nothing is. If everything is (the same amount of or) stereo then nothing is.
 
 ## Depth
+- https://www.youtube.com/watch?v=9qfhRu2A7pg
+
 So depth is mainly done through (low-pass) filters, reverb, delays and loudness. Reverb and delays put your sound in a space, whether that is a close space or a more open, bigger space. It really gives off the feeling of, this is situated somewhere and the space reflections give it a bit of a more omnious, realistic and bigger presence. Big reverbs have a lot of depth to them, like with big decays and stuff so the space seems big in which they are in so the mix seems big too. And so, the front facing elements don't necessarily need (big) reverb so they can stay focused or in your face if needed. However, i there is a back thing, whether it's a one shot or an atmosphere, with the (big) reverb, then the song will kind of get placed in that same (big) room and thus there will be depth.
 
 Of course, a sound with loud reverb will still be like too in your face and close so you can create even more depth by having that sound also quieter and/or having reverb, making it seem the song is even more distant and perhaps this may seem like even more depth. You can add more depth with low-passing as well. All these are all "or" and "and" so you can use them interchangeably.
