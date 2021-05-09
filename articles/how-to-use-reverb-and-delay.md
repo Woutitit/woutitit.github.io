@@ -1,3 +1,4 @@
+## Notes
 So reverb and delay are important for depth and alo pushing back elements and can be cool for stereo width and also auotmation.
 
 So talk about the fatc like a lot on snare a bit on drums, like when to use plate
@@ -13,3 +14,7 @@ like when busy mix on what to usually put it lead?? apparently not on pads and o
 and like in more "sparse" mixes like big room you have usually a big stacked lead but wth tons of reverb or same in saprse mix and/or section like u can have piano with ton of reverb
 
 alsomention about sometimes solo piano u keep in bass and all that stuff cuz solo section/song and also reverb to sound big. Where to put this?
+
+https://www.reddit.com/r/Music/comments/ckun74/why_does_everything_sound_better_with_reverb/
+
+https://www.youtube.com/watch?v=9qfhRu2A7pg Alex rome emotional chords
