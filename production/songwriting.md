@@ -4,6 +4,9 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
+1. [Treat each section as a different song](#treat-each-section-as-a-standalone-song)
+1. [Mind the cadences](#mind-the-cadences)
+1. [Sound selection is imporant](#sound-selection-is-important)
 1. [Transitions are important](#transitions-are-important)
 2. [Verse doesn't mean thin and sparse](#verse-doesnt-mean-thin-and-sparse)
 3. [Overdo, then delete](#overdo-then-delete)
@@ -23,6 +26,13 @@
 17. [Keep it simple](#keep-it-simple)
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+
+## Treat each section as a standalone song
+A bit exagarating here, but you should try and treat each section as a standalone entity. If you think too much in context of the song you creativity will hamper. For example, if a section needs to be quieter than the chorus you'll worry too much about taking away stuff and not adding stuff. This is problematic because maybe the chorus is in an early stage in terms of production and is simply too sparse and so now you're trying to make a quiet section that thus needs to be even sparser than that chorus section and everything will sound thin.
+
+It's better to treat it as a standalone entity. Simply think whether the section needs to be big or small energy or whether it's a build up or a verse or whatever, simply think of *the role* of the section and roll with that idea. Then add all the chords, pads and automations you need to achieve the goal. Of course, you work with the sounds and in the framework of the song (like, you still want a bit of context and cohesion of course) but for the rest treat it as a standalone thing, it's liberating. And then, after your section is done, you might need to see whether you need to delete stuff from the section (or make less bright) or whether it's the chorus that needs more beef or whether it's both or whatever. Like, especially in the beginning keep in mind that your chorus arrangement is and shouldn't be set in stone.
+
+Also, sometimes you'll find that the section simply doesn't work or that it's a completely different song. That's also fine. That happens, it's normal. However, don't let that anxiety of deviating stop you from making a good section.
 
 ## Mind the cadences
 - https://www.youtube.com/watch?v=DhwTtof_sMw at 15:00
