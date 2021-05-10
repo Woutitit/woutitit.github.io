@@ -31,7 +31,19 @@
 ## Introduction
 These are tips that will help you finish songs and be productive. Of course it's not a cardinal sin if you break one of these tips but just try to keep these in mind, especially when stuck and unable to make music.
 
-## Don't rely on motivation and tomorrow
+## Book recommendations
+> Also see "Analysis" for some more explanation with the concepts in the book.
+
+- [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
+
+## Change response to your brain's path to least resistance reaction
+Your brain funnily enough will do an awful lot of work to always try and take the path of least resistance. Always. And this goes about everything ranging from not venturing out of your comfort zone to not doing the work you're supposed to do.
+
+Our habitual responses to that are usually in the form of "I don't feel like it". That's what needs to change. As I've said in below tip, there is nothing stopping you from doing the task, it's only the feeling that you don't feel like it that's stopping you to do it. So, you need to change your response. Create habbits around doing instead of around not doing, change the knee-jerk response you have when your brain gives you one of these path to least resistance thoughts.
+
+Again, I talked about it below, but make these habbits easy and attractive to do (low-barrier to entry and choose to have certain comforts).
+
+## Don't rely on motivation and tomorrow. Create habbits.
 - https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
 - https://www.youtube.com/watch?time_continue=1&v=kICh_d6tHQk
 - https://www.bol.com/nl/f/can-t-hurt-me/9200000100577500/?country=BE
