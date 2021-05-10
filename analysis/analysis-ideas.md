@@ -23,3 +23,4 @@ You can also take a song and analye
 - Bass house: [【ライブ配信】ひたすら曲作りました【DTM制作】](https://www.youtube.com/watch?v=nBySElFVrdg)
 - Color bass: [Making color bass with the sass](https://www.youtube.com/watch?v=OJn9_Y58jDU)
 - Au5 Dubstep tutorial: https://www.youtube.com/watch?v=oLBqmi0ot_g
+- Dubstep mixing/mastering: https://www.youtube.com/watch?v=E5p8nzYI0AM
