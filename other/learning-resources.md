@@ -5,7 +5,10 @@ Meant to be a collection of useful resources to learn from. Try to only paste in
 - Production basics: https://www.udemy.com/course/complete-electronic-music-theory-production-edm/learn/lecture/22858011#overview
 - Music making & analysis basics: https://makingmusic.ableton.com/
 
-##Tutorials
+## Reads:
+- https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf
+
+## Tutorials
 - How to funk (check composition and sound design) https://old.reddit.com/r/FL_Studio/comments/k06ks4/five_minute_fonk_w_fl/
 - How to make songs sound alive. Has some good nuggets: https://www.youtube.com/watch?v=wMVoEBBggwE
 ## Artist resources 
