@@ -89,6 +89,9 @@ Either way, on your background elements, definitely don't shy away from aggressi
 
 So with panning, you usually pan stuff like your drum kit and maybe other few elements. Panning is less important though and when you do it, have stuff like 25%-50%-100% Don't do like slight pans and shit like that because then it could be as well centered. You could even do LCR (on some stuff) or just aggressive stereo imaging because again it helps for huge mixes and also it gets out of the way of main elements. Either way get experience and mainly reference other songs to get your stereo image right.
 
+## Double track/Quad track
+A very natural kind of stereo often used for real instruments, especially (backing) guitar. Instead of using FX, you simply record the same parts twice and hard pan them. Recordings are always different so there will be natural delays and thus natural stereo. The trick is to not be too off so it's only heard as stereo, not as two tracks hard panned.
+
 ## Notes
 m/s eq
 
