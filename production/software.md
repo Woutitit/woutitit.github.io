@@ -3,7 +3,9 @@ As the title state, this is some nice helpful tips on software. It's home to use
 
 ## FL Studio
 ## Tips
-### Automation clips
+#### Automation clips
+- https://itsgratuitous.com/the-ultimate-guide-to-using-automation-clips-in-fl-studio-20/#fl-snapshot-initialized-controls
+
 It seems right now, it's a bit of a drag to organize automation clips since you cannot truly shorten them. Therefore, if you don't need the automation clip running for the whole song, for your own sake, you are best to just hightlight a small portion and then make the clip as big as you need it it to be. Easier reuse and you can actually merge short clips together like that.
 
 ### Shortcuts
@@ -23,6 +25,10 @@ On top of your VST (on the Fruity Wrapper top bar) you'll see to the right (some
 
 #### I forgot to record my MIDI keyboard
 Go to Tools > dump latest recorded score to recover what you've played in a pattern.
+
+#### Controls jump up when replayed
+- https://itsgratuitous.com/the-ultimate-guide-to-using-automation-clips-in-fl-studio-20/#fl-snapshot-initialized-controls
+If you ever initialized a control with an automation clip, the state is now saved in FL so even when the automation clip isn't there, the initial state of what you had will be the state your sound will jump to (like the volume fader or whatever).
 
 ## Synths
 ### Serum
