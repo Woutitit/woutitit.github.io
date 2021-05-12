@@ -36,6 +36,19 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Be mindful of your MBTI personality type and enneagram
+It sounds silly but there are strengths and weaknesses that you have in music creation based on your personality type and you should exploit those.
+
+I am an INFP meaning that I can see the big picture. Laying down song structures and not getting lost in details is one of my strengths. However, one of my weaknesses is then that for finish a song, I'm not detailed enough and my song will sound unpolished.
+
+Also, I can generate a lot of ideas and possibilities for song sections which is good for making a cool song but also bad in terms of finishing because you're at risk of always changin a section or nevery being a happy with a section. I should learn that when something is "good enough" I should commit to the idea and simply execute it.
+
+I also have ADD traits, which is common for an INFP. I get distracted easily and do one thing and another and it's hard to focus on a single thing and for longer times. Therefore, having a low-barrier to entry helps a lot. Stuff like having your studio in your house, having your project file easy to edit and having stuff available in the project. Also working in short bursts but do try to learn to get some discipline and actually work and try to be less distracted all the time.
+
+I can't function in no structure but having a too rigid structure is also bad for me. Therefore, I need to make some loosely defined todo lists to know what to work on. I structure and clean my files a bit so that there is structure but I am not at all going overly mad with planning and organizing as that is paralyizing.
+
+As said, I'm good at starting, bad at finishing since I'm driven by passion but that passion drifts away before the song is done. Again, make songs that are suited for me which is shorter songs, not too technical in terms of sound design, sounds mostly available, good workflow, good skills and stuff like that (any practice that won't take too long and bore me too soon). Anything that can make me help actually finish songs. Of course there will always be some needed discipline to truly finish songs but try to diminish your weaknesses as much as you can so you can actually finish.
+
 ## Change response to your brain's path to least resistance reaction
 Your brain funnily enough will do an awful lot of work to always try and take the path of least resistance. Always. And this goes about everything ranging from not venturing out of your comfort zone to not doing the work you're supposed to do.
 
