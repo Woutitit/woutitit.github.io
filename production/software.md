@@ -2,6 +2,9 @@
 As the title state, this is some nice helpful tips on software. It's home to useful hot-key combos, how to do certain things in software (e.g. make a vibrato in x or why synth, how to use a certain sample library) and those sorts of things. It shouldn't be super in depth but stuff can be explained.
 
 ## FL Studio
+## Tips
+### Automation clips
+It seems right now, it's a bit of a drag to organize automation clips since you cannot truly shorten them. Therefore, if you don't need the automation clip running for the whole song, for your own sake, you are best to just hightlight a small portion and then make the clip as big as you need it it to be. Easier reuse and you can actually merge short clips together like that.
 
 ### Shortcuts
 - [comprehensive_compilation_of_advanced_fl_studio shortcuts](https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/)
@@ -9,6 +12,7 @@ As the title state, this is some nice helpful tips on software. It's home to use
 
 Ctrl + T in playlist = timestamp
 Ctrl + G when selecting multiple patterns = merging (works both vertically and horizontally)
+Ctrl + Alt + G Same as above but for automation clips
 Alt + Dragging (?) on velocity = normalizing notes on default velocity
 
 ### Troubleshoot
