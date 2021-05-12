@@ -36,6 +36,9 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Sport and fresh air
+Sporting, fresh air and generally taking breaks is a great way to stimulate the mind. You don't need to do all of them at the same time and every day, or much but do all of them regularly. It also doesn't need to be much. Try regularly get fresh air. Try to get 15 min of mild sport in (can be or not coupled with fresh air) and these can be seen as breaks. This is just general healthy and you'll also find that you come back refreshed and ever more motivated.
+
 ## Be mindful of your MBTI personality type and enneagram
 It sounds silly but there are strengths and weaknesses that you have in music creation based on your personality type and you should exploit those.
 
@@ -48,6 +51,8 @@ I also have ADD traits, which is common for an INFP. I get distracted easily and
 I can't function in no structure but having a too rigid structure is also bad for me. Therefore, I need to make some loosely defined todo lists to know what to work on. I structure and clean my files a bit so that there is structure but I am not at all going overly mad with planning and organizing as that is paralyizing.
 
 As said, I'm good at starting, bad at finishing since I'm driven by passion but that passion drifts away before the song is done. Again, make songs that are suited for me which is shorter songs, not too technical in terms of sound design, sounds mostly available, good workflow, good skills and stuff like that (any practice that won't take too long and bore me too soon). Anything that can make me help actually finish songs. Of course there will always be some needed discipline to truly finish songs but try to diminish your weaknesses as much as you can so you can actually finish.
+
+Also, I have short bursts of energy rather than a structured way, that's how I roll (whether that is music or cleaning or socializing). Recognize and capitalize on these bursts of energy as much as you can. However, also realize that short bursts of energy aren't enough and that you may not always be in the situation to capitalize on them. Therefore, learn to focus and work outside of those bursts as well.
 
 ## Change response to your brain's path to least resistance reaction
 Your brain funnily enough will do an awful lot of work to always try and take the path of least resistance. Always. And this goes about everything ranging from not venturing out of your comfort zone to not doing the work you're supposed to do.
