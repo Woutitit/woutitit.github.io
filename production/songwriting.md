@@ -132,6 +132,8 @@ This tension and release is also on a spectrum. Sometimes you can a very long ex
 
 Either way, in analysis, look to all the calls and responses you can find. Look at the linked video and see how much he can find. As you can see it's not only the melody, it's perhaps how, in an 8-bar loop, the first 4 bars are the call and the next 4 bars are the response. And maybe within that you have a melody that does a call and response sequence every 2 bars. And maybe, if you zoom out, that whole 8 bars might be a response to the previous 8 bars.
 
+*Intermezzo: A classic example is where you go up with the melody, ending on a dissonant or not super consonat note and then responding with a descending and more resolving end note. Or, extrapolated, like in the ak+q tutorial video on his cnannel, have everything kind of rising in terms of harmony for 4-8 bars and then have the response section where stuff is descending and feeling more like coming home. So again, micro and macro scale.*
+
 Nonetheless, it's nice to think about and keep an eye out. Don't restrain yourself to this thinking of course as there are always exceptions and ambiguity but simply keep it in mind when stuck.
 
 ## Be cohesive on a micro and macro scale
