@@ -77,14 +77,15 @@ For virtually every song (unless its super sound-design heavy or whatever) it ma
 No need to do this religiously but it may help you get you up to speed with getting ideas down or getting the vibe correctly quick enough. It overlaps a bit with the song creation process where you also have half-assed sound design going on but you just need to quickly lay down the whole drop.
 
 ## Contrast is key
-Contrast is also tension and release
-the longer the tension the sweeter the release which is why for example u don't want to give people
-the chorus too fast again, you want to keep the tension of the verse and sometimes even extend it a little
-bit past the point where people expect it for even extra tension and thus sweeter release.
+Contrast is also tension and release the longer the tension the sweeter the release which is why for example u don't want to give people the chorus too fast again, you want to keep the tension of the verse and sometimes even extend it a little bit past the point where people expect it for even extra tension and thus sweeter release.
 
-It's all about contrast. Using contrast and repetition is what makes a song interesting.
+It's all about contrast. Using contrast and repetition is what makes a song interesting and listenable as what gets reiterated in Adam Neely's video in here:
 
-One can use contrast in many ways:
+
+Notice his critiques on the fact that some chord progressions never arrive home. It doesn't feel good, it doesn't feel like a finished journey and it's generally not something we like listening to. Again, use your cadences and weak/strong beats to have proper tension/release settups. Or same with how a groove in an odd time signature wasn't repeated enough so that the groove wasn't locked in for the listener making it sound disgruntled and stuff.
+- https://www.youtube.com/watch?v=fpqObbD2YqE
+
+One can use contrast in many other ways too:
 https://www.izotope.com/en/learn/songwriting-tips-12-ways-to-create-contrast.html
 https://www.izotope.com/en/learn/music-production-tips-to-create-contrast-between-verse-and-chorus.html
 https://blog.sonicbids.com/songwriting-101-how-to-use-melodic-contrast-to-make-your-songs-way-more-memorable
