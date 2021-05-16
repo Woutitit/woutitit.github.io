@@ -42,6 +42,8 @@ This handy list is meant as a reference for when you don't get your mix right or
 - FX chain routing and order correct? No reverbs/delays before distortions? Compressors and EQs in right order?
 - Check stereo image correlation and keep in check (for phase issues?).
 - Mind transients when (heavily) limiting.
+- Render master out and check dynamic range of all parts
+
 ## Production
 - Layers?
   - Plucks with sustains, octaves up/down, interesting timbres.
