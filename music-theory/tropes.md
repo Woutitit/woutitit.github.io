@@ -43,6 +43,7 @@ The first one specifically focuses on music theory and will, for the most part, 
     - [General video](https://www.youtube.com/watch?v=WbA1ycyITX4)
     - [Major line clichés](http://hubguitar.com/fretboard/major-line-cliche)
     - [Minor line clichés](http://hubguitar.com/fretboard/minor-line-cliche)
+    - At 4:00, on a resolving chord (instead of staying on a resolving chord, doing a line cliché thingy): https://www.youtube.com/watch?v=QODhVO2rftI
 - Picardy third progressions. Very often you'll hear the the vi becoming VI (every time or just the last time of repeating). Sometimes it ends there, sometimes is or becomes VI7 dom chord to continue to ii. Is widely used in practically all genres.
     - Need examples here.
 - b9 as dominant (also lick) analyze chord prog and lick maybe put also in lick put jump up here too
