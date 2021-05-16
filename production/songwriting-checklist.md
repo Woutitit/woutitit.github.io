@@ -55,6 +55,7 @@ This handy list is meant as a reference for when you don't get your mix right or
 - Crusher automation
 - Vibrato macro
 - PWM lead
+- High-end stuff added to filtered out sections?
 
 ## Composition and arrangement
 - Check cadences
