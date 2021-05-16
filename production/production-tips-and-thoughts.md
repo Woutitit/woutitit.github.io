@@ -3,6 +3,18 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## A better way for build ups and quiet sections
+> Should I put this in songwriting?
+
+Generally, you'll notice that in buildups there are a lot of (low-pass) filtered things, however, you'll also notice that regardless of that there are still some high-end unfiltered stuff. Whether that is percussion, some occassional fx, claps or some plucky synth or whatever.
+
+You may be tempted to filter your whole master but the problem if you filter your whole master is that everything is filtered but that may not be good especially on laptop speakers because having a low-pass on the master may mean you don't hear the song at all anymore and you may totally lose the groove. On top of that it also sounds super closed and you don't necessarily want that. You want spacious, and you want some high-end as well.
+
+You can create build-up and tensions and "this is not the drop yet" in other ways such as composition, reverb, risers and then filters but simply not on everything.
+
+That said, bandpassing the master IS very common. But it's more common in intro and outros and also in the song only for BRIEF periods and/or not super much filtered, especially in the highs. For example, at the end of a section you may bandpass to smoothly go into a quiet section in which it all opens again. Reference to see how others are doing it.
+
+
 ## Sidechain (top) drum loops
 Often you may find yourself using a top loop that has still punchy stuff in it. It may even be kick and snare. You can high pass the punch out so you only get the hats but you'll still hear the click and some punch in the higher end anyway. Sidechain these drum loops (heavily) to your current kick and/or snare and they will sound as if there was never a kick and/or snare in the loop, certainly if you pair that with a high pass filter.
 
