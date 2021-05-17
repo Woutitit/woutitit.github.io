@@ -21,6 +21,15 @@ Also, it's a drone so this is also a common technique to interlude the beginning
 
 It's a minor 7th chord vamp for the rest. It could have been just a minor chord but yeah the 7th chord gives it a bit of a more exotic, less resolved/boring/spicey vibe. But yeah, this is to taste.
 
+### Next section
+Again that same bass drone and drum vibe keep going and that's good because we want to keep pushing. And this bass drone is super common in pushy kind of going forward VG music. It also keeps the stuff simple and not too complex, the same with the chord progresison. This time the harmonic rhythm changes where the harmonic rhythm was very slow, now it's fast and to multiple chords which is often a very good contrasting way for chorus/verse (though you could also do the opposite).
+
+It's a fast vi - IV - V - vi progression thing. Which is again a very common way for like this kind of energetic music especially the going up feeling IV - V - vi.
+
+The melody and harmony kind similar in piano version. but again they hit all on the same timings so no complicated stufff happening. Again to switch it up though they don't immediately hit on beat 1 but a bit after to go away from the full steady drone that was first part but again for the interest and the pushing forward they "resolve" the melody/resting notes on off beats (like an 8th note before actual beat, in this case thus 1 off beat off). Again urgency but also interest to break away from the steady 4/4 groove like it's good and needed that the steady groove is there but you also want interest. 
+
+Some silences in the melody as well and again single notes together with chord stabs on "strong off beats" is very cool way to kind emphasize the galop and going forward" and not over polluting the music. In this case target notes are actually just the rootes and the harmony stabs are just fifth voicings but that's in the piano version, is simplified probably a bit (I mean the harmony).
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
