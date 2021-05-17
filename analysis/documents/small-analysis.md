@@ -19,6 +19,8 @@ Then there is a nice glissando on last beat of last bar. In theory it seemingly 
 
 Also this intro is only 4 bars long, we go immediately into action basically which is a common thing. small intro but immediately into action.
 
+Not sure how fast the glissandos are but it's kind of between 16th and 32th notes speed it seems.
+
 ### Next section
 So in the next secion the drum and bass keep this nice steady four on the flour beat. The bass still doing the same thing but with that hit each beat it feels very grounded and home. The drums are bringing some extra tempo and some "galopping" of hats which is a common way to push forward. In psy trance for example this may actually be done by the bass for the same vibe and it's extra pushing and energy than a single hat. A single hat could work but in a song where you want to drive and push forward the double hat brings a nice push and it's galoppy because it happens in the 2nd part of the beat and galops into the kick.
 
@@ -47,6 +49,13 @@ Notice how it's the same as the first verse but extra development. And this is c
 And now in this case we actually go down to the iv. Again, this is also very common way for a drone and a moving thing. It's a really cool effect to have the same melody transposed over a varying bass line, especially if the bass line goes to closely related chord which the iv is. It's more commonly to iv than to I I think because everything in vi is in iv7 so your melody works and may be more spicy and exotic while going up is also maybe a bit weird and also everything in I6 is in vi which is more weird and less natural than the iv.
 
 Also a fill piano run. It's an arpeggio from D6 to D8 essentially, again 8th note rest a bit just like gliss and then a run which is a mix of areppgaited min7th9th chord but on all the downbeats it's either the D or the fifth and then in between it may be arpeggios and then like pull offs a bit, not a straight run to make it a bit more interesting. It's also one up which again in an 8 bar long section is cool since then, and that happens, the next one can go down (sometimes it can be reversed depending on what you find more appropriate).
+
+Second fill is one down but then again up. If it ended down perhaps that would be too much of a downer for energy track. But yeah it is a contrast and response to first fill call. In this case it's run from F7 to D5 glissando up to D6. The F6-F7 in beginning again octave leap and also 3rd not root adding some spice and strong id of the underlying chord and also a strong leading tone though in this case it's not major but still leading, leap very common for runs and also again an 8th beat of wait before run starts also common same with ending you kind of hold it. 
+
+Again run down with these case some similar motives one octave down after each bar and also again every strong beat the D (so not even fifth this time).
+
+### Chorus 2
+Finally we hit the "real" chorus with the full melody at play. the cool thing about this one is it's ismilar to first but it does more, goes more up and also the second part of first melody is an answer again and the end resolves nicely on beat and this time it's cool because first it resolves off beat but to add some flavor spice and contrast, the on beat resolving after that is actually interesting now because it's different from the off beat we already constantely head this time.
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
