@@ -19,7 +19,7 @@ Then there is a nice glissando on last beat of last bar. In theory it seemingly 
 
 Also this intro is only 4 bars long, we go immediately into action basically which is a common thing. small intro but immediately into action.
 
-## Next section
+### Next section
 So in the next secion the drum and bass keep this nice steady four on the flour beat. The bass still doing the same thing but with that hit each beat it feels very grounded and home. The drums are bringing some extra tempo and some "galopping" of hats which is a common way to push forward. In psy trance for example this may actually be done by the bass for the same vibe and it's extra pushing and energy than a single hat. A single hat could work but in a song where you want to drive and push forward the double hat brings a nice push and it's galoppy because it happens in the 2nd part of the beat and galops into the kick.
 
 Also the lead piano is actually doing something nice. It's not staying with that 4 on the 4 which would kind of make stuff too boring but it actually is doing a, I think polyrhythm above it? Not sure. But it starts nice and steady on the first beat every bar and then second but then it changes quickly with 8th note on 2nd bar followed by two 4th notes right after which are thus not on beat. It adds interest but again also urgency and it actually works perfectly with the bass line since these last two chords hit on the octave leap times of the bass so there is no interference. If the piano rhythm was nice on beat and stuff it may have added anice atmo but there would have been literally no pushing and energy. This is a nice decorative rhythm on top of the piano. So tip might be here to make bass simple but with your different decorative rhythm try to stay mostly on notes your bass is hitting so the rhythms don't clash.
@@ -39,7 +39,7 @@ Some silences in the melody as well and again single notes together with chord s
 
 So yeah it holds together because the prog starts on same chord as the beginning did, the beat is same bass mostly too and it's just the melody and harmony that do different interesting stuff.
 
-## Next section
+### Next section
 Now we go in a second verse. More smoothened by melody that start an off beat (or a full beat?) before the verse so it glides in there.
 
 Notice how it's the same as the first verse but extra development. And this is commonly done by starting to play an octave higher like is done here. But it switches from high and low so still some mids grounding + the highs shimmer. In this case the highs are actually (apparently) simple triads and it kind of does this question answer thing with the highs call and then the response low. Again, same deal with the off beats and also tiny switch it up things to keep stuff fresh and developping.
