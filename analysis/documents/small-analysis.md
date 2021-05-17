@@ -10,6 +10,15 @@ Some I'm basing my analysis on both the piano and the original version.
 
 So in the beginning starts with a nice typical bass octave leap kind of bass line. Together with the nice four to the flour kick gives an immediate groove. Nice full 8th notes as sense of continuity and also the leap is noce for the immediate pushing forward. If you had without the octave leap on same root there is little movement (you could maybe shorten the second note to be distinguishable but then it wouldn't have that nice leap of energy + the note would be shorter so also less energy).
 
+Then there is a nice glissando on last beat of last bar. In theory it seemingly does a single octave run from F7 to F6 though the F6 is resolved first beat next bar, also seems to stay a little on F7 right before doing the glissando down.
+
+## Next section
+So in the next secion the drum and bass keep this nice steady four on the flour beat. The bass still doing the same thing but with that hit each beat it feels very grounded and home. The drums are bringing some extra tempo and some "galopping" of hats which is a common way to push forward. In psy trance for example this may actually be done by the bass for the same vibe and it's extra pushing and energy than a single hat. A single hat could work but in a song where you want to drive and push forward the double hat brings a nice push and it's galoppy because it happens in the 2nd part of the beat and galops into the kick.
+
+Also the lead piano is actually doing something nice. It's not staying with that 4 on the 4 which would kind of make stuff too boring but it actually is doing a, I think polyrhythm above it? Not sure. But it starts nice and steady on the first beat every bar and then second but then it changes quickly with 8th note on 2nd bar followed by two 4th notes right after which are thus not on beat. It adds interest but again also urgency and it actually works perfectly with the bass line since these last two chords hit on the octave leap times of the bass so there is no interference. If the piano rhythm was nice on beat and stuff it may have added anice atmo but there would have been literally no pushing and energy. This is a nice decorative rhythm on top of the piano. So tip might be here to make bass simple but with your different decorative rhythm try to stay mostly on notes your bass is hitting so the rhythms don't clash.
+
+Also, it's a drone so this is also a common technique to interlude the beginning of a journey. Usually same melody and then drone somewhere different too which doesn't happen here right away but later it does.
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
