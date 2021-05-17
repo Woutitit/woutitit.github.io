@@ -63,6 +63,8 @@ It also does the typical, the first two phrase are ascending ascending and then 
 
 Todo, skip a bit ahead and analyze those sections, there were a few interesting harmonies/sections still.
 
+Also the resolvements are also kind of on D so very strong or sometimes if not (super strong beat) stuff around the root like 9th or 7th resolving, notes that kind of feel like they wanna go up/down to D resolution but that do feel like they want to go and not stay.
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
