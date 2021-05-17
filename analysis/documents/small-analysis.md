@@ -1,7 +1,7 @@
 # Small analysis
 
 ##
-Todo: Maybe per analyzed song, add a section "tropes" and then we list all the tropes we identified in the song. Is better for reference purposes later.
+Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
 ## FFXIV OST The Twinning Theme ( A Long Fall )
 - https://www.youtube.com/watch?v=NBIRYjP1NNM
@@ -45,6 +45,8 @@ Now we go in a second verse. More smoothened by melody that start an off beat (o
 Notice how it's the same as the first verse but extra development. And this is commonly done by starting to play an octave higher like is done here. But it switches from high and low so still some mids grounding + the highs shimmer. In this case the highs are actually (apparently) simple triads and it kind of does this question answer thing with the highs call and then the response low. Again, same deal with the off beats and also tiny switch it up things to keep stuff fresh and developping.
 
 And now in this case we actually go down to the iv. Again, this is also very common way for a drone and a moving thing. It's a really cool effect to have the same melody transposed over a varying bass line, especially if the bass line goes to closely related chord which the iv is. It's more commonly to iv than to I I think because everything in vi is in iv7 so your melody works and may be more spicy and exotic while going up is also maybe a bit weird and also everything in I6 is in vi which is more weird and less natural than the iv.
+
+Also a fill piano run. It's an arpeggio from D6 to D8 essentially, again 8th note rest a bit just like gliss and then a run which is a mix of areppgaited min7th9th chord but on all the downbeats it's either the D or the fifth and then in between it may be arpeggios and then like pull offs a bit, not a straight run to make it a bit more interesting. It's also one up which again in an 8 bar long section is cool since then, and that happens, the next one can go down (sometimes it can be reversed depending on what you find more appropriate).
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
