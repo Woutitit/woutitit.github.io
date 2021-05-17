@@ -19,6 +19,8 @@ Also the lead piano is actually doing something nice. It's not staying with that
 
 Also, it's a drone so this is also a common technique to interlude the beginning of a journey. Usually same melody and then drone somewhere different too which doesn't happen here right away but later it does.
 
+It's a minor 7th chord vamp for the rest. It could have been just a minor chord but yeah the 7th chord gives it a bit of a more exotic, less resolved/boring/spicey vibe. But yeah, this is to taste.
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
