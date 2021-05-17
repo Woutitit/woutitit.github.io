@@ -27,6 +27,9 @@
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
+## You can go a million ways with music
+There is no right way in music. You can go all different kinds of routes in music so don't stress that you need to go the perfect route. No, there is multiple routes, a lot. So don't stress about taking a route but also commit to the route when it is good enough. Again, if you want to take the music to a slow section because you think it fits the journey, then do it and execute it. If you think it needs to blast all the way, then do it like that (other composers may have added a slow section). There is no right answers. Look at references for guidance but always remember that there is no right way and that when reference A does x that it's not better than the idea that you had. It's different.
+
 ## Treat each section as a standalone song
 A bit exagarating here, but you should try and treat each section as a standalone entity. If you think too much in context of the song you creativity will hamper. For example, if a section needs to be quieter than the chorus you'll worry too much about taking away stuff and not adding stuff. This is problematic because maybe the chorus is in an early stage in terms of production and is simply too sparse and so now you're trying to make a quiet section that thus needs to be even sparser than that chorus section and everything will sound thin.
 
