@@ -59,6 +59,8 @@ Finally we hit the "real" chorus with the full melody at play. the cool thing ab
 
 In second part chorus 2 again CONTRAST where it now immediately starts on strong beat it's kinda like this typical thing like where u do something twice and then thrid time immediately continue to then make your way to resolvement that's here and then second part of second part it goes again to slightly after beat started to start melody/resolvement. Also here it does some nice chromatic up wich are substitutions for the normal thing. Again it's a very common trope and typical in VG music. Here it goes to a dim kind of vibe before the V cuz like u have the nice D and then it needs to go somewhere in between and then goes to V and then again it goes to v#dim or something at the end there to fully go up the chromatic line and really lead into suggesting to start back at D. Very common and effective especially if done after a "normal progression".
 
+It also does the typical, the first two phrase are ascending ascending and then the next to (the answer) is descending descending. Very common, subtle here but still that vibe. Sometimes its asc desc asc desc, in this case asc asc desc desc. I guess you didn't want to descend before fully ascended in this case.
+
 Todo, skip a bit ahead and analyze those sections, there were a few interesting harmonies/sections still.
 
 ## Au5 dubstep
