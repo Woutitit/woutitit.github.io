@@ -2,6 +2,9 @@
 ## Analyze overall spectrum
 Analyze the overall spectrum of the mix both in frequency and stereo. Use MSED and put on mono and then put on mids and then mainly with the mids see how the SPAN after it changes in concent so you can see where the stereo lies.
 
+## Look up sheets/Synthesia tutorials
+Can really help in case if you want to mainly analyze for music theory purposes as it can get though and take a long time to figure it out by ear.
+
 ## Analyze frequency bands
 Very handy to know, especially for lower and sub area as that's important to get right. Also, use this in conjunction with span to visually see what's happening too. A very good combo here is the tonal balance 2 first and click+hold a band while checking out the spectrum in SPAN.
 
