@@ -63,7 +63,7 @@ It also does the typical, the first two phrase are ascending ascending and then 
 
 Todo, skip a bit ahead and analyze those sections, there were a few interesting harmonies/sections still.
 
-Also the resolvements are also kind of on D so very strong or sometimes if not (super strong beat) stuff around the root like 9th or 7th resolving, notes that kind of feel like they wanna go up/down to D resolution but that do feel like they want to go and not stay.
+Also the resolvements are also kind of on D so very strong or sometimes if not (super strong beat) stuff around the root like 9th or 7th resolving, notes that kind of feel like they wanna go up/down to D resolution but that do feel like they want to go and not stay. And melody kind of plays around that kind of weird tho. It's the minor6th interval tho kind of leading towards F which is indeed the b5 highlighting but maybe it's in the whole/half or half/whole whatever it is scale? Like yeah it's full dim chords and I think you always use that over half dim chord as it's more consistent and symmetirc or what is reason? like half dim is vii but yeah the norma minor 7th kind of makes it weird, having a full dim chord is better in those spots? Does it need to be dim can it not just a chromatic mnor chord?
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
