@@ -30,6 +30,11 @@ The melody and harmony kind similar in piano version. but again they hit all on 
 
 Some silences in the melody as well and again single notes together with chord stabs on "strong off beats" is very cool way to kind emphasize the galop and going forward" and not over polluting the music. In this case target notes are actually just the rootes and the harmony stabs are just fifth voicings but that's in the piano version, is simplified probably a bit (I mean the harmony).
 
+So yeah it holds together because the prog starts on same chord as the beginning did, the beat is same bass mostly too and it's just the melody and harmony that do different interesting stuff.
+
+## Next section
+Now we go in a second verse. More smoothened by melody that start an off beat (or a full beat?) before the verse so it glides in there.
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
