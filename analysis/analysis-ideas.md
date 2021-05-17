@@ -16,6 +16,7 @@ You can also take a song and analye
 ## Songs
 - Dubstep/Color bass: [ Figment - Neddie (The Sass remix)](https://soundcloud.com/the-sass-music/neddie-figment-the-sass-remix)
 - Brostep/Melodic dubstep: [Jump - The Sass](https://soundcloud.com/the-sass-music/jump)
+- Melodic Rock: [FFXIV OST The Twinning Theme ( A Long Fall )] https://www.youtube.com/watch?v=NBIRYjP1NNM
 
 ## Livestream, tutorial, other
 - [ak+q - 1 Hour Production Challenge](https://www.youtube.com/watch?v=wjx9K2vI2wo&t=1954s)
