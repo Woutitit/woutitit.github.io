@@ -3,6 +3,13 @@
 - https://www.youtube.com/watch?v=NBIRYjP1NNM
 - https://www.youtube.com/watch?v=0Dd_FhyOpKQ
 
+BPM: 168
+Key: D minor (and?)
+
+Some I'm basing my analysis on both the piano and the original version.
+
+So in the beginning starts with a nice typical bass octave leap kind of bass line. Together with the nice four to the flour kick gives an immediate groove. Nice full 8th notes as sense of continuity and also the leap is noce for the immediate pushing forward. If you had without the octave leap on same root there is little movement (you could maybe shorten the second note to be distinguishable but then it wouldn't have that nice leap of energy + the note would be shorter so also less energy).
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
