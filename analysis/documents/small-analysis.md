@@ -1,4 +1,8 @@
 # Small analysis
+
+##
+Todo: Maybe per analyzed song, add a section "tropes" and then we list all the tropes we identified in the song. Is better for reference purposes later.
+
 ## FFXIV OST The Twinning Theme ( A Long Fall )
 - https://www.youtube.com/watch?v=NBIRYjP1NNM
 - https://www.youtube.com/watch?v=0Dd_FhyOpKQ
@@ -6,11 +10,14 @@
 BPM: 168
 Key: D minor (and?)
 
+## Intro
 Some I'm basing my analysis on both the piano and the original version.
 
 So in the beginning starts with a nice typical bass octave leap kind of bass line. Together with the nice four to the flour kick gives an immediate groove. Nice full 8th notes as sense of continuity and also the leap is noce for the immediate pushing forward. If you had without the octave leap on same root there is little movement (you could maybe shorten the second note to be distinguishable but then it wouldn't have that nice leap of energy + the note would be shorter so also less energy).
 
 Then there is a nice glissando on last beat of last bar. In theory it seemingly does a single octave run from F7 to F6 though the F6 is resolved first beat next bar, also seems to stay a little on F7 right before doing the glissando down.
+
+Also this intro is only 4 bars long, we go immediately into action basically which is a common thing. small intro but immediately into action.
 
 ## Next section
 So in the next secion the drum and bass keep this nice steady four on the flour beat. The bass still doing the same thing but with that hit each beat it feels very grounded and home. The drums are bringing some extra tempo and some "galopping" of hats which is a common way to push forward. In psy trance for example this may actually be done by the bass for the same vibe and it's extra pushing and energy than a single hat. A single hat could work but in a song where you want to drive and push forward the double hat brings a nice push and it's galoppy because it happens in the 2nd part of the beat and galops into the kick.
@@ -34,6 +41,10 @@ So yeah it holds together because the prog starts on same chord as the beginning
 
 ## Next section
 Now we go in a second verse. More smoothened by melody that start an off beat (or a full beat?) before the verse so it glides in there.
+
+Notice how it's the same as the first verse but extra development. And this is commonly done by starting to play an octave higher like is done here. But it switches from high and low so still some mids grounding + the highs shimmer. In this case the highs are actually (apparently) simple triads and it kind of does this question answer thing with the highs call and then the response low. Again, same deal with the off beats and also tiny switch it up things to keep stuff fresh and developping.
+
+And now in this case we actually go down to the iv. Again, this is also very common
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
