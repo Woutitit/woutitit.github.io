@@ -1,5 +1,6 @@
 # Small analysis
 ## FFXIV OST The Twinning Theme ( A Long Fall )
+- https://www.youtube.com/watch?v=NBIRYjP1NNM
 
 ## Au5 dubstep
 https://www.youtube.com/watch?v=oLBqmi0ot_g
