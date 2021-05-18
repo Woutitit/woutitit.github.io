@@ -70,6 +70,8 @@ Also the resolvements are also kind of on D so very strong or sometimes if not (
 ## Interlude
 Analyze this one mainly the chromatic and dim passages and the typical drum pattern for slower sections and thus how it slows down but again it's all around that vi and that iv basically with some exceptions to the ending. And also ther typical dotted note sequence in there that you hear also in the mario theme.
 
+Also the straigght and none offbeat notes is also a nice way to slow down cuz not hasty to finish melody kind of and again is simply also contrast with the dotted note melodies. And also the drum is doing cooler funkier stuff now as well for interest as well as harmony so yeah it allows for those to add interest now.
+
 ## Happy cheery part
 So then there is the happy cheery part. Not super interesting, here one could've gone back to the drone actually but he opted for an extra part. There is a dim7 in there like a two times lowered 7, why again, leading tone to what?
 
