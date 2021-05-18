@@ -20,6 +20,9 @@ But yeah, reverb is a big one in depth perception and it always depends a bit wh
 
 Also, simple loudness means much. You want less loud background elements and supportive elements and layers. You want elements that seem less loud as then it also seems that more deeper there is also stuff playing. So you have the "layer" of the front stage with all the main elements (lead and bass) and then the more back of a stage with the background elements. Again, reverb and filtering also helps with placing these things more in the background too.
 
+Reverb for depth examples
+- https://soundcloud.com/simonservida/cocktail. Notice how the reverb (only/mostly) on the rim gives it a spacious and super depthful mix). Reverb also seems to be automated to more and/or less alternating.
+
 ## Width
 - https://www.youtube.com/watch?v=nRv9k1QAGEU
 - Other song I can't remember
