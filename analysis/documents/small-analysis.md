@@ -68,7 +68,7 @@ Todo, skip a bit ahead and analyze those sections, there were a few interesting 
 Also the resolvements are also kind of on D so very strong or sometimes if not (super strong beat) stuff around the root like 9th or 7th resolving, notes that kind of feel like they wanna go up/down to D resolution but that do feel like they want to go and not stay. And melody kind of plays around that kind of weird tho. It's the minor6th interval tho kind of leading towards F which is indeed the b5 highlighting but maybe it's in the whole/half or half/whole whatever it is scale? Like yeah it's full dim chords and I think you always use that over half dim chord as it's more consistent and symmetirc or what is reason? like half dim is vii but yeah the norma minor 7th kind of makes it weird, having a full dim chord is better in those spots? Does it need to be dim can it not just a chromatic mnor chord?
 
 ## Interlude
-Analyze this one mainly the chromatic and dim passages and the typical drum pattern for slower sections and thus how it slows down but again it's all around that vi and that iv basically with some exceptions to the ending
+Analyze this one mainly the chromatic and dim passages and the typical drum pattern for slower sections and thus how it slows down but again it's all around that vi and that iv basically with some exceptions to the ending. And also ther typical dotted note sequence in there that you hear also in the mario theme.
 
 ## Happy cheery part
 So then there is the happy cheery part. Not super interesting, here one could've gone back to the drone actually but he opted for an extra part. There is a dim7 in there like a two times lowered 7, why again, leading tone to what?
