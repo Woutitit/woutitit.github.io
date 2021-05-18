@@ -1,9 +1,14 @@
-Checklist: Music analysis
-Tip: Use sheet music boss channel to have a quickly more idea of what the chords and melody are.
-this chapter gives a few guidelines and questions to ask when you're analyzing a song from a music theory persepctive (though perhaps I should make this a different article so I can include production aspects too).
+# Analysis checklist
+
+## Introduction
+This chapter gives a few guidelines and questions to ask when you're analyzing a song from a music theory perspective (though perhaps I should make this a different article so I can include production aspects too).
 
 Also, this does not mean you need to go over all these things. Just go over the things that you want to analyze and concern you.
-### Harmony
+
+## General tips
+
+- Frequency wise, what is in the highs, lows and mids and what kind of sounds (transients? sustains? dark? bright?)
+- Panning and stereo field. What is panned and how much? What is stereo and how much?
 - Call and response on a micro and macro scale
 - How harmonic and rhythmic and sound design (other?) consonance and dissonance gets used on micro and macro scale (like having a section end at bar 3 instead of 4 in 4/4 is also dissonance)
 - Tension and release
