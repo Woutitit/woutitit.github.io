@@ -8,6 +8,7 @@ Also, this does not mean you need to go over all these things. Just go over the 
 ## General tips
 
 - Frequency wise, what is in the highs, lows and mids and what kind of sounds (transients? sustains? dark? bright?)
+- Reverb and delay. How much? Automation? On what elements (the most)? What does it do to the mix?
 - Panning and stereo field. What is panned and how much? What is stereo and how much?
 - Call and response on a micro and macro scale
 - How harmonic and rhythmic and sound design (other?) consonance and dissonance gets used on micro and macro scale (like having a section end at bar 3 instead of 4 in 4/4 is also dissonance)
