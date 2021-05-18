@@ -3,6 +3,8 @@
 Analyze the overall spectrum of the mix both in frequency and stereo. Use MSED and put on mono and then put on mids and then mainly with the mids see how the SPAN after it changes in concent so you can see where the stereo lies.
 
 ## Look up sheets/Synthesia tutorials
+- Use sheet music boss channel (or other piano cover) to quickly have more of an idea of what the chords and melody are.
+
 Can really help in case if you want to mainly analyze for music theory purposes as it can get though and take a long time to figure it out by ear.
 
 ## Analyze frequency bands
