@@ -3,6 +3,11 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## J-rock: Final Fantasy Endwalker trailer (Song name?)
+Basing on (for now since actual song not out yet):
+- https://www.youtube.com/watch?v=TImbY9x-Eeg
+
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
