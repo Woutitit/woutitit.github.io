@@ -96,6 +96,8 @@ Mainly in sub area but sometimes if you want to also just hear kick more clear (
 
 Reverb and delay are on of those things that often get sidechained to not have clutter often like a 0 and 1 sidechain so in empty moments it's at 1 and when the stuff plays at 0 but I guess this is mainly for stuff you want up front and super clear but still big and placed in a room and more backing stuff can have no SC and you want the shimmer?
 
+Or it's more like, at least in case of reverb, have a bit of reverb on it but then empty moments have it sidechain in. Sometimes you can even get creative and have reverb swells where you smoothly automate a really big reverb in, fading more into next part and filling up space. So yeah, automate/SC in bigger reverb and delays in quiet moments BUT not in all genres and tracks. If you want to make thight tracks like: https://soundcloud.com/olemlanglie/hitech-study, there is absolutely a big incentive not to have reverb and delays on your stuff because of the tails and makes stuff less thight and especially in complex compositions it muds up all the other sounds coming after. So in this case to still have mix big and in depth (though it's mostly meant as in your face) we have the saws that play plenty WITH reverb and the rest has no reverb. So the saws make still depth and dimensions because play a lot with the sounds. HOWEVER, once it stops playing it also cuts the tails again for the thightness and muddy clearance.
+
 ## Notes
 Look up "sidechain for loudness and rms"
 sidechain tips, different kinds of enveloppes and when and why
