@@ -85,6 +85,17 @@ templates, or preset or like sc on a send and then with multiple release times d
 
 also the sidechain duck on kickstart, etc. does it always need to be like ducking to 0, like ive seen people adjust the kickstart mix so it doesnt duck too hard, i guess that just depends but in volume control tho usually starts at 0 the automation clip if im correct?
 
+## Uses cases
+## Pumping
+
+## Getting out of the way of kick
+Mainly in sub area but sometimes if you want to also just hear kick more clear (so also in highs).
+
+## Reverb and delay
+- At 5:54:00 look at 0-1 delay clip: https://www.youtube.com/watch?v=MDkJckTswJQ
+
+Reverb and delay are on of those things that often get sidechained to not have clutter often like a 0 and 1 sidechain so in empty moments it's at 1 and when the stuff plays at 0 but I guess this is mainly for stuff you want up front and super clear but still big and placed in a room and more backing stuff can have no SC and you want the shimmer?
+
 ## Notes
 Look up "sidechain for loudness and rms"
 sidechain tips, different kinds of enveloppes and when and why
