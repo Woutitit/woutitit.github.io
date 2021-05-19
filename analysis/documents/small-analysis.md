@@ -30,6 +30,8 @@ Very interesting because melody changes a bit as to where the natural cadence/re
 
 So that makes the melody and song really cool there. That contrast with first having a slower harmonic rhythm and also more emphasis on releasing on 3rd/4thish and then second section basically going twice as fast (and certainly a fake out with long chord but the sudden twice as fast resolution in bar 2) really gives it a sudden swung and energy and power to the melody, especially approaching the 8 bar where you kind of want to have this end/powerful feeling.
 
+And on top that, and this a common thing too is the "picardy third" thing where the resolved chord has a bright tone since the min becomes major giving it this really hopeful and powerful undertone. Again you don't need to with top melody highlight it per se if you really want to resolve (in this case top melody resolves to root so yeah). And so yeah that's done on the vi II first where the II is just a bright one and then vi III where the III is more like a dom chord leading back into vi. Less strong the latter so don't need per se but yeah it depends to taste.
+
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
