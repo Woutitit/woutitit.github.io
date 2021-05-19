@@ -50,6 +50,8 @@ One issue with this is that you'll be compressing hard since that's the point of
 - Shaperbox 2? put on gear to want/buy list!
 
 ### Volume automation
+- https://www.youtube.com/watch?v=9LyciXjMD-U
+
 *Note: this one is recommended.*
 - (See Synthion Konpeito livestream to see how he gets that preset/template and what plugins for SC, like it's not fader, right?)
 
@@ -61,6 +63,8 @@ According to Dylan Tallchief (see his compressor video) it's annoying to have th
 
 Not based on another source, we simply look at the waveshape of the and just write our curve, kick in play list and also, this volume automation does also already do not have the weird release vibes you get with compression without check synthion his clip and check what he automates there as his SC which plugin not fader cuz then cant adjust volume
 Fruity balance or peak controller LFO also volume atuomation or?
+
+Check software for how it's done in FL studio.
 
 ## Ghost kick
 Usually a very short inaudble tone or kick (which mimicks the notes of the actual) you use basically as a trigger point for the compressor (see first technique). It's so short that the compressor doesn't do weird stuff (as no compression is applied) but immediately ducks to 0db (or whatever). You can thus simply draw in the envelope you want (as the duck will have happened and now you can set the release to as slow or fast as you want depending on the sidechaining you want).
