@@ -20,6 +20,17 @@ The melody is kind of around #C5 ending a lot of strong notes on the #C5 which i
 
 And also the thing about the melody using thirds and roots. Again usually upper (and louder) part is really indicative of the mood and stableness of the harmony. So here the third on more dominant chords which leads into root notes which is very stable.
 
+So the melody has emphasis on ending on V but not as end but as consonant rest and then resolves to I as extra even more consonant and then that one is actually also acting a bit as dominant leading into the IV
+
+Chord progression:
+
+vi - IV - V - I - IV - vi II - IV iii - vi - III
+
+Very interesting because melody changes a bit as to where the natural cadence/resolution is. First 4 bars it's resoluting in 3rd bar kind of because the 2nd bar feels as the part that sets up to the reoslving. Then next section different because there lead into and straight resolve on bar 1 which makes it feels as we want to resolve in bar 2 somewhere. And also it doubles the resoluting cadence, you could basically now hear 2 chords per bar instead of 1 so the resoluting also happens on the 2nd chord so in this case in bar 2 second half of it and same for the next section.
+
+So that makes the melody and song really cool there. That contrast with first having a slower harmonic rhythm and also more emphasis on releasing on 3rd/4thish and then second section basically going twice as fast (and certainly a fake out with long chord but the sudden twice as fast resolution in bar 2) really gives it a sudden swung and energy and power to the melody, especially approaching the 8 bar where you kind of want to have this end/powerful feeling.
+
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
