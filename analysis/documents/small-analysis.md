@@ -18,6 +18,8 @@ The melody is made interesting first of all trhough use of syncopation. A lot in
 
 The melody is kind of around #C5 ending a lot of strong notes on the #C5 which is the fifth in the minor scale. I don't know if this is a common technique to ground melodies but it does indeed ground the melody and also it doesn't feel super stale since the #C ends on different bass notes all the time. And it's also cool since we also land on notes close to it but different so it's a cool contrast and gives freshness. For the rest there is a lot of thirds landing and then landing from there to the root of the next chord which is a typical V-I cadence sequence. There is a lot of V-I in there. Gotta investigate a bit more.
 
+And also the thing about the melody using thirds and roots. Again usually upper (and louder) part is really indicative of the mood and stableness of the harmony. So here the third on more dominant chords which leads into root notes which is very stable.
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
