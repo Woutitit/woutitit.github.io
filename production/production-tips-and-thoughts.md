@@ -3,6 +3,16 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## No reverb trick
+- https://soundcloud.com/olemlanglie/hitech-study
+- https://soundcloud.com/olemlanglie/hitech-test
+
+So in his song there are a lot of elements after eachother and you want to hear them all loud and clear and in your face, however, with reverb that would be less in your face and that would also like mud up and obscure all the elements. Now, to still make it sound big we still have a saw in there WITH reverb, HOWEVER it's only triggered when the sound itself plays so it still sounds big. 
+
+So this kind of goes against my SC advice. But again in this case the reverb adds bigness while it plays but no reverb at the end so that there is literally no tail and thus sounds very thight and clean but still big and in depth thanks to the reverb while playing the saw and the saw plays with the other elements.
+
+In other cases, you usually have standard reverb on a few things but then you usually automate to have like a big reverb and delays like in the quiet parts I guess to fill up. It depends on the mix like in sparse pop songs or sparse sections that's more like this.
+
 ## The 7k low-pass trick
 - https://www.youtube.com/watch?v=pn3Izw3-Qmw&t=2s
 
