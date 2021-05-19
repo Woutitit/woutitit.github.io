@@ -13,6 +13,8 @@ So this kind of goes against my SC advice. But again in this case the reverb add
 
 In other cases, you usually have standard reverb on a few things but then you usually automate to have like a big reverb and delays like in the quiet parts I guess to fill up. It depends on the mix like in sparse pop songs or sparse sections that's more like this.
 
+He plays more with like stereo and in your face and business and loudness (like stuff quiet) to create dimensions and the beat I guess also create a bit of depth and stuff like that.
+
 ## The 7k low-pass trick
 - https://www.youtube.com/watch?v=pn3Izw3-Qmw&t=2s
 
