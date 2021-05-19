@@ -3,6 +3,11 @@ As the title state, this is some nice helpful tips on software. It's home to use
 
 ## FL Studio
 ## Tips
+### Volume automation SC
+- https://www.youtube.com/watch?v=9LyciXjMD-U
+
+Usually you have one (or more depending on whether you need different slopes for different instruments) or more SC inserts and everything that needs to have sidechaining you disconnect the direct routing to the master and instead feed it to the SC insert to your liking (and then the SC goes to master).
+
 #### Automation clips
 - https://itsgratuitous.com/the-ultimate-guide-to-using-automation-clips-in-fl-studio-20/#fl-snapshot-initialized-controls
 
