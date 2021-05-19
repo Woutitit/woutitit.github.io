@@ -8,6 +8,10 @@ As the title state, this is some nice helpful tips on software. It's home to use
 
 Usually you have one (or more depending on whether you need different slopes for different instruments) or more SC inserts and everything that needs to have sidechaining you disconnect the direct routing to the master and instead feed it to the SC insert to your liking (and then the SC goes to master).
 
+The slope of the SC depends on the tail (and body) of your kick as well as whether you want the SC to be mostly working as a mixing tool or as (also) an actual pumping effect. It can be a smooth slope and then at half a bar we at full or maybe at half a bar we still want a bit of ducking in that case lower the point there and then have a slope going up until the end where it finally goes to full (which is 0.8). Finally, don't use the fader, use "Fruity Balance".
+
+Protip: Make a sidechain automation preset under "Channel presets" and/or even make a template with a SC route already ready. Something like Synthion who has a SC lane and already 1 bar (4 beat) of 4 SC automations). See: https://www.youtube.com/watch?v=MDkJckTswJQ.
+
 #### Automation clips
 - https://itsgratuitous.com/the-ultimate-guide-to-using-automation-clips-in-fl-studio-20/#fl-snapshot-initialized-controls
 
