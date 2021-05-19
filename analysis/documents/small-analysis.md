@@ -7,6 +7,12 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 Basing on (for now since actual song not out yet):
 - https://www.youtube.com/watch?v=TImbY9x-Eeg
 
+### Tropes and takeaways
+- Cadences are always dom/chord, pre-dom chord
+- Build interest with making next 4 bars harmonic rhythm double fast every 2 bars, fast resolving cadence.
+- Add brightness to your reolutions with picardy third. Don't always do it, do it on moments where it can make a difference.
+- Again, lots of syncopation in the melody/harmony for interest.
+
 BPM: 115
 
 Syncopation is when you put it off beat right? And what is swing? Common syncopation stuff?
@@ -24,13 +30,17 @@ So the melody has emphasis on ending on V but not as end but as consonant rest a
 
 Chord progression:
 
-vi - IV - V - I - IV - vi II - IV iii - vi - III
+vi - IV - V - I - IV - vi II - IV - vi III 
+
+Cadences are on IV - V, vi II, vi III. So notice how on cadecens it's always the dom (or reverse dom?) or it's a predom/closely related chord. Could've also had dims in there but not this time. For the rest the solo is also very diatonic as opposed to chromatic.
 
 Very interesting because melody changes a bit as to where the natural cadence/resolution is. First 4 bars it's resoluting in 3rd bar kind of because the 2nd bar feels as the part that sets up to the reoslving. Then next section different because there lead into and straight resolve on bar 1 which makes it feels as we want to resolve in bar 2 somewhere. And also it doubles the resoluting cadence, you could basically now hear 2 chords per bar instead of 1 so the resoluting also happens on the 2nd chord so in this case in bar 2 second half of it and same for the next section.
 
 So that makes the melody and song really cool there. That contrast with first having a slower harmonic rhythm and also more emphasis on releasing on 3rd/4thish and then second section basically going twice as fast (and certainly a fake out with long chord but the sudden twice as fast resolution in bar 2) really gives it a sudden swung and energy and power to the melody, especially approaching the 8 bar where you kind of want to have this end/powerful feeling.
 
 And on top that, and this a common thing too is the "picardy third" thing where the resolved chord has a bright tone since the min becomes major giving it this really hopeful and powerful undertone. Again you don't need to with top melody highlight it per se if you really want to resolve (in this case top melody resolves to root so yeah). And so yeah that's done on the vi II first where the II is just a bright one and then vi III where the III is more like a dom chord leading back into vi. Less strong the latter so don't need per se but yeah it depends to taste.
+
+Maybe also analyze the harmonizing melody after and see what the harmonizing is hitting (like what degrees, like is it all fifths thirds or what?).
 
 
 ## Au5 dubstep
