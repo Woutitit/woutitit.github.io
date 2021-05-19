@@ -28,3 +28,8 @@ how many bars
 - Drag in daw possibly and timestamp and name all the different sections.
 - Sound fx: where they put on impacts or transitions elsewhere which bar how long what fx?
 - Sound design: what effects useage/do they do to make sounds interesting?
+- Cadences? Dominant chords on there? Resolvement? How they play around with it?
+- Melody
+  - Ascending/descending pattern?
+  - Phrasing or more drone-y?
+  - What harmony strong notes/target notes with underlying stuff? 
