@@ -21,6 +21,9 @@ Bass lines rhythms are often like dotted 8 notes, stuff like that is popular in 
 
 Also, if you end up making a bass line or a bass line that is kind of funky and crazy. Don't be afraid, especially when adding other stuff, to take away some notes or craziness in that bassline. Like, ask yourself whether the harmony is getting in the way or the bass line (usually the priority is for the upper harmony so usually the bass line is the one getting in the way). Like, you don't necessarily have to remove the note but perhaps just play a regular root down there or whatever.
 
+## Chords
+A chord progression is very stealable while a melody is a bit harder stealable. Steal progressions you like and slightly modify them (like the rhythm the voicings) to fit your song. It's ok, everyone does it.
+
 ## Melody
 ## Stay within an octave
 This is a very general rule and your whole melody shouldn't adhere to this but preferably most of your melody. It makes it more singable but also if your melody is all over the octaves it's not a very stable and chaotic melody. Either way it's a good starting point to stay within an octave (or almost) and also it kind of alludes to not taking too big leaps (too many times).
