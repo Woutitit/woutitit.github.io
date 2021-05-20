@@ -31,6 +31,10 @@ It seems right now, it's a bit of a drag to organize automation clips since you 
 - [comprehensive_compilation_of_advanced_fl_studio shortcuts](https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/)
 - https://www.youtube.com/watch?v=RBw-pdqus3k&t=88s
 
+#### Mixer
+Ctrl + drag = select multiple tracks
+
+#### Playlist
 Shift + P = select draw
 Shift + B = select brush
 Shift + C = select cut
