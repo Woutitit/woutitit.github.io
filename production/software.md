@@ -8,6 +8,8 @@ Setting up a template is the same as making a project file. Of course in a templ
 
 The template needs to be saved in a location similar to D:\Program Files\Image-Line\FL Studio 20\Data\Templates (So depends on your drive). Also, once you opened the template I think it actually automatically becomes your default template too. Cool!
 
+One note, saving it in the templates folder will make it be recognized as a template so anything you then do in the template is seen as a project and you can save it as is. If you want to edit the template file, instead of starting a "File > new" project you'll need to directly open the template file itself and then safe stuff to it.
+
 ### Volume automation SC
 - https://www.youtube.com/watch?v=9LyciXjMD-U
 
