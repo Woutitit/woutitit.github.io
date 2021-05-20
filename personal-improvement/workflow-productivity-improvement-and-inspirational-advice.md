@@ -1,6 +1,6 @@
 [Home](index.md)
 
-# Workflow, productivity and ispirational advice
+# Workflow, productivity, improvement and inspirational advice
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Patience is a virtue](#patience-is-a-virtue)
@@ -35,6 +35,11 @@ These are tips that will help you finish songs and be productive. Of course it's
 > Also see "Analysis" for some more explanation with the concepts in the book.
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
+
+## Learn to recognize sound
+In reference tracks try to recognize the highs in a sound in a mix, the mids, the lows and so on. Recognize the transients (both standalone and in sounds) the sustains, the detune, the voicings, other effects. Recognize the automations, the fx they might have used and other stuff. Try to get comfortable in recognizing all this stuff and you'll have a way easier time reproducing songs and improving your craft. Also, practice in your DAW with techniques and fx and you'll get some moments where you'll be like "Oh okay so that is how you get that sound/effect/thing".
+
+Also, put all these things in their respective documents (with examples/sound bites) so that when you forget you have a reference.
 
 ## Sport and fresh air
 Sporting, fresh air and generally taking breaks is a great way to stimulate the mind. You don't need to do all of them at the same time and every day, or much but do all of them regularly. It also doesn't need to be much. Try regularly get fresh air. Try to get 15 min of mild sport in (can be or not coupled with fresh air) and these can be seen as breaks. This is just general healthy and you'll also find that you come back refreshed and ever more motivated.
