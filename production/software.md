@@ -32,6 +32,9 @@ Ctrl + T in playlist = timestamp
 Ctrl + G when selecting multiple patterns = merging (works both vertically and horizontally)
 Ctrl + Alt + G Same as above but for automation clips
 Alt + Dragging (?) on velocity = normalizing notes on default velocity
+Ctrl + Drag = Keep vertically aligned whilst dragging
+Shift + Drag = Keep horizontally aligned whilst dragging
+Shift + Cut = Keep straight while cutting
 
 ### Troubleshoot
 #### 3rd-party VSTs lose focus after knob tweak
