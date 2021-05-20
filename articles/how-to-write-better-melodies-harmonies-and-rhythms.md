@@ -22,6 +22,11 @@ Bass lines rhythms are often like dotted 8 notes, stuff like that is popular in 
 Also, if you end up making a bass line or a bass line that is kind of funky and crazy. Don't be afraid, especially when adding other stuff, to take away some notes or craziness in that bassline. Like, ask yourself whether the harmony is getting in the way or the bass line (usually the priority is for the upper harmony so usually the bass line is the one getting in the way). Like, you don't necessarily have to remove the note but perhaps just play a regular root down there or whatever.
 
 ## Melody
+## Stay within an octave
+This is a very general rule and your whole melody shouldn't adhere to this but preferably most of your melody. It makes it more singable but also if your melody is all over the octaves it's not a very stable and chaotic melody. Either way it's a good starting point to stay within an octave (or almost) and also it kind of alludes to not taking too big leaps (too many times).
+
+But again, it's super general and depends a bit on genre. Pop songs will have easy singable melodies because it's effective, less traditional and mainstream songs, especially super reliant on composition may develop into a few upper or lesser octaves. Also on candences and/or runs, arpeggios, glissandos are also often more than an octave. But again, check in your ferences how they do it. And also backing stuff doesn't necessarily need to adhere to this rule.
+
 ### Tone setting and target notes
 As I've written somewhere else (should I write this in song writing?) the top-end of the harmony determines a lot in terms of the mood and stableness of the harmony (the low-end is more like a setup for how ti judge the top-end. For example, in one of my songs, I had an upper string section to fill up mix (in the intro) but I felt like there was already too much unstability and it turned out that the top-end was a third which is not that unstable but also already wants to go a certain direction. Changing it to a fifth or octave was way better as it didn't want to go anywhere and it fit way better for in the intro.
 
