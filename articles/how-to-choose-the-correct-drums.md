@@ -16,3 +16,6 @@ Now, note that shorter doesn't mean more weak (though it's easy to fall into tha
 In genres like rap and trap, you'll usually want more longer kicks as those are genre-defining but again, the kick and bass are basically one entity (called an 808). Basically, the kick and bass always hit at the same time. Therefore, we don't need to have a strong standalone bass, just a strong and long kick and we are set.
 
 ## Tune or not to tune
+- https://www.youtube.com/watch?v=hTZzFvjZL8M
+
+It's a heavy debate but it isn't necessary to tune your kick unless in a few edge cases. In most cases your kick is more like a transient on the short side anyway so there is not much perceived harmony in there. That said, in hard style and heavy hip-hop the genre works and relies on (very) long subby and melodic kicks so of course there you'll want to tune your kick (and have it be equal to bass notes or act as bass itself). Also in very small cases your sub and kick may be too much in eachother's way even if SCed. But again, this is probably in 1-5% of cases a real problem and you can also solve it by finding a new kick of course.
