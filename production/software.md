@@ -25,9 +25,15 @@ Protip: Make a sidechain automation preset under "Channel presets" and/or even m
 It seems right now, it's a bit of a drag to organize automation clips since you cannot truly shorten them. Therefore, if you don't need the automation clip running for the whole song, for your own sake, you are best to just hightlight a small portion and then make the clip as big as you need it it to be. Easier reuse and you can actually merge short clips together like that.
 
 ### Shortcuts
+> If you hover over certain tools it may give you a shortcut option.
+
+- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/basics_shortcuts.htm
 - [comprehensive_compilation_of_advanced_fl_studio shortcuts](https://old.reddit.com/r/FL_Studio/comments/ep7jlf/comprehensive_compilation_of_advanced_fl_studio/)
 - https://www.youtube.com/watch?v=RBw-pdqus3k&t=88s
 
+Shift + B = select brush
+Shift + C = select cut
+Shift (in playlist) = cutting
 Ctrl + T in playlist = timestamp
 Ctrl + G when selecting multiple patterns = merging (works both vertically and horizontally)
 Ctrl + Alt + G Same as above but for automation clips
