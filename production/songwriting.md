@@ -4,6 +4,7 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
+1. [You can go a million ways with music](#you-can-go-a-million-ways-with-music)
 1. [Treat each section as a different song](#treat-each-section-as-a-standalone-song)
 1. [Mind the cadences](#mind-the-cadences)
 1. [Sound selection is imporant](#sound-selection-is-important)
@@ -26,6 +27,19 @@
 17. [Keep it simple](#keep-it-simple)
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+
+## Some basic formulaic ideas
+> Should this go in an article itself? Practical songwriting tips as I did with the mixing stuff? Should it go in the mixing article? Or maybe the chords/melody article?
+
+Having song and section structures that are familiar are easier for you to write but also easier for the listener to listen to. The 4 and 8 bars are super basic. Simply make all your sections 4 and/or 8 bars. Especially the chorus may be 8 bars (but the first chorus may be 4 bars). It doesn't need to be hard. Then if your section is 8 bars, the last 4 bars can be a simple repeat of the first 4 bars. So, you make a cool interesting 4 bars and then you can copy paste. To make it even more interesting change some things here and there but it doesn't need to be drastic if you don't have the ideas.
+
+The cadences. Usually around 4th and 8th bar but can be sooner as well depending on your song. Anyway, to make your song interesting and more alive, the cadences is a big step on which you can do so. You can put some crazy stuff on it. In dubstep that's supersaw stuff, in disco it may be the bass going crazy briefly. Again, make your 2nd bar cadence different from your 4th bar, and then again copy paste in your 8th bars section perhaps making the last cadece different too since it goes into a different section. So yeah, if you don't know where to put stuff to make your song more interesting, put it on the cadences. Also, again, fills and dominant chords, turn around sequences and chord cadences on those sections of course or some leaping melodies or whatever. The cadences are where it's at.
+
+Section hits. The first note is always a big hit. It's common to always have something hit on the first beat, the kick and bass, a stack and some FX, a cymbal, everything. Let people know it's a new section. Especially done in sections that you want to have a big entree like in the chorus.
+
+Again, all these are basic formulaic ideas and your song will sound good and way more alive. However, to make your song truly unique and a bit less predictable (read: boring) switch it up a bit in some parts. Maybe extend the chorus with a bar, maybe make a section only 2 bars, maybe in an 8 bar section don't have the last 4 bars repeat that much of the first but have it develop or be less energeic or whatever. Maybe start your cadence earlier than on the 2nd or 4th bar and stuff like that.
+
+TODO: Add more formulaic songwriting ideas.
 
 ## You can go a million ways with music
 There is no right way in music. You can go all different kinds of routes in music so don't stress that you need to go the perfect route. No, there is multiple routes, a lot. So don't stress about taking a route but also commit to the route when it is good enough. Again, if you want to take the music to a slow section because you think it fits the journey, then do it and execute it. If you think it needs to blast all the way, then do it like that (other composers may have added a slow section). There is no right answers. Look at references for guidance but always remember that there is no right way and that when reference A does x that it's not better than the idea that you had. It's different.
