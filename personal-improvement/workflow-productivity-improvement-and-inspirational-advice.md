@@ -36,6 +36,11 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Work on different sections
+So, making a TODO list is great but sometimes the seciton you picked to work on is kind of done and you get bored of it or maybe it's not going. In that case, don't worry too much about not (fully) completing your list item and move on to another section. Again, takes some discipline to actually start on that section but once you do it more and more it'll become a habbit.
+
+Also, make sure to not subsitute this for simply not being able or wanting to do a certain task.
+
 ## Learn to recognize sound
 In reference tracks try to recognize the highs in a sound in a mix, the mids, the lows and so on. Recognize the transients (both standalone and in sounds) the sustains, the detune, the voicings, other effects. Recognize the automations, the fx they might have used and other stuff. Try to get comfortable in recognizing all this stuff and you'll have a way easier time reproducing songs and improving your craft. Also, practice in your DAW with techniques and fx and you'll get some moments where you'll be like "Oh okay so that is how you get that sound/effect/thing".
 
@@ -88,6 +93,8 @@ Also, don't rely on tomorrow. And this is more life advice. You'll put stuff con
 
 ## Patience is a virtue
 You need to learn to be patient in music production. The more you do it, the faster stuff comes of course but to find a good kick or a good sound or a good melody or tweaking the velocity/articulation to be super realistic or a good whatever you need to experiment and be patient. You really need to. Calm down. Sit down. Relax. Be patient and don't beat yourself up if you don't have it from the first time. It's often normal and this is where you need to be patient and calculated. Don't feel like this is a race and stuff. It's box with legos and you're building it at your own pace.
+
+Also with simply working on your track. You may get excited because it's turning cool but you need to calm yourself down and learn to just take a breather, not be too attached and simply work on the sections without being too emotionally invested in it. If you're too invested and impatient you'll not get stuff done because it won't sound as you want and you'll give up too quickly. So learn to calm yourself down and just take everything a step at a time and not attach yourself to a possible result that may or may not let you down.
 
 This is also about following streams and tutorials and looking up stuff or trying to compose according to a reference. Don't try get bored. Don't try to be immediately distracted. Relax and sit through it. It's normal for it to take a bit or for you to fail. It's normal.
 
