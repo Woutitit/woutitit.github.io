@@ -6,7 +6,7 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 ## Melodic house: Mo Falk - Feel So Gud
 - https://www.youtube.com/watch?v=i4caLMZjeQ0
 
-
+First bass at 6:58. First of all it is sidechained. Wavetables are default in Serum and seems like the overal sound is nice as cool bass because the mids are little and lots of highs and good upper-lows.
 
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
