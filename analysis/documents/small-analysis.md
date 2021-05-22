@@ -3,6 +3,11 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## Mo Falk Masterclass
+- https://www.youtube.com/watch?v=ypy8_rHLG30
+
+So he never uses parallel compression and his tracks sound good so again use ott and mainly mutliband compression you know.
+
 ## J-rock: Final Fantasy Endwalker trailer (Song name?)
 Basing on (for now since actual song not out yet):
 - https://www.youtube.com/watch?v=TImbY9x-Eeg
