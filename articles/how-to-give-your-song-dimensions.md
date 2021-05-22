@@ -23,6 +23,8 @@ Also, simple loudness means much. You want less loud background elements and sup
 Reverb for depth examples
 - https://soundcloud.com/simonservida/cocktail. Notice how the reverb (only/mostly) on the rim gives it a spacious and super depthful mix). Reverb also seems to be automated to more and/or less alternating.
 
+Lastly, depth (as seen here: https://www.youtube.com/watch?v=ypy8_rHLG30) is also about more or less low-end/high-end. More "mud" = closer and more "air" = further away. Like high passing very high makes a sound very far away and then add to that reverb and stuff. Of course you can low pass and still reverb and make it sound depth but not necessarily far away.
+
 ## Width
 - https://www.youtube.com/watch?v=nRv9k1QAGEU
 - Other song I can't remember
