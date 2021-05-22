@@ -36,6 +36,14 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Use plugins that work (for you)
+Workflow is super important so you should stick with plugins that you know and learn to use those well. All delays kind of do the same, same with reverbs same with compressors and stuff.
+
+That said, don't settle for a plugin nor give up on one too fast. Learning a plugin always takes time so you cannot really judge it by having used it only once. You need to give it some time (if you believe in it) and if it still doesn't do what you want it to do (easily) then you can go and look for another plugin that does the same but easier/better for you/actually as you want it. It's a bit of trial and error, sometimes you'll get plugins you realize you don't need, other times you'll find that you settled for a certain plugin for too long while another is way better for your workflow for that task or actually achieves the stuff you want better/was easier.
+
+## There are always bigger mountains to climb
+Have a realistic expectation of satisfaction and worth tied to your music. There is always a new hill to climb. Always. You cannot reach perfection because there is always the next thing. Therefore, you need to learn to be satisfied with yourself now and enjoy the journey. You cannot think "But if x than I'll finally be happy and have piece". That doesn't work since there is always other stuff, it's a vicious cycle.
+
 ## Work on different sections
 So, making a TODO list is great but sometimes the seciton you picked to work on is kind of done and you get bored of it or maybe it's not going. In that case, don't worry too much about not (fully) completing your list item and move on to another section. Again, takes some discipline to actually start on that section but once you do it more and more it'll become a habbit.
 
