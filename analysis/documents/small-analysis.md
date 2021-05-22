@@ -22,7 +22,7 @@ BPM: 115
 
 Syncopation is when you put it off beat right? And what is swing? Common syncopation stuff?
 
-## Woman singing section
+### Woman singing section
 So again what you'll notice. Unlike the Twinning song we analyzed the bass here ain't like a fast going simple forward bass the bass is more walking but again it's walking with the melody mostly and sometimes it deviates a bit which is mainly in parts where melody stops a bit more and allows bass to do something but pretty much everytime the bass and melody play, they hit at the same time. Same with the chord stabs, again, very common to have chord stabs on strong beats and/or points you want to emphasize. But again the rhythms, while not the exact same t o keep stuff interesting are very much lining up though.
 
 The melody is made interesting first of all trhough use of syncopation. A lot in the melody is syncopated as is the bass as is the drum to kind of get away from the 4/4 straigth pushing feel, we want a more jazzy and mellow thing so that's why this gives a great effect.
