@@ -6,7 +6,7 @@
 
 Patcher is a very handy tool that is there to improve and visualize your workflow and can be either used as an instrument or an effect. What you can do in Patcher is visually add VSTs, such as Serum, and then on top of that add all kinds of post-processing fx to it. Or, you can use it as an FX and you can route your signal through the patcher instance. 
 
-So it's mostly handy for preset saving, flexibility in sound design, and then for the visual and drag-and-droppy stuff for people that prefer to do stuff visually.
+So it's mostly handy for preset saving, flexibility in (advanced) sound design, and then for the visual and drag-and-droppy stuff for people that prefer to do stuff visually.
 
 ### Saving instruments with multiple layers and post-processing
 It's very common that you have a certain sound that either comprises of multiple layers or has certain post-processing to make it the sound that it is. For example, check out the Mo Falk video, it's very common in modern house to have your basic bass have at least a sub, a mid crunch and then a side crunch layer. On top of that he also does a ton of fattening and compression in post. 
