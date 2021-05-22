@@ -8,6 +8,8 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 
 First bass at 6:58. First of all it is sidechained. Wavetables are default in Serum and seems like the overal sound is nice as cool bass because the mids are little and lots of highs and good upper-lows. He also doesn't fully high-pass his top bass but more likea heavily glue. I guess together with sidechain it may be a good/better way to glue sub and top since you don't lose frequencies?
 
+Also, in terms of rhythm. Again, it's mostly interesting layers but there is only one melodic rhythm on top of the 4/4 beat. How rhythm interesting? Look at the syncopation.
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
