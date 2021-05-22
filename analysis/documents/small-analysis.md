@@ -14,6 +14,8 @@ Notice basses here are layered but again mostly for interest, some transients an
 
 Also,; the layers, again, don't change much about the composition but it makes it very thicker and interesting and trhe sound themselves interesting but the composition still needs to be good regardless.
 
+Checxkout stereo layers and setting on serum patches of bass. Also the MB compression only change is gain and for distortion only change is like the dist amount mix is 100%. So that's usual?
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
