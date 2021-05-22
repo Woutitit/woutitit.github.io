@@ -3,6 +3,18 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## Basics of layering
+So, for a lot of sounds (that you want to have layered) the basic layers are a mid main signal and then a stereo layer and then one octaver layer up (and maybe down). Especially for bass you may do that in bass heavy music. Maybe also your supersaws but then maybe cool it on the bass again, you don't want to go overboard of course but these are the basic layers you can try for thickening and widening your mix but still having focused stuff. The dry/wet mix may vary too of course.
+
+Other, but less common but still common layers, are transient layers, white noise layers and other interest layers (sub layers maube too).
+
+## Basics of vocal production
+- At beginning here: https://www.youtube.com/watch?v=i4caLMZjeQ0
+
+the -12 +12 and 30 60 panning and then a main (best take) in the middle. Again depends on genre. Some songs may have solo singer (but of course you can still have reverb/delay) and others may have -12 + 12 and then stereo layers all the way.
+
+Also sometimes in cadence and stuff some harmonies other than -12 + 12 like often a harmony that may go down while the rest goes up.
+
 ## Kick(?) and (sub) bass
 So a lot of people (like here around 5min or sooner or later) say you need your bass to hit 0db to be thick. I guess that's sub bass then or? And also not in every genre or?
 
