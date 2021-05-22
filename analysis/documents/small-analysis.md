@@ -12,6 +12,8 @@ Also, in terms of rhythm. Again, it's mostly interesting layers but there is onl
 
 Notice basses here are layered but again mostly for interest, some transients and cuz it's bass heavy heavily compressed music not because necessary (though in pop bass also often acoustic + synth bass but again mostly because bass heavy part in songs like that as well).
 
+Also,; the layers, again, don't change much about the composition but it makes it very thicker and interesting and trhe sound themselves interesting but the composition still needs to be good regardless.
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
