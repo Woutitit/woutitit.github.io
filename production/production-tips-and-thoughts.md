@@ -3,6 +3,9 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## Kick(?) and (sub) bass
+So a lot of people (like here around 5min or sooner or later) say you need your bass to hit 0db to be thick. I guess that's sub bass then or? And also not in every genre or?
+
 ## No reverb trick
 - https://soundcloud.com/olemlanglie/hitech-study
 - https://soundcloud.com/olemlanglie/hitech-test
