@@ -3,6 +3,11 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## Melodic house: Mo Falk - Feel So Gud
+- https://www.youtube.com/watch?v=i4caLMZjeQ0
+
+
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
