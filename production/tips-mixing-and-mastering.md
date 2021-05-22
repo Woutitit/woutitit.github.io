@@ -43,6 +43,7 @@ This is a general guide for mixing and mastering. Important to note that it is g
 
 ## Relevant articles
 - See "Production thoughts" for more random but practical thoughts and the articles under the "Articles" header for more elaborate but practical stuff.
+- Masterclass: https://www.youtube.com/watch?v=ypy8_rHLG30
 
 ## Turn down mix to hear better
 This sounds weird but it really helps to turn down your mix or individual sounds to hear the mix better. This is because when stuff is loud you can kind of hear all frequencies and it's a bit hard to distinguish stuff. This is especially true when adding fx like EQ and compression. Turn down, like, your drum bus heavily and start adding compression (start exagerated and turn back) and you'll actually hear what the compressor does way better. Same about finding out whether a sound has a lot of transient or not. Turning it down will help with that as it "masks" the lower frequencies more than the higher ones.
