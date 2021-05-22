@@ -6,6 +6,8 @@ This chapter gives a few guidelines and questions to ask when you're analyzing a
 Also, this does not mean you need to go over all these things. Just go over the things that you want to analyze and concern you.
 
 ## List
+- Vocal production
+  - -12 +12 octaves? 30 60 panning? Solo or other harmonies? Other stuff?
 - Frequency wise, what is in the highs, lows and mids and what kind of sounds (transients? sustains? dark? bright?)
 - Reverb and delay. How much? Automation? On what (kind of) elements (the most)? What does it do to the (depth of the) mix?
 - Panning and stereo field. What is panned and how much? What is stereo and how much?
