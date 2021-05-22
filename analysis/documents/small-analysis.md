@@ -10,6 +10,8 @@ First bass at 6:58. First of all it is sidechained. Wavetables are default in Se
 
 Also, in terms of rhythm. Again, it's mostly interesting layers but there is only one melodic rhythm on top of the 4/4 beat. How rhythm interesting? Look at the syncopation.
 
+Notice basses here are layered but again mostly for interest, some transients and cuz it's bass heavy heavily compressed music not because necessary (though in pop bass also often acoustic + synth bass but again mostly because bass heavy part in songs like that as well).
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
