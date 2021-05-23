@@ -178,6 +178,8 @@ An EQ is also not useless, though. In fact we may often, after the MB simply boo
 
 To tame peaks it's fine  and to give some extra body and sustain is fine but then if you want to make it grittier and fatter you can afterwards add some MB to it.
 
+Lastly, it can also be used on busses since a few layers coming together may suddenly cause certain harmonics and ranges to shoot up so to glue everything more together and control everything just throw an MB on there as well. Again, use multiple MBs just for incremental change and different purposes (like controlling, brightening, flattening).
+
 ## Tips
 ### Synths don't need compression
 - https://musicianshq.com/do-synths-need-compression/#:~:text=Synths%20do%20not%20necessarily%20need,create%20a%20certain%20distinctive%20sound.
