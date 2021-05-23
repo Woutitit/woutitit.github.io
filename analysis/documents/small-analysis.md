@@ -16,6 +16,8 @@ Also,; the layers, again, don't change much about the composition but it makes i
 
 Checxkout stereo layers and setting on serum patches of bass. Also the MB compression only change is gain and for distortion only change is like the dist amount mix is 100%. So that's usual?
 
+Also very interesting comment about busses. Like he doesn't have a template with busses. Just buss when needed like feel like it when you have layers that need to be glued perhaps.
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
