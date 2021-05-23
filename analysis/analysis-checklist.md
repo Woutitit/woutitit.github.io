@@ -1,13 +1,35 @@
-# Analysis checklist
-
+# Analysis guide
 ## Introduction
-This chapter gives a few guidelines and questions to ask when you're analyzing a song from a music theory perspective (though perhaps I should make this a different article so I can include production aspects too).
+First a few tips to help you in analyzing, then tips to look out for whilst analyzing and a shortlist for stuff that doesn't need a lot of explanation.
 
-Also, this does not mean you need to go over all these things. Just go over the things that you want to analyze and concern you.
+## Quick tips
+- Look up piano sheet music/synthesia (e.g. sheet music boss channel) to quickly get an idea of what the chords and melody are. This can really help in case if you want to mainly analyze for music theory purposes as it can get though and take a long time to figure it out by ear.)
 
-## List
-- Vocal production
-  - -12 +12 octaves? 30 60 panning? Solo or other harmonies? Other stuff?
+- Replicate the harmony and melody to be able to visualize and analyze it. You can do that in MuseScore or in your DAW. The DAW is the quickest but in MuseScore is more learning because you are thinking about time and stuff and staff notation is generally clear so once done it gives a better overview than a DAW. 
+
+- Remake the stuff in a neutral piano first (both melody and harmony) and you can orchestrate later if you want to but a neutral piano will help a lot usually with figuring out the theory. Also, when figuring out harmony, try and first find the triads and only then concern yourself with voicings and extension. Also don't focus on rhythm yet, just hold the chords and try and find the correct harmony. Of course if it's about certain techniques (like a slap bass) you might want to try and get closer in certain parts.
+
+- Figure out the key, bpm and assigning timestamps on the song structure, as well as writing chords above bars and the time signature and stuff is all helpful stuff too. But yeah, all that stuff is in my "Analysis checklist" article. In short, if you want to figure out theory or technique behind a song, remake it and next to that do other analysis which you don't need a remake for. Save the sheet or DAW somewhere and put it here in the Analysis folder under "sheets and flps".
+
+- Checkout the span and the tonal balance of (un)mastered tracks (can even be a tutorial video) as that will then give a more real view to how the tonal balance of your references really are. Even better if there is mastered version of the track or if later in the livestream or tutorial they master it to really compare the before and after.
+
+## Overall spectrum
+Analyze the overall spectrum of the mix both in frequency and stereo. Use MSED and put on mono and then put on mids and then mainly with the mids see how the SPAN after it changes in concent so you can see where the stereo lies.
+
+## Frequency bands
+Very handy to know, especially for lower and sub area as that's important to get right. Also, use this in conjunction with span to visually see what's happening too. A very good combo here is the tonal balance 2 first and click+hold a band while checking out the spectrum in SPAN.
+
+Also, the stereo per band is handy too. Check how low and/or high the stereo goes and what.
+
+## Solo instruments
+In tutorials and showcase videos they'll often play the sounds indivdually. Therefore if you download and timestamp the videos you can actually get a lot of one-shot samples for yourself as well as one-shot samples to analyze. Very useful to see the harmonics of a certain timbre but also the width of a certain thing without it getting blurred by other stuff.
+
+Also, in FLPS, this is obviously very easy.
+
+In songs it will be hard and you may be able to convert some songs to stems through AI and more or less get solo tracks. However, look out for sections where instruments are (almost) soloed and try to analyze those still.
+
+## Shortlist
+- Vocal production: -12 +12 octaves? 30 60 panning? Solo or other harmonies? Other stuff?
 - Frequency wise, what is in the highs, lows and mids and what kind of sounds (transients? sustains? dark? bright?)
 - Reverb and delay. How much? Automation? On what (kind of) elements (the most)? What does it do to the (depth of the) mix?
 - Panning and stereo field. What is panned and how much? What is stereo and how much?
