@@ -9,7 +9,7 @@
 1. [Mind the cadences](#mind-the-cadences)
 1. [Sound selection is imporant](#sound-selection-is-important)
 1. [Transitions are important](#transitions-are-important)
-2. [Verse doesn't mean thin and sparse](#verse-doesnt-mean-thin-and-sparse)
+2. [Beef up verses and quiet sections](#beef-up-verses-and-quiet-sections)
 3. [Overdo, then delete](#overdo-then-delete)
 4. [Write around a theme](#write-around-a-theme)
 5. [Write in a neutral patch](#write-in-a-neutral-patch)
@@ -74,13 +74,15 @@ A transition is very important for flowing nicely into the other section. The la
 
 Either way, reference how people do it because depending on the genre the transition is more in composition or FX. Usually, transitions are either just an incrase in loudness at the end and business in the composition (and alludings to the next part) or it's the oppositse with brief quiet (though some composition alludingt too) and then going into the section. Or sometimes it may just be fully a compositional change (Like from I centered to IV centered perhaps).
 
-## Verse doesn't mean thin and sparse
+## Beef up verses and quiet sections
 - Example: Au5/Chime - Voidwalkers. Notice how full the "quiet sections" are.
 - Example: Warak - Whistle. Notice how some sections have almost same energy but still sound like chorus and verse.
 
 Just because you are somewhere in the song that isn't the chorus doesn't mean these sections need to be super thin. No, in fact, often if it's a regular verse section (rather than an actual full ballad break) you'll still have a lot of energy going on but just in a different way than the chorus and there are often some things taken away or changed up. You can try leaving out the sub (but keeping the mid bass) and/or you can change the hihat from open to closed. Like the changes can be small (like just a hihat change) or big and you have to reference tracks to see how they do it. Some tracks indeed have their verses very sparse compared to the chorus. It depends as in very vibe-y tracks like in DnB you may not want to lose the vibe so you want to have sections with quite some energy but just distributed in a different way ( a slight high-pass, less crazy drums).
 
 Also, take advantage of that the chorus is repeated multiple times, that's also a way in which you can make the chorus be more like a chorus. Also, you do want to keep in mind your energy levels, you probably want a bit of a break between two (long) sections with high energy where you do cool off a (slightly) bit. But again reference tracks and/or your genre to see how they are able to fill up their intros and verses despite wanting to hold back as they are not the chorus. It's a bit of an art form to get right.
+
+It's the same for quiet sections. Always try to find ways to add some backing stuff and some high-end (like keep hat going, some percussion, strings, other plucky transients) generally just for the sake of translating better on low low-end speakers but also to keep the volume consistency going. Again, in modern EDM and stuff you usually want to be constantely peaking 0db with whatever it is (maybe in quiet sections instead of kick you may have other plucks and transients low-energy but they are audible) and also a certain fatness for the consistency. So analyze how other tracks do it and beef up the quiet parts and verses. Also, there can of course be sections (small transitions) that are meant to be super quiet but again there you may at least want to think of some high-end and stuff to keep stuff perceivably more audible (on more devices).
 
 ## Overdo, then delete
 It may help generating ideas, whether that is a bassline, layers, song sections or whatever to not hold yourself back on generating a lot of different ideas and trying them all out. Like, you may start with a funky bass you like but then when adding more stuff on top you may find you need to slim down your bass line. Or with sections you are stuck but you should simply allow yourself to generate a few ideas and then you can pick the best one and delete the others. Again, just generate overdo, make your mix to busy and then think of things you can delete and take away.
