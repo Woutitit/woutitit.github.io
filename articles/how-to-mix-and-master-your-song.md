@@ -10,7 +10,7 @@ Tl;DR: Kind of.
 
 The loudness wars have been raging for a few years now. What it means is that people simply compress and push the gain as much as they can so they can get the absolute most out of the loudness of the song before it starts to distort. Basically, you want to put a limiter at 0db and be able to push the gain up as much as you can and the one that can do it the most (without distorting) wins the loudness wars. 
 
-The reason people did this is because loud songs sounds better in human ears especially if you hear a quiet song and then afterwards a loud song. This was done in ads for tv where advertisers tried to be louder than the one before them just to catch the listeners ears more
+The reason people did this is because loud songs sounds better in human ears especially if you hear a quiet song and then afterwards a loud song. This was done in ads for tv where advertisers tried to be louder than the one before them just to catch the listeners attention more.
 
 These days, though, we have loudness normalization on streaming services that basically have very intelligent ways to look at the actual loudness of a song. One of those ways is LUFS (developed in light of the advertisers trying to push loudness on tv). Basically, if you have a song with a lot of transients and then the same song super compressed just for loudness sake, both will kind of be normalized to sound the same volume on the streaming services because the LUFS doesn't look at peaks but more like a very intelligent average loudness, which for both songs are kind of the same (like it's the sausage in the middle of transients on a visual audio file). However, the one song still has all its punch and transients while the other has that all compressed out of the song.
 
