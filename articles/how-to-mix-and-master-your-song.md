@@ -3,7 +3,7 @@ Put practical mixing and mastering techniques here (like put OTT put soft clippe
 
 Like mastering not only about slapping a limiter on but also shifting the mix. Do you want a bright mix? a dark mix? in between? Like look at OTT you can literally shape the whole balance from darker to brighter. So yeah the balance but the balance also a bit in the mix and stuff and depends on genre and reference.
 
-## Tip: Ozone 9
+## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
 ## Low dynamic range
@@ -19,7 +19,9 @@ A **good trick** is to occasionally render out a mastered (or unmastered) versio
 Why again important?
 
 ## Master limiter at 0db and push gain
-So put your last brickwall limiter's ceiling at 0db, the point where the audio would clip (why clip though?) and then push your mix, with the gain knob in the limiter, to the 0db ceiling (in Fruity Limiter). Depending on whether you want your mix's dynamics to be fully out of there (think modern EDM) or still keep them (think a more traditional orchestra or jazz song) you can either push your gain up until it distorts too much (for the modern edm) or at least until a few peaks reach 0db (else you're just missing out on free loudness) in case of the more traditional song.
+It's common to have a brickwall limiter at the end of your master chain. However, rather, than bringing down the ceiling to brickwall your mix, you should have your ceiling at 0db, the point where the audio would clip (why clip though?) and then push your mix, with the gain knob in the limiter, to the 0db ceiling (in Fruity Limiter). Depending on whether you want your mix's dynamics to be fully out of there (think modern EDM) or still keep them (think a more traditional orchestra or jazz song) you can either push your gain up until it distorts too much (for the modern edm) or at least until a few peaks reach 0db (else you're just missing out on free loudness) in case of the more traditional song.
+
+few things avoids clipping tho some use it to taste but u'd want to use soft and not hard clipping
 
 ## EQ balancing
 Usually you'll do some (minor) frequency balance. Common things are a -1db on lows and +1 on highs or you may want to match your reference a bit more. Either way, it should be subtle and if you find yourself doing too much you might want to fix it in the mix for a cleaner result.
