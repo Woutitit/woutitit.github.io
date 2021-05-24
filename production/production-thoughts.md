@@ -10,8 +10,9 @@ Other, but less common but still common layers, are transient layers, white nois
 
 ## Basics of vocal production
 - At beginning here: https://www.youtube.com/watch?v=i4caLMZjeQ0
+- https://old.reddit.com/r/musicproduction/comments/njror5/is_it_common_to_record_mix_vocals_like_this/
 
-the -12 +12 and 30 60 panning and then a main (best take) in the middle. Again depends on genre. Some songs may have solo singer (but of course you can still have reverb/delay) and others may have -12 + 12 and then stereo layers all the way.
+Basically you have a few vocal takes. The best one goes in pan in the middle and then it's up to you to layer. Some may just need some quieter backing vocals and then panned 30 60 for some thickness, others may benefit from -12 and + 12 of those (?) vocals as well. Some may have no layers (in some sections) but then you have more reverb and delay perhaps or more busy mix in general (like not a focus on vocals).
 
 Also sometimes in cadence and stuff some harmonies other than -12 + 12 like often a harmony that may go down while the rest goes up.
 
