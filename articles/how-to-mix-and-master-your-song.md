@@ -15,6 +15,14 @@ But yeah, for most of my personal mixes, I'd want to strive for low dynamic rang
 
 A **good trick** is to occasionally render out a mastered (or unmastered) version of your track and check the dynamics. Your track needs to look more or less like a sausage. Of course, depending on the section and busyness the sausage may be a bit more fatter in some parts than others. Every part that doesn't come quiet to the tops of the dynamic range you have to investigage. For example, if your verse is a couple of dbs less loud than your chorus then you'll actually probably want to turn up your verse by either adding maybe some transient plucks to reach the loudness or turning your stuff up that you already have or adding other stuff to come there (or semi-fix it by pulling your brickwall limiter a bit more down but you may find it distorts the rest too much or loses too much punch). Else, your verse will just sound weak and your chorus will sound super loud. Now, mind that not every section and little part needs to come at the top. For example, you don't have to artificially try to raise a (very) quiet part to reach the absolute. And it's also not necessary. However, the most parts of your song should be reaching it (assuming a modern pop-ish production).
 
+## Leave 6d db headroom
+Why again important?
+
+## Master limiter at 0db and push gain
+So put your last brickwall limiter's ceiling at 0db, the point where the audio would clip (why clip though? And then push your mix, with the gain knob, to the 0db ceiling (in Fruity Limiter) and then seeing how far you can push it. You can also just push it and only push the gain up until most peaks hit the 0db stuff (or beyond) or you can go super dense and fat and keep pushing until you find it starts to sound distorted.
+
+But yeah, ceiling at 0db, clip level, and then pushing gain up is better practice than lowering your ceiling. Do you need o normalize than actually? i gues not so added benefit (?).
+
 ## EQ balancing
 Usually you'll do some (minor) frequency balance. Common things are a -1db on lows and +1 on highs or you may want to match your reference a bit more. Either way, it should be subtle and if you find yourself doing too much you might want to fix it in the mix for a cleaner result.
 
