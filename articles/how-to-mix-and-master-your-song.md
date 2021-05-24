@@ -14,11 +14,11 @@ The reason people did this is because loud songs sounds better in human ears esp
 
 These days, though, we have loudness normalization on streaming services that basically have very intelligent ways to look at the actual loudness of a song and then balance all songs to be of similar actual loudness on the service. One of those ways is LUFS (developed in light of the advertisers trying to push loudness on tv). Basically, if you have a song with a lot of transients and then the same song super compressed just for loudness sake, both will kind of be normalized to sound the same volume on the streaming services because the LUFS doesn't look at peaks but more like a very intelligent average loudness, which for both songs are kind of the same (like it's the sausage in the middle of transients/peaks on a visual audio file). However, the one song still has all its punch and transients while the other has that all compressed out of the song.
 
-This is why the loudness wars are over in that regard, you do not need to pull exagerated mastering and compression techniques that don't bring anything to the quality to the song but loudness only so that your song is louder than the others on Spotify.
+This is why the loudness wars are over in that regard. You do not need to pull exagerated mastering and compression techniques (that don't bring anything to the quality or fatness of the song but loudness) only so that your song is louder than the others on Spotify.
 
 That said, there are a few caveats. 
 
-First if all, not every device and service has loudness normalization so not mastering for loudness would mean that on those services and devices you may potentially have a quiet song.
+First of all, not every device and service has loudness normalization so not mastering for loudness would mean that on those services and devices you may potentially have a quiet song.
 
 Also, compression means fatness and consistency. Having (more) compressed (and/or saturated) transients means the body of your song will/can be louder (see compression article) and thus ulitmately more fatness and consistency in your song which is what we like in commercial EDM and similar genres. Again, it's always the tradeoff between keeping the punch and adding loudness/fatness/consistency. That's also why the overly compressed song will still be perceived as "louder" but due to the lack of punch in it and perhaps audible distortion, it may actually be the worse song, especially on loudness normalized platforms like Spotify. Therefore, **the ideal master is somewhere in the middle where you add loudness/fatness with compression/saturation but where you still retain enough of the punch**.
 
