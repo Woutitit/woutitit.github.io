@@ -21,6 +21,12 @@ Also very interesting comment about busses. Like he doesn't have a template with
 #### Drop
 Small reverse as well. Like that reverb trick I guess and then he reversed it, maybe it was in the other video he did the 12hr one that showed the trick. Watch that one
 
+Also, in this kind of drops we see the supersaw stack play only the very strong one beat per usual but then after that it's on target notes/emphasis. Makes drop not too loud and busy and also just more interesting and then on the fill right before beat one. This is very common, even the final fantasy analysis had piano also mostly play chords and/or intervals on target notes and emphasis stuff.
+
+So yeah play with what bass notes the chords emphasize. Also, this is for this kind of genre and drop there maybe other lesss rhythmic genres or other genres where you may want chords all the way with the bass so it depends of course. Again referece and see what's up.
+
+Also lot of syncopation swing in the bass line for energy.
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
