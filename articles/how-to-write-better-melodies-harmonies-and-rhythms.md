@@ -25,6 +25,13 @@ Also, if you end up making a bass line or a bass line that is kind of funky and 
 A chord progression is very stealable while a melody is a bit harder stealable. Steal progressions you like and slightly modify them (like the rhythm the voicings) to fit your song. It's ok, everyone does it.
 
 ## Melody
+- https://www.youtube.com/watch?v=Q8qSHzrz-Tc
+
+## It's about rhythm, contour, scale and range
+These are the four main things to think about when constructing a melody. With the rhythm you'll think about whether you need something energetic or more stable and floaty. With the contour you may modify the journey of the melody where you could have a "stable" flat contour or a more "rise and fall" (like the classic "question-answer") kind of pattern. The scale will add to the flavour and perhaps also the journey depending on where we are in the journey. And lastly, the range is also used to determine a journey, a huge range upwards may be a big epic rise and downwards it may be the opposite while a normal one octave range signifies less epicness but a more stable and singeable journey.
+
+These 4 are also very useful to think about in terms of analysis since you can think of stuff like, why did they use create x contour? Oh, it's because it sounds epic in the journey. Or, why did they have a huge melody range when the normal range is an octave. Oh it's because y reason. And so and so forth.
+
 ## Stay within an octave
 This is a very general rule and your whole melody shouldn't adhere to this but preferably most of your melody. It makes it more singable but also if your melody is all over the octaves it's not a very stable and chaotic melody. Either way it's a good starting point to stay within an octave (or almost) and also it kind of alludes to not taking too big leaps (too many times).
 
