@@ -1,7 +1,6 @@
-# How to master and balance your song
-Put practical mixing and mastering techniques here (like put OTT put soft clipper put all that stuff like high pass, low shelf).
-
-Like mastering not only about slapping a limiter on but also shifting the mix. Do you want a bright mix? a dark mix? in between? Like look at OTT you can literally shape the whole balance from darker to brighter. So yeah the balance but the balance also a bit in the mix and stuff and depends on genre and reference.
+# How to mix and master
+## Introduction
+Unlike popular belief, mastering is mostly about enhancing and coloring the mix the way you want it. This can mean adding a tiny dot of reverb, adding some extra width, perhaps reshaping your mix's EQ curve a bit and stuff like that.
 
 ## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
