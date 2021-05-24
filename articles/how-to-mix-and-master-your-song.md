@@ -5,6 +5,23 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 ## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
+## To leave headroom or not
+- https://medium.com/@adrian.price/common-music-production-myths-bb7c4880aaa0
+- https://theproaudiofiles.com/6-db-headroom-mastering-myth-explained/
+
+TL;DR: Nope.
+
+Mastering engineers back in the old days asked for "-6db headroom", that is 6db until stuff starts to clip. Reason being that if you're song is at 0db, there isn't much for mastering engineers that they can do in terms of balance reshaping, coloring, adding loudness without stuff clipping and apparently turning down the volume of the track wasn't an option as it screwed up the quality or balances or something.
+
+Either way, the point is, in our current *digital* age it doesn't matter at all since all a master engineer needs to do is pull down -6db on the pre-master (i.e. the audio file of the mix before mastering) if he wants the 6db of headroom. Pulling it down comes without any cost.
+
+## Preparing the pre-master
+Make sure your pre-master doesn't clip so that when rendered out to go to mastering there aren't bad sounding artifacts in it. Since it's rendered out, there is no way to fix those at the mastering stage. Also, if you want to soft clip the master to color the mix, you can do that in mastering stage and simply keep your pre-master clean. It's way more flexible since you can tweak the order in the fx chain, severeness and shape of the clipping based on all the other master fx you have.
+
+*Intermezzo: If your pre-master is close to hitting 0db at some points you may want to turn it a bit down if you want to be cautious and assure yourself that your pre-master isn't clipping. Again, as said in one of the previous tips, whether your pre-master is at -20db or 0db doesn't matter since you can just turn it up/down with the volume fader, so rather be more cautious than potentially too hot.*
+
+With headroom not mattering, there is even less reason to brickwall your pre-master. Again, some pre-masters are naturally more compressed and brickwalled (like EDM) than others (traditional jazz) but leave in all the natural dynamics and transients in your because once you compressed them out of yout track, you cannot get them back. Therefore, just leave those things in so that in the mastering stage you can make the decisions on how much of those dynamics you leave in and/or how you process/compress/limit the dynamics.
+
 ## Low dynamic range
 So usually most "normal" modern (pre-master) mixes generally have a (very) low dynamic range over the whole course of a song. This is nice for consistency reasons as then the listener doesn't need to turn up and/or turn down your song all the time. In quieter sections, usually other techniques are used other than taking away volume (like having low-passes, plucks at high volume) so that even at those point the volume is close to the peak loudness in the song. Of course, there might be some (brief) moments where the music is considerably less loud but it's usually and perhaps the perceived loudness (high frequency content) is still there.
 
