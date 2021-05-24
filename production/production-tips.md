@@ -42,6 +42,7 @@
 This is a general guide for mixing and mastering. Important to note that it is general and thus depending on the genre you'll want to do or not do these tips (or not exagarate as much). Again, use a reference track and/or do some research to find out what the mixing techniques are used ofr the type of vibe you want to create.
 
 ## Relevant articles
+- See this directory for more in depth on topics discussed here.
 - See the "articles" directory for actual practical production, mixing and mastering advice.
 - See the "Production thoughts" article in here for more random production thoughts.
 
