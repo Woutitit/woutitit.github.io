@@ -60,3 +60,4 @@ how many bars
   - Ascending/descending pattern?
   - Phrasing or more drone-y?
   - What harmony strong notes/target notes with underlying stuff? 
+  - What rhythm? Vs. underlying harmony. Vs. beat. And how they complement?
