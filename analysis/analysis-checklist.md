@@ -54,6 +54,9 @@ how many bars
 - Sound design: what effects useage/do they do to make sounds interesting?
 - Cadences? Dominant chords on there? Resolvement? How they play around with it?
 - Melody
+  - Contour?
+  - Scale?
+  - Range?
   - Ascending/descending pattern?
   - Phrasing or more drone-y?
   - What harmony strong notes/target notes with underlying stuff? 
