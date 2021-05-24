@@ -6,13 +6,23 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
 ## To master for loudness or not
-Tl;DR: Nope.
+Tl;DR: Kind of.
 
 The loudness wars have been raging for a few years now. What it means is that people simply compress and push the gain the as much as they can so they can get the absolute most out of the loudness of the song before it starts to distort. Basically, you want to put a limiter at 0db and be able to push the gain up as much as you can and the one that can do it the most (without distorting) wins the loudness wars. 
 
 The reason people did this is because loud sounds better in human ears especially if you hear a quiet song and then afterwards a loud song.
 
-These days, though, we have loudness normalization on streaming services that basically have very intelligent ways to look at the actual loudness of a song. One of those ways is LUFS. Basically, if you have a song with a lot of transients and then the same song super compressed just for loudness sake, both will kind of be normalized to sound the same volume on the the LUFS doesn't look at peaks but more like a very intelligent average loudness, which for both songs are pretty much the same (like it's the sausage in the middle of transients on a visual audio file). However, the one song still has all its punch and transients while the other has that all compressed out of the song.
+These days, though, we have loudness normalization on streaming services that basically have very intelligent ways to look at the actual loudness of a song. One of those ways is LUFS. Basically, if you have a song with a lot of transients and then the same song super compressed just for loudness sake, both will kind of be normalized to sound the same volume on the streaming services because the LUFS doesn't look at peaks but more like a very intelligent average loudness, which for both songs are kind of the same (like it's the sausage in the middle of transients on a visual audio file). However, the one song still has all its punch and transients while the other has that all compressed out of the song.
+
+This is why the loudness wars are over in that regard, you do not need to pull exagerated mastering and compression techniques that don't bring anything to the quality to the song but loudness only so that your song is louder than the others on Spotify.
+
+That said, there are a few caveats. 
+
+First if all, not every device and service has loudness normalization so not mastering for loudness would mean that on those services and devices you may potentially have a quiet song.
+
+Also, compression means fatness and consistency. Having (more) compressed (and/or saturated) transients means the body of your song will/can be louder (see compression article) and thus ulitmately more fatness and consistency in your song which is what we like in commercial EDM and similar genres. Again, it's always the tradeoff between keeping the punch and adding loudness/fatness/consistency. That's also why the overly compressed song will still be perceived as "louder" but due to the lack of punch in it and perhaps audible distortion, it may actually be the worse song, especially on loudness normalized platforms like Spotify. Therefore, **the ideal master is somewhere in the middle where you add loudness/fatness with compression/saturation but where you still retain enough of the punch**.
+
+So yeah, in the end, for EDM and modern stuff, you still want to mix and master for fatness but you don't necessarily need to destroy your tracks and over compress them (especially on the master) simply to gain a few dbs in loudness but at a price of completely sucking the life out of your track and/or audibly disorting it. Rather, try to find the sweet spot between getting stuff to be loud and fat but also still (perceivably) punchy. So, most loudness advice still applies but don't destroy your tracks over it.
 
 ## To leave headroom or not
 - https://medium.com/@adrian.price/common-music-production-myths-bb7c4880aaa0
