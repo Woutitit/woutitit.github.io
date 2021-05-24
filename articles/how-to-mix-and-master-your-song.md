@@ -6,6 +6,8 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
 ## To master for loudness or not
+> Maybe put this point in the production tips article. 
+
 Tl;DR: Kind of.
 
 The loudness wars have been raging for a few years now. What it means is that people simply compress and push the gain as much as they can so they can get the absolute most out of the loudness of the song before it starts to distort. Basically, you want to put a limiter at 0db and be able to push the gain up as much as you can and the one that can do it the most (without distorting) wins the loudness wars. 
