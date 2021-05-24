@@ -19,9 +19,7 @@ A **good trick** is to occasionally render out a mastered (or unmastered) versio
 Why again important?
 
 ## Master limiter at 0db and push gain
-So put your last brickwall limiter's ceiling at 0db, the point where the audio would clip (why clip though? And then push your mix, with the gain knob, to the 0db ceiling (in Fruity Limiter) and then seeing how far you can push it. You can also just push it and only push the gain up until most peaks hit the 0db stuff (or beyond) or you can go super dense and fat and keep pushing until you find it starts to sound distorted.
-
-But yeah, ceiling at 0db, clip level, and then pushing gain up is better practice than lowering your ceiling. Do you need o normalize than actually? i gues not so added benefit (?).
+So put your last brickwall limiter's ceiling at 0db, the point where the audio would clip (why clip though?) and then push your mix, with the gain knob in the limiter, to the 0db ceiling (in Fruity Limiter). Depending on whether you want your mix's dynamics to be fully out of there (think modern EDM) or still keep them (think a more traditional orchestra or jazz song) you can either push your gain up until it distorts too much (for the modern edm) or at least until a few peaks reach 0db (else you're just missing out on free loudness) in case of the more traditional song.
 
 ## EQ balancing
 Usually you'll do some (minor) frequency balance. Common things are a -1db on lows and +1 on highs or you may want to match your reference a bit more. Either way, it should be subtle and if you find yourself doing too much you might want to fix it in the mix for a cleaner result.
