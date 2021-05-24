@@ -36,6 +36,9 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Listen to music and load a few up in the DAW
+Seriously, if you're feeling uninspired or you don't know what you're doing is ok (or you feeel what you're doing is boring and stale), put your ego aside, and listen music. Just listen music, preferably something you want to make. Get inspired, notice the little details (techniques, stuff they use to make it interesting) maybe and if you have to, load one or more in your DAW and mimick them in structure and style. Do that and then after that make it different. Different melodies, sections whatever.
+
 ## Use plugins that work (for you)
 Workflow is super important so you should stick with plugins that you know and learn to use those well. All delays kind of do the same, same with reverbs same with compressors and stuff.
 
