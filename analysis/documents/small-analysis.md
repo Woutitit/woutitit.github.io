@@ -18,6 +18,9 @@ Checxkout stereo layers and setting on serum patches of bass. Also the MB compre
 
 Also very interesting comment about busses. Like he doesn't have a template with busses. Just buss when needed like feel like it when you have layers that need to be glued perhaps.
 
+#### Drop
+Small reverse as well. Like that reverb trick I guess and then he reversed it, maybe it was in the other video he did the 12hr one that showed the trick. Watch that one
+
 ## Mo Falk Masterclass
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
