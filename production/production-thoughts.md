@@ -3,6 +3,16 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## Distort then MB
+It's common to distort and then MB. Again maybe put this in the practical compressor tips? And/or practical distortion tips?
+
+Like you add all the setup and stuff and then boom you compress and shape them the way you want. Like the distortion is more like timbre oriented and then MB also a bit but mostly brightness/darkness oriented.
+
+## Distortions in series
+So I was a bit suprised when I saw people using distortions in parallel thinking why you can't just crank up one more. I'm not 100% certain but it appears that the distortions all have different kinds of distortion so they all add different kinds of harmonics so adding to fatness whilst also adding to the timbre and making a different kind of timbre.
+
+Like, having 2 tube distortions in series isn't much use (like it's just the same extra harmonics but added two times in which case, just crank up the one distortion plugin more) just like 2 exact same audio signals layered is just double loud.
+
 ## Compression is about that makeup gain
 I was for a while confused why the MB compressor in Serum made stuff less loud. Well, it's kind of obvious because it's (mostly) downward compression. Compression is about bringing the loudest levels down. Therefore you need to use the *makeup gain* knob to bring it back to the level it was peaking before the compression. Same with master limiting. Don't lower your ceiling, keep it at 0db (right where stuff would start to clip) and instead push the makeup gain upwards.
 
