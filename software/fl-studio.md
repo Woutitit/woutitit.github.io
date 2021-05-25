@@ -1,4 +1,9 @@
 # FL Studio
+## Add layer
+> There may be a shortcut to add layer
+
+Basically you can add Layer as a VST just like Sytrus or Serum. And then you need to copy the MIDI in the layer and then you need to select all VSTS that need to use that layer in the channel rack with the small vertical rectangle that turns green and then in layer hit the option "Set children" and you're done.
+
 ## Patcher
 - https://www.youtube.com/watch?v=N11la5x5MDk&
 - https://www.youtube.com/watch?v=AMCm6qtYkh8 (See patcher trick chapter)
