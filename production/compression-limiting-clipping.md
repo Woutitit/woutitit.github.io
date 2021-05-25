@@ -16,7 +16,10 @@
 11. [Tips](#tips)
 
 ## Introduction
-- Good explanation: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Fruity%20Limiter.htm
+//
+
+## Resources
+- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Fruity%20Limiter.htm
 
 ## What is a compressor
 A compressor is a device that **reduces the dynamic range of a signal**. Say we have a certain sound sample. Accross its duration, the sample fluctuates between 2db and 20db loudness, an 18db dynamic range. To reduce this, we can put the signal through a compressor. Through the compressor settings we can tell it to turn down the signal whenever it goes above a certain threshold in loudness. For example, anytime it goes above 18db, we might want to turn the signal down in volume so that the overall signal is less fluctuating in dynamic range.
@@ -51,7 +54,7 @@ A useful thing about clipping to reduce dynamic range, though, is soft clipping.
 In short, a (soft) clipper can be reduced on the highest peaks on your master chain to attenuate the highest transients and replacing them with distortion. Again, you can''t really push it since the distortion will soon be audible especially if it starts clipping more than just transients. However, the peaks thats you CAN inaudibly distorts is essentially a gain in dynamic range whislt still "keeping" your transients (maybe like 0.5-1db). And after that, now you can slam your brickwall limiter on which now has to work less and also can't chop the transients of as much since parts of those are replaced with distortion anyway. Similarly, a soft clipper (or saturator? same thing?) can also be used on individual transient heavy elements (or sounds with high transient peaks, percussion drum buss, plucks) for the same purpose. Again, you can't slam the limiter fully down as it will either distort too much or be too noticeable but for those sounds where transients are important (or integral), this can be a useful technique to try and shave off a 1 or so db without having to compress and or limit. So you'd use this before your peak reduction compressor usually so you have to reduce less peaks (?).
 
 ## Compressor vs. limiter vs. clipper
-Both a compressor and a limiter are similar to eachother. First of all, in there attempt to reduce the dynamic range, they try to retain the original waveform shape as much as possible. That is, it has sort of a look-ahead functionality so that it will actually try to keep the original waveform at the point it should be attenuated but just at a less loud volume/less big amplitude (Of course, at some point even the limiters and compressors can't do but distort the signal in order to carry out the compression). A compressor has a ratio you can set and the threshold is sort of a guideline. With a limiter, the ratio is basically infinite and the threshold is a ceiling making for much thighter and strict compression. A clipper, as said, is distortion. It technically reduces dynamic range by running a signal too hot, completely chopping off the peaks. It has no look-ahead whatshowever so the chopped off peaks are the final result.
+Both a compressor and a limiter are similar to eachother. First of all it's important to understant that, in their attempt to reduce the dynamic range, they try to retain the original waveform shape as much as possible. That is, it has sort of a look-ahead functionality so that it will actually try to keep the original waveform at the point it should be attenuated but just at a less loud volume/less big amplitude (Of course, at some point even the limiters and compressors can't do but distort the signal in order to carry out the compression). A compressor has a ratio you can set and the threshold is sort of a guideline. With a limiter, the ratio is basically infinite and the threshold is a ceiling making for much thighter and strict compression. A clipper, as said, is distortion. It technically reduces dynamic range by running a signal too hot, completely chopping off the peaks. It has no look-ahead whatshowever so the chopped off peaks are the final result.
 
 So a compressor and limiter have some overlapping usages. The usage of a clipper vs. those is basically if you want/need to retain the transients. As said, a compressor and limiter will attenuate the signal to be quieter so the transients will be made quieter. With clipping, the transients will be chopped off but as said, the distortion sounds as transient so it seems like the transient is preserved. A clipper does sound like distortion very quickly. Therefore, a clipper on a sound is usually used to chop off the loudest peaks but still preserving the transients. If clipping too hard, or the sound is too sustain-y, you'll distort. Oppositely, with limiting (and compresion), if you limit too hard, your sound will be void of any transient as anything in your sound is same volume (you may still have some transients, as a short burst of high frequency content also makes part of the transient, but it will be too much reduced).
 
@@ -59,6 +62,13 @@ So a compressor and limiter have some overlapping usages. The usage of a clipper
 Before we dive into how a compressor works I'd want to note that compression itself is a tradeoff. You're always trading of the raw audio quality for e.g. lessened peaks or for the sake of loudness and fatness. In a mix the latter attributes are more desirable but if you'd hear the sound on itself, it does not sound as good as it once did (though it sounds loud). So yeah, it really is finiding that sweet spot where it sounds as fat as you want in your mix (or other things) and where the quality is not lessened too much. 
 
 If you're a bit experienced you'll hear this lack in quality also in a lot of masters vs. unmastered mixes. The mastered mix sounds very loud, louder than the unmastered mix. However, if you'd compare both at a reasonably loud level you'll notice that there are some slight distortions/clipping artifacts going on or that a lot of stuff is being really fat and not really as punchy and pure as in the mix. You'll also often hear that in sample packs where you might hear the audio quality is not decent on a certain sample, it's probably because it's already been compressed to hell which brings out artifacts and stuff. Though, this is not necessarily (though it can be) a porblem as in a mix context, and especially a loud master context, the rest will be brickwalled. So use these samples with caution and if you know they will sound good in the master, else look for some less compressed higher quality stuff.
+
+## Importance of transparant compression
+With compressing, especially regular compressing, the goal is to usually be as "transparant" as possible](https://en.wikipedia.org/wiki/Transparency_(data_compression)#:~:text=In%20data%20compression%20and%20psychoacoustics,has%20no%20perceptible%20compression%20artifacts.)
+
+In other words, you want your compressed signal to sound like it's not being compressed as much as you can since then that means your sound is still sounding as it should. Of course you still do want to achieve your compressor goals so a balance needs to be struck between the too.
+
+Generally speaking, setting a slow attack and release will be the most transparant. In fact, set the slowest attack and release and no matter the ratio or threshold, your signal will barely get compressed and even if it gets compressed, there will never be big fluctuations in your sound due to the slow release. Add in a very low ratio, in fact the lowest 1:1 and you have the most transparant compression: no compression at all.
 
 ## Compression vs. volume automation
 So you could argue that if you want a signal to be quieter at certain parts in your mix, you could just automate the volume. That's a viable question and in fact, if all you need is to simply have a vocal be less loud in a verse than it is in the chorus, you can do it this way.
@@ -91,14 +101,6 @@ Controls how much the signal above the threshold needs to be compressed.
 ### Todo
 - Knee?
 - Sustain?
-
-## Transparant compression
-I'll share some techniques in a moment but if you're using compressors to actually compress stuff you'll usually want to make your compressed signal [as "transparant" as possible](https://en.wikipedia.org/wiki/Transparency_(data_compression)#:~:text=In%20data%20compression%20and%20psychoacoustics,has%20no%20perceptible%20compression%20artifacts.)
-
-In other words, you want your compressed signal to sound like it's not even being compressed at all since then that means your sound is still sounding as it should. Of course you still do want to achieve your compressor goals so a balance needs to be struck between the too.
-
-Generally speaking, setting a slow attack and release will be the most transparant. In fact, set the slowest attack and release and no matter the ratio or threshold, your signal will barely get compressed and even if it gets compressed, there will never be big fluctuations in your sound due to the slow release. Add in a very low ratio, in fact the lowest 1:1 and you have the most transparant compression: no compression at all.
-
 
 ## Compression goals
 (Note: this section needs to be added to/changed until I learn more about compression)
