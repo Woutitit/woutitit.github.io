@@ -13,6 +13,8 @@ So I was a bit suprised when I saw people using distortions in parallel thinking
 
 Like, having 2 tube distortions in series isn't much use (like it's just the same extra harmonics but added two times in which case, just crank up the one distortion plugin more) just like 2 exact same audio signals layered is just double loud.
 
+Or it's like the distortion plugins may tube saturate but then do something else with it as well. Just like saturn. Still same thing but behind the scense I guess they kind of shape it a bit too to bring out certian harmonics creating certain timbres.
+
 ## Compression is about that makeup gain
 I was for a while confused why the MB compressor in Serum made stuff less loud. Well, it's kind of obvious because it's (mostly) downward compression. Compression is about bringing the loudest levels down. Therefore you need to use the *makeup gain* knob to bring it back to the level it was peaking before the compression. Same with master limiting. Don't lower your ceiling, keep it at 0db (right where stuff would start to clip) and instead push the makeup gain upwards.
 
