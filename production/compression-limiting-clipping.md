@@ -127,6 +127,7 @@ Also, while this one is fairly safe to use on one-shots or a sample with only on
 
 A last thing also. Often, this technique will also reduce/squash the transients. To preserve that, you can make your attack a bit slower so the transients still come through whilst the rest gets nicely compressed. And bonus tip, since this might mean that now your transients are too loud since they are not compressed, you can add a peak tamer compressor (commonly done) before this compressor to tame the peaks. This way you get the nice "umpf" without losing transients AND your transient peaks will also never be too loud since they've been shaved off slightly already preemptively.
 
+## Compression techniques
 ### 3. Parallel compression
 So then there is parallel compression (a.k.a. rear-end or new york compression). This one is also used to give more "umpf" to the sound but usually used more on (drum) busses (even the master) and loops and stuff since it kind of remedies the problem we had with the previous example where compressor settings might not be ideal for multiple elements. With this compression technique we can give "umpf" while preserving the natural sound and dynamics of our sound regardless of whether it is a one-shot, a loop or a buss.
 
