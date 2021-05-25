@@ -15,6 +15,8 @@ https://www.twitch.tv/videos/1000244350?filter=all&sort=time
   - Subtle FX on top basses for extra interest.
 - Normal compression not super important, mostly distortion and MB.
 - Less widening and less high-passing and less MB compression than I thought (up until 1hr at least in the video)
+- Supersaws not distorted (I think) and not much MB'ed again to keep cleanness and make bass give the grit. Also super simple but layers with piano and one other piano thingy
+to make it more beefy though.
 
 #### Bass
 saw and icanhaskick and then the saw 2 voices both -1 slight detune only and then just a matter of filter automation to like have the highs come in a bit later (slightly) and then a bit of phase flanger distort and then maybe slight MB in there. Also hyper on it on 30% and stuff. I should put this somewhere. EQ at around 100-150Hz (plenty room for sub).
