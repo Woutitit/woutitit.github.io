@@ -26,6 +26,13 @@ One caveat, though, not every device and service has loudness normalization so n
 
 Either way, to summarize, for EDM and modern stuff, you still want to **master AND mix and compress and MB and OTT and saturate for fatness** but you don't necessarily need to compress with the sole function to destroy your tracks simply to gain a few dbs in loudness but at a price of completely sucking the life out of your track and/or audibly disorting it. Rather, try to find the sweet spot between getting stuff to be loud and fat but also still (perceivably) punchy. So, most loudness advice still applies but don't destroy your tracks over it.
 
+## To mix for loudness or not
+> Put this in the mixing and mastering article.
+
+So theoretically you wouldn't really need a whole lot on the master to make your mix sound loud and fat. You can get 80% there by doing it in the mix if you need it. Now I'm mainly talking EDM and modern stuff where we like to have a lot of fatness and loudness. Simply compressing the shit out of stuff, distorting stuff, clipping stuff can all be done on individual elements already so you don't need to rely (that heavily) on the master to solve this, it can all happen in the mix itself.
+
+That said, of course it depends. For EDM you want to multi-band, compress, distort the shit out of a lot of stuff but again it depends on genre and the instruments.
+
 ## To leave headroom or not
 - https://medium.com/@adrian.price/common-music-production-myths-bb7c4880aaa0
 - https://theproaudiofiles.com/6-db-headroom-mastering-myth-explained/
