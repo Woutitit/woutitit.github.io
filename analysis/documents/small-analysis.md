@@ -28,6 +28,8 @@ is 2nd curcnhy bass also stereo?
 
 was there any filter on his bass
 
+maybe compare with synthion bass.
+
 bass making starts at 00:46 i think (like in minutes
 
 so notices how he indeed uses different kinds of distortion in parallel for different kinds of harmonics and timbres i think but all very fat not much multiband yet though.
