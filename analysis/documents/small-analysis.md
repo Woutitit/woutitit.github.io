@@ -13,6 +13,7 @@ https://www.twitch.tv/videos/1000244350?filter=all&sort=time
   - Top bass layers high-passed around 100-150Hz
   - MB at the end for some high-end and also general control of all the distortion
   - Subtle FX on top basses for extra interest.
+- Normal compression not super important, mostly distortion and MB.
 
 #### Bass
 saw and icanhaskick and then the saw 2 voices both -1 slight detune only and then just a matter of filter automation to like have the highs come in a bit later (slightly) and then a bit of phase flanger distort and then maybe slight MB in there. Also hyper on it on 30% and stuff. I should put this somewhere. EQ at around 100-150Hz (plenty room for sub).
