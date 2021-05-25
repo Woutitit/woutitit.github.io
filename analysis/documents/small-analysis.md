@@ -17,6 +17,7 @@ https://www.twitch.tv/videos/1000244350?filter=all&sort=time
 - Less widening and less high-passing and less MB compression than I thought (up until 1hr at least in the video)
 - Supersaws not distorted (I think) and not much MB'ed again to keep cleanness and make bass give the grit. Also super simple but layers with piano and one other piano thingy
 to make it more beefy though.
+- Supersaw chords in his case closed i guess cuz layered with higher stuff as well and also i guess not have to be super huge and rangy. And starting from C4 and up so again the body whether no basses or yes bassed in it is always like from C4 and up it seems (if basses and fifths it may go down to C3 or even C2).
 
 #### Bass
 saw and icanhaskick and then the saw 2 voices both -1 slight detune only and then just a matter of filter automation to like have the highs come in a bit later (slightly) and then a bit of phase flanger distort and then maybe slight MB in there. Also hyper on it on 30% and stuff. I should put this somewhere. EQ at around 100-150Hz (plenty room for sub).
