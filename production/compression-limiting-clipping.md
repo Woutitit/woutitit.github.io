@@ -100,7 +100,7 @@ In other words, you want your compressed signal to sound like it's not even bein
 Generally speaking, setting a slow attack and release will be the most transparant. In fact, set the slowest attack and release and no matter the ratio or threshold, your signal will barely get compressed and even if it gets compressed, there will never be big fluctuations in your sound due to the slow release. Add in a very low ratio, in fact the lowest 1:1 and you have the most transparant compression: no compression at all.
 
 
-## Compression techniques
+## Compression goals
 (Note: this section needs to be added to/changed until I learn more about compression)
 
 There are tons of ways of using a compressor, whether that is how you set its settings or how you use/chain it in your fx chain, but here I will try to cover the most basic and common use cases for compressors.
