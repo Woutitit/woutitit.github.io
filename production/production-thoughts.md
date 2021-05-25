@@ -3,6 +3,9 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
+## Compression is about that makeup gain
+I was for a while confused why the MB compressor in Serum made stuff less loud. Well, it's kind of obvious because it's (mostly) downward compression. Compression is about bringing the loudest levels down. Therefore you need to use the *makeup gain* knob to bring it back to the level it was peaking before the compression. Same with master limiting. Don't lower your ceiling, keep it at 0db (right where stuff would start to clip) and instead push the makeup gain upwards.
+
 ## Basics of layering
 So, for a lot of sounds (that you want to have layered) the basic layers are a mid main signal and then a stereo layer and then one octaver layer up (and maybe down). Especially for bass you may do that in bass heavy music. Maybe also your supersaws but then maybe cool it on the bass again, you don't want to go overboard of course but these are the basic layers you can try for thickening and widening your mix but still having focused stuff. The dry/wet mix may vary too of course.
 
