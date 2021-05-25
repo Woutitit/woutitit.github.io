@@ -6,9 +6,13 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 ## Melodic house: 12hr song
 https://www.twitch.tv/videos/1000244350?filter=all&sort=time
 
-Shorter version on it youtube
-
-but basically 
+### Main takeaways
+- Typical EDM house bass:
+  - 3 layers. 2 crunchy, one slightly saturated sub.
+  - Layered on with distortion to shape timbre and fatness
+  - Top bass layers high-passed around 100-150Hz
+  - MB at the end for some high-end and also general control of all the distortion
+  - Subtle FX on top basses for extra interest.
 
 #### Bass
 saw and icanhaskick and then the saw 2 voices both -1 slight detune only and then just a matter of filter automation to like have the highs come in a bit later (slightly) and then a bit of phase flanger distort and then maybe slight MB in there. Also hyper on it on 30% and stuff. I should put this somewhere. EQ at around 100-150Hz (plenty room for sub).
@@ -18,6 +22,8 @@ Easy. Just again 1 voice saw and then some 5-7 voices again as 2nd osc. And then
 
 #### Sub
 He actually interesting way to sub instead of saturating or low passing saw he does a -1 0 +1 with the 0 being half or less of the -1 and then the +1 is half of the half or even less as slight warmth that's all.
+
+is 2nd curcnhy bass also stereo?
 
 was there any filter on his bass
 
