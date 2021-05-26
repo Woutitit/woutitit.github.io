@@ -138,6 +138,9 @@ Basing on (for now since actual song not out yet):
 - https://www.youtube.com/watch?v=TImbY9x-Eeg
 - https://www.youtube.com/watch?v=77SSvm5_JQc (piano and also has MIDI download!)
 
+## Todo
+- Also a "master class" in how to if you have weird different sections how to still make it cohesive and return to main theme
+
 ### Tropes and takeaways
 - Cadences are always dom/chord, pre-dom chord
 - Build interest with making next 4 bars harmonic rhythm double fast every 2 bars, fast resolving cadence.
