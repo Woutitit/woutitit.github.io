@@ -136,6 +136,7 @@ So he never uses parallel compression and his tracks sound good so again use ott
 ## J-rock: Final Fantasy Endwalker trailer (Song name?)
 Basing on (for now since actual song not out yet):
 - https://www.youtube.com/watch?v=TImbY9x-Eeg
+- https://www.youtube.com/watch?v=77SSvm5_JQc (piano and also has MIDI download!)
 
 ### Tropes and takeaways
 - Cadences are always dom/chord, pre-dom chord
