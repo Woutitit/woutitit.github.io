@@ -32,9 +32,12 @@ Here are the steps I go through when cleaning (don't worry, it looks more work t
 - Cut automation clips to be only the part where they actually automate
 - Clean up playlist
   -  Usually drums on one track and instruments pattern on one track 
-  -  Samples grouped. Automations grouped.
+  -  Samples grouped
+  -  Automations grouped.
 - If applicable, clean up mixer routing and bus layers (e.g. the sub and top bass)
 - Other...?
+
+*Important note: In the playlist, try to aim for the least tracks as possible because that's what will make your project actually overseeable. For me that's usually two tracks for my drum pattern and then my instruments pattern. Then for the (one-shot) samples try to also limit the tracks. Just place them when then there is room on the "sample track" else place them a track down. It's annoying to have simple one-shot samples placed 10-15 tracks down just because in another section of the song you have samples play that occupy the other first 10 tracks. By placing them when there is room you (which can be freed up from section to section, right?) you just place them and you might end up with 3-4 tracks which is much easier to oversee than the 30 tracks you had initially just because you use 30 different one-shots (which may even just be used once). It also helps to see the sequence of samples easier and how they play out with the song. For longer samples like a top drumloop you just also treat them as a single track as it may get confusing else. Same for automations though I'm still on the fance on maybe I can also do the one-shot technique of the samples, just place them in the automation lane and if no room, just under. But maybe again for the real small automations only, for the longer ones treat them as one lane. Also maybe name them because with automations it does become a bit confusing what automates what, especially if you'll do the one-shot sample technique.*
 
 After all this your project file should be easy again to edit and the barrier for you to get in and work on the project is low(er) (without the cleaning there would be some annoying inconveniences preventing you to be creative so you kind of give up quicker before you even start). Also, the file should simply look way cleaner now too, giving you mental rest and energy to go in there and work on your song.
 
