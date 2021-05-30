@@ -9,6 +9,16 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 ## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
+## Mastering basic chain order
+- https://www.youtube.com/watch?v=_2XIICPAYpk
+
+- Dynamics (compression/MB for peak reducing)
+- Equalizing
+- Stereo imaging
+- Limiting
+
+What is a maximizer then?
+
 ## To master for loudness or not
 > Maybe put this point in the production tips article. 
 
