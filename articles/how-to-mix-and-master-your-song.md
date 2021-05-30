@@ -84,10 +84,10 @@ few things avoids clipping tho some use it to taste but u'd want to use soft and
 ## EQ balancing
 Usually you'll do some (minor) frequency balance. Common things are a -1db on lows and +1 on highs or you may want to match your reference a bit more. Either way, it should be subtle and if you find yourself doing too much you might want to fix it in the mix for a cleaner result.
 
-Dent in around 2k frequency range because that's very common where ears are super painful.
+Dent in around 2k frequency range (especially in sides) because that's very common where ears are super painful.
 
 ## Stereo imaging
-You'll usually stereo image the bands. The sub you'll put in mono, the mids you'll give some width and for the air and hugeness you usually give the highs a lot of width (I think?) as a general guideline.
+You'll usually stereo image the bands. The sub you'll put in mono (> 100Hz) (doesn't need to always be 100%), the mids you'll give some width and for the air and hugeness you usually give the highs a lot of width (I think?) as a general guideline.
 
 Also, often shelving the mids in the high frequencies a bit to then boost the sides in the high frequencies so you can push+hear/boost(?) the lows and mids (which are usually mono/more mono) in the mid signal.
 
