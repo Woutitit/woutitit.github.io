@@ -87,6 +87,8 @@ Usually you'll do some (minor) frequency balance. Common things are a -1db on lo
 ## Stereo imaging
 You'll usually stereo image the bands. The sub you'll put in mono, the mids you'll give some width and for the air and hugeness you usually give the highs a lot of width (I think?) as a general guideline.
 
+Also, often shelving the mids in the high frequencies a bit to then boost the sides in the high frequencies so you can push+hear/boost(?) the lows and mids (which are usually mono/more mono) in the mid signal.
+
 ## Brickwall limiter
 At the end(?) of a mastering chain comes the brickwall. This is basically a limiter (what ADSR settings though) where you can do two things. Either you push it down until you hit your loudest points in the loudest parts of the mix (a bit further) and then you're sure that nothing above that is sounding. Or, in heavy/modern genres, you might push this even more down up until the point where you lose punch and/or where it starts to distort. This is for the even louder in your face vibe but if the music doesn't call for it, just brickwall it as good practice since there may always be some very short high transients that you'll want to chop off (especially with LUFS you might not need super brickwal). Though keep a true peak meter in your shelf to check as well some stuff.
 
