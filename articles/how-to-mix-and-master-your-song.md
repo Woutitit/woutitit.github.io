@@ -2,6 +2,10 @@
 ## Introduction
 Unlike popular belief, mastering is mostly about enhancing and coloring the mix the way you want it. This can mean adding a tiny dot of reverb, adding some extra width, perhaps reshaping your mix's EQ curve a bit and stuff like that.
 
+## Relevant resources
+- https://www.youtube.com/watch?v=_2XIICPAYpk
+- https://www.youtube.com/watch?v=ypy8_rHLG30
+
 ## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
