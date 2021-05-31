@@ -3,12 +3,21 @@
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
-## Distort then MB
-It's common to distort and then MB. Again maybe put this in the practical compressor tips? And/or practical distortion tips?
+## Why you need mixing FX and a sound is never perfect out of the box
+For example you may have a synth that is a certain patch that's super rich and fill. The preset sounds totally fine solo so you decide to make a dense chord with it and layer it with another synth. Well in that case then of course you need to realize that you'll need to EQ and stuff on that to make them sit and fit well with the other layer. There is no way in hell that the sound maker could know that you'd use make a dense chord out if and on top of that layer it with another sound, i.e. use it in that kind of context.
 
-Like you add all the setup and stuff and then boom you compress and shape them the way you want. Like the distortion is more like timbre oriented and then MB also a bit but mostly brightness/darkness oriented.
+Same with if you're adding certain leads together as a single lead. Again, the highs might get out of control because of the mashing together so you might need MB compression there so again these sounds weren't originally meant to be  layered together. On top of that, you may want some presence so you boost EQ but again that's very context dependent and the sound maker couldn't have possible known you needed the presence and at what frequency. Or another one, how a bell isn't resonant when you just play one note of the patch but because you want to make chords out of the bell and play it quick, of course there are frequnecies that are going to stack.
 
-## Distortions in series
+The point is, the place and role and how you use the sound in the mix makes it impossible for a sound to (usually) be truly fit for the mix. There may be too much or too little reverb, the way you stacked the notes makes stuff muddy with other instruments so you might need to EQ out more low-end or the way you filter them with a high Q brings resonances at certain points. That's not a fault  in the sound, that's just you doing stuff with the audio.
+
+So this should be liberating a bit because it means that you shouldn't be afraid to just use mixing techniques when you hear and see problems because it can be absolutely normal. Especially the more you understand a certain sound. Again, for example with the bells, you may get resonances when chords and/or played fast while a one off bell ring and slow play is totally fine. Or if you play a piano in a long sustain-y-kind-of-slow-harmonic-rhythm-padding-kind-of-way you know you can beef up the sustain with compression with a slow release but you shouldn't try that on a very fast and stabby piano. So it's really more thinking about the context and appropriatness in the mix and what a certain sound needs (or doesn't need and may have).
+
+## X processing, then compress/MB/OTT
+So it's common to control your signal through compression along the way. Like you may OTT your stuff first to bring out the sound, then you may do some crazy combfilters or automations or modulations with it which then also need some controlling. You may then layer it with leads which yet again the bus may need some controlling.
+
+Like maybe you don't need all these MBs/compressors but often it's a bit of a journey because the longer you develop the sound it's easier to not mes with stuff and add it to it. So that's why there maybe more compressors and stuff and fx in general on the chain then needed. But unless it bricks your CPU or it's easy to reduce the amount of ( duplicate/redunant) fx on the chain, just keep it.
+
+## Why distorting in serie helps
 So I was a bit suprised when I saw people using distortions in parallel thinking why you can't just crank up one more. I'm not 100% certain but it appears that the distortions all have different kinds of distortion so they all add different kinds of harmonics so adding to fatness whilst also adding to the timbre and making a different kind of timbre.
 
 Like, having 2 tube distortions in series isn't much use (like it's just the same extra harmonics but added two times in which case, just crank up the one distortion plugin more) just like 2 exact same audio signals layered is just double loud.
