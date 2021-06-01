@@ -11,9 +11,11 @@
 Here I post all the reference tracks I find useful. Perhaps post also the genre and whether it's mainly for mixing or compositional reference or both.
 
 ## Tracks
-- Dubstep/Color bass: [ Figment - Neddie (The Sass remix)](https://soundcloud.com/the-sass-music/neddie-figment-the-sass-remix)
-- Brostep/Melodic dubstep: [Jump - The Sass](https://soundcloud.com/the-sass-music/jump)
+- Dubstep/Color bass: [Neddie - Figment (The Sass remix)](https://soundcloud.com/the-sass-music/neddie-figment-the-sass-remix)
+- Brostep/Melodic dubstep: [The Sass - Jump](https://soundcloud.com/the-sass-music/jump)
 - EDM/House: [12hr song Mo Falk (needs to be released still)](https://www.youtube.com/watch?v=pWXL0e0a5Gc)
+- Chiptune: [Stevia Sphere - Misplaced Keys](https://www.youtube.com/watch?v=EjzUYYXgKZU)
+- Chiptune: [Saiph - DreamRiserh] https://soundcloud.com/take_314/dreamriser-massive-8bit-arrange
 
 ## How to use a reference track
 *TODO: Add stuff and maybe put somewhere else.*
