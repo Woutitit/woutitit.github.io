@@ -16,6 +16,7 @@ Here I post all the reference tracks I find useful. Perhaps post also the genre 
 - EDM/House: [12hr song Mo Falk (needs to be released still)](https://www.youtube.com/watch?v=pWXL0e0a5Gc)
 - Chiptune: [Stevia Sphere - Misplaced Keys](https://www.youtube.com/watch?v=EjzUYYXgKZU)
 - Chiptune: [Saiph - DreamRiserh] https://soundcloud.com/take_314/dreamriser-massive-8bit-arrange
+- Chiptune: [Umeboshi Chazuke + Chroma - Omoide Note](https://soundcloud.com/definitely-robert/umeboshi-chazuke-chroma-omoide-note)
 
 ## How to use a reference track
 *TODO: Add stuff and maybe put somewhere else.*
