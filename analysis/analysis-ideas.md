@@ -27,6 +27,7 @@ You can also take a song and analye
 - Au5 Dubstep tutorial: https://www.youtube.com/watch?v=oLBqmi0ot_g
 - Dubstep mixing/mastering: https://www.youtube.com/watch?v=E5p8nzYI0AM
 - Melodic Dubsetp Mo Falk (FREE FLP, LET'S ANALYZE!): https://www.youtube.com/watch?v=oH0udEn8x-k
+- Very cool chiptune: https://www.youtube.com/watch?v=qGkhbNor5Yg
 
 ## Courses
 - [Mo Falk Masterclass](https://www.youtube.com/watch?v=ypy8_rHLG30)
