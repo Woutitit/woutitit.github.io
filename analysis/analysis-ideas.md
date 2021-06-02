@@ -28,6 +28,11 @@ You can also take a song and analye
 - Dubstep mixing/mastering: https://www.youtube.com/watch?v=E5p8nzYI0AM
 - Melodic Dubsetp Mo Falk (FREE FLP, LET'S ANALYZE!): https://www.youtube.com/watch?v=oH0udEn8x-k
 - Very cool chiptune: https://www.youtube.com/watch?v=qGkhbNor5Yg
+- Twitter videos (e.g. this dude https://twitter.com/Street_DTM/media):
+  - Chord progression: https://twitter.com/Street_DTM/status/1340423923331002368
+  - Chord progression: https://twitter.com/Street_DTM/status/1308696175390859264
+  - CP: https://twitter.com/Street_DTM/status/1308679711581638662
+  - And this dude has many more. Just pick one out. Again it's easy for us because we can see the chords and voicings
 
 ## Courses
 - [Mo Falk Masterclass](https://www.youtube.com/watch?v=ypy8_rHLG30)
