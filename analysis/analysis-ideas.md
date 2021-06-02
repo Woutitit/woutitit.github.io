@@ -33,6 +33,7 @@ You can also take a song and analye
   - Chord progression: https://twitter.com/Street_DTM/status/1308696175390859264
   - CP: https://twitter.com/Street_DTM/status/1308679711581638662
   - And this dude has many more. Just pick one out. Again it's easy for us because we can see the chords and voicings
+  - DL the vids if too low quality.
 
 ## Courses
 - [Mo Falk Masterclass](https://www.youtube.com/watch?v=ypy8_rHLG30)
