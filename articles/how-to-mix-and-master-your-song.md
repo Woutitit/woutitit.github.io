@@ -6,6 +6,11 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 - https://www.youtube.com/watch?v=_2XIICPAYpk
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
+## To master to -14 LUFS or not
+TL;DR: No.
+
+It doesn't matter. It's only the threshold that your stuff will be either raised or lowered to on streaming services with normalisation. Rather, master to the LUFS of your reference tracks, that's the only thing that matters.
+
 ## Use Ozone 9
 Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot in FL studio, handy), as is Maximus to a lesser extend (it also has stereo stuff and saturation). It has an assistant and all the plugins you can place in there to master.
 
@@ -15,9 +20,7 @@ Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot 
 - Dynamics (compression/MB for peak reducing)
 - Equalizing
 - Stereo imaging
-- Limiting
-
-What is a maximizer then?
+- Limiting (maximizing)
 
 ## To master for loudness or not
 > Maybe put this point in the production tips article. 
