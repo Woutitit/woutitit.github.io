@@ -4,6 +4,7 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
+1 [Aliveness and variation is important](#aliveness-and-variation-is-important)
 1. [You can go a million ways with music](#you-can-go-a-million-ways-with-music)
 1. [Treat each section as a different song](#treat-each-section-as-a-standalone-song)
 1. [Mind the cadences](#mind-the-cadences)
@@ -27,6 +28,9 @@
 17. [Keep it simple](#keep-it-simple)
 18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+
+## Aliveness and variation is important
+So we've talked about dimensions (here or in the production tips article) but what really makes a song sound professional and - more importantly - interesting
 
 ## Some basic formulaic ideas
 > Should this go in an article itself? Practical songwriting tips as I did with the mixing stuff? Should it go in the mixing article? Or maybe the chords/melody article?
