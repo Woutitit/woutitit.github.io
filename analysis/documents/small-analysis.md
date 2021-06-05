@@ -8,7 +8,11 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 - Or on Google Drive (hopefully) with same name as title
 
 Chord prorgression:
-IV - ii III vi - vi bV
+IV - ii III - vi V - bV - vi bV - (VII - bII)
+ii - vii bVII - vi - bvi - v(dim?) - bV
+
+IV - ii III - vi (bvi V) - bV - vi bV - (VII - bII)
+ii - vii III - vi - bVI - vi
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
