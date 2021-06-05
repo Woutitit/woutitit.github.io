@@ -21,4 +21,9 @@ This is a document to basically have all the short summarizations of each analys
 - It's also on my drive with similar name as title (hopefully).
 
 - Bass harmony and melody hit at the same time, usually on target/emphasis tones. In between you have the melody (and a bit the bass) swinging.
- 
+- No dissonant rhythms. AS we've seen, bass and harmony and melody all hit at the same time on target notes. In this case on 1 beat and sometimes syncopated hits. In between more sparse and interplay bass and melody.
+- Harmony makes all the exotic stuff happen while melody stays safe. Very effective since top line decides "real" harmony. And so, because underlying is exotic but top line is safe (3s, 5s,7s 9s mainly as target notes) it sounds exotic but not too dissonant. Very effective! Of course in between target notes melody can be a bit more exotic too with passing notes, encapsulations, chromatism and all that stuff.
+- Melody in beginning safe (= create home base and tonal center). More and more exotic melody lines and target notes on dom chords and/or cadences or drone notes after it. Then from second 4th bar we start safe again (not that we ever go super heavy into exotic target notes).
+- Substitutions. The bass seems to be shifted sometimes from the chord making the chord sound more exotic while still keeping the same leading tones in that chord (since exentions stay the same).
+- The Hitchcock chord (min/maj7) as ending!
+- The first turn around is more dissonant and less resolving than the second turn around with the second actually having the bass play the real root notes this time.
