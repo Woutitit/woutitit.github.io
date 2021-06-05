@@ -7,12 +7,29 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 - https://twitter.com/Street_DTM/status/1308696175390859264
 - Or on Google Drive (hopefully) with same name as title
 
-Chord prorgression:
+Chord prorgression (roman numerals):
 1. IV - ii III - vi V - bV - vi bV - (VII - bII)
 2. ii - vii bVII - vi - bvi - v(dim?) - bV
 
 3. IV - ii III - vi (bvi V) - bV - vi bV - (VII - bII)
 4. ii - vii III - vi - bVI - vi
+
+Harmony (chords + bass + melody):
+    IV          ii         III           vi         V            bV           VII       bII
+1. A#maj7(9) - Gmin9(13) A7b9(13) - Dmin7(9)(11) Cmaj9(11) - B7(#9)(b13) (E7(#9)(b13) F#maj(11))
+
+    ii         vii     bVII           vi         bvi            V           VII       bII
+2. Gmin7(9) - Eb5(7) D7#(9)(13) - Dmin7(9)(11) C#min7(b13) - C7(#9)(13) (B7(9)(13) Amajadd11(13))
+
+    IV          ii         III           vi         V            bV           VII       bII
+3. A#maj7(9) - Gmin9(13) A7b9(13) - Dmin7(9)(11) Cmaj9(11) - B7(#9)(b13) (E7(#9)(b13) F#maj(11))
+
+4. 
+
+Harmony (chords + bass):
+
+
+Harmony (chords):
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
