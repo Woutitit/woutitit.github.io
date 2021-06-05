@@ -27,3 +27,4 @@ This is a document to basically have all the short summarizations of each analys
 - Substitutions. The bass seems to be shifted sometimes from the chord making the chord sound more exotic while still keeping the same leading tones in that chord (since exentions stay the same).
 - The Hitchcock chord (min/maj7) as ending!
 - The first turn around is more dissonant and less resolving than the second turn around with the second actually having the bass play the real root notes this time.
+- Fifth, while it's in melody often omitted in harmony because no information in it and just clutter, especially when you have so many extension on such a small space already.
