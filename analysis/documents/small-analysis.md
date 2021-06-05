@@ -22,16 +22,10 @@ Harmony (chords + bass + melody):
 4. Gmin7(9) -  E7(#9) - A7(#9)(b13) - Dminadd9add13 - C#maj7(11) C#maj(11)(13) - Dminmaj7(9) 
 ```
 
-Harmony (chords + bass):
-// Same as with melody. Melody doesn't add anything to extenions.
-
-Harmony (chords no bass):
-//
-
 Melody target notes:
+```
 maj7 - maj9 - min9 (on a dom chord/cadence) - 5 - maj9 - min3 - maj3 - maj7 - maj9 - min3 - 13 (on a dom chord/cadence) - 5 - b13 - 13 - 13 - 13
-
-
+```
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
