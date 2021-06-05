@@ -236,7 +236,7 @@ Next to that, before it hits the limiter, we usually throw in some coloring (lik
 ## Sound selection vs. processing
 Really, a great mix starts with great sound selection. In an ideal world the sounds you pick are perfectly complementary and you'll see that you really do not have to mix a whole lot. Just the basic enhancing stuff like EQ, balancing, compression and saturation. *Usually* you don't really have to like process a sound to make it go from shitty to decent. Sure, often a sound will sound "way different" but usually that's simply more saturation, more reverb, stereo width and stuff like that and then the other part are more subtle things to not blow ears off or hit master too quickly. Basically, if you have the good sound, most of the time you should be able to turn off the processing and more or less still hear the same song without that fluff (as in, you can hear the idea and it does kind of vibe already).
 
-*Intermezzo: Look at 11:00 https://www.youtube.com/watch?v=xJSPcXDqsaE here. Just hear how the first drums with the hats makes that stuff sound so super funky and groovy.*
+*Intermezzo: Look at 11:00 https://www.youtube.com/watch?v=xJSPcXDqsaE here. Just hear how the first drums with the hats makes that stuff sound so super funky and groovy. Or, in the video, how a piano is simply too much for a chill vibe, we want more rhodes!*
 
 That said, in reality you should try and do the same but often you'll find yourself that you find a certain sound like and has potential but just sounds shitty and in those cases you might want to process hard. It's always a bit of a thing where you have to see whether it's worth processing or whether your better of flicking through more sound until you found a good one.
 
