@@ -8,14 +8,16 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 - Or on Google Drive (hopefully) with same name as title
 
 Chord prorgression (roman numerals):
+```
 1. IV - ii III - vi V - bV - vi bV - (VII - bII)
 2. ii - vii bVII - vi - bvi - v(dim?) - bV
 
 3. IV - ii III - vi (bvi V) - bV - vi bV - (VII - bII)
 4. ii - vii III - vi - bVI - vi
+```
 
 Harmony (chords + bass + melody):
-´´´
+```
     IV          ii         III           vi         V            bV           VII       bII
 1. A#maj7(9) - Gmin9(13) A7b9(13) - Dmin7(9)(11) Cmaj9(11) - B7(#9)(b13) (E7(#9)(b13) F#maj(11))
 
@@ -26,7 +28,8 @@ Harmony (chords + bass + melody):
 3. A#maj7(9) - Gmin9(13) A7b9(13) - Dmin7(9)(11) Cmaj9(11) - B7(#9)(b13) (E7(#9)(b13) F#maj(11))
 
 4. Gmin7(9) -  E7(#9) - A7(#9)(b13) - Dminadd9add13 - C#maj7(11) C#maj(11)(13) - Cminmaj7(9) 
-´´´
+```
+
 Harmony (chords + bass):
 // Same as with melody. Melody doesn't add anything to extenions.
 
