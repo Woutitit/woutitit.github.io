@@ -11,10 +11,6 @@
 
 The first one specifically focuses on music theory and will, for the most part, disregard anything else. The latter focuses on the other stuff like song writing, sound design, timbres and layering and all that good stuff.
 
-
-## Sound design
-> See "Sound recipes".
-
 ### Instrumentation
 - Steel drums. Very common in tropical sounding music:
     - Main lead sound in [【Higetify】Tropical Palette -2020 Re:build-](https://www.youtube.com/watch?v=lklVipGoYiA)
@@ -61,7 +57,9 @@ https://www.youtube.com/watch?v=ukFIhHBtXHE
     - 3:45 [Bill wurtz - here comes the sun](https://www.youtube.com/watch?v=zNTaVTMoNTk)
 - CHORDS- The royal road progression. Incredibly popular, especially in VGM and anime. You do need to modify it and be creative and substitute chords to not fully sound cliché
     - https://www.reddit.com/r/anime/comments/b1z1yg/the_royal_road_progression_an_absurdly_common/
- 
+- CHORDS - Hitchock chord. It's a min/maj7 chords and it's a very common jazz SONG (sometimes section) ending chord (or line cliché chord). Other uses too?
+    - https://twitter.com/Street_DTM/status/1308696175390859264
+    
 ### Transitions
 - Pryda snare. Often used right before drop or next part, often full song cuts out and one pryda snare hits
     - [Generic example] (https://www.youtube.com/watch?v=9iO-Cv1pU7w)
