@@ -1,6 +1,10 @@
 # Software tips (FL, Synths, VSTs, etc.)
 As the title state, this is some nice helpful tips on software. It's home to useful hot-key combos, how to do certain things in software (e.g. make a vibrato in x or why synth, how to use a certain sample library) and those sorts of things. It shouldn't be super in depth but stuff can be explained.
 
+## Diva
+### Enable MIDI velocity
+In Diva there is a VEL lever. Pull it full up to have Diva get fully affected by the MIDI velocity notes in the FL Studio piano roll. Anything less and Diva will be less affected by it.
+
 ## dBlue Glitch (1.3)
 It's the earlier but free version of Glitch 2 and similar to Effectrix (though effectrix is more capable probably). It's a handy tool because you can create cool fx with very little effort. Like, you hear often PSYQUI stuff that is super glitch and stuttery on some notes, well you can do that in Glitch 2.
 
