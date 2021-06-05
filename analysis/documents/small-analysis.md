@@ -7,15 +7,6 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 - https://twitter.com/Street_DTM/status/1308696175390859264
 - Or on Google Drive (hopefully) with same name as title
 
-Chord prorgression (roman numerals):
-```
-1. IV - ii III - vi V - bV - vi bV - (VII - bII)
-2. ii - vii bVII - vi - bvi - v(dim?) - bV
-
-3. IV - ii III - vi (bvi V) - bV - vi bV - (VII - bII)
-4. ii - vii III - vi - bVI - vi
-```
-
 Harmony (chords + bass + melody):
 ```
     IV          ii         III           vi         V            bV           VII       bII
