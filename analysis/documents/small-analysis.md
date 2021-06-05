@@ -3,6 +3,13 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## D minor swing 200 BPM ID
+- https://twitter.com/Street_DTM/status/1308696175390859264
+- Or on Google Drive (hopefully) with same name as title
+
+Chord prorgression:
+IV - ii III vi - vi bV
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
