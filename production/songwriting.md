@@ -4,47 +4,50 @@
 > These are some general tips with a few examples. Refer to the analysis docs or commonities article for more specific examples.
 
 ## Table of contents
-1 [Aliveness and variation is important](#aliveness-and-variation-is-important)
-1. [You can go a million ways with music](#you-can-go-a-million-ways-with-music)
-1. [Treat each section as a different song](#treat-each-section-as-a-standalone-song)
-1. [Mind the cadences](#mind-the-cadences)
-1. [Sound selection is imporant](#sound-selection-is-important)
-1. [Transitions are important](#transitions-are-important)
-2. [Beef up verses and quiet sections](#beef-up-verses-and-quiet-sections)
-3. [Overdo, then delete](#overdo-then-delete)
-4. [Write around a theme](#write-around-a-theme)
-5. [Write in a neutral patch](#write-in-a-neutral-patch)
-6. [Contrast is key](#contrast-is-key)
-7. [Energy distribution is key](#energy-distribution-is-key)
-8. [Call and response is key](#call-and-response-is-key)
-9. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
-10. [It's about the details](#its-about-the-details)
-11. [Work with instrument limitations and techniques](#work-with-instrument-limitations-and-techniques)
-12. [Musical ability over technical ability](#musical-ability-over-technical-ability)
-13. [Rhythm over harmony](#rhythm-over-harmony)
-14. [Work around driving elements](#work-around-driving-elements)
-15. [Limitations aren't bad, they are your style](#limitations-arent-bad-they-are-your-style)
-16. [Syncopation and swing](#syncopation-and-swing)
-17. [Keep it simple](#keep-it-simple)
-18. [You don't always need a chorus](#you-dont-always-need-a-chorus)
-19. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
+1. [Aliveness and variation is important](#aliveness-and-variation-is-important)
+2. [Basic song formula](#basic-song-formula)
+3. [You can go a million ways with music](#you-can-go-a-million-ways-with-music)
+4. [Treat each section as a different song](#treat-each-section-as-a-standalone-song)
+5. [Mind the cadences](#mind-the-cadences)
+6. [Sound selection is imporant](#sound-selection-is-important)
+7. [Transitions are important](#transitions-are-important)
+8. [Beef up verses and quiet sections](#beef-up-verses-and-quiet-sections)
+9. [Overdo, then delete](#overdo-then-delete)
+10. [Write around a theme](#write-around-a-theme)
+11. [Write in a neutral patch](#write-in-a-neutral-patch)
+12. [Contrast is key](#contrast-is-key)
+13. [Energy distribution is key](#energy-distribution-is-key)
+14. [Call and response is key](#call-and-response-is-key)
+15. [Be cohesive on a micro and macro scale](#be-cohesive-on-a-micro-and-macro-scale)
+16. [It's about the details](#its-about-the-details)
+17. [Work with instrument limitations and techniques](#work-with-instrument-limitations-and-techniques)
+18. [Musical ability over technical ability](#musical-ability-over-technical-ability)
+19. [Rhythm over harmony](#rhythm-over-harmony)
+20. [Work around driving elements](#work-around-driving-elements)
+21. [Limitations aren't bad, they are your style](#limitations-arent-bad-they-are-your-style)
+22. [Syncopation and swing](#syncopation-and-swing)
+23. [Keep it simple](#keep-it-simple)
+24. [You don't always need a chorus](#you-dont-always-need-a-chorus)
+25. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
 ## Aliveness and variation is important
 So we've talked about dimensions (here or in the production tips article) but what really makes a song sound professional and - more importantly - interesting is the aliveness and variation in it.
 
-A saw wave straight up may be okay as a support bass (since you don't need to hear it and super steady) but is super boring on its own. No ADSR, no fx, no filter modulations, no nothing, it's super boring. If all of your sounds are like that, stuff is going to sound super boring.
+A saw wave straight up may be okay as a support bass (since you don't need to hear it and super steady so functionally it does its job) but is super boring on its own. No ADSR, no fx, no filter modulations, no nothing, it's super boring. If all of your sounds are like that, stuff is going to sound super boring.
 
-Tons of more examples are velocity, automations, humanization, cymbals, cool rhythms, plenty of changes, cadence varations, varations in general, interesting sound design, cool fx, cool layering, occassional vibrato on lead, cool ADSR/filter, pitch bends, cool panning, lead that doesn't sound quite the same depending on the octave range, and so on and so on.
+Tons of more examples are velocity, automations, humanization, cymbals, cool rhythms, plenty of changes, cadence varations, varations in general, interesting sound design, cool fx, cool layering, occassional vibrato on lead, cool ADSR/filter, pitch bends, cool panning, lead that doesn't sound quite the same depending on the octave range, and so on and so on (TODO: Make a list of these and add somewhere).
+
+Hell, even some saturation can spice up a sound by giving it harmonics but because sometimes the sound plays certain harmonies or certain notes get distorted more than others (maybe due to other fx too) it really seems that not every note is kind of the same so it sounds very alive even with just a bit of distortion. Of course this may not be the type of aliveness you want or the instrument needs.
 
 The point is, boring sounds produce boring songs. But of course, it's not all about the sounds, having cool rhythms in there, having enough varation when needed, some stereo interest, some coom automations, whatever it is and you really need and want to analyze your favourite songs to see how they bring their song to life. Because, if you make your songs, as a beginner especially, you'll find that yours are very boring compared to theirs. And this may be because of no (micro) varation, less cool sounds, rhythms, whatever it is. It's super important to notice what makes their song sound alive and yours not.
 
 Now, what kind of variation and aliveness depends heavily on your genre and style and it doesn't need to be "super alive" to sound alive. For example, a song with a vocal usually already sounds quite alive because the lead voice is usually quite prominant in the mix and how people sing is already very dynamic and performant (like vibratos, loudness, weird sibilances and stuff) so there is a lot of life in there. In instrumentals it may be the lead or they may be automating stuff over time or cool countermelodies or layers or change ups or whatever. Really analyze and go over what makes their stuff sound alive.
 
-Now, it also depends on arrangement/sound design how alive your sounds/song need. You can play completely with composition and arrangement and have a solid song. Of course, it will sound quite emotionless because it may be a super dry piano or saw patch with nothing on it that plays whatever you composed. However, because the compositions is good and interesting you don't need to make your sound design the focal point, rather you want to simply give them emotion and fx to really enhance that sound and of course have enough varations and ear candy to make stuff sound alive (can even be subtle). In the case of not much composition, the sound design and crazy automations will need to carry it more. Doesn't mean in good compositions you don't need sound design, it's just that if you're bad at it you can still rely on the compostion more than when your song is almost sleley based on sounds to make it interesting (heavy dubstep), then of course your sounds need to be interesting.
+Now, it also depends on arrangement/sound design how alive your sounds/song need. You can play completely with composition and arrangement and have a solid song. Of course, it will sound quite emotionless because it may be a super dry piano or saw patch with nothing on it that plays whatever you composed. However, because the compositions is good and interesting you don't need to make your sound design the focal point, rather you want to simply give them emotion and fx to really enhance that sound and of course have enough varations and ear candy to make stuff sound alive (can even be subtle). In the case of not much composition, the sound design and automations and ADRS stuff and modulations will need to carry it more. Doesn't mean in good compositions you don't need sound design, it's just that if you're bad at it you can still rely on the compostion more than when your song is almost sleley based on sounds to make it interesting (heavy dubstep), then of course your sounds need to be interesting.
 
 Again, listen to reference tracks. Hear the little ear candies, risers, automation, fx, panning, varations (sound design and composition), adsrs and whatever and note it and then copy in your music.
 
-## Some basic formulaic ideas
+## Basic song formula
 > Should this go in an article itself? Practical songwriting tips as I did with the mixing stuff? Should it go in the mixing article? Or maybe the chords/melody article?
 
 Having song and section structures that are familiar are easier for you to write but also easier for the listener to listen to. The 4 and 8 bars are super basic. Simply make all your sections 4 and/or 8 bars. Especially the chorus may be 8 bars (but the first chorus may be 4 bars). It doesn't need to be hard. Then if your section is 8 bars, the last 4 bars can be a simple repeat of the first 4 bars. So, you make a cool interesting 4 bars and then you can copy paste. To make it even more interesting change some things here and there but it doesn't need to be drastic if you don't have the ideas.
