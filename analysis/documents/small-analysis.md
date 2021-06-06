@@ -3,6 +3,20 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## C# minor Jazz tropes 170 BPM
+- https://twitter.com/Street_DTM/status/1340423923331002368
+- Or on Google Drive (hopefully) with same name as title
+
+Harmony (first line WITH melody target notes, second line WITHOUT)
+```
+    IV         iii        ii           ii           I
+1. Amaj7(9) - G#min7 - F#min7(11) - F#min7(9) A#/F7#b5(9)(11)
+1. Amaj7 - G#min7 - F#min7 - F#min7(9) A#/F7#b5(9)
+
+    IV          iii     vi       vi             ii          IV            V
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B/Amaj(add9) F/Bmaj#11b13)
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B/Amaj(add9) F/Bmaj#11b13)
+```
 ## D minor swing 200 BPM ID
 - https://twitter.com/Street_DTM/status/1308696175390859264
 - Or on Google Drive (hopefully) with same name as title
