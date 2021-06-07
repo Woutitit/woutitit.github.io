@@ -28,3 +28,7 @@ This is a document to basically have all the short summarizations of each analys
 - The Hitchcock chord (min/maj7) as ending!
 - The first turn around is more dissonant and less resolving than the second turn around with the second actually having the bass play the real root notes this time.
 - Fifth, while it's in melody often omitted in harmony because no information in it and just clutter, especially when you have so many extension on such a small space already. Same for (upper) root (sometimes?). Again, with so many extensions in a small space it's just clutter kind of.
+
+## C# Jazz Trope 170BPM
+- Bass is not actual chord root on/when:
+    - Cadence/Dom/alt chord: If you think about it, we established a root and tonal center at start (of chord progression) so we don't need bass to guide us when we (briefly) land on the dom/cadence. Also, dom chords are there for tension and voice leading. So, you can play something voice leading-y in the bass regardless of whatever the actual chord should be. IMPORTANT, the harmony above should more or less still resemble the chord and extensions of the chord you wanted there. ESPECIALLY, effective is where in first 4 bars you substitute the rooit and then next time you play the true root to have it be more consonant and true resolving/cadence-y.
