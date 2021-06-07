@@ -15,7 +15,8 @@ This is a document to basically have all the short summarizations of each analys
 - No rhythms are dissonant. Bass, harmony and melody practically always hit at the same time even if rhythms are different)
   - E.g. the pumping bass and the playful melody are still very much hitting at the same time even though totally different rhythms.
 - Bass, harmony and melody commonly hit together on emphasis/target notes. In between it's a bit more sparse (only melody and bass mostly, a bit of harmony)
-- This may be wrong but it seems that on dom chords/cadences, the bass is the LEAST important to be actual root (especially on the true dom/alt chord). So you can play something voice leading-y in the bass regardless of whatever the chord should be. IMPORTANT, the harmony above should more or less still resemble the chord and extensions of the chord you wanted there. ESPECIALLY, effective is where in first 4 bars you substitute the rooit and then next time you play the true root to have it be more consonant and true resolving/cadence-y.
+- Bass is not actual chord root on/when:
+    - Cadence/Dom/alt chord: If you think about it, we established a root and tonal center so we don't need bass to guide us when we land on the dom/cadence. Also, dom chords are there for tension and voice leading. So, you can play something voice leading-y in the bass regardless of whatever the actual chord should be. IMPORTANT, the harmony above should more or less still resemble the chord and extensions of the chord you wanted there. ESPECIALLY, effective is where in first 4 bars you substitute the rooit and then next time you play the true root to have it be more consonant and true resolving/cadence-y.
 
 ## D minor swing 200 BPM
 - https://twitter.com/Street_DTM/status/1308696175390859264
