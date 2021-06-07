@@ -16,7 +16,30 @@ Harmony (first line WITH melody target notes, second line WITHOUT)
     IV          iii     vi       vi             ii          V            V
 2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
 2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
+
+    I        IV          I      IV     I      IV           ii    V     I
+3. Emaj - Amaj(add9) - Emaj - Amaj - Emaj - Amaj(add9) - F#min7 B7 - Emaj
+
+    I       IV      I    IV    V          vi        v   I7      IV   V7     I                   
+4. Emaj - Amaj - Emaj - Amaj B(add11) - C#min7 - Bmin7 E7 - Amaj7(9) B7 - Emaj
+4. Emaj - Amaj - Emaj - Amaj Bmaj - C#min7 - Bmin??? E7 - Amaj7(9) B7 - Emaj
+
+      ii         V         I        VI7     ii       V              I          #IV(?)
+5. F#min7(9) - B7b9#11 - Emaj7(9) - C7 - F#min7(9) B7(b9)(b13) - Emaj7(9) - A#minb5(9)
+
+    vi          bVI         V           
+6. Amaj7(9) - D7(9)(13) - C#min7(9) - G7(9)(13) - F#min7 - B7(b9)(b13) Amin7 - Emin
 ```
+When its not like V I type thing it is always to a closely related or neighbor or half step chroma so those are the options basically?
+
+also harmonic rhyhtm slows down
+IMPORTANT: The Bmin7 E7 Amaj7 is a standard ii-V-I but it's in the key of Amaj instead of Emaj. We briefly key switch like that for the basic ii-V-I and then we do the IV-V-I right after to end on our initial actual key, the Emaj. So is this a trope? So why does going from C#in to Bmin sound good still?
+
+But yeah I should look that up? Also dones't seem like a key switch cuz very briefly only.
+
+So i should look out for more ii-V-Is or IV IV Is if struff doesn't make sense
+
+perhaps denote doms and secondary doms with I7 and V7 to visualize better? only if funciton is actual dom. Regardless of whether it has an actual 7 iinterval in it but yeah i should put thos conventions somewhere
 Also where is my A# in the bass????
 
 The Emajadd#11addb13 is most likely E7#11b13 but simply no 7 in there. I should've perhaps written these as alt chords.
