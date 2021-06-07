@@ -14,15 +14,21 @@ Harmony (first line WITH melody target notes, second line WITHOUT)
 1. Amaj7 - G#min7 - F#min7 - F#/Emaj(add11) F#/Emajadd#11addb13
 
     IV          iii     vi       vi             ii          V            V
-2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B/Amaj(add9) F/Bmajadd#11addb13)
-2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B/Amaj(add9) F/Bmajadd#11addb13)
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
 ```
 
-The Emajadd#11addb13 is most likely E7#11b13 but simply no 7 in there. 
+The Emajadd#11addb13 is most likely E7#11b13 but simply no 7 in there. I should've perhaps written these as alt chords.
 
 Also notice the end of both progressions end either on the I or V. they first land on a relatively consonant chord and then the absolute lead into next section is a spicy #11b13 chord in both instances.
 
 Also the I, this is a classic one nicely leads into a section going from IV which then in turn goes to V which leads nicely to I (which is the following section which I still have to analyze here). But that gives some varation so it starts two times from IV but second time, so after 8 bars we go to V, not I and that can lead us nicely into a new section starting from I.
+
+Notice how normal tensions are added to all the chords and that it's only the true dominants that are alt chords. In this case we have the first ii V cadence that resolves nicely to a V nice consonant chord and then it goes on and extend to resolve into next section with a true alt chord. And does that same thing in the first "1." with ii I where it goes to a fairly consonant I and then the Ialt extends to go into next section.
+
+How much extension stuff does melody play? Also does melody is mostly in safe zone again? (unless on alt chords?). 
+
+Also the Emaj(add1) may actually just be Esus(9) cuz i think no 3rd but I should check.
 
 ## D minor swing 200 BPM ID
 - https://twitter.com/Street_DTM/status/1308696175390859264
