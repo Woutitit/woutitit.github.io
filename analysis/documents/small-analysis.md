@@ -24,8 +24,8 @@ Harmony (first line WITH melody target notes, second line WITHOUT)
 4. Emaj - Amaj - Emaj - Amaj B(add11) - C#min7 - Bmin7 E7 - Amaj7(9) B7 - Emaj
 4. Emaj - Amaj - Emaj - Amaj Bmaj - C#min7 - Bmin??? E7 - Amaj7(9) B7 - Emaj
 
-      ii         V         I        VI7     ii       V              I          #IV(?)
-5. F#min7(9) - B7b9#11 - Emaj7(9) - C7 - F#min7(9) B7(b9)(b13) - Emaj7(9) - A#minb5(9)
+      ii         V         I        VI7     ii       V              I          I7(?)
+5. F#min7(9) - B7b9#11 - Emaj7(9) - C#7 - F#min7(9) B7(b9)(b13) - Emaj7(9) - E#11#5(13) (Ealt)
 
     vi          bVI         V           
 6. Amaj7(9) - D7(9)(13) - C#min7(9) - G7(9)(13) - F#min7 - B7(b9)(b13) Amin7 - Emin
