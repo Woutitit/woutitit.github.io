@@ -9,14 +9,21 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 
 Harmony (first line WITH melody target notes, second line WITHOUT)
 ```
-    IV         iii        ii           ii           I
-1. Amaj7(9) - G#min7 - F#min7(11) - F#min7(9) A#/F7#b5(9)(11)
-1. Amaj7 - G#min7 - F#min7 - F#min7(9) A#/F7#b5(9)
+    IV         iii        ii           I                   I
+1. Amaj7(9) - G#min7 - F#min7(11) - F#/Emaj(add11) F#/Emajadd#11addb13
+1. Amaj7 - G#min7 - F#min7 - F#/Emaj(add11) F#/Emajadd#11addb13
 
-    IV          iii     vi       vi             ii          IV            V
-2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B/Amaj(add9) F/Bmaj#11b13)
-2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B/Amaj(add9) F/Bmaj#11b13)
+    IV          iii     vi       vi             ii          V            V
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B/Amaj(add9) F/Bmajadd#11addb13)
+2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B/Amaj(add9) F/Bmajadd#11addb13)
 ```
+
+The Emajadd#11addb13 is most likely E7#11b13 but simply no 7 in there. 
+
+Also notice the end of both progressions end either on the I or V. they first land on a relatively consonant chord and then the absolute lead into next section is a spicy #11b13 chord in both instances.
+
+Also the I, this is a classic one nicely leads into a section going from IV which then in turn goes to V which leads nicely to I (which is the following section which I still have to analyze here). But that gives some varation so it starts two times from IV but second time, so after 8 bars we go to V, not I and that can lead us nicely into a new section starting from I.
+
 ## D minor swing 200 BPM ID
 - https://twitter.com/Street_DTM/status/1308696175390859264
 - Or on Google Drive (hopefully) with same name as title
