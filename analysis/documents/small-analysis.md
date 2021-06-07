@@ -27,8 +27,8 @@ Harmony (first line WITH melody target notes, second line WITHOUT)
       ii         V         I        VI7     ii       V              I          I7(?)
 5. F#min7(9) - B7b9#11 - Emaj7(9) - C#7 - F#min7(9) B7(b9)(b13) - Emaj7(9) - E#11#5(13) (Ealt)
 
-    vi          bVI         V           
-6. Amaj7(9) - D7(9)(13) - C#min7(9) - G7(9)(13) - F#min7 - B7(b9)(b13) Amin7 - Emin
+     IV         I7        vi        biii      
+6. Amaj7(9) - E7(b13) - C#min7(9) - Fmaj7(9) - F#min7 - B7(b9)(b13) Amin7 - Emin
 ```
 When its not like V I type thing it is always to a closely related or neighbor or half step chroma so those are the options basically?
 
