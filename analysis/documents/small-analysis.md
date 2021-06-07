@@ -17,6 +17,7 @@ Harmony (first line WITH melody target notes, second line WITHOUT)
 2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9(11)) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
 2. Amaj7(9) - G#min7 (C#min7 G/C#7b5b9) - F#min7 - (B7(add9) F/Bmajadd#11addb13)
 ```
+Also where is my A# in the bass????
 
 The Emajadd#11addb13 is most likely E7#11b13 but simply no 7 in there. I should've perhaps written these as alt chords.
 
