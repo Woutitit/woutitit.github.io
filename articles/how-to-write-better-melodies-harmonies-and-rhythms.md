@@ -51,6 +51,9 @@ Also, again, target notes matter the most. Beginning notes can be anything and m
 
 Again you also may want to employ the melody to revolve around third since it's not that far from the root resolvement so you don't have to make leaps in your melody to go to the root which might be unnatural. Like, you kind of position yourself already for a good resolution.
 
+## Playing around one note
+Especially the 9. It seems common to play around one note, to keep making lines and lines but always targetting the note, and then on the cadence and dom chords briefly resolve to other notes to finally resolve back on that one note and again dance around on that note to then on the cadences resolve to another few notes on target areas. It can give tensions and interest because the note is never a resolving note and it's interesting because the note gets resolved over a plethora of different chords (and thus different harmonies).
+
 ## Notes
 Generally, especially in phrase-heavy music: target note > starting note > passing notes. That is, the note where you land on is so important as it being the last note whether the stuff is ending or whether it's a setup to next section. Like the target note wields so much power. The starting note has some power but seriously it can be any tension as long as the target resolves to something musically cool (like not super dissonant). Like, the starting note can literally start on any note. Like even on the fourth which technically clashes with a chord heavily, you can use it as a starting note cuz it's not the note you'r going to end on (if it is both starting and ending note that's kind of weird then). And passing notes can color the phraase but especially fast notes are not the last word for how a person feels about the phrase. Additionally, the first few notes and last few notes have more wieght than other passing notes. Again because they are close to beginning and end which a listener can still remember.
 
