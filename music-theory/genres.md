@@ -16,6 +16,13 @@ Talk about 12-bar blues
 - Swing and syncopation
 - Use of the harmonic and melodic minor scales
 
+## Stuff
+From first observations there are a lot of extensions and to keep stuff audible the bass is often very much down, after you have harmony with all the extensions (fairly closed position) and yet again notably more on top you have melody. What this allows is for stuff not to clash because the bass will have roots, the harmony up will often omit the root (and the fifth) which may clutter but also just clash with harmonies up there, especially when played close to the extensions and then the melody usually firmly on top to again not clash but also establish that that is the melody tone.
+
+So root and fifth often (but not always, especially fifth) omitted in harmony.
+
+Bass is often, especially on cadences and dominant chords not the actual root of the actual chord implied. Do this after having established tonal center a bit.
+
 ## Funk
 - Wah wah pedal so yeah we can talk about certain common fx and on which instrument
 - Or like the mute trumpet opening up stuff
