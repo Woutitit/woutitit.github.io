@@ -32,7 +32,8 @@ In songs it will be hard and you may be able to convert some songs to stems thro
 - Vocal production: -12 +12 octaves? 30 60 panning? Solo or other harmonies? Other stuff?
 - Frequency wise, what is in the highs, lows and mids and what kind of sounds (transients? sustains? dark? bright?)
 - Reverb and delay. How much? Automation? On what (kind of) elements (the most)? What does it do to the (depth of the) mix?
-- Panning and stereo field. What is panned and how much? What is stereo and how much?
+- Panning and stereo field. What is panned and how much? What is stereo and how much? Why panned? What effect
+  - E.g. cymbals and certain support instruments often panned to make room and also fill a bit the stereo space interestingly
 - Call and response, tension and release on a micro and macro scale.
 - Contrasting elements on a micro and macro scale.
 - Rhythm (see 8-bit theory for different kinds of rhythms): 
