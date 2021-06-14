@@ -30,14 +30,14 @@
 24. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 25. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
-## Aliveness and variation is important
+## Aliveness and variation is incredibly important
 So we've talked about dimensions (here or in the production tips article) but what really makes a song sound professional and - more importantly - interesting is the aliveness and variation in it.
 
 A saw wave straight up may be okay as a support bass (since you don't need to hear it and super steady so functionally it does its job) but is super boring on its own. No ADSR, no fx, no filter modulations, no nothing, it's super boring. If all of your sounds are like that, stuff is going to sound super boring.
 
 Tons of more examples are velocity, automations, humanization, cymbals, cool rhythms, plenty of changes, cadence varations, varations in general, interesting sound design, cool fx, cool layering, occassional vibrato on lead, cool ADSR/filter, stuff over time in a sound like opening up a filter, pitch bends, cool panning, lead that doesn't sound quite the same depending on the octave range, and so on and so on (TODO: Make a list of these and add somewhere).
 
-*Intermezzo: Like the aliveness doesn't need to be even big or noticeable, just a bit of detune, a little automation, a vibrato here and there goes a long way especially if multiple of these stacked vertically and horizontall (time) in the track. Add that with interesting aliveness arrangement, again doesn't need to be super much variation, and you got yourself a track.*
+*Intermezzo: Like the aliveness doesn't need to be even big or noticeable, just a bit of detune, a little automation, a vibrato here and there goes a long way especially if multiple of these stacked vertically and horizontall (time) in the track. Add that with interesting aliveness arrangement, again doesn't need to be super much variation, and you got yourself a track. Like, get a feel for how much vibe and liveness a sound brings just by having stuff overtime, a cool ADSR (like a fast initial pitch bend on note hit), a bit of detune and stuff. Like it can be subtle all but it brings so much. Really get a feel for that.*
 
 Hell, even some saturation can spice up a sound by giving it harmonics but because sometimes the sound plays certain harmonies or certain notes get distorted more than others (maybe due to other fx too) it really seems that not every note is kind of the same so it sounds very alive even with just a bit of distortion. Of course this may not be the type of aliveness you want or the instrument needs.
 
