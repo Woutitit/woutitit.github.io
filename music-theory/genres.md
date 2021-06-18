@@ -16,6 +16,14 @@ Talk about 12-bar blues
 - Swing and syncopation
 - Use of the harmonic and melodic minor scales
 
+## Gypsy
+b5 and pull off b5 5 b5 1 sort of thing important
+also maj 3 on dominants and even home chords 
+
+same with in minor the 1 maj7 1 again lots of encapsulations (?)
+
+These things u foten see in phyrigain-equae lines too and the b5 5 b5 is like a cliché line as well.
+
 ### Stuff
 From first observations there are a lot of extensions and to keep stuff audible the bass is often very much down, after you have harmony with all the extensions (fairly closed position) and yet again notably more on top you have melody. What this allows is for stuff not to clash because the bass will have roots, the harmony up will often omit the root (and the fifth) which may clutter but also just clash with harmonies up there, especially when played close to the extensions and then the melody usually firmly on top to again not clash but also establish that that is the melody tone.
 
