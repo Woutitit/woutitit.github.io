@@ -1,4 +1,8 @@
 # FL Studio
+## Styleguide
+### Colors
+Bus = #000
+
 ## Color coding and renaming
 - https://www.youtube.com/watch?v=JaHj3BS61oc&t=193s
 
