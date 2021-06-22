@@ -11,7 +11,7 @@
 7. [Take notes and make a TODO list](#take-notes-and-make-a-todo-list)
 8. [Give your song a rest](#give-your-song-a-rest)
 9. [Commit to your work](#commit-to-your-work)
-10. [Don't bother organizing when creating](#dont-bother-organizing-when-creating)
+10. [Don't overorganize](#dont-overorganize)
 11. [Play to your strengths](#play-to-your-strengths)
 12. [Study your software and know shortcuts](#study-your-software-and-know-shortcuts)
 13. [Make MIDI patterns, sound samples and presets](#make-midi-patterns-sound-samples-and-presets)
