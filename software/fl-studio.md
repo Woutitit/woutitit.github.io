@@ -6,7 +6,7 @@ Bus = #000
 ## Color coding and renaming
 - https://www.youtube.com/watch?v=JaHj3BS61oc&t=193s
 
-So it seems a bit clunky still. What I'd do is have a styleguide (see here) sheet with "Bass = x color" (in HEX) and "Lead = y color" and "Buss = z color" and so on for consistency and easy choosing accross projects. Don't worry about edge cases just have the basics in there (like bass, lead, buss...). Like a styleguide perhaps it can be called.
+So it seems a bit clunky still. What I'd do is have a styleguide (see here) sheet with "Bass = x color" (in HEX) and "Lead = y color" and "Buss = z color" and so on for consistency and easy choosing accross projects. Don't worry about edge cases just have the basics in there (like bass, lead, buss...). Like a styleguide perhaps it can be called. Same thing for color coding, you don't need to color code everything because you'll get a headache, just do ones that are obvious (such as busses) and lead layers and bass layers and stuff like that.
 
 But basically what you want to do is simply, if it's channel rack, vertical drag accross all the green rectangels you all want the same color. And then click arrow left top on channel rack and then "Color selected". Give it a gradient but with left and right color the same so all colors are the same. And boom all your stuff is now colored. Now, the stupid thing is that you need to do that in the mixer now again too. In that case it's ctrl + horizontal drag over the mixer channels and then F2 and then give it that same color you just gave. Playlist is irrelevant as I do everything in a single pattern.
 
