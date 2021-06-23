@@ -1,5 +1,12 @@
 # Production thoughts
 
+## How to mix sub area
+The easiest way to mix sub area is sidechaining. Since the sub area is so little room and so precious you have to be surgical with mixing techniques to mix kick and bass well WITHOUT sidechaining (like the fundamentals need to still be there, it's easy to cut too much or boost to much). Sidechaining makes it easier. Of course you still need to level your kick and sub in volume and also you may want to shorten your kick so the sidechain can be shorter and bass can come in more seamlessly. Also, you need to be precise with the sidechain especially if you don't want the SC to be heard. And maybe some small EQing if needed.
+
+Next, sub issues and mud are different things. When you think you hear sub of kick and sub of bass clash, it may be mud (so higher up, the 200-300Hz. frequencies) and if you think you hear mud it may be sub. Remember, sub is not heard much, it's pretty much a low sine in tone. So more upper harmonics heard clashing may probably be a mud issue and not a sub issue. But the sub is important for warmth so you want to get it right. Therefore since it's hard to hear you may want to solo it with the kick just to make sure they aren't clashing.
+
+Lastly, high pass everything at least 50-75Hz. Just makes space for the subs of the kick and bass in this tiny precious area and also helps to get your master louder since less headroom taken up there.
+
 ## Introduction
 This article is to store my more "random" production thoughts and tricks that tie into a lot of the things that I'm saying in other articles but just in a more specific and slightly tangeant way. Therefore, this article might be a bit all over the place but it's just for those random thoughts and addendums that I don't have room for in the more structured articles. Also, these topics usually are small enough they don't warrant their own article.
 
@@ -17,7 +24,7 @@ So it's common to control your signal through compression along the way. Like yo
 
 Like maybe you don't need all these MBs/compressors but often it's a bit of a journey because the longer you develop the sound it's easier to not mes with stuff and add it to it. So that's why there maybe more compressors and stuff and fx in general on the chain then needed. But unless it bricks your CPU or it's easy to reduce the amount of ( duplicate/redunant) fx on the chain, just keep it.
 
-## Why distorting in serie helps
+## Why distorting in series can be useful
 So I was a bit suprised when I saw people using distortions in parallel thinking why you can't just crank up one more. I'm not 100% certain but it appears that the distortions all have different kinds of distortion so they all add different kinds of harmonics so adding to fatness whilst also adding to the timbre and making a different kind of timbre.
 
 Like, having 2 tube distortions in series isn't much use (like it's just the same extra harmonics but added two times in which case, just crank up the one distortion plugin more) just like 2 exact same audio signals layered is just double loud.
