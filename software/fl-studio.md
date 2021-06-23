@@ -1,4 +1,7 @@
 # FL Studio
+## Playing MIDI
+Well, the easiest way is to File > Import and then just leave everything. It will load in all MIDI and with Flex instruments and that's good as Flex has instruments that follow the standard MIDI things so it will fill in everything nicely. On top, you can easily modify MIDI, change instruments or even mix so very handy!
+
 ## Styleguide
 ### Colors
 Bus = #000
