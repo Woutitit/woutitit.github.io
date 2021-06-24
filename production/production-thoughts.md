@@ -1,5 +1,12 @@
 # Production thoughts
 
+## Common ways to add character to a sound
+TODO: Where to put this?
+
+- The filter pluck into sustain trick (see sound design)
+- Vibrato/Pitch bends
+- Resonance filter enveloppe or LFO. Especially a band boost sweep accross the spectrum with a good tiny (or bigger depends) resonance creates cool easy movement and opening up whilst still keeping bass charachter (since it doesn't filter stuff out like highs, just boost stuff in certain frequencies). Especially done on bass.
+- 128s rack? https://old.reddit.com/r/edmproduction/comments/o64w3c/what_is_one_tip_you_learned_specifically_from/
 ## How to mix sub area
 The easiest way to mix sub area is sidechaining. Kick and bass will always interfere with eachother and thus since the sub area is so little room and so precious you have to be surgical with mixing techniques to mix kick and bass well WITHOUT sidechaining (like the fundamentals need to still be there, it's easy to cut too much or boost to much). Sidechaining makes it easier. Of course you still need to level your kick and sub in volume and also you may want to shorten your kick so the sidechain can be shorter and bass can come in more seamlessly. Also, you need to be precise with the sidechain especially if you don't want the SC to be heard. And maybe some small EQing if needed.
 
