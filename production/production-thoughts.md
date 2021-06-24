@@ -1,5 +1,13 @@
 # Production thoughts
 
+## Best key for sub is between E - A
+- https://old.reddit.com/r/musicproduction/comments/o6rgs7/beginner_question_how_to_know_what_key_to_use/h2uof67/
+- https://www.reddit.com/r/edmproduction/comments/1h2inn/mixing_sub_bass_in_different_keys_sub_sounds/caqry24?utm_source=share&utm_medium=web2x&context=3
+
+This is because it's partially true that those frequencies can be heard better by us still while still being sub and not mid. It's also due to the roll off on speakers which roll off around 40-50Hz which may be too much sub gone if you write in anything below the E (so A-D).
+
+So yeah, if you want to have great sub bass without worrying, do between E - A and even F/F# is probably the best (is this maj/min or doesn't matter?). That said, there are ways to rememdy if you write in other keys, beefing up the sub more in upper harmonics maybe, maybe the composition can go an octave higher on some notes, maybe the song doesn't need all that great sub or it's simply not an issue. But again, if you are a beginner and you want easy mode no matter what genre, just pick a key between E(1) - A(2) (?).
+
 ## Common ways to add character to a sound
 TODO: Where to put this?
 
