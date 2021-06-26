@@ -19,6 +19,9 @@ Also, a few tips, you can automate the settings of each glitch fx of course so t
 ## Serum
 See manual. For me it's here currently: file:///C:/Users/Wout/Documents/Xfer/Serum%20Presets/Serum_Manual.pdf
 
+## Selecting a preset
+One way to select a preset is simply to drag and drop (into an OSC) from the browser and it will load in the full preset.
+
 ### Pitch control
 So there are four ways to control pitch of a single oscillator and then on top of that for the whole synth you have a master tune control which affects all the oscillators.
 
