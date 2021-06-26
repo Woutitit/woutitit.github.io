@@ -49,6 +49,8 @@ That said, you can still make the harmony underlying a bit interesting. If you e
 
 Also, again, target notes matter the most. Beginning notes can be anything and matter a little bit, same with first few notes and rhythm to set the tone, middle notes not that much (though also nice decoration). It's really the target tones where you want/can play with the mood and stableness of the song/section.
 
+*Intermezzo: Important to note is that middle notes are NOT unimportant. They are, just like inner voicings in a chord there to add spice and interest and exoticness (because you cannot create cool rhythm and interest with just a beginning and target tone) but again in terms of journey and feel and rememberance, they are not the most important.*
+
 Again you also may want to employ the melody to revolve around third since it's not that far from the root resolvement so you don't have to make leaps in your melody to go to the root which might be unnatural. Like, you kind of position yourself already for a good resolution.
 
 ## Playing around one note
