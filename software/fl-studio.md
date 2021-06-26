@@ -1,4 +1,12 @@
 # FL Studio
+Todo: Maybe make a seperate article for all or some FL Studio native plugins?
+
+## Transient processor
+- https://www.image-line.com/fl-studio/plugins/transient-processor
+- https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
+
+So transient processor is kind of like a magic compressor though the attack doesn't have anything to do with how fast it kicks in and release also doesn't have to do with how fast it let's go. The attack simply magically kind of looks at the beginning attack/transient part of a sound and then you can spin the dial and literally just make that part louder or quieter so either making it less or more punchy. With the release knob, it looks more at the body/end of a sound and again you literally can pull it more up or put it more down depending on what you want or need. So yeah a bit like a saturator/compressor does. Not sure if saturation makes it even more fatter than just processing but with this you get a lot of control on how punchy and/or fat you want your stuff to sound like.
+
 ## Playing MIDI
 Well, the easiest way is to File > Import and then just leave everything. It will load in all MIDI and with Flex instruments and that's good as Flex has instruments that follow the standard MIDI things so it will fill in everything nicely. On top, you can easily modify MIDI, change instruments or even mix so very handy!
 
