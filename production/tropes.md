@@ -11,10 +11,12 @@
 - C64 PWM-ish lead: Classic Comodoro-64 lead. It's a PWM-ish sound and often has vibrato and/or sync macros.
   - Examples: ???
 
-### LFO + filter
+### Filter (+LFO)
 TODO: Add some tutorials or examples of classic LFO + filter stuff.
 
-So LFO + filter and then a supersaw or like a growl or whatever is really a classic sound design tool and very effective. It's cool for a lot of reasons as you can simply add a bit of automations to a sound with some very quick filter opening ups or going down
+So LFO + filter and then a supersaw or like a growl or whatever is really a classic sound design tool and very effective. It's cool for a lot of reasons as you can simply add a bit of automations to a sound with some very quick filter opening ups or going down and you get some cool things. Especially if you pair the opening up with maybe some vibrato (like getting stronger also when the filter opens up) or some other EQ sweeps or add some general character to the sound.
+
+Now, next to that, this is a good way to control filter HOWEVER, sometimes you want like the more gate-y kind of LFO + filter. In that case you add an LFO to the filter and now you have a few choices you can then make a macro that controls the depth (so whether the LFO should work or not) and another macro that controls the rate (or within the same macro if it fits) so that you can have cool sound design of like rhythmic stuff that is a 4th note going into a 16th note going into an 8th note and stuff. Very often seen in supersaws and growl type of lines.
 
 ### Filter pluck-sustain combo
 TODO: Add some tutorials and examples here (maybe point to sound design article).
