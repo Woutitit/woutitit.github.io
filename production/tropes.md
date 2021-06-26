@@ -10,3 +10,13 @@
 
 - C64 PWM-ish lead: Classic Comodoro-64 lead. It's a PWM-ish sound and often has vibrato and/or sync macros.
   - Examples: ???
+
+### LFO + filter
+TODO: Add some tutorials or examples of classic LFO + filter stuff.
+
+So LFO + filter and then a supersaw or like a growl or whatever is really a classic sound design tool and very effective. It's cool for a lot of reasons as you can simply add a bit of automations to a sound with some very quick filter opening ups or going down
+
+### Filter pluck-sustain combo
+TODO: Add some tutorials and examples here (maybe point to sound design article).
+
+Again another very common trick, again often paired with supersaws or any chords. This is where you again put an enveloppe on your filter and let it close up real fast so that the sound gets muted which creates a sort of pluck. You can then add some transient processors or whatever to make it even more plucky. On top of that, it's really cool because when you automate the filter to open more and more up the pluck will transform into cool sustain sound so it's very often done in buildups where you start low-energy and then climax very hard. It's better than volume because with volume enveloppe you cannot easily create the opening up pluck to sustain and also filter always due to the Q and a bit of resonance (to taste) always has a bit of cooler effect to it.
