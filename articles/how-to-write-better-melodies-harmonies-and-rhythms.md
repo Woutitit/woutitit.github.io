@@ -6,6 +6,9 @@
 
 Here a few general and practical tips for helping your write melodies, bass lines and stuff. They are genre independent but of course some tips may be more practical than other genres.
 
+## Don't do funky harmonies
+Especially the lower you go. See my crystal clear or whatever articles.
+
 ## Bass lines
 Bass lines often don't play that much harmony. That is, if you don't know, simply stick with the root note as the bass really is the foundation of all the harmony.
 
