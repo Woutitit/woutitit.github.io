@@ -27,6 +27,8 @@ Shortening and longening bass is also a very effective way of adding or removing
 ## Chords
 A chord progression is very stealable while a melody is a bit harder stealable. Steal progressions you like and slightly modify them (like the rhythm the voicings) to fit your song. It's ok, everyone does it.
 
+With chords you want to be careful with inner and outer voicings (look up!). Like the upper tone of a chord really kind of can make different moods. Again, as with melodies the bass tone of the chord sets the mood and the upper note (kind of equal to target note in a melody) kind of sets up the journey/consonance/dissonance and the in between is more exotic and decoration. That's why a melody may stay in safe zones in terms of extensions and the chords beneath (in terms of frequency) may be more exotic since they can be and you still have the consonance feel thanks to the upper melody. But again the upper tones of the chords are also kind of audible so they do matter too. For example, ending on octave is more consonant in terms of a chord then ending on a third which implies more of a journey ahead of us.
+
 ## Melody
 - https://www.youtube.com/watch?v=Q8qSHzrz-Tc
 
