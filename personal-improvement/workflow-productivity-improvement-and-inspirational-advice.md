@@ -36,6 +36,16 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Comes down to the same things
+The more you do music production, the more you realize when you process stuff that you always need to ask the same questions. For the kick, do you want long or short kick do you want to clip it does it need more or less transient. And it always comes down to the same effects and stuff.
+
+So again, the more you do it the more you recognize patterns and I should maybe write these patterns/questions down.
+
+## The more you do it the more interalized stuff becomes
+Like, the less calculated knowledge you have but more feel. Like, you don't know exactly why but you just feel you should keep your harmonies clear or you know why you should high-pass the sub out of your instruments. Like, you do know but some technical stuff maybe not but it just makes sense. And that's what you want to have because then you know exactly when and why and how.
+
+Of course, for the knowledge you have these articles here because you still want to have enough knowledge to backup your interalized knowledge or just reference if needed.
+
 ## Listen to music and load a few up in the DAW
 Seriously, if you're feeling uninspired or you don't know what you're doing is ok (or you feeel what you're doing is boring and stale), put your ego aside, and listen music. Just listen music, preferably something you want to make. Get inspired, notice the little details (techniques, stuff they use to make it interesting) maybe and if you have to, load one or more in your DAW and mimick them in structure and style. Do that and then after that make it different. Different melodies, sections whatever.
 
