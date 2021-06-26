@@ -29,4 +29,8 @@ Therefore, in terms of for example vibrato, you can technically use CRS, fine tu
 - https://www.youtube.com/watch?v=HlOkdtr-fng
 - https://www.youtube.com/watch?v=OJn9_Y58jDU&t=1s
 
-There are a few ways to vibrato. The main way is either to add an LFO to the fine tune and if you need both oscillators to vibrato you have to add an LFO to the master tuning. Not sure about the master setting but for fine tune, simply drag LFO (unchanged) to the fine tune of an oscillator, then I think you can drag your macro to that fine tune (or do it as auxiliary in matrix tab, same thing I think). For the master tuning you have to go into matrix and basically assign lfo 1 to master tune parameter. And then you have to assign that to auxiliary a macro (or mod wheel). 
+There are a multiple pitch controls in Serum (see above) so there are multiple ways to vibrato. It depends on what you want or need. The main questions are if you need all your OSCs to vibrate or just one (or if you want to control vibrato of each OSC independently) and also how much vibrato you may need. If you're ok with a bit of vibrato you may use "fin" if you (sometimes) need large vibrato you may want "crs".
+
+But yeah in the case of single OSC vibrato all you need to do is add an LFO to a pitch control and then in the matrix tab set the aux to a macro so that you can control when the vibrato turns on/off. Main thing here to control is how much vibrato you want to let through, how fast the vibrato goes (LFO rate) and how much pitch change the vibrato can (maximally) do.
+
+Then, in case of all OSCs you'll want to modulate the master tuning. You can do that in the matrix. Source is LFO of choice, destination is master tuning and auxiliar is again macro of choice. As last time, modify parameters to taste (see videos).
