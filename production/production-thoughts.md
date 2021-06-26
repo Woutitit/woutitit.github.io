@@ -3,7 +3,7 @@
 ## Saturating seems to do wonders on kick/snare
 Todo: Where to put this? In a "how to mix drum articles"
 
-If your drums aren't hitting hard enough (for example in dubstep) and they do have enough transients and possible punch, just put a waveshaper on the kick and then one on the snare to saturate and distort. Again, I don't know in which article I said it, but distorting/saturating/clipping kind of replaces the transient, also reduces dynamic range because of it (so also makes stuff fatter). And then level match and then compare.
+If your drums aren't hitting hard enough (for example in dubstep) and they do have enough transients and possible punch, just put a waveshaper on the kick and then one on the snare to saturate and distort. Again, I don't know in which article I said it, but distorting/saturating/clipping kind of replaces the transient, also reduces dynamic range because of it (so also makes stuff fatter) and also I guess generally fatter too with the added harmonics (?). And then level match and then compare.
 
 Often check your drums and see how much dynamic range there still is in between the transient and the body and you may want to fatten it up. Of course, fatten up to taste and per genre it will depend. So yeah this may often be faulty in short kicks that we like but that are kind of too transient-y and too little punch in the back. Again a transient shaper on top or in replace could also work.
 
