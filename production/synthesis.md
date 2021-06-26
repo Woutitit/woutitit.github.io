@@ -122,6 +122,15 @@ In short, you can use unison on a lot of patches but think about the purpose. A 
 ### LFO
 - https://www.reddit.com/r/edmproduction/comments/o1chd/can_someone_explain_how_lfo_works_or_synthesizers/c3dnahi?utm_source=share&utm_medium=web2x&context=3
 - https://www.bhphotovideo.com/explora/pro-audio/tips-and-solutions/fm-synthesis-demystifying-frequency-modulation-synthesis
+- https://producerhive.com/ask-the-hive/what-is-an-lfo/
+
+An LFO is a low-frequency oscillator. Unlike our audio oscillators it's not wired to the audio output so it won't make sound itself but even then it doesn't matter because it oscillates at 20Hz and less (inaudible to the human ear).
+
+An LFO also vibrates just like any other oscillator, however, you don't ADD it to the wave. No it's about source and destination (also called modulator and carrier) where one wave is the modulator (in this case our LFO) and the other is the carrier on which the modulation is imposed.
+
+Now, because the modulator wave oscillates, usually a sine but in Serum we can make it a lot of weird-looking waves, the carrier will get that imposed on itself but of course we need to impose it on something of the wave. We can impose it on the volume in which case that oscillation will basically control the volume parameter (visually seen as the knob) and it will have cool gating kind of sound. We can also increase or decrease the oscillator speed to have the parameter be modulated less or more quickly. Note that even though 20Hz is very little for audible stuff, it's already quiet fast in terms of modulating a certain parameter.
+
+So why use an LFO and why not above 20Hz? Well above 20Hz we come more in the territory of modulating a carrier with a wave that goes so fast rather than it being something that just pulses actually becomes something else. For example, if we modulate the pitch with an LFO at 100Hz (not an LFO technically anymore) then the pulsating pitch is so fast that rather than hearing it as an LFO and a wobble we actually hear it as one wave but just extra added harmonic content. In fact, this faster modulation of pitch (i.e. frequency) is called FM synthesis (see above).
 
 #### LFO vs. automation
 Now, usually you want to use an LFO for stuff that needs to repeat in a deterministic manor. For example, you can use it for arp-esque qualities of your synth. Or you can use it for a reese bass. However, often, in for example a reese bass you want these to be controlled in the way you want. Like, perhaps you want the bass to stay closed in a section and then gradually open up but in the chorus you want it to do some crazy filter stuff. So, instead of having the reese-open-up on an LFO, we have it on a macro (in synths with a macro or mod wheel) and then we can automate and choose ourselves when the bass opens and when it doesn't. So it depends on what you need. You may also use an LFO for something and then have a macro on the LFO settings (like speed) and stuff so that you can kind of change the sound like that for some reason.
