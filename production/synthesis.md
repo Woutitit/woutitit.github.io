@@ -126,6 +126,7 @@ In short, you can use unison on a lot of patches but think about the purpose. A 
 - https://www.reddit.com/r/edmproduction/comments/o1chd/can_someone_explain_how_lfo_works_or_synthesizers/c3dnahi?utm_source=share&utm_medium=web2x&context=3
 - https://www.bhphotovideo.com/explora/pro-audio/tips-and-solutions/fm-synthesis-demystifying-frequency-modulation-synthesis
 - https://producerhive.com/ask-the-hive/what-is-an-lfo/
+- https://music.stackexchange.com/questions/100431/is-an-lfo-applied-to-pitch-the-same-as-a-modulator-from-an-fm-synth-with-a-low-f
 
 An LFO is a low-frequency oscillator. Unlike our audio oscillators it's not wired to the audio output so it won't make sound itself but even then it doesn't matter because it oscillates at 20Hz and less (inaudible to the human ear).
 
