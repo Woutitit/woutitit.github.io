@@ -35,3 +35,7 @@ There are a multiple pitch controls in Serum (see above) so there are multiple w
 But yeah in the case of single OSC vibrato all you need to do is add an LFO to a pitch control and then in the matrix tab set the aux to a macro so that you can control when the vibrato turns on/off. Main thing here to control is how much vibrato you want to let through, how fast the vibrato goes (LFO rate) and how much pitch change the vibrato can (maximally) do.
 
 Then, in case of all OSCs you'll want to modulate the master tuning. You can do that in the matrix. Source is LFO of choice, destination is master tuning and auxiliar is again macro of choice. As last time, modify parameters to taste (see videos).
+
+### Arp
+???
+I know you can build an arp in Serum without the build in Fl Studio thingy but with a step-wise LFO or something that triggers the pitch or something I don't know.
