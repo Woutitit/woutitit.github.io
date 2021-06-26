@@ -38,4 +38,4 @@ Then, in case of all OSCs you'll want to modulate the master tuning. You can do 
 
 ### Arp
 ???
-I know you can build an arp in Serum without the build in Fl Studio thingy but with a step-wise LFO or something that triggers the pitch or something I don't know.
+I know you can build an arp in Serum without the build in Fl Studio thingy but with a step-wise LFO or something that triggers the pitch or something I don't know. Look up!
