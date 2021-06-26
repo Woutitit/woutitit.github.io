@@ -21,6 +21,9 @@ So, in other words, if you need a real piano in your production, use a real pian
 Of course, in your synths you'll have presets that say "piano" or "bell" and you can use these instead of actual samples and might get away with it depending on how in the background it is or how unrealistic your produciton can sound or how good your post processing is. But again, these are made by experts and these are not the things that synthesizers are really made for.
 
 ## Synthesis techniques
+### FM Synthesis
+https://noisegate.com.au/the-fundamentals-of-fm-synthesis-explained/
+
 ### Subtractive synthesis
 Synths that do SS will accept a certain waveform and then offer you ways (such as filters) to do sculpt the wave form by subtracting frequency content from it. This is an easy to understand way of doing synthesis as it's very intuitive in how it works.
 
@@ -30,7 +33,7 @@ It might be weird at first to think about how SS can be useful, but as we just s
 
 So yeah, now that you go out and start making super saws just remember that the chords the amount of voicings and the unison etc. will create a really dense sound and probably really harsh since even just one saw note is already rich in content. And just remember that this is normal but that it is MEANT for you to use filters and stuff to make that stuff probably less harsh and more musical but that depends on you.
 
-## Wavetable synthesis
+### Wavetable synthesis
 https://www.youtube.com/watch?v=mMcRRoXadK4&t=107s
 
 In wavetable synthesis, you're basically constructing a table of sound waves in a synth. In Serum for example, you can go into the editor to add some waves (which you could see as frames in a movie), it doesn't matter how many or little. You could also import a sample and then for each small bit of sound in that sample it will figure out the waveform at that point, in the end you have a wavetable of that whole sample and if you flick very quickly through it whilst holding a note on the synth you might be able to hear the resemblance of your sample.
@@ -131,6 +134,10 @@ An LFO also vibrates just like any other oscillator, however, you don't ADD it t
 Now, because the modulator wave oscillates, usually a sine but in Serum we can make it a lot of weird-looking waves, the carrier will get that imposed on itself but of course we need to impose it on something of the wave. We can impose it on the volume in which case that oscillation will basically control the volume parameter (visually seen as the knob) and it will have cool gating kind of sound. We can also increase or decrease the oscillator speed to have the parameter be modulated less or more quickly. Note that even though 20Hz is very little for audible stuff, it's already quiet fast in terms of modulating a certain parameter.
 
 So why use an LFO and why not above 20Hz? Well above 20Hz we come more in the territory of modulating a carrier with a wave that goes so fast rather than it being something that just pulses actually becomes something else. For example, if we modulate the pitch with an LFO at 100Hz (not an LFO technically anymore) then the pulsating pitch is so fast that rather than hearing it as an LFO and a wobble we actually hear it as one wave but just extra added harmonic content. In fact, this faster modulation of pitch (i.e. frequency) is called FM synthesis (see above).
+
+So yeah once you start hitting fast rates you start modulating an audible audio signal (carrier) with another actual audible audio signal (modulator but with an actual "audible" signal/wave). And this adds it's own shenanigans like some dope movement and harmonics. A classic example is an FM bass. Of course you can get same-ish with subtractive synthesis and distortion and stuff like that but FM is just a cool breath of fresh air and also it's difficult to produce certain FM sounds with subtractive synthesis.
+
+So yeah, that's why we use LFOs and why we usually don't use them above 20Hz (we can do briefly for certain cool automations) as it loses the point of adding an LFO.
 
 #### LFO vs. automation
 Now, usually you want to use an LFO for stuff that needs to repeat in a deterministic manor. For example, you can use it for arp-esque qualities of your synth. Or you can use it for a reese bass. However, often, in for example a reese bass you want these to be controlled in the way you want. Like, perhaps you want the bass to stay closed in a section and then gradually open up but in the chorus you want it to do some crazy filter stuff. So, instead of having the reese-open-up on an LFO, we have it on a macro (in synths with a macro or mod wheel) and then we can automate and choose ourselves when the bass opens and when it doesn't. So it depends on what you need. You may also use an LFO for something and then have a macro on the LFO settings (like speed) and stuff so that you can kind of change the sound like that for some reason.
