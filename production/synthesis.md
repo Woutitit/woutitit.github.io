@@ -5,7 +5,7 @@
 1. [Introduction](#introduction)
 2. [Why synthesis](#why-synthesis)
 3. [Synthesis techniques](#synthesis-techniques)
-4. [MIDI](#midi)
+4. [What is MIDI](#what-is-midi)
 5. [Waveforms](#waveforms)
 6. [Synthesizer settings](#synthesizer-settings)
 
@@ -40,7 +40,7 @@ Mind though that whether it is from a sample or something you construct yourself
 
 crossfade interpolation to smoothen
 
-### MIDI
+### What is MIDI
 - http://digitalsoundandmusic.com/6-1-3-midi-data-compared-to-digital-audio/
 - https://en.wikipedia.org/wiki/MIDI
 
