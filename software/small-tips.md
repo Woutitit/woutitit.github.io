@@ -18,14 +18,15 @@ Also, a few tips, you can automate the settings of each glitch fx of course so t
 
 ## Serum
 See manual. For me it's here currently: file:///C:/Users/Wout/Documents/Xfer/Serum%20Presets/Serum_Manual.pdf
-### Pitch controls
+
+### Pitch control
 So there are four ways to control pitch of a single oscillator and then on top of that for the whole synth you have a master tune control which affects all the oscillators.
 
 You have the "oct", "sem", "fin" and "crs" and you can do similar things with it as they all have to do with pitch. They are still different. The oct for example counts in octaves which is nice if you want an added octave layer. It's less nice if you want to smoothly modulate pitch over multiple octaves. For that you can use CRS. For more finetuned stuff or to put some slight detune LFO-ish vibe to your synth you may want to go less obvious so you can use "fin" for that which goes up or down to 100 cents only. And then lastly you have the "sem" which is a bit of hybrid between oct and crs. You can't go octaves with it but you can still modulate in a fast way or you can add like fifths harmony layers or something easily with it.
 
 Therefore, in terms of for example vibrato, you can technically use CRS, fine tune or the master tune ("sem" and "oct" to abrupt for vibrato).
 
-#### Vibrato
+### Vibrato
 - https://www.youtube.com/watch?v=HlOkdtr-fng
 - https://www.youtube.com/watch?v=OJn9_Y58jDU&t=1s
 
