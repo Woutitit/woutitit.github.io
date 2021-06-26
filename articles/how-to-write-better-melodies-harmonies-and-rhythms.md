@@ -27,7 +27,17 @@ Shortening and longening bass is also a very effective way of adding or removing
 ## Chords
 A chord progression is very stealable while a melody is a bit harder stealable. Steal progressions you like and slightly modify them (like the rhythm the voicings) to fit your song. It's ok, everyone does it.
 
+## Chord tone and voicings/voices functions
 With chords you want to be careful with inner and outer voicings (look up!). Like the upper tone of a chord really kind of can make different moods. Again, as with melodies the bass tone of the chord sets the mood and the upper note (kind of equal to target note in a melody) kind of sets up the journey/consonance/dissonance and the in between is more exotic and decoration. That's why a melody may stay in safe zones in terms of extensions and the chords beneath (in terms of frequency) may be more exotic since they can be and you still have the consonance feel thanks to the upper melody. But again the upper tones of the chords are also kind of audible so they do matter too. For example, ending on octave is more consonant in terms of a chord then ending on a third which implies more of a journey ahead of us.
+
+An easy example is a I-IV-V. You can play it like this (the traids written out):
+C-G-E F-C-A G-D-B C-G-E-C
+
+Again the upper extension is a C which is our home which sounds super resolved while the first chord, same C chord has an E on top which feels more like a journey. You can then add a melody on top that might end on an E (so you got a harmony of C-G-E-C-E) and suddenly you can hear it still implies more of a journey, right?
+
+So yeah, the melody can really imply a certain journey or consonants even if it's the same chord and the upper (and especially the most up) extension of a chord can so as well, and can almost be seen as an added melody line. Again the middle tones aren't just exotic and can also imply function too but the more down in frequency they are the more dissonant and less functional they become but for example you can add an 11th or a sus4 up enough in frequency without it being highest and yeah suddenly it also doesn't super resolved so there is some weight there.
+
+But yeah, just be aware of this and how upper extensions, voicings and lower fundamentals and stuff together with melody can really alter the journey, charachter and consonance/dissonance of a chord within that same chord. So it's not just about what the chord on paper is itself.
 
 ## Melody
 - https://www.youtube.com/watch?v=Q8qSHzrz-Tc
