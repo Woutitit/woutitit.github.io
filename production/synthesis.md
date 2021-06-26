@@ -8,6 +8,7 @@
 4. [What is MIDI](#what-is-midi)
 5. [Waveforms](#waveforms)
 6. [Synthesizer settings](#synthesizer-settings)
+7. [What is an LFO](#what-is-an-LFO-)
 
 ## Introduction
 //
@@ -119,5 +120,8 @@ So with unison you want to think what the purpose and function of a sound is. Of
 In short, you can use unison on a lot of patches but think about the purpose. A pad usually benefits from this, a chord stack that is meant to be filling usually too, leads, bass and other elements you want to be careful width. Either way, look at some (e.g. Serum) presets and look at their unison settings (for leads and basses). Do keep in mind they may be exagarated as lots of those are designed to sound good and huge on their own.
 
 ### LFO
+- https://www.reddit.com/r/edmproduction/comments/o1chd/can_someone_explain_how_lfo_works_or_synthesizers/c3dnahi?utm_source=share&utm_medium=web2x&context=3
+- https://www.bhphotovideo.com/explora/pro-audio/tips-and-solutions/fm-synthesis-demystifying-frequency-modulation-synthesis
+
 #### LFO vs. automation
 Now, usually you want to use an LFO for stuff that needs to repeat in a deterministic manor. For example, you can use it for arp-esque qualities of your synth. Or you can use it for a reese bass. However, often, in for example a reese bass you want these to be controlled in the way you want. Like, perhaps you want the bass to stay closed in a section and then gradually open up but in the chorus you want it to do some crazy filter stuff. So, instead of having the reese-open-up on an LFO, we have it on a macro (in synths with a macro or mod wheel) and then we can automate and choose ourselves when the bass opens and when it doesn't. So it depends on what you need. You may also use an LFO for something and then have a macro on the LFO settings (like speed) and stuff so that you can kind of change the sound like that for some reason.
