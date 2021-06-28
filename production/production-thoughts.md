@@ -1,9 +1,13 @@
 # Production thoughts
 
-## Mind frequency masking and a trick (?)
+## Mind frequency masking for clear mix and a trick (?)
 So I think I need to pay more attention to frequency masking. Like I think the reason my lead doesn't fit (among some others) is just because it gets masked by other stuff. And like bass masking other stuff. Like the trick is to mute stuff. For example do drums and then lead and just listen to how clear that (probably) sounds. So if with other stuff it sounds unclear that means there is stuff clashing. Same with bass and top bass and then other stuff. Just mute the mid bass and maybe suddenly there is enough room and clarity.
 
 Like muting stuff and seeing stuff that masks may reveal what you need to level/compose/EQ better. Like do some mid scoops or whatever. At least I think that's why it's muddy but I should pull in more reference tracks to check.
+
+Like this here is a good example: https://www.waves.com/how-to-mix-kick-bass-together-5-tips?utm_source=wnletter&utm_medium=email&utm_campaign=weekly-content-21-06-26-mixing-kick-bass
+
+Just notice how much more clear the kick (and by extend the mix) is because of the less harsh high-end bass. It's because the highs of the kick and bass clash and mask eachother with the harsh bass so choosing the less harsh bass makes stuff sit better so much more. Does that mean you can't use harsh bass and stuff? No but that does mean you'll clearly hear you'll need to EQ around the kick for a clear mix and a clear kick and maybe low-pass filter, turn down volume, sidechain all that jazz to make it work.
 
 ## Saturating seems to do wonders on kick/snare
 Todo: Where to put this? In a "how to mix drum articles"
