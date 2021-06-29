@@ -1,4 +1,8 @@
 # Production thoughts
+## Have multiple sidechains
+Again, you usually want to duck sub of your sound or in your bass more than the higher frequencies (if pumping is not what you want). Therefore, have at least a bass SC and a normal SC so you can make the normal SC for anything above say 200Hz to be pumping less (because not much needed there) and any sub stuff (inside sounds even but mainly sub bass) to pump a lot to avoid the bass and kick stuff.
+
+Of course sometimes you may want your SC to be all together and the same (mainly when you want the pumping) and sometimes you want different SC for each group (like lead, chords, etc.).
 
 ## Mind frequency masking for clear mix and a trick (?)
 So I think I need to pay more attention to frequency masking. Like I think the reason my lead doesn't fit (among some others) is just because it gets masked by other stuff. And like bass masking other stuff. Like the trick is to mute stuff. For example do drums and then lead and just listen to how clear that (probably) sounds. So if with other stuff it sounds unclear that means there is stuff clashing. Same with bass and top bass and then other stuff. Just mute the mid bass and maybe suddenly there is enough room and clarity.
