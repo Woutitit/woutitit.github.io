@@ -4,6 +4,27 @@ Link here also the how to cut through and sit back and all that stuf.
 ## Keywords
 - Air, shimmer, brightness, mudiness, boxiness.
 
+## Combat frequency masking
+Number one in the battle for clarity is combatting frequency masking. Masking is very easily heard and basically anytime that at least two sounds that overlap quite decently (which is inevitable) in terms of frequency and loudness there will be masking going on and you can hear it too. The sound aren't as clear as when you play them seperately.
+
+To combat masking these are your weapons of choice:
+- Volume
+- EQ
+- Panning
+- Stereo
+- Composition
+- Sound design and selection
+
+Choosing one trick will obviously sound different than choosing another whilst both solving the problem of the masking. Also, one trick might be enough but it can also require multiple tricks, it depends a bit on the sound and its function in the song.
+
+A good way to identify masking is to simply diagnose which sounds are making the mix unclear or are masking other sounds. Solo all sounds first and then try to play certain sounds together with others, especially same frequency range sounds and see which ones are causing trouble.
+
+Solving masking isn't super hard to do. You just need to make space for the instrument you want to be clear. That means giving priority to the instrument you want to stand out (in that frequency range). The easiest way to do this through volume or EQ. Usually you'll roughly set volume but you'll use some form of EQ to just cut out the specific range where it's masking whilst keeping the rest of the sound in tact. This has advantage over volume that you keep loudness of the other areas so if you EQ well you only lose the area that was masking another sound while retaining volume in the rest of the range. Again, don't need to make too big moves, if one instrument masking you might need to but if multiple, just cut a bit from all and then that is cool.
+
+Next, you can also play with panning and stereo. Perhaps two sounds are clashing in the stereo field (and frequency field). In that case you might try making that sound a bit more stereo. Again, you might want to EQ and volume a bit on top of that. This is usually for less focused, supporting sounds that you can do this to push it a bit away from the center but sometimes you can pull stuff a bit more in if too much crowd in the field. With panning you can often solve a lot of problems too easily. Panning will again get out of the way of the center where usually are important stuff is and meanwhile we don't need to EQ and volume as much because it's already out of the way retaining even more power. But of course, it's panned and having everything panned is weird so some form of supporting element here is usually done (like an arp). And panning to each sides of course. Like all these tips here can make a mix also just a biter wider, thicker and interesting next to more clear. Also, for some elements like kick, bass, lead and a lot of other focused elements this technique shouldn't be used. Of course you can make a lead thicker with stereo and a bass too. But generally these are all elements you want to have centered (so certainly not panned somewhere).
+
+Lastly, composition and sound selection is important too. Sometimes your sounds are clashing simply because the composition is too muddy or doing too much in a certain area with two certain sounds. Try fixing things in there. Same with sound design and selection. Hear this: https://www.waves.com/how-to-mix-kick-bass-together-5-tips?utm_source=wnletter&utm_medium=email&utm_campaign=weekly-content-21-06-26-mixing-kick-bass. you can hear how much the fuzz bass masks the kick (transient) while the more filtered low-pass bass makes the kick (and by extend the mix) way more clear. That doesn't mean you can't use a harsh bass but if you want to hear the kick clear and thus have a clear mix too (and kick is also very important) you'll need to mix the bass (for example bell EQing/shelving/passing around the transient area of the kick, sidechaining, volume less...).
+
 ## Decide and mix based on priority and supportive roles
 In your mix you'll most likely have elements and/or layers that are more important than others. As it's impossible to give every element in your mix the same attention, you'll want to decide what are the *important* elements and what are the *supportive* elements. On top of that, also think of it in frequency range. Which instrument is priority in what frequency range.
 
