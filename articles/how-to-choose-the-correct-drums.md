@@ -20,6 +20,8 @@ Now, note that shorter doesn't mean more weak (though it's easy to fall into tha
 
 In genres like rap and trap, you'll usually want more longer kicks as those are genre-defining but again, the kick and bass are basically one entity (called an 808). Basically, the kick and bass always hit at the same time. Therefore, we don't need to have a strong standalone bass, just a strong and long kick and we are set.
 
+Lastly, in FL Studio you can shorten the kick either in the playlist or through Edison (any other way?).
+
 ## Tune or not to tune
 - https://www.youtube.com/watch?v=hTZzFvjZL8M
 
