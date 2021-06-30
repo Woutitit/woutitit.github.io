@@ -1,4 +1,6 @@
 # Sound basics
+> See "Music history" for some concepts in here.
+
 ## Overtones, harmonics and timbre
 https://www.reddit.com/r/musictheory/comments/7zm1zr/a_few_questions_about_distortion_and_harmonics/dup8e7r?utm_source=share&utm_medium=web2x&context=3
 Every instrument produces overtones but not every instrument produces harmonics (only). Overtones are basically ANY other tones other than the fundamental tone when you strike the note. These tones don't necessarily need to have a harmonic relation with the note struck. Harmonics are the same except they DO have a harmonic relationship with the note struck. The harmonics in this case, and thus the series to build instruments around, have been decided to be integer multiples of the fundamental because again in the early years they found when strucking a note on an instrument that producer harmonics in that way sounded nice. And yup, this series also happened to line up with the mathematical findings.
