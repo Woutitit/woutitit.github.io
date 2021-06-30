@@ -2,7 +2,8 @@
 > See "Music history" for some concepts in here.
 
 ## Overtones, harmonics and timbre
-https://www.reddit.com/r/musictheory/comments/7zm1zr/a_few_questions_about_distortion_and_harmonics/dup8e7r?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/musictheory/comments/7zm1zr/a_few_questions_about_distortion_and_harmonics/dup8e7r?utm_source=share&utm_medium=web2x&context=3
+
 Every instrument produces overtones but not every instrument produces harmonics (only). Overtones are basically ANY other tones other than the fundamental tone when you strike the note. These tones don't necessarily need to have a harmonic relation with the note struck. Harmonics are the same except they DO have a harmonic relationship with the note struck. The harmonics in this case, and thus the series to build instruments around, have been decided to be integer multiples of the fundamental because again in the early years they found when strucking a note on an instrument that producer harmonics in that way sounded nice. And yup, this series also happened to line up with the mathematical findings.
 
 *Intermezzo: Harmonics are by definition tones that occur naturally from instrument sound vibration. Harmonics happen to (since we've chosen our 12 tones based on the harmonic series, thanks Pythagoras) line-up with our 12-tone system. Of course, in 12-tet not so much (see next intermezzo) for all harmonics, but they still more or less follow the 12-tet harmony system with a maximum deviancy of 49 cents. (which is not even half a semi-tone and occurs only starting from the 11th harmonic anyway). It might be a bit confusing that harmonics are also not really in tune with 12-tet but harmonics aren't random overtones, thare integer multiplies (and they follow 12-tet closley), overtones are just random upper tones that don't have any harmonic relationship with the fundamental or even 12-tet.*
