@@ -9,6 +9,8 @@ So transient processor is kind of like a magic compressor though the attack does
 
 It seems that saturation still makes stuff fatter (if needed) but that you may be able to do TP before or after to add some more transient back in or even more punch in if needed but that you still want clipping/saturation for fatness (?).
 
+Also, it even works on a synth INIT patch (so full sustain no attack no release) and it will give it some attack (I guess so in that case or all cases it looks at a certain amount in ms in the beginning and shapes that), however, the release didn't work because the stuff is flat and not dynamic at all and also the attack was also just a little thump and stuff. So again, transient shaper works best on synth patches, instruments (such as percussion and plucks) that have transients/dynamics/fading tail and thus are meant to be more stabb/percussive. So it's for transient-functional sounds to be enhanced and shaped even more in their transients.
+
 ## Playing MIDI
 Well, the easiest way is to File > Import and then just leave everything. It will load in all MIDI and with Flex instruments and that's good as Flex has instruments that follow the standard MIDI things so it will fill in everything nicely. On top, you can easily modify MIDI, change instruments or even mix so very handy!
 
