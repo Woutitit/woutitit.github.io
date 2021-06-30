@@ -1,4 +1,4 @@
-# Music history and basic concepts
+# Music history and sound basics
 > For now, I'd highly recommend to go in my "Music archive > Theory" to read up more on this, as I think this one leaves out a tad too much.
 
 ## Table of contents
