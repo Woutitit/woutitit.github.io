@@ -12,7 +12,7 @@
 6. [Sound selection is imporant](#sound-selection-is-important)
 7. [Transitions are important](#transitions-are-important)
 8. [Beef up verses and quiet sections](#beef-up-verses-and-quiet-sections)
-9. [Overdo, then delete](#overdo-then-delete)
+9. [Overdo, unclutter and delete](#overdo-unclutter-and-delete)
 10. [Write around a theme](#write-around-a-theme)
 11. [Write in a neutral patch](#write-in-a-neutral-patch)
 12. [Contrast is key](#contrast-is-key)
@@ -107,8 +107,12 @@ Also, take advantage of that the chorus is repeated multiple times, that's also 
 
 It's the same for quiet sections. Always try to find ways to add some backing stuff and some high-end (like keep hat going, some percussion, strings, other plucky transients) generally just for the sake of translating better on low low-end speakers but also to keep the volume consistency going. Again, in modern EDM and stuff you usually want to be constantely peaking 0db with whatever it is (maybe in quiet sections instead of kick you may have other plucks and transients low-energy but they are audible) and also a certain fatness for the consistency. So analyze how other tracks do it and beef up the quiet parts and verses. Also, there can of course be sections (small transitions) that are meant to be super quiet but again there you may at least want to think of some high-end and stuff to keep stuff perceivably more audible (on more devices).
 
-## Overdo, then delete
+## Overdo, unclutter and delete
+- https://www.youtube.com/watch?v=Gk1wi0bGW20&t=407s
+- 
 It may help generating ideas, whether that is a bassline, layers, song sections or whatever to not hold yourself back on generating a lot of different ideas and trying them all out. Like, you may start with a funky bass you like but then when adding more stuff on top you may find you need to slim down your bass line. Or with sections you are stuck but you should simply allow yourself to generate a few ideas and then you can pick the best one and delete the others. Again, just generate overdo, make your mix to busy and then think of things you can delete and take away.
+
+And also, remember yourself to not make stuff needlessly cluttered and again have coherent songwriting and stuff. For example, you can add an open hihat for energy but an open hihat is usually very loud and noisy so too much of it is going to clutter and noise-fy your mix. You can shorten it, add less of them, add them on weaker beats (usually done) just so it adds energy without cluttering. Same for bass, a lot of times you write too many bass notes or notes are too long sustained and it can easily clutter and over-energize a section or song. So take bass stuff out tactically shorten some notes (or all), be more efficient with your long notes and rhythms and whatever. It's super important for a clean mix. The same goes for uncluttering your harmony and all that stuff I have written her already about too.
 
 ## Write around a theme
 Write some sentences, a word or a certain theme or whatever down or have it in your head. Often this can kind of lead you into a direction of what your song is about, what genre, what style, what sounds. Like the song "Centipede" has these sounds that sound like little feet of the centipede and stuff like that. It can help always, especially if you don't know what to make or the creative direction to take your song.
