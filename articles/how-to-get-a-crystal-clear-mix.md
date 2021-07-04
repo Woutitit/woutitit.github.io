@@ -6,6 +6,7 @@ Link here also the how to cut through and sit back and all that stuf.
 
 ## Combat frequency masking
 - https://www.youtube.com/watch?v=lNKVYFzbzOc
+- https://www.youtube.com/watch?v=Mx7AnMUCDic
 
 Number one in the battle for clarity is combatting frequency masking. Masking is very easily heard and basically anytime that at least two sounds that overlap quite decently (which is inevitable) in terms of frequency and loudness there will be masking going on and you can hear it too. The sound aren't as clear as when you play them seperately.
 
