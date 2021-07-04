@@ -1,4 +1,17 @@
 # Production thoughts
+## 4.5db trick for better frequency balance
+- https://www.youtube.com/watch?v=Mx7AnMUCDic
+> Where to put this? Maybe in clarity or how to mix and master or where?
+
+It's important to have a balanced mix, however, our hearing hears frequencies logarithmic (or something), basically like pink noise. So that means that the higher we go the quieter in db our frequencies and sounds need to become for a balanced mix, more specifically, 4.5db per octave.
+
+Therefore, you can set your EQs and SPAN and stuff to a 4.5db "pivot slope" and what it will do is simply re-graph your frequency spectrum so that it looks like a straight line if your frequencies are balanced in loudness as it compensates for that 4.5db. So it checks for the perceived loudness in that way. And therefore, you can put this on both your whole mix or individual sounds to see if the spectrum is kind of a straight line. For example, in top loops like hi hats you often have that the frequencies go up on that pivot slope so the frequencies might actually be too harsh so as the video states you might want to high pass because the hihats might and will probably make your mix harsh.
+
+A great way to also test this is to check if you can turn up your mix loud enough and see if you can do it without having ear pain. If you have ear pain there are probably elements that are too harsh and need to adhere more to that 4.5db rule. Again, you want to kind of adhere to this rule so all is balanced and so accross all volumes, whether low or high you hear all elements present and heavily and nothing too loud and also nothing too shrill (i.e. too little low frequencies).
+
+Now, mind that this is a guideline NOT a rule. And also, modern mixes usually air a bit more on the bright side so less than 4.5db they lose going up. In fact, sometimes you have very heavy and loud and fast electronic genres that have considerably more highs than lows and certainly don't lose 4.5db per octave (or at least not in the highs/very-highs). But, it's still controlled the highs and also it's not super duper far off and the sounds itself also are contained so nothing is too harsh (so again, check your sounds solo as well for the rule and see if some may be too harsh, it may also be a volume/level issue of course).
+
+
 ## You don't always need high frequencies to have stuff be audible
 Remember, bass and even kick don't necessarily need (a boost in) highs always to be audible. Plenty of songs have bass and maybe even kick with not that much highs, it depends on the context and what the function of the bass and kick is.
 
