@@ -3,6 +3,17 @@
 ## Introduction
 These are some general guidelines but note that your style and what you like is all dependent on the reference tracks you like and want to sound like (like how clicky and/or punchy you want your kick to really be).
 
+## Punch (body, kind of), tail and transient
+Punch and transient may mistakenly get lumped together but they serve different purposes. The punch in a kick may be mostly in the high-lows, low-mids and is also more than 10ms (?), so more than the transient, and the transients is more in the 2-10k range (?) and only the first 10ms. Therefore, unlike what you might think, strengthening a transient is not going to do much for the punch (and thus power) of the kick. Finding a kick with good punch, possibly compressing and/or waveshaping to get the body (and thus punch) a bit more out is important but it also of course depends a bit on the genre and function of the kick as to how much punch and body you need.
+
+Also, with EQ and mid-scooping, be careful to not EQ out or even compress out too much of the punch in the kick as you might think those are not important frequencies of a kick. Again, just do sidechaining and stuff and you already solve a lot of kick problems anyway and then some minor EQing on the correct places if needed.
+
+So, the transient is important for listenability on devices that don't have much lows coming through. It's very easy to cut through a mix with a super strong transient, however, a lot of transient also usually means more aggressive and in your face which for your genre you may not want. Sometimes you want your kick to be a bit softer in the transient, to sit back a bit more, in other genres you may want to really cut through (with sidechaining and thus transient) a busy mix with strengthening the transient.
+
+Either way, you just need to listen on not-so-much-low-frequency-coming-through-devices to see if you like how the kick cuts through or if it needs to be more for adding or decreasing the transient.
+
+The tail is what we talk below here and is also genre heavy with usually preferring shorter kicks over longer ones. Usually, for example, to get the punch in a kick, while it's not in the transient, it's also not in the tail so it's that middle part where the main punch is so transient + some punch is often enough (in a busy mix).
+
 ## Short vs. long kick
 - [Au5 black and yellow](https://www.youtube.com/watch?v=oLBqmi0ot_g) (Notice how short, yet punchy and strong, the kick is)
 - https://abletunes.com/blog/how-to-choose-the-right-kick-drum/
