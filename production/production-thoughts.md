@@ -1,8 +1,8 @@
 # Production thoughts
 ## You don't always need high frequencies to have stuff be audible
-Remember, bass and even kick don't necessarily need (a boost in) highs always to be audible. Plenty of songs have bass and maybe even kick with not that much highs, it depends on the context and what the function of the bass is.
+Remember, bass and even kick don't necessarily need (a boost in) highs always to be audible. Plenty of songs have bass and maybe even kick with not that much highs, it depends on the context and what the function of the bass and kick is.
 
-For example, this song: https://soundcloud.com/sadkeyboardguy/chroma-surge is super hyper and loud yet you hear that the bass is almost only a sub (or maybe not, I don't know but either way not super high-end-y) and probably just a bit saturated to be a bit more audible higher up but again most speakers will pick up on that as anything higher than sub is already in the audible range. So to make a hype song, loud song or any other song you don't necessarily need a bass with a lot of (super) highs.
+For example, this song: https://soundcloud.com/sadkeyboardguy/chroma-surge is super hyper and loud yet you hear that the bass is almost only a sub (or maybe not, I don't know but either way not super high-end-y) and probably just a bit saturated to be a bit more audible higher up but again most speakers will pick up on that as anything higher than sub is already in the audible range. Also, in this type of song you might not want a super fat bass as that would simply get in the way of all the other loud shit in there so you'd need to probably EQ super heavily either way. But yeah, to make a hype song, loud song or any other song you don't necessarily need a bass with a lot of (super) highs.
 
 Then on the other spectrum there is https://soundcloud.com/futurehousemusic/mo-falk-feel-so-gud (there even is a video deconstructing it) where you can immediately hear the bass so much more since indeed here the bass has a more important role and needs to be (one of the) center elements in the mix and thus loud and bright.
 
