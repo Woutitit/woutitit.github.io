@@ -16,6 +16,8 @@ Again, you usually want to duck sub of your sound or in your bass more than the 
 Of course sometimes you may want your SC to be all together and the same (mainly when you want the pumping) and sometimes you want different SC for each group (like lead, chords, etc.).
 
 ## Mind frequency masking for clear mix and a trick (?)
+- https://www.youtube.com/watch?v=lNKVYFzbzOc
+
 So I think I need to pay more attention to frequency masking. Like I think the reason my lead doesn't fit (among some others) is just because it gets masked by other stuff. And like bass masking other stuff. Like the trick is to mute stuff. For example do drums and then lead and just listen to how clear that (probably) sounds. So if with other stuff it sounds unclear that means there is stuff clashing. Same with bass and top bass and then other stuff. Just mute the mid bass and maybe suddenly there is enough room and clarity.
 
 Like muting stuff and seeing stuff that masks may reveal what you need to level/compose/EQ better. Like do some mid scoops or whatever. At least I think that's why it's muddy but I should pull in more reference tracks to check.
