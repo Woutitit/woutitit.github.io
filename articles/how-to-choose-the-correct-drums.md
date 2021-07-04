@@ -14,6 +14,8 @@ Either way, you just need to listen on not-so-much-low-frequency-coming-through-
 
 The tail is what we talk below here and is also genre heavy with usually preferring shorter kicks over longer ones. Usually, for example, to get the punch in a kick, while it's not in the transient, it's also not in the tail so it's that middle part where the main punch is so transient + some punch is often enough (in a busy mix).
 
+So yeah it all depends on genre, song or section of song or whatever (as sometimes in a section you may only want the clicky, not the punch and not even the sub or whatever).
+
 ## Short vs. long kick
 - [Au5 black and yellow](https://www.youtube.com/watch?v=oLBqmi0ot_g) (Notice how short, yet punchy and strong, the kick is)
 - https://abletunes.com/blog/how-to-choose-the-right-kick-drum/
