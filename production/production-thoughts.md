@@ -1,4 +1,15 @@
 # Production thoughts
+## You don't always need high frequencies to have stuff be audible
+Remember, bass and even kick don't necessarily need (a boost in) highs always to be audible. Plenty of songs have bass and maybe even kick with not that much highs, it depends on the context and what the function of the bass is.
+
+For example, this song: https://soundcloud.com/sadkeyboardguy/chroma-surge is super hyper and loud yet you hear that the bass is almost only a sub (or maybe not, I don't know but either way not super high-end-y) and probably just a bit saturated to be a bit more audible higher up but again most speakers will pick up on that as anything higher than sub is already in the audible range. So to make a hype song, loud song or any other song you don't necessarily need a bass with a lot of (super) highs.
+
+Then on the other spectrum there is https://soundcloud.com/futurehousemusic/mo-falk-feel-so-gud (there even is a video deconstructing it) where you can immediately hear the bass so much more since indeed here the bass has a more important role and needs to be (one of the) center elements in the mix and thus loud and bright.
+
+And that's a bit the point, sometimes you want certain elements such as bass and kick deliberately a bit more tucked away because of the genre or because other elements are more important in the mix. That said, for presence boosting in the 2-5 range is important when you are after, presence, brightness and in yo faceness (closeness) as that's what the highs bring and imply. Therefore, if your bass needs to be in your face more, then don't worry about boosting 2. Especially maybe if it has a transients as transients always are more in the highs so to emphasize it you want to boost the correct highs. Same for kick, you often boost or want to have high frequency transients as it makes the kick more present (but it also makes it more in your face and close so how much do you want or need). 
+
+Lastly, this even extends to compression and transient processing. Look at this In the Mix video: https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s. Again, the transients (and thus highs can get softened for less in your face and presence and more softness if that's what you're looking for and the opposite is also true. Of course, it's a spectrum so you don't need to go all the way aggressive or all the way soft.
+
 ## Have multiple sidechains
 Again, you usually want to duck sub of your sound or in your bass more than the higher frequencies (if pumping is not what you want). Therefore, have at least a bass SC and a normal SC so you can make the normal SC for anything above say 200Hz to be pumping less (because not much needed there) and any sub stuff (inside sounds even but mainly sub bass) to pump a lot to avoid the bass and kick stuff.
 
