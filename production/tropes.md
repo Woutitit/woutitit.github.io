@@ -3,7 +3,7 @@
 - https://www.youtube.com/watch?v=UOeoK1j-lcs&t=710s
 - https://www.youtube.com/watch?v=iDeMxlhm8XI
 
-It's done in above song and Mike Williams explains it in his video in the beginning. Very often you have a lead or vocal with a certain delay and reverb and for cool effect or to fill some space you'll increase the delay and/or reverb on a certain lead or vocal briefly. Now
+It's done in above song and Mike Williams explains it in his video in the beginning. Very often you have a lead or vocal with a certain delay and reverb and for cool effect or to fill some space pr to highlight/target note, you'll increase the delay and/or reverb on a certain lead or vocal briefly. Now how exactly to do it I'm not sure though but it's very common and sometimes it's brief, sometimes over a bit more time, etc.
 
 ### ????
 - The "occassional reverb snare". Often in music (often disco but also edm) , the 1st snare hit is not very verb-y but then the 2nd is and then the 1st isn't (creates interest and depth). Can be vice versa or don't always need to always hit like that, or consecutive reverb hits can also be a thing:
