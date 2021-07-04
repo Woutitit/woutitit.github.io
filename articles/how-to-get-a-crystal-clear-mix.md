@@ -5,9 +5,13 @@ Link here also the how to cut through and sit back and all that stuf.
 - Air, shimmer, brightness, mudiness, boxiness.
 
 ## Combat frequency masking
+- https://www.youtube.com/watch?v=lNKVYFzbzOc
+
 Number one in the battle for clarity is combatting frequency masking. Masking is very easily heard and basically anytime that at least two sounds that overlap quite decently (which is inevitable) in terms of frequency and loudness there will be masking going on and you can hear it too. The sound aren't as clear as when you play them seperately.
 
-To combat masking these are your weapons of choice:
+Now, note that masking makes stuff sound more like one instrument or one blob and sometimes that's alright. For example, a background choir with a ton of voices you might WANT to sound washy as it's a paddy background thingy. However, when mixing in with the rest that's where you might take away a bit in the choir to give space to more important instruments. Or maybe different instrument (like different kinds of string instruments) are also ok to mask eachother (a little bit) because you want to make them kind of sound like that one big unclear blob.
+
+Either way, to combat masking these are your weapons of choice:
 - Volume
 - EQ
 - Panning
