@@ -18,9 +18,9 @@ The point is, when mixing on bad headphones you'll want to (as soon as possible)
 
 *Note: Of course, once your mix sounds roughly good on those devices you don't need to always check for every little thing, maybe just when enough stuff is added or whatever.*
 
-One BIG note here, though, is that you of course want your bass to audible on laptop speakers and your song sounding good on those. But REMEMBER, laptop speakers (see comment) tend to always let through the high-end way more than the low-end. Therefore, if you make your low-end boom on your laptop speakers, most likely you'll end up with way too much bass. Same with my other speakers, there the low-end comes through more but my song sounds kind of small and thin. You'd think you'd need to fix that (I mean, maybe you do) but then when you compare to other professional tracks you notice these also sound thin on these speakers so that's again the characteristic of the device. You just have to learn and know what thin is normal and what thin is actually thin. 
+One BIG note here, though, is that you of course want your bass to be audible on laptop speakers and your song sounding good on those. But REMEMBER, laptop speakers (see comment) tend to always let through the high-end way more than the low-end. Therefore, if you make your low-end boom on your laptop speakers, most likely you'll end up with way too much bass. Same with my other speakers, there the low-end comes through more but my song sounds kind of small and thin. You'd think you'd need to fix that (I mean, maybe you do) but then when you compare to other professional tracks you notice these also sound thin on these speakers so that's again the characteristic of the device. That's why for each device it's crucial to know what sounds good and what sounds bad on those. For example a washier high-end on laptop speakers may be fine just because that's their particular response. So always keep this in mind.
 
-So important things:
+So, in short, some important things:
 - Check multiple devices frequenctly
 - Check speakers vs. headphones
 - Learn and know the frequency response of your devices (and learn what a good mix sounds like on what device)
