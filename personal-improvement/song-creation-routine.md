@@ -64,7 +64,7 @@ Once your list is done and you've chosen something (or multiple things) to work 
 ## Stage 5: mix and master
 So entering this stage your song should ideally be 80% done from a creation point of view. This stage is where you are actually critical about your mix, master, sounds, sound FX, risers, things you automate and the enveloppes of it. This is also where you start REALLY mixing. Again, you should here be in a mindset of "I've commited to this composition and arrangement, let's make this sound as good as we can. Preferably, if you can, you want to start your mixing from scratch again, you might even want to render out every single instrument (with FX but just no mixing FX) (so not the whole song) and drop them all as stems in a mixing file (so you're focused more on working with what you have than trying to change stuff) and make that the best mix you can, again, paying really close attention. And mastering goes into this stage too.
 
-Also, this stage will be more and more intertwined whit your "mixing on the go" process the better you become as you'll have to fix less stuff in poist.
+Also, this stage will be more and more intertwined whit your "mixing on the go" process the better you become as you'll have to fix less stuff in post.
 
 ### Stage 6: Finalizing
 Last stage is then obviously where everything is done, again, take a listen again and don't cry over the composition/arrangement AT ALL, it's done and over. Hear the mixing and mastering, listen it on different devices and see if it's okay. So you might need to go back a bit to mix and mastering but mostly it shouldn't be too big of mixing decisions anymore.
