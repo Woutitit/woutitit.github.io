@@ -1,4 +1,6 @@
 # How to mix and master
+> Important: See "song creation process" in productivity for more.
+
 ## Introduction
 Unlike popular belief, mastering is mostly about enhancing and coloring the mix the way you want it. This can mean adding a tiny dot of reverb, adding some extra width, perhaps reshaping your mix's EQ curve a bit and stuff like that.
 
