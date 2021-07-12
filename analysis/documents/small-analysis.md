@@ -15,6 +15,8 @@ So you often see on hard hitting genres that the sub and lows are very or at lea
 
 One peculiar thing about such curve in those hard hitting genres is that in the upper ranges it seems to be that in the drops at least the highs and very highs, there aren't really any harmonics sticking out, it's very flat.
 
+also, snares/brushes and hats and stuff already also have a broad freq response alread on SPAN so you don't need a shitton of perc to make it somewhat flat looking there. Just needs to hit regularly ofc since its not harmonic u can make it really fat by layering percussion but not necessary depends on genre and whatever.
+
 Now, i've noticed a few broad kind of flat (can be more of course)
 - Heavy loud bass flat
 - Percussion/drum flat
