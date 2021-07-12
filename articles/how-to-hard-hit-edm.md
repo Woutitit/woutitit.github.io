@@ -1,5 +1,6 @@
 # How to hard hit EDM
 > Not sure if this is the right place.
+
 > IMPORTANT: This article might be update many times the more I understand about it. Like, stuff in here may be plain wrong but it's my current understanding.
 
 ## Examples:
