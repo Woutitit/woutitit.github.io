@@ -32,8 +32,16 @@ Now, this also makes more sense because on SPAN the low-end also shows a bit mor
 
 Now, sometimes you may see flatness here too. Then you probably have to do with the heavy bass and/or supersaw stuff (with white noise layer). => Check mo falk song cuz how does he get flatness in lower harmonics too cuz only so much or its not flatness there, check!
 
-Second thing to understand is that the flatness can/may mean that there is one single (or multiple loud) instrument with loads of harmonics. Because, in for example jazz, stuff has very nuanced harmonics, no flatness whatshowever but in heavy bass EDM stuff, you can have a bass that goess all the way in the spectrum but you don't have any violin sticking out very much. This is again because your bass is one (if not) the loudest elements in your track. Also, again, if you have more mleodic stuff, you will see it show up again mostly in 400Hz to 2k range 
+Second thing to understand is that the flatness can/may mean that there is one single (or multiple loud) instrument with loads of harmonics. Because, in for example jazz, stuff has very nuanced harmonics, no flatness whatshowever but in heavy bass EDM stuff, you can have a bass that goess all the way in the spectrum but you don't have any violin sticking out very much. This is again because your bass is one (if not) the loudest elements in your track. Also, again, if you have more mleodic stuff, you will see it show up again mostly in 400Hz to 2k range but after that, it's mostly that heavy bass doing it's thing with the harmonics it has and being very loud. Add on top the hats that may play together. Now, of course you need to see that your loudness levels are correct.
 
+Same for percussion. Like hats and snare (kick less) are all non-harmonic. They have overtones and they kind of sound white nois-y. This makes them of course very good mix fillers and they are also percussive so that's very convenient and cool. Often in percussive hard EDM you'll hear lots of loops/percussion stacked on top of eachother and since all these sound very white noisy, their response is going to automatically be already rather flat without doing anything.
+
+But again, you need to see that levels are correct and sometimes in top loops there may be stuff sticking out.
+
+And that's the key, like, compression, ott and dist and surgical eq cannot give you these kinds of flatness. I mean, they help to achiev the true flatness and loudness but you need to have the right ingredients like above for it.
+
+
+but white-noise like sound fills up mix very good also without sounding particularly sharp because everything is really flat and it's even better without doing with white noise cuz then it's white noise but it still is heard as percussion, add some transient and voila it's percussive white noise, same purpose but more musical.
 
 
 ott compression dist and MB but those seem to just be the icing on the cakes (or i mean big icing, like its not SUPER big deal but it kinda is a deal like it still makes quite some dfiference)
@@ -42,7 +50,6 @@ ott compression dist and MB but those seem to just be the icing on the cakes (or
 - May want white noise layers on melodic percussion stuff (so even melodic stuff sounds kind of "hatty")
 
 Adding transients, especially to shorter percussive elements (mainly not melodic but can be percussive melodic elements too)
-
 ## C# minor Jazz tropes 170 BPM
 - https://twitter.com/Street_DTM/status/1340423923331002368
 - Or on Google Drive (hopefully) with same name as title
