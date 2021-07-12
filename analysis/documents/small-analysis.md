@@ -32,6 +32,8 @@ same with mastering, it helps too but again u need the roots.
 
 Like again so u need to know the genre and the type of mix you want cuz again usually this kinda curve only want/need for hard hitting andor fast EDM, with supersaws, saws and/or percussion loud basses. Like analog music and shit and nothing with supersaws you don't need/want to see this at all of course and on top you may want a warmer and more flatter mix too.
 
+also talk about how the helpers help like MB and OTT can flatten out stuff accross the spectrum even more allowing shit to be louder whilst not being too loud in a certain range and also just brings out more, especially handy on percussion. Dist before can make shit fatter, bring out stuff and add to transients. Then transient processor real important for the clickiness on the perc mainly. Umm what else?
+
 S7AGE - Zekk => percussive flat example, any other examples (for the others below too)
 Mo falk => heavy bass flat
 ???? Maybe that teminite song? => supersaw flat
