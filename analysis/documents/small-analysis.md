@@ -17,6 +17,8 @@ One peculiar thing about such curve in those hard hitting genres is that in the 
 
 also, snares/brushes and hats and stuff already also have a broad freq response alread on SPAN so you don't need a shitton of perc to make it somewhat flat looking there. Just needs to hit regularly ofc since its not harmonic u can make it really fat by layering percussion but not necessary depends on genre and whatever.
 
+Usually also hard hitting punchy (but short) kick OR snare. Like it's either of the two (usually the kick is punch) and then snare is more clappy, high-endy thingy) cuz else it's too much punch I've noticed. Usually kick the puncy one and snare less but saiph oblivia is an example where it may be the oppsoite. And also both being punchy is not uncommon but then it may be that you need to make them slightly less loud in mix (or either two) cuz else too much kick and snare show and too little actual song in there.
+
 Now, i've noticed a few broad kind of flat (can be more of course)
 - Heavy loud bass flat
 - Percussion/drum flat
