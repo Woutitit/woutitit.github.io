@@ -24,6 +24,8 @@ Of course, non are exclusive, it can be a combo too.
 
 so write down what helps like next to ott and adding more flatness accorss the specturm with MB too, high BPM also helps cuz u get the perc andor bass andor supersaw like very rapdily hitting so the specturm may seem even more flatter and it wont give in you know. But again, it helps but u need the roots to be able to do it cuz thos eharmonics sticking out, u cant do shit about it and u shouldnt do shit about but understand no hamronics sticking out cuz of see below where to put this article also???
 
+also likein uperr frequencies u can still hear shit that you may think "huh but this doesnt sound like white noisy" like upper lead/voice or something. Wlel yeah but usually the loudest part is then the percussion or maybe the supersaw or the bass or whatever so its kinda hidden in the spectrum so it still looks rather flat.
+
 same with mastering, it helps too but again u need the roots.
 
 S7AGE - Zekk => percussive flat example, any other examples (for the others below too)
