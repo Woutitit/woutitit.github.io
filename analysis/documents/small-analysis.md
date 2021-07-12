@@ -22,6 +22,10 @@ Now, i've noticed a few broad kind of flat (can be more of course)
 
 Of course, non are exclusive, it can be a combo too.
 
+so write down what helps like next to ott and adding more flatness accorss the specturm with MB too, high BPM also helps cuz u get the perc andor bass andor supersaw like very rapdily hitting so the specturm may seem even more flatter and it wont give in you know. But again, it helps but u need the roots to be able to do it cuz thos eharmonics sticking out, u cant do shit about it and u shouldnt do shit about but understand no hamronics sticking out cuz of see below where to put this article also???
+
+same with mastering, it helps too but again u need the roots.
+
 S7AGE - Zekk => percussive flat example, any other examples (for the others below too)
 Mo falk => heavy bass flat
 ???? Maybe that teminite song? => supersaw flat
