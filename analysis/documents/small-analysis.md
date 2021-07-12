@@ -23,6 +23,8 @@ Also, like usually the perc and top-end hit quite reguarly, transient shaper on 
 
 Also, white nois-y sound (actual white noise or hatty sounds) also better than loud supersaw cuz white noise is super dense and rich so u dont need as loud to be audible and super present cuz loads of harmonics while with supersaws you may think that it's rich but you may need to make too loud to be audible and thus it's gonna actually be shounding sharp cuz not that nice flat frequency thing but thinny more and thus louder you need to put and thus the rich upper harmonics gonna sound sharp. Meanwule with white noisy type noise shit that aint the case cuz if shit get too loud its literally accross the spectrum and shit so not too sharp or whatever. Thats why you may filter such lead sounds czu ofc less white nois-y is more melodic and harmonics ofc so u need those type of sounds and not every sound in the song needs to be sueper dense rich and white noisy fror example the body shit 400-2kHz not so much cuz in there mostly the mleodic shit.
 
+And ofc good sound selection, mixing, mastering and composition also adds to loudness and generally good song. Like thats a big thing too ofc.
+
 Also notice it's usually only/mainly the lead that (in the upper melodic parts) is really audible accorss the 2k range in Hz the rest not really audible but ye that makes it cut through really good you know.
 
 Now, i've noticed a few broad kind of flat (can be more of course)
