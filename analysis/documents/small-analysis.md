@@ -3,6 +3,46 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## Important
+So I should make this an entry somewhere where I analyze hard hitting genres EDM
+
+also this article should get updated the more i analysis it but i should analyze it more and more.
+
+ALSO, there can be things flat out wrong in this article so don't take anything I say here for gospel. It's just stuff I noticed.
+
+
+So you often see on hard hitting genres that the sub and lows are very or at least well present, then you see the mids not being super loud in volume but it may be on par with the lows sometimes (or less but usually not more) and then from the highs you see the SPAN curve usually going up. How much depends.
+
+One peculiar thing about such curve in those hard hitting genres is that in the upper ranges it seems to be that in the drops at least the highs and very highs, there aren't really any harmonics sticking out, it's very flat.
+
+Now, i've noticed a few broad kind of flat (can be more of course)
+- Heavy loud bass flat
+- Percussion/drum flat
+- Supersaw/saw flat
+
+Of course, non are exclusive, it can be a combo too.
+
+S7AGE - Zekk => percussive flat example, any other examples (for the others below too)
+Mo falk => heavy bass flat
+???? Maybe that teminite song? => supersaw flat
+
+First thing to understand what I've noticed is that you don't really have the flatness in the (lower-mids) and that when you solo shit, most of the melodic stuff usually is between 400-2kHz and that anything above is usually really the upper melodic stuff or really the transients or some white noise layers and/or some harmonics. Like starting at 3-4k it's mostly percussive shit and then in the very high-end you may hear some slight distance things from melodic shit but that's going to be mainly transients.
+
+Now, this also makes more sense because on SPAN the low-end also shows a bit more spread so it's going to look like that but on top of that, unlike drums, melodic stuff has HARMONICS and not white-noise like overtones. And also, kick has just a few big harmonics in the lows so in that regard it's super logical that it's going to look like that in there but this is thus where you put your main melodic shit.
+
+Now, sometimes you may see flatness here too. Then you probably have to do with the heavy bass and/or supersaw stuff (with white noise layer). => Check mo falk song cuz how does he get flatness in lower harmonics too cuz only so much or its not flatness there, check!
+
+Second thing to understand is that the flatness can/may mean that there is one single (or multiple loud) instrument with loads of harmonics. Because, in for example jazz, stuff has very nuanced harmonics, no flatness whatshowever but in heavy bass EDM stuff, you can have a bass that goess all the way in the spectrum but you don't have any violin sticking out very much. This is again because your bass is one (if not) the loudest elements in your track. Also, again, if you have more mleodic stuff, you will see it show up again mostly in 400Hz to 2k range 
+
+
+
+ott compression dist and MB but those seem to just be the icing on the cakes (or i mean big icing, like its not SUPER big deal but it kinda is a deal like it still makes quite some dfiference)
+
+- Stacking a few percussion loops
+- May want white noise layers on melodic percussion stuff (so even melodic stuff sounds kind of "hatty")
+
+Adding transients, especially to shorter percussive elements (mainly not melodic but can be percussive melodic elements too)
+
 ## C# minor Jazz tropes 170 BPM
 - https://twitter.com/Street_DTM/status/1340423923331002368
 - Or on Google Drive (hopefully) with same name as title
