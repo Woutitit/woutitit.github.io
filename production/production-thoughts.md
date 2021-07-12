@@ -1,4 +1,7 @@
 # Production thoughts
+### Make a drop for another song's build up
+Like, this can really inspire you for a certain drop and it also makes it like easier to know if your drop is a vibe and then simply you write a similar build up and then there you go you have a song.
+
 ## 4.5db trick for better frequency balance
 - https://www.youtube.com/watch?v=Mx7AnMUCDic
 > Where to put this? Maybe in clarity or how to mix and master or where?
