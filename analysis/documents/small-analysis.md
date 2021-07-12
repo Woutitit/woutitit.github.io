@@ -19,6 +19,12 @@ also, snares/brushes and hats and stuff already also have a broad freq response 
 
 Usually also hard hitting punchy (but short) kick OR snare. Like it's either of the two (usually the kick is punch) and then snare is more clappy, high-endy thingy) cuz else it's too much punch I've noticed. Usually kick the puncy one and snare less but saiph oblivia is an example where it may be the oppsoite. And also both being punchy is not uncommon but then it may be that you need to make them slightly less loud in mix (or either two) cuz else too much kick and snare show and too little actual song in there.
 
+Also, like usually the perc and top-end hit quite reguarly, transient shaper on perc. Like some melodic elements also perc/hatty/transient shapy. Also, often in these hard hitting genres you may ACTIVELY choose to include those type of rich sounds you know it's NOT that you end up like that, you do that consicously and include that to make it hard hitting you know.
+
+Also, white nois-y sound (actual white noise or hatty sounds) also better than loud supersaw cuz white noise is super dense and rich so u dont need as loud to be audible and super present cuz loads of harmonics while with supersaws you may think that it's rich but you may need to make too loud to be audible and thus it's gonna actually be shounding sharp cuz not that nice flat frequency thing but thinny more and thus louder you need to put and thus the rich upper harmonics gonna sound sharp. Meanwule with white noisy type noise shit that aint the case cuz if shit get too loud its literally accross the spectrum and shit so not too sharp or whatever. Thats why you may filter such lead sounds czu ofc less white nois-y is more melodic and harmonics ofc so u need those type of sounds and not every sound in the song needs to be sueper dense rich and white noisy fror example the body shit 400-2kHz not so much cuz in there mostly the mleodic shit.
+
+Also notice it's usually only/mainly the lead that (in the upper melodic parts) is really audible accorss the 2k range in Hz the rest not really audible but ye that makes it cut through really good you know.
+
 Now, i've noticed a few broad kind of flat (can be more of course)
 - Heavy loud bass flat
 - Percussion/drum flat
