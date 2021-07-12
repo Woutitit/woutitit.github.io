@@ -34,6 +34,8 @@ Like again so u need to know the genre and the type of mix you want cuz again us
 
 also talk about how the helpers help like MB and OTT can flatten out stuff accross the spectrum even more allowing shit to be louder whilst not being too loud in a certain range and also just brings out more, especially handy on percussion. Dist before can make shit fatter, bring out stuff and add to transients. Then transient processor real important for the clickiness on the perc mainly. Umm what else?
 
+also not only talk about the flatness also about fatness and achieve. Like use transient shapers for snap, use white noise layers. Also louder and bigger usually means stereo layers on certain (key) elements and playing with it. Also higher/faster bpm may work too, (quite some percussion loops) some use of supersaws/saws, again MB compress for flatness and brining out, dist for fatness, general compression/limiting for steadiness you know. What else?
+
 S7AGE - Zekk => percussive flat example, any other examples (for the others below too)
 Mo falk => heavy bass flat
 ???? Maybe that teminite song? => supersaw flat
