@@ -20,6 +20,7 @@
 
 ## Resources
 - https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Fruity%20Limiter.htm
+- Image-Line FL Studio compression: https://www.youtube.com/watch?v=gJUmUd4FfeM
 
 ## What is a compressor
 A compressor is a device that **reduces the dynamic range of a signal**. Say we have a certain sound sample. Accross its duration, the sample fluctuates between 2db and 20db loudness, an 18db dynamic range. To reduce this, we can put the signal through a compressor. Through the compressor settings we can tell it to turn down the signal whenever it goes above a certain threshold in loudness. For example, anytime it goes above 18db, we might want to turn the signal down in volume so that the overall signal is less fluctuating in dynamic range.
