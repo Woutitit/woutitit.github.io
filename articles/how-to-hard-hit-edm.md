@@ -29,6 +29,9 @@ But still, it's peculiar that there are more hills in there. This is because I'v
 
 
 ## Notes
+
+also again genre. Like solo piano you cannot makie look like this and don't have to makelook like this. Also ye u can sound design and process bass to look more like that ofc but again u always need the roots whether that lies in sound design or whatever but its not in mixing and mastering.
+
 A good examples of indeed how the top end just by drums already look like that one thing:
 https://twitter.com/zekk_wa_zetku/status/1350686871911686148
 
