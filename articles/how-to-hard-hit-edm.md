@@ -35,7 +35,7 @@ So then what exactly goes into these ranges at all? Well, when talking about ton
 
 Now, next to upper harmonics, this space will actually mostly be dominated by the drums and percussion. The core of it is really the claps, snares and hats, those have a shitton of overtones and very broad in the highs of the spectrum too. Therefore, if you don't have enough of those and/or not consistent and/or too quiet, you may not achieve a thick consistent high-end in "normal" genres.
 
-Now I say normal genres and that's where I mean genres with normal timbres (and maybe mostly real instruments) and aren't meant to be (as hard-hitting). Like, your tonal stuff will the ranges up there but it will not be thick and far from enough to fill so you'll need some extra help from mostly drums and percussion to fill more stuff up there (if needed/want to).
+Now I say normal genres and that's where I mean genres with normal timbres (and maybe mostly real instruments) and aren't meant to be (as hard-hitting). Like, your tonal stuff will kind of hit the ranges up there but it will not be thick and far from enough to fill that range up so you'll need some extra help from mostly drums and percussion to fill more stuff up there (if needed/want to).
 
 *Intermezzo: So what you might see is that in "normal" genres you may have a loud piano and then some very simple drum loop in the back. When inspecting in SPAN you'll see the mid range gets dominated and there is very little high-end and when soloing the high to very high-end you can even hear tonal stuff (upper harmonics of the tonal stuff). And that's because the top-end isn't dense enough and not even (much) louder than the upper harmonics of the piano. Now, note that this may be totally fine for the section/song/genre but understand that with this configuration you'll not get that hard-hitting EDM high-end.*
 
@@ -43,12 +43,29 @@ Now I say normal genres and that's where I mean genres with normal timbres (and 
 
 *You ALWAYS have to think of the genre AND the instruments you're using because you cannot force a certain SPAN curve on certain instruments/composition and A LOT of genres need that (super) dense and (super) consistent high-end of hard-htting EDM. Again, this is why it's important to reference a track in your genre or how you want your track to sound like in the spectrum. It may be flatlining up top, it may not be. It depends.*
 
+But anyway, how exactly do we get that FLAT-ish high-end we see in hard-hitting. Well there-in lies usually one or more of the following:
+- Percussion/drum
+- Heavy loud bass
+- Supersaw/saw/any instrument with loads of (loud) harmonics/saturation
+- White noise
 
+In these hard-htting genres you'll notice that the hats and claps (and probably a few percussion loops too) might be èsignificantly in there. Again, they all kind of are already naturally sounding a bit white nois-y and with some post-processing you can get all of these in line even more (see later). But yeah, that might be what single handedly makes the curve.
 
-the loud thick lead
+Another option may be heav/loud bass. A supersaw is quiet rich and dense. However, a supersaw distorted, compressed and with a white noise layer is even very much more rich and dense and will easily extend it's harmonics to the moon (20kHz) and beyond. And again, naturally (and with post processing) flattish/white-noise-curvy frequency cruve.
 
+Another option is the supersaw. Detune it, make it fatter, white noise, maybe distortion, lots of notes, etc. all the reasons I've mentioned above.
 
-## Spectrum explained
+And the, white noise either as a background layer and/or as a background layer to one or more instruments (like the bass or the chords or whatever depending on what the mix needs, and which sound is importantest).
+
+So yeah, all these have very flat (or white noisy so going up on SPAN visualizer) frequency response and thus one or combination of these will render you the kind of curve you see in hard-hitting EDM. 
+
+## Lows, mid-range explained
+Explain that tonal stuff is here and that the sub bass and kick are what give tracks punch and really needed cuz rest is kinda flat sounding.
+
+## Why this flatness
+Rich but also turn up music without sounding harsh and just sounding very loud on either low or high volume etc. add more here.
+
+## Notes 2
 First thing to notice that it isn't really a straight line or anything, there are still some peaks and valleys on the SPAN analyzer, just not that much and very little (also doesn't help that the high-end doesn't get much screen space in SPAN so it seems even worse, see later). So yeah, there are still things playing louder and quieter in the high-end of those genres.
 
 The thing is, though, this flatline looks a lot like white noise (or pink noise for less brightness).
