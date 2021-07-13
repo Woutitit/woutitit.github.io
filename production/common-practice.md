@@ -19,6 +19,9 @@ I'm not sure why the mono and stereo are split up but again you may not want to 
 
 But yeah look out for (and these can be a combination of two or more as well):
 - sub layer
-- stereo layer
-- octave layer
+- stereo layer(s)
+- octave layer(s)
 - texture/timbre layer
+- transient layer
+- white noise layer
+- pad layer
