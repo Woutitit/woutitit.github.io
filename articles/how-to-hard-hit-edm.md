@@ -16,6 +16,26 @@ So hard hitting EDM has a very peculiar frequency shape. It depends from song to
 
 Again, sometimes the line doesn't go as much up or isn't as much of a line but usually SPAN is very flattish and all hills are very connected the higher we go in the spectrum.
 
+## The higher mid-range, high-end and very high-end explained
+I'm talking about the 1-2k Hertz and beyond.
+
+This is the most peculiar/interesting part of the spectrum in these genres as you'll notice that from here it starts becoming rather flattish. Like, the lower parts may still see some hills but the higher we go the more steady and flat the curve seemingly gets.
+
+First thing to clear up is how a frequency spectrum shows up on SPAN. The low-end gets a lot of visual space for very little hertz and the high-end has this big range crammed in basically the same visual space as the low-end. Therefore, the higher we go the closer harmonics will be to eachother and thus if we have (enough) stuff there it's naturally going to show up as more close together and dense than the lows and low-mid ranges where we can clearly see (more) gaps between the harmonics.
+
+But all that doesn't explain the denseness, flatness and steadiness. We'll come to that.
+
+Second thing to note is that 1-2k Hz. is actually rather high already in terms of tonality. C6 is 1k-ish Hz and C7is 2k-ish Hz, both already rather high and not much touched notes. Considering that the audible range goes up to 20k Hertz it's very peculiar that very high tonal stuff already "stops" at a mere 1-2k Hz (!!!). (which is like the middle of our visual on the SPAN plugin). 
+
+In other words, the tonal stuff, and what makes music music actually music doesn't contribute to that kind high-end at all (not entirely true but we'll see that in a second). And you can hear that even better when you use Tonal Balance 2 or a MB compressor and solo bands (or an EQ even). From 2kHz it's mostly starting to sound like noise and then from 5kHz it's starting to sound like even more noise. That's how these ranges sound like when having (a lot of) harmonics there. Meanwhile solo the low-mids and mids and those will sound like the main meat of the tonal musical stuff.
+
+So then what exactly goes into these ranges at all? Well, when talking about tonal stuff, it's mostly the upper harmonics that go in those ranges (I should MB solo more songs to check more out how much tonal shit goes into the high-mids, low-highs). The problem is a bit though that a piano for example will not fill anything at all in these ranges. That may be ok for your song or section but usually you want at least semi-frequenctly some highs and very highs hitting (densely) just for fullness, brightness and aliveness. That said, if you have tonal stuff that's very rich (like a saw) then you'll of course occupy a significant amount
+
+
+
+the loud thick lead
+
+
 ## Spectrum explained
 First thing to notice that it isn't really a straight line or anything, there are still some peaks and valleys on the SPAN analyzer, just not that much and very little (also doesn't help that the high-end doesn't get much screen space in SPAN so it seems even worse, see later). So yeah, there are still things playing louder and quieter in the high-end of those genres.
 
