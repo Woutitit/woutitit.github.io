@@ -32,6 +32,13 @@ But still, it's peculiar that there are more hills in there. This is because I'v
 A good examples of indeed how the top end just by drums already look like that one thing:
 https://twitter.com/zekk_wa_zetku/status/1350686871911686148
 
+And then also like how the lead underneath it also looks like that but again thats becaus you hear a lot of white noise layer in the top-end of that lead actually so its gonna also look like that and thus together its obviously gonna reinforice even more to be looking like that.
+
+IDK about any mastreing cuz it does seem already quite compressed as well.
+
+Also look at this there is so liitle dynamic range in any of these clips:
+https://twitter.com/zekk_wa_zetku/status/1411765630315896835
+
 idk about processign but that zekk clip just shows cuz like drums soloed there.
 
 So I should make this an entry somewhere where I analyze hard hitting genres EDM
