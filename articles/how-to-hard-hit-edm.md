@@ -17,7 +17,7 @@ So hard hitting EDM has a very peculiar frequency shape. It depends from song to
 Again, sometimes the line doesn't go as much up or isn't as much of a line but usually SPAN is very flattish and all hills are very connected the higher we go in the spectrum.
 
 ## The higher mid-range, high-end and very high-end explained
-I'm talking about the 1-2k Hertz and beyond.
+I'm talking about the 2k Hertz and beyond.
 
 This is the most peculiar/interesting part of the spectrum in these genres as you'll notice that from here it starts becoming rather flattish. Like, the lower parts may still see some hills but the higher we go the more steady and flat the curve seemingly gets.
 
@@ -25,13 +25,23 @@ First thing to clear up is how a frequency spectrum shows up on SPAN. The low-en
 
 But all that doesn't explain the denseness, flatness and steadiness. We'll come to that.
 
-Second thing to note is that 1-2k Hz. is actually rather high already in terms of tonality. C6 is 1k-ish Hz and C7is 2k-ish Hz, both already rather high and not much touched notes. Considering that the audible range goes up to 20k Hertz it's very peculiar that very high tonal stuff already "stops" at a mere 1-2k Hz (!!!). (which is like the middle of our visual on the SPAN plugin). 
+Second thing to note is that 2k Hz. is actually rather high already in terms of tonality. C6 is 1k-ish Hz and C7is 2k-ish Hz, both already rather high and not much touched notes. Considering that the audible range goes up to 20k Hertz it's very peculiar that very high tonal stuff already "stops" at a mere 1-2k Hz (!!!). (which is like the middle of our visual on the SPAN plugin). 
 
 In other words, the tonal stuff, and what makes music music actually music doesn't contribute to that kind high-end at all (not entirely true but we'll see that in a second). And you can hear that even better when you use Tonal Balance 2 or a MB compressor and solo bands (or an EQ even). From 2kHz it's mostly starting to sound like noise and then from 5kHz it's starting to sound like even more noise. That's how these ranges sound like when having (a lot of) harmonics there. Meanwhile solo the low-mids and mids and those will sound like the main meat of the tonal musical stuff.
 
 *Intermezzo: Notice also that if there are less harmonics in the upper ranges then you may hear more tonality up there. It's the thicker it is up there the more stuff going to sound like white noise since white noise has a lot of overtones and stuff and thus the thickest of all and thus the thicker you get the more stuff sounds like very white nois-y. But unlike white noise your stuff sounds musical and as we've just said, the melodic stuff is mostly down in Hz anyway so it's ok for this range to sound nois-y. In fact, since it's not where tonal is needed and situated we can even benefit from sounding nois-y here as it will make our mix thicker and brighter. And, it's totally fine because our tonal stuff is very down below anyway so we don't compromise on music.*
 
-So then what exactly goes into these ranges at all? Well, when talking about tonal stuff, it's mostly the upper harmonics that go in those ranges (I should MB solo more songs to check more out how much tonal shit goes into the high-mids, low-highs). The problem is a bit though that a piano for example will not fill anything at all in these ranges. That may be ok for your song or section but usually you want at least semi-frequenctly some highs and very highs hitting (densely) just for fullness, brightness and aliveness. That said, if you have tonal stuff that's very rich (like a saw) then you'll of course occupy a significant amount
+So then what exactly goes into these ranges at all? Well, when talking about tonal stuff, it's mostly the upper harmonics that go in those ranges (I should MB solo more songs to check more out how much tonal shit goes into the high-mids, low-highs). The problem is a bit though that a piano for example will not fill anything at all in these ranges. That may be ok for your song or section but usually you want at least semi-frequenctly some highs and very highs hitting (densely) just for fullness, brightness and aliveness. That said, if you have tonal stuff that's very rich (like a saw) then you'll of course occupy a significant amount of high-end. But again, it's not the main tonal meat, it's more what makes the supersaw bright.
+
+Now, next to upper harmonics, this space will actually mostly be dominated by the drums and percussion. The core of it is really the claps, snares and hats, those have a shitton of overtones and very broad in the highs of the spectrum too. Therefore, if you don't have enough of those and/or not consistent and/or too quiet, you may not achieve a thick consistent high-end in "normal" genres.
+
+Now I say normal genres and that's where I mean genres with normal timbres (and maybe mostly real instruments) and aren't meant to be (as hard-hitting). Like, your tonal stuff will the ranges up there but it will not be thick and far from enough to fill so you'll need some extra help from mostly drums and percussion to fill more stuff up there (if needed/want to).
+
+*Intermezzo: So what you might see is that in "normal" genres you may have a loud piano and then some very simple drum loop in the back. When inspecting in SPAN you'll see the mid range gets dominated and there is very little high-end and when soloing the high to very high-end you can even hear tonal stuff (upper harmonics of the tonal stuff). And that's because the top-end isn't dense enough and not even (much) louder than the upper harmonics of the piano. Now, note that this may be totally fine for the section/song/genre but understand that with this configuration you'll not get that hard-hitting EDM high-end.*
+
+*Now, in a lot of (modern) songs you'll notice that there is definitely an effort to mix well and include rich higher up elements and/or enough percussion to fill it up up there. However, whether the fill is consistent up there AND whether it looks quiet flatline depends on the genre and section and what you want from it. Like, a more chill house and/or lofi song is totally okay with not having that thich flat high-end. They probably jus strive for (semi)-consistent presence up there and will still fill it out but there is no need for super denseness. Same with like analog music and stuff.*
+
+*You ALWAYS have to think of the genre AND the instruments you're using because you cannot force a certain SPAN curve on certain instruments/composition and A LOT of genres need that (super) dense and (super) consistent high-end of hard-htting EDM. Again, this is why it's important to reference a track in your genre or how you want your track to sound like in the spectrum. It may be flatlining up top, it may not be. It depends.*
 
 
 
