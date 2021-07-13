@@ -34,6 +34,8 @@ https://twitter.com/zekk_wa_zetku/status/1350686871911686148
 
 And then also like how the lead underneath it also looks like that but again thats becaus you hear a lot of white noise layer in the top-end of that lead actually so its gonna also look like that and thus together its obviously gonna reinforice even more to be looking like that.
 
+Like the lead is not needed to make top-end look like that but it does reinforce it in this case but again not neede like u can also just have perc there and shit but again u dont want too many layers either just a few main loud ones cuz too hard to balance them all being same loudness.
+
 IDK about any mastreing cuz it does seem already quite compressed as well.
 
 Also look at this there is so liitle dynamic range in any of these clips:
