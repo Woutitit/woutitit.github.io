@@ -1,4 +1,6 @@
-# Timbre and layering
+# How to create layers and interesting timbre
+> Note see "Common practice" and "Examples" for more on common ways to layer.
+
 ## Introduction
 Layering is a big topic and it's an intrinsic part to making your music more interesting, deep and professional. However, it's overused. You can build perfectly fine music without layering at all. Or, maybe your bass is just supporting so you don't need a big bass or maybe your chords are just supporting or don't need to be super big so you can use a simple patch. Layers always add overheat so don't buy into the hype that everything needs to be layered and certainly don't buy in the hype that everything that is layered needs 3+ layers. Also, correct mixing and fx (like reverb, delay) can also make them sit in the mix and make them already more present too. Seriously. That said, over time in your career you'll get this natural feeling of where a layer can be beneficial and what kind of layer and why but that's an experience thing.
 
