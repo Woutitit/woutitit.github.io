@@ -29,6 +29,11 @@ But still, it's peculiar that there are more hills in there. This is because I'v
 
 
 ## Notes
+A good examples of indeed how the top end just by drums already look like that one thing:
+https://twitter.com/zekk_wa_zetku/status/1350686871911686148
+
+idk about processign but that zekk clip just shows cuz like drums soloed there.
+
 So I should make this an entry somewhere where I analyze hard hitting genres EDM
 
 also this article should get updated the more i analysis it but i should analyze it more and more.
