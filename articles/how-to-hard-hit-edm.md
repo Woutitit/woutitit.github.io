@@ -9,7 +9,25 @@
 - Link more stuff here
 
 ## Introduction
-So this is 
+So this article is about hard hitting EDM.
+
+## How to spot hard hitting EDM on SPAN
+So hard hitting EDM has a very peculiar frequency shape. It depends from song to song but usually the bass range is kind of loud but then the mids are either equally loud or less loud but then it goes up and it also goes up like in a steady line and also the more higher in frequency we go the littler the gaps are in between the green hills and there is nothing majorly poking out either. 
+
+Again, sometimes the line doesn't go as much up or isn't as much of a line but usually SPAN is very flattish and all hills are very connected the higher we go in the spectrum.
+
+## Spectrum explained
+First thing to notice that it isn't really a straight line or anything, there are still some peaks and valleys on the SPAN analyzer, just not that much and very little (also doesn't help that the high-end doesn't get much screen space in SPAN so it seems even worse, see later). So yeah, there are still things playing louder and quieter in the high-end of those genres.
+
+The thing is, though, this flatline looks a lot like white noise (or pink noise for less brightness).
+
+First thing to understand is that that flat high-end means there is a shitton of harmonics and overtones and that they are all roughly the same (perceived) volume.
+
+So first thing to understand is that there are more peaks and valleys in the lower part of the spectrum. This makes sense because on the SPAN scale, the lower stuff takes up a lot of space on the screen while the high stuff doesn't. So, there are less frequencies/harmonics and the less frequencies/harmonics take a lot of space up on the screen. 
+
+But still, it's peculiar that there are more hills in there. This is because I've noticed that the main melodic/harmonic meat is in that 300-2k Hz range
+
+
 ## Notes
 So I should make this an entry somewhere where I analyze hard hitting genres EDM
 
