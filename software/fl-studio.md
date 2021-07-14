@@ -1,6 +1,9 @@
 # FL Studio
 Todo: Maybe make a seperate article for all or some FL Studio native plugins?
 
+## Resources
+- Automation clips basics: https://www.youtube.com/watch?v=cK8uiEngm5g
+
 ## Transient processor
 - https://www.image-line.com/fl-studio/plugins/transient-processor
 - https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
