@@ -57,13 +57,22 @@ Another option is the supersaw. Detune it, make it fatter, white noise, maybe di
 
 And the, white noise either as a background layer and/or as a background layer to one or more instruments (like the bass or the chords or whatever depending on what the mix needs, and which sound is importantest).
 
-So yeah, all these have very flat (or white noisy so going up on SPAN visualizer) frequency response and thus one or combination of these will render you the kind of curve you see in hard-hitting EDM. 
+So yeah, all these have very flat (or white noisy so going up on SPAN visualizer) frequency response and thus one or combination of these will render you the kind of curve you see in hard-hitting EDM.
 
 ## Lows, mid-range explained
 Explain that tonal stuff is here and that the sub bass and kick are what give tracks punch and really needed cuz rest is kinda flat sounding.
 
 ## Why this flatness
 Rich but also turn up music without sounding harsh and just sounding very loud on either low or high volume etc. add more here.
+
+## Drums
+So we already explained a whole bunch about the highs and very highs, now how exactly do we achieve that flatness. Well, drums are usually an important part there.
+
+Now, to start with the kick, this one actually doesn't have and need that high-end flatness. It's mainly for the low-end punch and the hig transients but it won't be looking flat never ever.
+
+Then we have the snare or clap. This one depends as well. They'll definitely also provide flatness up top but how much depends again. A snare may be mainly low-mid thumb and some highs while a clap indeed acts more white noise-y and provides more flatness.
+
+For the consistent high-end flatness we're mostly looking to the hats, rides, shakers, tambourines and percussion and whatever. You don't need much but it's definitely not uncommon to layer a few shaker loops, hat loops and some percussion. Again these usually all have a bit of the same characteristic so if equal in loudness should all add up nicely.
 
 ## Notes 2
 First thing to notice that it isn't really a straight line or anything, there are still some peaks and valleys on the SPAN analyzer, just not that much and very little (also doesn't help that the high-end doesn't get much screen space in SPAN so it seems even worse, see later). So yeah, there are still things playing louder and quieter in the high-end of those genres.
