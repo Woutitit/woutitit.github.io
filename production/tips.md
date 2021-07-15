@@ -59,7 +59,7 @@ That said, upper harmonics of tonal stuff will reach the highs and very highs an
 
 Lastly, again, you can add shit in the lows and mids and you can even layer there. It just doesn't need to be overpowering and you need to mix it well especially if you want stuff to cut through. But yeah, it's not because space is a bit less there than in high-end that you need to go easy on those ranges. Nope. Again, tonal shit especially resides mostly in the mid range anyway (the fundamentals).
 
-All that said, though. Often it's also nice (and depends again on section/song) to have some stuff in the higher end playing and stuff so tonally stuff also sounds open. But again, it's not to fill up the SPAN and you won't fill it up with that either. It's just that tonally stuff also sounds more open and bright and filled out like that (if needed).
+All that said, though. Often it's also nice (and depends again on section/song) to have some stuff in the higher end playing and stuff so tonally stuff also sounds open. But again, it's not to fill up the SPAN and you won't fill it up with that either. It's just that tonally stuff also sounds more open and bright and filled out like that (if needed). Also, some EQ up there and some saturation on tonal stuff can definitely help fill/flatten up the low-highs, mid-highs a tiny bit more but it's usually also mostly for presence rather than filling up (like it's not the main thing but it helps and can add up if done on a few instruments).
 
 So yeah, don't make the mistake of thinking the low-end needs to be sparse or you need to add a shitton of C7, C8 voilin shit to fill up high-end. Again, even that won't reach the very high-end. Up there it's all the way white noise, percussion and drums.
 
