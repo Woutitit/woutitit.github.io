@@ -46,6 +46,22 @@ This is a general guide for mixing and mastering. Important to note that it is g
 - See the "articles" directory for actual practical production, mixing and mastering advice.
 - See the "Production thoughts" article in here for more random production thoughts.
 
+## Fill up mix but do it properly
+> See also my articles "how to hard EDM" and "how to mix and master".
+
+So I always thought that to fill up my tonal balance I needed to add a shitton of high-end tonal stuff because my tonal balance was also way too much bass and way too little high-end. I was wrong.
+
+The high-end (above 2k) usually has very little tonal stuff and to truly fill it up you'll mostly do it with percussion and your drums. Again, you don't even need tons of it as even an open hat is quite rich. 
+
+Either way, just remember that indeed you want to fill up your mix with tonal stuff but that you shouldn't care about how much it adds on span. Tonal stuff often adds to the mids so that's completely normal (with some exceptions to bells maybe). Also, there will be quite some background elements you might use such as arps that add quite a bit to the mix but you don't see appearing on SPAN. Again, totally fine as what you hear and what you see on SPAN of course can differ. So, even if it's not SPAN filling, that doesn't mean you can't or shouldn't add it. Like, you can technically and easily fill SPAN with a distorted saw but that doesn't sound thick and musical right.
+
+That said, upper harmonics of tonal stuff will reach the highs and very highs and often you'll choose leads that are more on the richer side so they easily cut through (and boost a bit in 2-5k). Again, vocals are already that but you could of course add an octave (or like a bell layer). This is for example why a saw or a square or a saxophone are leads as these tend to be quite rich and harsh (maybe too harsh for background elements, depends on composition and mixing though) as they can thus easily cut through due to the harmonics they have and how much they extend. Also, in more extreme cases, such as hard hitting EDM, you'r basses and stuff will go accross the whole spectrum quite easily and will add much to the high-end and very high-end but again, that's hard hitting EDM and not something expected in less hard-hitting and/or analog genres.
+
+Lastly, again, you can add shit in the lows and mids and you can even layer there. It just doesn't need to be overpowering and you need to mix it well especially if you want stuff to cut through. But yeah, it's not because space is a bit less there than in high-end that you need to go easy on those ranges. Nope. Again, tonal shit especially resides mostly in the mid range anyway (the fundamentals).
+
+So yeah, don't make the mistake of thinking the low-end needs to be sparse or you need to add a shitton of C7, C8 voilin shit to fill up high-end. Again, even that won't reach the very high-end. Up there it's all the way white noise, percussion and drums.
+
+sax or saw or anything or just a vocal or a bell layer or whateve
 ## Turn down mix to hear better
 This sounds weird but it really helps to turn down your mix or individual sounds to hear the mix better. This is because when stuff is loud you can kind of hear all frequencies and it's a bit hard to distinguish stuff. This is especially true when adding fx like EQ and compression. Turn down, like, your drum bus heavily and start adding compression (start exagerated and turn back) and you'll actually hear what the compressor does way better. Same about finding out whether a sound has a lot of transient or not. Turning it down will help with that as it "masks" the lower frequencies more than the higher ones.
 
