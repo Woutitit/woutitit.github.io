@@ -59,9 +59,11 @@ That said, upper harmonics of tonal stuff will reach the highs and very highs an
 
 Lastly, again, you can add shit in the lows and mids and you can even layer there. It just doesn't need to be overpowering and you need to mix it well especially if you want stuff to cut through. But yeah, it's not because space is a bit less there than in high-end that you need to go easy on those ranges. Nope. Again, tonal shit especially resides mostly in the mid range anyway (the fundamentals).
 
+All that said, though. Often it's also nice (and depends again on section/song) to have some stuff in the higher end playing and stuff so tonally stuff also sounds open. But again, it's not to fill up the SPAN and you won't fill it up with that either. It's just that tonally stuff also sounds more open and bright and filled out like that (if needed).
+
 So yeah, don't make the mistake of thinking the low-end needs to be sparse or you need to add a shitton of C7, C8 voilin shit to fill up high-end. Again, even that won't reach the very high-end. Up there it's all the way white noise, percussion and drums.
 
-sax or saw or anything or just a vocal or a bell layer or whateve
+
 ## Turn down mix to hear better
 This sounds weird but it really helps to turn down your mix or individual sounds to hear the mix better. This is because when stuff is loud you can kind of hear all frequencies and it's a bit hard to distinguish stuff. This is especially true when adding fx like EQ and compression. Turn down, like, your drum bus heavily and start adding compression (start exagerated and turn back) and you'll actually hear what the compressor does way better. Same about finding out whether a sound has a lot of transient or not. Turning it down will help with that as it "masks" the lower frequencies more than the higher ones.
 
