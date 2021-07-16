@@ -111,6 +111,8 @@ Basically you have a few vocal takes. The best one goes in pan in the middle and
 
 Also sometimes in cadence and stuff some harmonies other than -12 + 12 like often a harmony that may go down while the rest goes up.
 
+Then de-essing and boosting are also super common. You want to catch sibilance and get it out. Often done with like a de-esser, an MB or like soothe 2.
+
 ## Kick(?) and (sub) bass
 So a lot of people (like here around 5min or sooner or later) say you need your bass to hit 0db to be thick. I guess that's sub bass then or? And also not in every genre or?
 
