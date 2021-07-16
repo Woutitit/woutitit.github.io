@@ -45,6 +45,7 @@ Ozone 9 is an all-in-one mastering chain (even though it takes up only one slot 
 - Dynamics (compression/MB for peak reducing)
 - Equalizing
 - Stereo imaging
+- Reverb (?)
 - Limiting (maximizing)
 
 ## [Master] To master for loudness or not
