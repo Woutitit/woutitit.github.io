@@ -59,6 +59,8 @@ And the, white noise either as a background layer and/or as a background layer t
 
 So yeah, all these have very flat (or white noisy so going up on SPAN visualizer) frequency response and thus one or combination of these will render you the kind of curve you see in hard-hitting EDM.
 
+Also, a common myth that I thought myself is that this is due to the mastering, heavy limiting of the song to crush it. But nope, for example, take [Love 2 Shuffle/BEMANI Sound Team "Sota F." feat. Starbitz](https://www.youtube.com/watch?v=pybg7_o4iC4). If you pull it in the DAW it is not AT ALL limited yet it has this curve, even in the lower ranges too. Again, they might do some MB to get that exact balance (a bit more) but to make it flat, nope, that's again a lot of white noise, drums/snare/hats and then compression/ott/whatever is needed on it. So it's NOT the mastering or brickwall that does this.
+
 ## Lows, mid-range explained
 Explain that tonal stuff is here and that the sub bass and kick are what give tracks punch and really needed cuz rest is kinda flat sounding.
 
