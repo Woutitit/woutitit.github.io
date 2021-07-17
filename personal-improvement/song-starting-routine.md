@@ -4,7 +4,7 @@ Don't follow this super rigidly. Don't think that now the next coming week all y
 
 You can open the DAW at any moment, screw around as you used to or work on other in progress songs. The process here is just a process that you follow for a certain song at your own pace and with as many in-between-other-stuff.
 
-This one is just meant to make you more consistent. Also, it helps to put in in concrete tasks what portion you're going to do (and timebox it).
+This one is just meant to make you more consistent. Also, it helps to put in concrete tasks what portion you're going to do (and timebox it).
 
 ## In short
 1. Think (roughly) of the genre that you want to make.
