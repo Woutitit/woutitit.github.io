@@ -27,4 +27,4 @@ There are certain types of layering that keep coming back in EDM. It depends a b
 - harmony layer(s)
   - For some cool coming in parts or some cool counterpoint harmonies.
 
-See examples if you want to understand more about how layer combination are typically used w.r.t bass, lead, vocal, chords, pads and stuff like that. Also, sometimes you may not need or want layers on a sound. For example, a certain lead in a hard hitting song may just be a single sound (or maybe an octave layer but that's it) because the mix itself is already very epic and busy so it's not needed (see examples above).
+See "Examples" if you want to understand more about how layer combination are typically used w.r.t bass, lead, vocal, chords, pads and stuff like that. Also, sometimes you may not need or want layers on a sound. For example, a certain lead in a hard hitting song may just be a single sound (or maybe an octave layer but that's it) because the mix itself is already very epic and busy so it's not needed (see examples above).
