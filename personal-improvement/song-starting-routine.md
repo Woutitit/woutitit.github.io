@@ -1,10 +1,10 @@
 # Song making
 ## Important notes
-When you do the following you don't need to do all of this at once. Put in tasks of the parts you're going to do. Timebox it as well. Also, songs can be made out of the blue so you don't always need to follow a rigid plan like this.
+Don't follow this super rigidly. Don't think that now the next coming week all you do is spend time researching for this one song before you open the DAW or do anything else.
 
-Also, no need to do this as a chain and not be busy with music outside of this. No, this is just for a particular song and if you want to have a process. You can still have bursts of energy and just randomly opening your DAW and laying down stuff. You can still just do some sound design or maybe look up stuff with music. This is just a process and take it at your own pace. Like you can make music and meanwhile still be in the process of listening and analyzing the genre you want to make. Don't stress about it and just keep listening here and there and analyzing at a consistent pace and then you'll hit a point where you want to dive into the DAW.
+No, you can open the DAW at any moment, screw around as you used to or work on other in progress songs. The process here is just a process that you follow for a certain song at your own pace and with as many-in-between-other-stuff.
 
-Also, don't worry about failing. Again, don't put all your eggs in this process and don't do anything else. Or, even getting bored and moving on. That's also normal. Again, it's a process and some songs you make, others you get bored of and whatever it's normal.
+This one is just meant to make you more consistent. Also, it helps to put in in concrete tasks what portion you're going to do (and timebox it).
 
 ## In short
 1. Think (roughly) of the genre that you want to make.
@@ -29,5 +29,6 @@ Ideally you would want to be familiar with the genre but you'll probably want to
 
 ### 6 Make song
 - Decide on initial BPM and time signature (maybe even key but not sure)
+- Decide on a theme (if you want but can help def)
 - Lay down as much as you can and have gathered by yourself.
 - If stuck ir uninspired, get inspiration from tracks (the ones you've chosen). Like drum pattern, things to add, how to do build, whatever.
