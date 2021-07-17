@@ -8,10 +8,10 @@ This one is just meant to make you more consistent. Also, it helps to put in con
 
 ## In short
 1. Think (roughly) of the genre that you want to make
-3. Listen to music (roughly) in that genre
-4. Gather the songs that sparked most interest
-5. (Optional) Actively analyze and research some of these songs and genres
-6. Make song
+2. Listen to music (roughly) in that genre
+3. Gather the songs that sparked most interest
+4. (Optional) Actively analyze and research some of these songs and genres
+5. Make song
 
 ## In long
 ### 1. Think (roughly) of the genre that you want to make.
@@ -19,8 +19,12 @@ This one is just meant to make you more consistent. Also, it helps to put in con
 - For song creation, it helps picking out genres you know you is feasible (in terms of you being familiar with it and also in terms of sounds you have)
 - Pick out the song that sparked inspiration and look up the genre
 
-### 3. Listen to music (roughly) in that genre
+### 2. Listen to music (roughly) in that genre
 - This can be both genre and style. For example, chiptune you may want to listen to chiptune but since it's DnB you may want to listen to some traditional DnB too.
+- Also don't worry if this takes a few hours or days for you to prime your ears
+
+### 3. Gather the songs that sparked most interest
+- As said, don't worry about taking a few hours and/or days of listening before you have gathered a few songs you like and want to kind of recreate. It's normal and you'll get there and then for the future you have those.
 
 ### 4. Actively analyze some of these songs
 Ideally you would want to be familiar with the genre but you'll probably want to pick up on some common stuff in these songs you've gathered. You don't need to go super in depth but maybe find out a bit more about the genre.
