@@ -27,7 +27,7 @@ Ideally you would want to be familiar with the genre but you'll probably want to
 - Find music theory elements that interest you (chord progressions, key, phrases, licks...)
 - Write down in one or more analysis documents
 
-### 6 Make song
+### 6. Make song
 - Decide on initial BPM and time signature (maybe even key but not sure)
 - Decide on a theme (if you want but can help def)
 - Lay down as much as you can and have gathered by yourself.
