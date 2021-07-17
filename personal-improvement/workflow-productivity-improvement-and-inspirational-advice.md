@@ -36,7 +36,16 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
-## Comes down to the same things
+## Novelty of a song wears off
+This goes for both creating and listening. For example, when I hear a song for the first time it may blow me away because of the technicality and fatness. I think then the song sounds so fat and the composition os so genius. However, the longer you listen to it the less fat and bombastic and genius the song sound and it may even start to sound a little bit boring and empty.
+
+This should be motivating to you because often when you hear a song for the first time, especially from a composer that composes totally different than you and in a total different genre, you may be blown away. However, that is really just the honeymoon phase and after listening for a few more times, especially frequently the novelty wears off and the song will become way more realistic and less bombastic.
+
+Keep this in mind as you may find that it may be demotivating to hear such good songs, yet it really is because it has a cool groove, is a total different style than you're used to, first time you're listening (and sure they are probably a bit better than you at producing) to it all contribute to that amazement feeling. You won't have that with all songs of course, especially with songs in your own style as you've heard those many times more and there is less novelty.
+
+Keep this also in mind with composing your own songs. You'll hear those songs like a bazillion times and so of course it's also going to wear off. Don't fall into the trap off wanting to add more stuff because your song sounds boring or empty or not big, no don't do it. Don't get demotivated because of the illusion of hearing your stuff a bazillion times that it sucks. Rather, always keep in mind that you were bopping your head and thought your song was epic. Therefore people listening for the first time will also think that.
+
+## Stuff comes down to the same things
 The more you do music production, the more you realize when you process stuff that you always need to ask the same questions. For the kick, do you want long or short kick do you want to clip it does it need more or less transient. And it always comes down to the same effects and stuff.
 
 So again, the more you do it the more you recognize patterns and I should maybe write these patterns/questions down.
