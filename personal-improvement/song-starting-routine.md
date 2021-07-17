@@ -32,8 +32,8 @@ Ideally you would want to be familiar with the genre but you'll probably want to
 - Find common elements
 - Find production elements that interest you (drum pattern, types of sound, layering...)
 - Find music theory elements that interest you (chord progressions, key, phrases, licks...)
-- Write down in one or more analysis documents
 - Research common instruments and techniques perhaps too
+- Write down in one or more analysis documents but maybe not in traditional docs, just in a seperate one that has maybe the current date as title
 
 ### 5. Make song
 - Decide on initial BPM and time signature (maybe even key but not sure)
