@@ -29,11 +29,8 @@ There are certain types of layering that keep coming back in EDM. It depends a b
 
 See "Examples" if you want to understand more about how layer combination are typically used w.r.t bass, lead, vocal, chords, pads and stuff like that. Also, sometimes you may not need or want layers on a sound. For example, a certain lead in a hard hitting song may just be a single sound (or maybe an octave layer but that's it) because the mix itself is already very epic and busy so it's not needed (see examples above).
 
-## Always having low-end and high-end stuff, even in low energy sections/songs
-Always is an exageration but you'll notice that most songs will usually 
-For example, it's very com
-
-The main premise here is that adding and removing energy is certainly not only based on removing or adding high-end and/or low-end. In fact, doing that, while it will indeed remove/add energy to the track, may actually hurt your track more than it helps.
+## Adding low-end and high-end to low-energy/intimate/highly filtered sections is crucial
+Removing low-end and/or high-end is a very effective way to remove strongness and energy. But by doing so you might be removing the consistency, too much loudness, the openess, spaciousness and whatever the section/song needs. Often producers don't just remove low-end/high-end completely. Here I'll talk about why not. 
 
 For a high-end example, take [Crackin (Martin Garrix Edit) / Bassjackers](https://www.youtube.com/watch?v=WUV7ppnWzrw). The beginning is supposed to be low-energy. A "noob" producer might just have the supersaws low-pass filtered and coming in like they do in this song too. There is nothing wrong with that. However, here you actually have a high-end-y sound that you can hear well yet it still sounds like a buildup. And this is because the sound is a short plucky sound. A short plucky sound is also very low-energy. 
 
