@@ -22,7 +22,7 @@ This one is just meant to make you more consistent. Also, it helps to put in con
 ### 3. Listen to music (roughly) in that genre
 - This can be both genre and style. For example, chiptune you may want to listen to chiptune but since it's DnB you may want to listen to some traditional DnB too.
 
-### 5. Actively analyze some of these songs
+### 4. Actively analyze some of these songs
 Ideally you would want to be familiar with the genre but you'll probably want to pick up on some common stuff in these songs you've gathered. You don't need to go super in depth but maybe find out a bit more about the genre.
 
 - Find common elements
@@ -31,7 +31,7 @@ Ideally you would want to be familiar with the genre but you'll probably want to
 - Write down in one or more analysis documents
 - Research common instruments and techniques perhaps too
 
-### 6. Make song
+### 5. Make song
 - Decide on initial BPM and time signature (maybe even key but not sure)
 - Decide on a theme (if you want but can help def)
 - Lay down as much as you can and have gathered by yourself.
