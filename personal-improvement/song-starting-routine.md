@@ -7,7 +7,7 @@ You can open the DAW at any moment, screw around as you used to or work on other
 This one is just meant to make you more consistent. Also, it helps to put in concrete tasks what portion you're going to do (and timebox it).
 
 ## In short
-1. Think (roughly) of the genre that you want to make.
+1. Think (roughly) of the genre that you want to make
 3. Listen to music (roughly) in that genre
 4. Gather the songs that sparked most interest
 5. (Optional) Actively analyze and research some of these songs and genres
