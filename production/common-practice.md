@@ -2,6 +2,7 @@
 Same purpose as the music theory one but then for production.
 
 ## Typical layers
+So you don't always need to layer and you don't always need seperate layers to get a certain result. However, layering does give you greater control and having stuff seperated can help. For example, a sub layer on a crazy bass is helpful because a crazy bass will be stereo and all that stuff and you don't want that in your sub. You want your sub consistent and steady. Therefore, having them as seperate layers allows you to process them all seperately.
 Examples:
 - https://www.youtube.com/watch?v=dfukyZg1CFY
 - https://twitter.com/zekk_wa_zetku/status/1343909789630222341
