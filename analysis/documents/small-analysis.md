@@ -5,6 +5,11 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 
 ## Love 2 Shuffle - Bemani
 - https://www.youtube.com/watch?v=pybg7_o4iC4
+- https://remywiki.com/Love_2_Shuffle
+
+Key: ???
+BPM: 133
+Key signature: 4/4
 
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
