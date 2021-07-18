@@ -7,7 +7,7 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 - https://www.youtube.com/watch?v=pybg7_o4iC4
 - https://remywiki.com/Love_2_Shuffle
 
-Key: ???
+Key: G minor
 BPM: 133
 Key signature: 4/4
 
