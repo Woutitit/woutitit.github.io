@@ -11,15 +11,15 @@ PREP:
 4. Sync song to correct project BPM
 5. Set timestamps (Ctrl + T) at all the different sections and name them
 6. Make a new entry in "small analysis" document
-  - Title it (Artist - Song name)
-  - Write down (dominant) key, bpm and time signature
+    - Title it (Artist - Song name)
+    - Write down (dominant) key, bpm and time signature
 
 
 ANALYSIS:
 
 7. Pick out a section or sound to analyze
-  - Use the tools on the master chain
-  - Study the music theory
+    - Use the tools on the master chain
+    - Study the music theory
 
 
 POST ANALYSIS:
