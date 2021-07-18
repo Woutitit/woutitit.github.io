@@ -11,6 +11,13 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 # How to mix and master
 Note: So I should have a general small short guide for mixing and mastering and then mayb consolidate the other article with my bigger production article?
 
+## [Mix] Mix at different volumes
+- Somewhere around 10min: https://www.youtube.com/watch?v=JiYDaOw6pXI&t=628s
+- 
+The Fletcher-Munson curve is a b**** and it's been proven that we hear sound differently on different volume levels. Therefore, what may sound off (e.g. too little or too much bass, too little or much highs, etc.) to you may actually not be off because you simply have your stuff too quiet or too loud. Especially the too loud part is usually very skewing to what is right and what you hear.
+
+That said, get an SPL meter phone app and meter the volume of your monitors and try to get to 85db (if you can). That is usually where you hear sound the most linear and thus the most honest. But again, that is not super important as we also simply mix in terms of perceived volume anyway.
+
 ## [Mix/Master] Frequently check mix and master on different devices
 - https://old.reddit.com/r/musicproduction/comments/ohbm1y/my_room_is_pretty_small_and_untreated_and_i_need/h4oupra/
 - https://www.youtube.com/watch?v=JiYDaOw6pXI
