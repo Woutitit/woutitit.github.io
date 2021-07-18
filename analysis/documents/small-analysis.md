@@ -3,6 +3,9 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## Love 2 Shuffle - Bemani
+- https://www.youtube.com/watch?v=pybg7_o4iC4
+
 ## Au5 dubstep
 - https://www.youtube.com/watch?v=oLBqmi0ot_g
 
