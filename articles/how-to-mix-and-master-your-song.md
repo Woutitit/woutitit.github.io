@@ -13,6 +13,7 @@ Note: So I should have a general small short guide for mixing and mastering and 
 
 ## [Mix/Master] Frequently check mix and master on different devices
 - https://old.reddit.com/r/musicproduction/comments/ohbm1y/my_room_is_pretty_small_and_untreated_and_i_need/h4oupra/
+- https://www.youtube.com/watch?v=JiYDaOw6pXI
 
 This one is SUPER DUPER important for people with a bad room and/or sucky headphones. For example, I was mixing on my headphones and my mix sounded fine. Then I played that same song on speakers and suddenly it was a big wash of unclear harshness, especially the cymbal hits and the hats and stuff which sounded fine on my headphones. The bottom-end was also not audible.
 
