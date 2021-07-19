@@ -1,11 +1,15 @@
 # Plugins
 ## NewTone
+> Also see "vocal production" article.
+
 Purposes:
 - Pitch correcting audio (e.g. vocal performances)
 - Converting audio to MIDI
+- Creating harmonies
 
 Sources:
 - https://www.image-line.com/fl-studio/plugins/newtone
+- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Newtone.htm
 
 ### Basic use
 1. Put NewTone on mixer FX channel
@@ -15,8 +19,23 @@ Sources:
 5. Have fun!
 
 ### Pitch correcting audio (e.g. vocal performances)
+#### Global pitch correction
+Absolute most basic pitch correction is with the 3 knobs top right. Center especially will (if 100%) just correct the note to the nearest musical pitch. You may need to manually drag some corrected notes to the actual note you want after as the nearest note in pitch may not always be the note you wanted/needed there. Variation knob takes care of too much vibrato and the transition knob may tweak how fast it goes to a new pitch (i.e. too fast transition may sound unnatural, too slow may sound too bad vocal performance)
+
+You can click the "Send to playlist" button if you're happy with the correction.
+
+#### Note by note
+Global pitch correction may be all you need but it has the least control and thus too much global correction may sound too unnatural for your taste (or it may not be enough). Individually snapping pitches can be done with right-click. And dragging pitches can be done if you click in the middle of the note and drag.
+
+*Tip: the transparent block shows the nearest semitone. The bordered block the average pitch of the note. Therefore, the blocks where you see the most variance in there you'll probably want/need to correct the most.*
+
+Then there is also the advanced menu you can access either with the advanced button or double clicking a note (to untoggle, click the pink button top right again). There you can again control the pitch, vibrato an
 
 ### Converting audio to MIDI
+Sometimes you may want to analyze something or may want to have some audio in MIDI. What you can do is load up a VST, select it in the channel rack (i.e. needs to be green in the channel rack) and then click the "Send to piano roll" button and boom there you have it (not sure if it can do chords though).
+
+### Creating harmonies
+Since you can easily send audio to playlist you can send your original performance to playlist, you can then select everything and then move it up +3, +5, +12 or whatever you want and then send that to the playlist. You can even drag individual pitches to different pitches for even cooler counterpoint harmony very easily. And, you always keep you original sample in the playlist (muted) if you screw up too much.
 
 ## Transient processor
 Purposes:
