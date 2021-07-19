@@ -44,6 +44,11 @@ Basically you can add Layer as a VST just like Sytrus or Serum. And then you nee
 - https://www.youtube.com/watch?v=AMCm6qtYkh8 (See patcher trick chapter)
 - https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Patcher.htm
 
+Purposes:
+- Saving instruments with all layers and post-processing included
+- Parallel processing
+- Visualization of FX chain
+
 Patcher is a very handy tool that is there to improve and visualize your workflow and can be either used as an instrument or an effect. What you can do in Patcher is visually add VSTs, such as Serum, and then on top of that add all kinds of post-processing fx to it. Or, you can use it as an FX and you can route your signal through the patcher instance. 
 
 So it's mostly handy for preset saving, flexibility in (advanced) sound design, and then for the visual and drag-and-droppy stuff for people that prefer to do stuff visually.
