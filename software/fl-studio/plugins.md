@@ -1,9 +1,5 @@
 # Plugins
 ## Transient processor
-Sources:
-- https://www.image-line.com/fl-studio/plugins/transient-processor
-- https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
-
 Purpose(s):
 - Effectively shaping transient and body of sound
 
@@ -13,12 +9,11 @@ It seems that saturation still makes stuff fatter (if needed) but that you may b
 
 Also, it even works on a synth INIT patch (so full sustain no attack no release) and it will give it some attack (I guess so in that case or all cases it looks at a certain amount in ms in the beginning and shapes that), however, the release didn't work because the stuff is flat and not dynamic at all and also the attack was also just a little thump and stuff. So again, transient shaper works best on synth patches, instruments (such as percussion and plucks) that have transients/dynamics/fading tail and thus are meant to be more stabb/percussive. So it's for transient-functional sounds to be enhanced and shaped even more in their transients.
 
-## Patcher
 Sources:
-- https://www.youtube.com/watch?v=N11la5x5MDk&
-- https://www.youtube.com/watch?v=AMCm6qtYkh8 (See patcher trick chapter)
-- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Patcher.htm
+- https://www.image-line.com/fl-studio/plugins/transient-processor
+- https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
 
+## Patcher
 Purposes:
 - Saving instruments with all layers and post-processing included
 - Parallel processing
@@ -53,3 +48,8 @@ Setting up a template is the same as making a project file. Of course in a templ
 The template needs to be saved in a location similar to D:\Program Files\Image-Line\FL Studio 20\Data\Templates (So depends on your drive). Also, in settings you can change the default template to yourq id you want to use it for most projects anyway.
 
 One note, saving it in the templates folder will make it be recognized as a template so anything you then do in the template is seen as a project and you can save it as is. If you want to edit the template file, instead of starting a "File > new" project you'll need to directly open the template file itself and then safe stuff to it.
+
+Sources:
+- https://www.youtube.com/watch?v=N11la5x5MDk&
+- https://www.youtube.com/watch?v=AMCm6qtYkh8 (See patcher trick chapter)
+- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Patcher.htm
