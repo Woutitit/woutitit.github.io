@@ -1,7 +1,7 @@
 # Plugins
 ## Transient processor
 Purpose(s):
-- Effectively shaping transient and body of sound
+- Effectively and easily shaping transient and body of sound
 
 So transient processor is kind of like a magic compressor though the attack doesn't have anything to do with how fast it kicks in and release also doesn't have to do with how fast it let's go. The attack simply magically kind of looks at the beginning attack/transient part of a sound and then you can spin the dial and literally just make that part louder or quieter so either making it less or more punchy. With the release knob, it looks more at the body/end of a sound and again you literally can pull it more up or put it more down depending on what you want or need. So yeah a bit like a saturator/compressor does. Not sure if saturation makes it even more fatter than just processing but with this you get a lot of control on how punchy and/or fat you want your stuff to sound like.
 
