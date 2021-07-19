@@ -8,18 +8,19 @@ Sources:
 - https://www.image-line.com/fl-studio/plugins/newtone
 
 ## Transient processor
-Purpose(s):
+Purposes:
 - Effectively and easily shaping transient and body of sound
 
+Sources:
+- https://www.image-line.com/fl-studio/plugins/transient-processor
+- https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
+
+### Description
 So transient processor is kind of like a magic compressor though the attack doesn't have anything to do with how fast it kicks in and release also doesn't have to do with how fast it let's go. The attack simply magically kind of looks at the beginning attack/transient part of a sound and then you can spin the dial and literally just make that part louder or quieter so either making it less or more punchy. With the release knob, it looks more at the body/end of a sound and again you literally can pull it more up or put it more down depending on what you want or need. So yeah a bit like a saturator/compressor does. Not sure if saturation makes it even more fatter than just processing but with this you get a lot of control on how punchy and/or fat you want your stuff to sound like.
 
 It seems that saturation still makes stuff fatter (if needed) but that you may be able to do TP before or after to add some more transient back in or even more punch in if needed but that you still want clipping/saturation for fatness (?).
 
 Also, it even works on a synth INIT patch (so full sustain no attack no release) and it will give it some attack (I guess so in that case or all cases it looks at a certain amount in ms in the beginning and shapes that), however, the release didn't work because the stuff is flat and not dynamic at all and also the attack was also just a little thump and stuff. So again, transient shaper works best on synth patches, instruments (such as percussion and plucks) that have transients/dynamics/fading tail and thus are meant to be more stabb/percussive. So it's for transient-functional sounds to be enhanced and shaped even more in their transients.
-
-Sources:
-- https://www.image-line.com/fl-studio/plugins/transient-processor
-- https://www.youtube.com/watch?v=3QpZYSUljmw&t=211s
 
 ## Patcher
 Purposes:
