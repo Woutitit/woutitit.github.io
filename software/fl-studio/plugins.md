@@ -1,4 +1,12 @@
 # Plugins
+## NewTone
+Purposes:
+- Pitch correcting audio (e.g. vocal performances)
+- Converting audio to MIDI
+
+Sources:
+- https://www.image-line.com/fl-studio/plugins/newtone
+
 ## Transient processor
 Purpose(s):
 - Effectively and easily shaping transient and body of sound
