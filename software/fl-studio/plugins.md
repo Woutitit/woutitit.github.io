@@ -11,8 +11,7 @@ Sources:
 1. Put NewTone on mixer FX channel
 2. Drag a sample in the playlist
 3. Open up NewTone
-4. Drag the sample in the playlist
-  - You can also load a sample through File > Load sample
+4. Drag the sample in the playlist (You can also load a sample through File > Load sample)
 5. Have fun!
 
 ### Pitch correcting audio (e.g. vocal performances)
