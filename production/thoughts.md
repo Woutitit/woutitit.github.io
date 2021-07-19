@@ -103,16 +103,6 @@ So, for a lot of sounds (that you want to have layered) the basic layers are a m
 
 Other, but less common but still common layers, are transient layers, white noise layers and other interest layers (sub layers maube too).
 
-## Basics of vocal production
-- At beginning here: https://www.youtube.com/watch?v=i4caLMZjeQ0
-- https://old.reddit.com/r/musicproduction/comments/njror5/is_it_common_to_record_mix_vocals_like_this/
-
-Basically you have a few vocal takes. The best one goes in pan in the middle and then it's up to you to layer. Some may just need some quieter backing vocals and then panned 30 60 for some thickness, others may benefit from -12 and + 12 of those (?) vocals as well. Some may have no layers (in some sections) but then you have more reverb and delay perhaps or more busy mix in general (like not a focus on vocals).
-
-Also sometimes in cadence and stuff some harmonies other than -12 + 12 like often a harmony that may go down while the rest goes up.
-
-Then de-essing and boosting are also super common. You want to catch sibilance and get it out. Often done with like a de-esser, an MB or like soothe 2.
-
 ## Kick(?) and (sub) bass
 So a lot of people (like here around 5min or sooner or later) say you need your bass to hit 0db to be thick. I guess that's sub bass then or? And also not in every genre or?
 
