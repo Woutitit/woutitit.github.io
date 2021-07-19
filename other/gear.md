@@ -27,6 +27,7 @@ List of all the gear that I currently own or want to own.
 - OTT (free, extreme upwards/downwards compressor)
 - Serum FX
 - LFOTool
+- Soothe 2 (magnet:?xt=urn:btih:08775F0AD19026F3A61E1C6AAF4A5B28AA8AFFF1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Oeksound%20-%20Soothe2%20v.1.1.2%20VST%2C%20VST3%2C%20AAX%20x64%20%5B12.2020%5D Virus Total Hash: d5b6c825e2febc952ac4cc7e9a5977398a545bcc067fa5e9f490b461efb23d37)
 
 ### Horns
 - Session Horns
