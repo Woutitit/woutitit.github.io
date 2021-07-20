@@ -1,4 +1,4 @@
-# Music history and sound basics
+# Music theory history and sound basics
 > For now, I'd highly recommend to go in my "Music archive > Theory" to read up more on this, as I think this one leaves out a tad too much.
 
 ## Table of contents
@@ -8,6 +8,13 @@
 4. A better system for music: Equal temperament
 5. Overtones, harmonics and timbre
 6. Notes
+
+## TL;DR
+- https://old.reddit.com/r/WeAreTheMusicMakers/comments/oo49wy/the_right_way_to_think_about_scales/h5wdspc/
+
+While there are certain physiological factors to take into account, a lot of music theory simply comes down to "because that's the way it is". Lot's of stuff we hear consonant is because we're used to it hearing as consonant (like, what even is consonant truly?) and same for dissonant. That's why we can hear certain dissonant chords (in the strict sense) as cool chords. Again, because we've heard it and have done it like that for so long.
+
+Trying to understand why theory came to be. Why our scales are as they are. Why we have consonance and dissonance will hurt your brain. More, we don't even have a good explanation so we as musicians just need to start accepting the way it is and learn from there. Of course, learning a bit of physiological stuff helps in building and understanding music theory but don't try to go too deep.
 
 ## Introduction
 This chapter is here to explain a bit how we came to the current music theory we have. Why the notes exist as they exist, why certain scales exists, why certain chords and intervals are favored (consonance) over others and all stuff like that. It's a very long chapter but a fundamental one. Not in the sense of "should know" but more in the sense of "should almost not know". What I mean by this is that this chapter will give great insight in music of today and will help **composers** and **improvisers** take their game to the the next level but should not be the prevalent knowledge about music theory in your head.
