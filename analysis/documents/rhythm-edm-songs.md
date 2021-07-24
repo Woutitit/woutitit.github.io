@@ -7,6 +7,7 @@ This is an analysis sessions that I've done when I was kind of into the rhythmic
 ## Songs analyzed
 - [My name is/Studio Mottie](https://www.youtube.com/watch?v=S3ddqb2cFmc)
 - [Love 2 Shuffle](https://www.youtube.com/watch?v=bkdqYZb0_jk)
+- [JOK3R / Yuta Imai](https://www.youtube.com/watch?v=GJFVSLvHS4M)
 
 ## Build up
 - A lot of elements that pitch up:
@@ -20,6 +21,8 @@ This is an analysis sessions that I've done when I was kind of into the rhythmic
 ## Misc
 - Skipping a beat (with the kick) usually on second repeat in chorus (and adding other stuff in place):
   - Love 2 Shuffle: At various points, 1:00 is an example
+- (Briefly) Going trappy to break the energy
+  - JOK3R: 0:45
  
 ## Frequency spectrum
 - Sub/Bass kind of high, mids kind of low and then going up and up and up in the highs:
