@@ -168,4 +168,6 @@ So yeah, seperation is very handy. To also elaborate briefly with the bass. It's
 
 There are other reasons to seperate patches. The obvious ones are different processing, control different more interesting timbres, different functions and all that stuff. Like for a kick, selecting a perfect transient and then adding a perfect body, all that kind of good stuff. Or stereo layers and all that stuff.
 
+You can also seperate because often you want to sidechain the sub only so it's handy to have a sub patch and then a mid bass patch.
+
 Lastly, also all this stuff will depend a bit on the timbres too. Again, if for some reason your chord stack is/needs to be harsh, then do your lead less harsh as it will be too much. Usually you'll have you'r lead a bit more harsh and then your chords a bit less harsh (but again, either by tucking away and/or rolling off, decreasing volume, all that stuff).
