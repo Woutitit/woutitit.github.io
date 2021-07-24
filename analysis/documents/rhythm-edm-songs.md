@@ -5,8 +5,8 @@
 This is an analysis sessions that I've done when I was kind of into the rhythmic EDM stuff, ddr, dancerush stardom, rhythm games kind of vibe. Here I basically analyze a bunch of songs and write down what all/most of them share.
 
 ## Songs analyzed
-- [My name is/Studio Mottie](https://www.youtube.com/watch?v=S3ddqb2cFmc)
-- [Love 2 Shuffle](https://www.youtube.com/watch?v=bkdqYZb0_jk)
+- [My name is / Studio Mottie](https://www.youtube.com/watch?v=S3ddqb2cFmc)
+- [Love 2 Shuffle / BEMANI](https://www.youtube.com/watch?v=bkdqYZb0_jk)
 - [JOK3R / Yuta Imai](https://www.youtube.com/watch?v=GJFVSLvHS4M)
 - [S7AGE / ZEKK ](https://www.youtube.com/watch?v=9z0ZkYFMHN0)
 
