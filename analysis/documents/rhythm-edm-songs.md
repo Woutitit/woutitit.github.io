@@ -11,10 +11,12 @@ This is an analysis sessions that I've done when I was kind of into the rhythmic
 ## Build up
 - A lot of elements that pitch up:
   - My name is/Studio Mottie: At 1:08
+  - Love 2 Shuffle: 1:16
 
 ## Transition
 - Taking energy away quick/brief on last beat
   - Love 2 Shuffle: At 0:50
+
 ## Misc
 - Skipping a beat (with the kick) usually on second repeat in chorus (and adding other stuff in place):
   - Love 2 Shuffle: At various points, 1:00 is an example
