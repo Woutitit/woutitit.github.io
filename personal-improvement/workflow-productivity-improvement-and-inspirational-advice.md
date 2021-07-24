@@ -36,6 +36,9 @@ These are tips that will help you finish songs and be productive. Of course it's
 
 - [The mental game of electronic music production](https://kupdf.net/download/music-habits-the-mental-game-jason-timothy_59116bdddc0d602678959f09_pdf)
 
+## Make a drop for another song's build up
+Like, this can really inspire you for a certain drop and it also makes it like easier to know if your drop is a vibe and then simply you write a similar build up and then there you go you have a song. It also helps with mixing because immediately you can gauge whether your mix is too dark, bright, stuff is off or whatever because you have a reference too.
+
 ## Novelty of a song wears off
 This goes for both creating and listening. For example, when I hear a song for the first time it may blow me away because of the technicality and fatness. I think then the song sounds so fat and the composition os so genius. However, the longer you listen to it the less fat and bombastic and genius the song sound and it may even start to sound a little bit boring and empty.
 

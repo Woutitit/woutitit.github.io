@@ -1,7 +1,4 @@
 # Production thoughts
-### Make a drop for another song's build up
-Like, this can really inspire you for a certain drop and it also makes it like easier to know if your drop is a vibe and then simply you write a similar build up and then there you go you have a song.
-
 ## 4.5db trick for better frequency balance
 - https://www.youtube.com/watch?v=Mx7AnMUCDic
 > Where to put this? Maybe in clarity or how to mix and master or where?
@@ -13,7 +10,6 @@ Therefore, you can set your EQs and SPAN and stuff to a 4.5db "pivot slope" and 
 A great way to also test this is to check if you can turn up your mix loud enough and see if you can do it without having ear pain. If you have ear pain there are probably elements that are too harsh and need to adhere more to that 4.5db rule. Again, you want to kind of adhere to this rule so all is balanced and so accross all volumes, whether low or high you hear all elements present and heavily and nothing too loud and also nothing too shrill (i.e. too little low frequencies).
 
 Now, mind that this is a guideline NOT a rule. And also, modern mixes usually air a bit more on the bright side so less than 4.5db they lose going up. In fact, sometimes you have very heavy and loud and fast electronic genres that have considerably more highs than lows and certainly don't lose 4.5db per octave (or at least not in the highs/very-highs). But, it's still controlled the highs and also it's not super duper far off and the sounds itself also are contained so nothing is too harsh (so again, check your sounds solo as well for the rule and see if some may be too harsh, it may also be a volume/level issue of course).
-
 
 ## You don't always need high frequencies to have stuff be audible
 Remember, bass and even kick don't necessarily need (a boost in) highs always to be audible. Plenty of songs have bass and maybe even kick with not that much highs, it depends on the context and what the function of the bass and kick is.
@@ -64,6 +60,7 @@ TODO: Where to put this?
 - Vibrato/Pitch bends
 - Resonance filter enveloppe or LFO. Especially a band boost sweep accross the spectrum with a good tiny (or bigger depends) resonance creates cool easy movement and opening up whilst still keeping bass charachter (since it doesn't filter stuff out like highs, just boost stuff in certain frequencies). Especially done on bass.
 - 128s rack? https://old.reddit.com/r/edmproduction/comments/o64w3c/what_is_one_tip_you_learned_specifically_from/
+
 ## How to mix sub area
 The easiest way to mix sub area is sidechaining. Kick and bass will always interfere with eachother and thus since the sub area is so little room and so precious you have to be surgical with mixing techniques to mix kick and bass well WITHOUT sidechaining (like the fundamentals need to still be there, it's easy to cut too much or boost to much). Sidechaining makes it easier. Of course you still need to level your kick and sub in volume and also you may want to shorten your kick so the sidechain can be shorter and bass can come in more seamlessly. Also, you need to be precise with the sidechain especially if you don't want the SC to be heard. And maybe some small EQing if needed.
 
