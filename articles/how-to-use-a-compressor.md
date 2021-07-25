@@ -74,7 +74,7 @@ For the release, it's not necessarily about aggressiveness and fatness since it'
 
 Then, to briefly talk about compression for the sake of evening out a performance (or maybe bus compressing). It's the same advice as for the sound shaping. A vocal leans more towards the sustain part of a sound. In this case you're objective is of course not to make it as sustain and smooth as possible but to even stuff out, and leave some punch and transients. A percussion loop then takes more the advice of the transient-y compression processing. Maybe(!) the only thing might be that you may want to slightly leave your threshold a bit more up as you may not want to affect signal that doesn't need to be compressed (like already soft vocal notes, or piano notes played). Maybe more transparent (?).
 
-Lastly, don't forget the makeup gain to hear the difference. Simply add as much makeup gain as you've reduced (on the loudest part of the signal) If that's -6db then you simply add 6db of makeup gain.
+Lastly, don't forget the makeup gain to hear the difference. Simply add as much makeup gain as you've reduced (on the loudest part of the signal) If that's -6db then you simply add 6db of makeup gain. On some meters you may see that, on others you may need to look at how high you're stuff was peaking on the mixer meter before compression and then after.
 
 ## Todo
 - What's with the -6db (for highest peaks) 3:1 4:1? Why a good starting point for compression in terms of threshold/ratio? I guess not too much and not too little compression so can go from there.
