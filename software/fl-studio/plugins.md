@@ -1,4 +1,11 @@
 # Plugins
+## Fruity Limiter
+### How to add makeup gain
+- https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Fruity%20Limiter.htm
+
+There is make up gain in Fruity Limiter. It's called gain, however, note that it's only makeup gain POST compressor but PRE limiter. However, usually this makes ssne
+
+
 ## NewTone
 > Also see "vocal production" article.
 
