@@ -1,8 +1,4 @@
-compressor attenuates the whole frequency spectrum at that point when a peak goes up, it's not just the frequency (band) where the peak is happening. This is totally ok as the transient may be hidden all accross the spectrum and thus with a MB compressor you wouldn't be able to fully compress the transients (of course you could have multiple bands but that's a bit of a hassle). It may also be more handy in sidechaining if you want the whole sound to duck and pump. If you only want to sidechain the sub frequencies then of course an MB can be handier so it all depends:
-https://old.reddit.com/r/musicproduction/comments/oq8zre/how_to_hear_compression/h6cg4s4/
-
-compressing is all about a delicate act of balancing, too punchy vs keeping punch too much transients vs enough transients to be audible, sustain vs too little
-
+# How to use a compressor
 ## Introduction
 Note that this is a more general compression article. More specific articles may come out too (like how to compress a kick drum).
 
@@ -19,7 +15,8 @@ Classic examples of short sounds are usually drums, percussion and plucks.
 ### Step 2: Determine why to compress
 The next step is determining why you want to compress at all because regardless of type of sound, not all sounds necessarily need to be compressed (that much). The following are the usual reasons to compress:
 - Taming peaks
-- Bringing out body/sustain/fatness
+- Bringing out body/sustain/fatness (usually single sample)
+- Evening out a performance (vocal performance, drum bus, piano)
 - (Sidechaining)
 
 Try to listen to and look at your waveform to determine this one and mainly look at the dynamic range. Look at the dynamic range of the sudden peaks, usually synonymous with transients, compared to the body. Then also look at the dynamic range of the body compared to the body/tail of the sound.
@@ -35,7 +32,7 @@ To start compression, first we'll want to set the threshold and ratio. More, spe
 
 Setting the threshold is straight forward when the function of the compressor is **to reduce the absolute highest of peaks** (see later). In fact, we usually use a limiter for that. What we want to do is set the threshold high but low enough so that the transients/peaks are reduced enough so they aren't obnoxious anymore (but not too low to not cut off too much of the transients). Setting the threshold high is an easy choise because we're using extreme settings (high ratio, usually limiting) to abruptly cut peaks and thus we don't want any part of the sound but the peaks to be affected by those settings.
 
-For the next more **sound shaping** compressor (also see later) it's more tricky.
+For the next more **sound shaping/evening out a performance** compressor (also see later) it's more tricky.
 
 That said, usually a lower threshold setting is what we want here as we do want to be able to shape way more parts of the sound which are all at various dynamic ranges (like the transient, body and tail, quieter parts in the performance, etc.). How low depends a bit, though. If you want literally no dynamic range and you want to super smooth stuff, go super deep low and put no attack and ratio all the way up. If you still want smooth but not endless smooth you can put the ratio a bit up or maybe the treshold or maybe both. If you want some transients before the smoothness, you can also set a slower time. Similarly though, if you want super punch you can set your threshold real low too and have a slower attack (slow release too for exageration) and a high ratio again. 
 
@@ -75,11 +72,20 @@ For the release, it's not necessarily about aggressiveness and fatness since it'
 
 *Important: Also note that with release that you don't want it too long. You usually want your compressor to be fully released before any next note hits. Else, you may have one note hitting at a certain db, another note at another db again (as they both aren't fully released in loudness and maybe at different points hit again) but never even at max volume unless there is some time in between hits.*
 
-Don't forget to compensate with makeup gain for the gain reduction of the compressor to hear the difference.
+Then, to briefly talk about compression for the sake of evening out a performance. In these cases you're not looking to tame extreme short peaks or sound shape. You're mainly looking to reduce louder parts (so like bigger parts than just short peaks). All the above sound shaping advice goes for that as well except that maybe you want to again keep the threshold slightly higher as you may not want to necessarily affect the lower notes sung or played. Like the less you affect the better and more transparent it may be.
+
+Lastly, don't forget to compensate with makeup gain for the gain reduction of the compressor to hear the difference.
 
 ## Todo
 - What's with the -6db (for highest peaks) 3:1 4:1? Why a good starting point for compression in terms of threshold/ratio? I guess not too much and not too little compression so can go from there.
 
 ## Relevant articles
 - Compression, limiting, clipping
+
+## Notes
+compressor attenuates the whole frequency spectrum at that point when a peak goes up, it's not just the frequency (band) where the peak is happening. This is totally ok as the transient may be hidden all accross the spectrum and thus with a MB compressor you wouldn't be able to fully compress the transients (of course you could have multiple bands but that's a bit of a hassle). It may also be more handy in sidechaining if you want the whole sound to duck and pump. If you only want to sidechain the sub frequencies then of course an MB can be handier so it all depends:
+https://old.reddit.com/r/musicproduction/comments/oq8zre/how_to_hear_compression/h6cg4s4/
+
+compressing is all about a delicate act of balancing, too punchy vs keeping punch too much transients vs enough transients to be audible, sustain vs too little
+
 
