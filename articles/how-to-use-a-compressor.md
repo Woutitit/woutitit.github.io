@@ -33,7 +33,7 @@ To start compression, first we'll want to set the threshold and ratio. More, spe
 
 *Note: In reality, you don't need to be super specific with threshold. Usually you just set first where it seems ok and then later you may tweak it a bit.*
 
-Setting the threshold is straight forward the function of the compressor is **to reduce the absolute highest of peaks** (see later). In fact, we usually use a limiter for that. What we want to do is set the threshold high but low enough so that the transients/peaks are reduced enough so they aren't obnoxious anymore (but not too low to not cut off too much of the transients). Setting the threshold high is an easy choise because we're using extreme settings (high ratio, usually limiting) to abruptly cut peaks and thus we don't want any part of the sound but the peaks to be affected by those settings.
+Setting the threshold is straight forward when the function of the compressor is **to reduce the absolute highest of peaks** (see later). In fact, we usually use a limiter for that. What we want to do is set the threshold high but low enough so that the transients/peaks are reduced enough so they aren't obnoxious anymore (but not too low to not cut off too much of the transients). Setting the threshold high is an easy choise because we're using extreme settings (high ratio, usually limiting) to abruptly cut peaks and thus we don't want any part of the sound but the peaks to be affected by those settings.
 
 For the next more **sound shaping** compressor (also see later) it's more tricky.
 
