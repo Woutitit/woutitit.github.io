@@ -15,6 +15,9 @@
 10. [Compression techniques](#compression-techniques)
 11. [Tips](#tips)
 
+## Relevant articles
+- How to use a compressor
+
 ## Introduction
 // todo: Like the other articles, have a more practical oriented compressor article as well where I don't need to explain stuff anymore but do give general guidelines as to what to do (like the -6db 4:1 ratio trick).
 
