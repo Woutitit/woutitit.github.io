@@ -1,6 +1,9 @@
 compressor attenuates the whole frequency spectrum at that point when a peak goes up, it's not just the frequency (band) where the peak is happening. This is totally ok as the transient may be hidden all accross the spectrum and thus with a MB compressor you wouldn't be able to fully compress the transients (of course you could have multiple bands but that's a bit of a hassle). It may also be more handy in sidechaining if you want the whole sound to duck and pump. If you only want to sidechain the sub frequencies then of course an MB can be handier so it all depends:
 https://old.reddit.com/r/musicproduction/comments/oq8zre/how_to_hear_compression/h6cg4s4/
 
+## Introduction
+Note that this is a more general compression article. More specific articles may come out too (like how to compress a kick drum).
+
 ## Normal compressor: Basic usage
 ### Step 1: Determine the type of sound
 Knowing how and what to compress starts with **knowing your sound**. The reason for this is that the same exact compression settings will do different things and get you different results based on the type of sound you have.
@@ -19,8 +22,13 @@ The next step is determining why you want to compress at all because regardless 
 
 Try to listen to and look at your waveform to determine this one and mainly look at the dynamic range. Look at the dynamic range of the sudden peaks, usually synonymous with transients, compared to the body. Then also look at the dynamic range of the body compared to the body/tail of the sound.
 
-Often, for a lot of sounds, you may have two compressors in serial.
+// Say a bit more why
 
 ### Step 3: Compressing
 
+presence but not punch also context of mix cuz without any trakcs you won't hear/feel a need to add more transients as drum only thing playing
+Often, for a lot of sounds, you may have two compressors in serial. One that takes care of the peaks, the other that takes care of the sustain/fatness.7
+
+## Relevant articles
+- Compression, limiting, clipping
 
