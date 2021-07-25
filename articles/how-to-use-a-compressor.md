@@ -29,7 +29,12 @@ Also, note that sometimes you do not need (much) compression at all. Sometimes t
 // Say a bit more why
 
 ### Step 3: Set ratio and threshold
-Lastly, let's talk about threshold and ratio. Basically, ultimate smoothness in a sound is achieved by having a low threshold do you catch most of the sound. If you then add a high ratio then everything (given a very fast attack) will get super squashed to small volume of almost the lowest part in the sound thus achieving smoothness. This is handy in sustain sounds, especially pads where you want that nice consistent smooth sustain.
+Lastly, let's talk about threshold and ratio. For peak reduction (see later), we would basically have a limiter or a compressor with fast attack and high ratio. We then simply set the treshold (or ceiling) at the point up until where the peak needs to be reduced to. We can go ham on the chopping here because the high threshold allows us to not touch the body or even the punch, only the loudest peaks.
+
+For the next more shaping compressor it's more tricky.
+
+For short sounds, like a kick you usually do want to set a lower threshold setting as you want any sound to get controlled by the compressor (like the transient, body and tail). The only thing is that you want to play with your ratio. If you set your ratio too high, everything will be exagerated. A slow attack will mean super punch and a fast attack will mean super smooth.
+
 
 ### Step 4: Setting attack and release
 So, let's first start with **a short sound, a kick or a snare**. 
