@@ -29,7 +29,7 @@ Also, note that sometimes you do not need (much) compression at all. Sometimes t
 // Say a bit more why
 
 ### Step 3: Set ratio and threshold
-To start compression, first we'll want to set the threshold and ratio. More, specifically you want to start with the treshold first. This is because the threshold determines what part of the signal gets put under (potential) control of the compressor. Meanwhile the ratio determines how much gain reduction will be done but that does that mean that it can simply not reduce the gain of certain parts in a sound if the threshold is not low enough. Similarly, a ratio will also compress parts of a sound that we don't want to if the threshold is too low. Therefore, setting the treshold first is important because it dictates what part of the sound will be compressed. We can then use ratio, attack and release to attenuate the compression.
+To start compression, first we'll want to set the threshold and ratio. More, specifically you want to start with the treshold first. This is because the threshold determines what part of the signal gets put under (potential) control of the compressor. Meanwhile the ratio determines how much gain reduction will be done but that does mean that it can simply not reduce the gain of certain parts in a sound if the threshold is not low enough. Similarly, a ratio will also compress parts of a sound that we don't want to if the threshold is too low. Therefore, setting the treshold first is important because it dictates what part of the sound will be compressed. We can then use ratio, attack and release to attenuate the compression.
 
 *Note: In reality, you don't need to be super specific with threshold. Usually you just set first where it seems ok and then later you may tweak it a bit.*
 
