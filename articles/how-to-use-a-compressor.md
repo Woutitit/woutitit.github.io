@@ -72,9 +72,7 @@ For the release, it's not necessarily about aggressiveness and fatness since it'
 
 *Important: Also note that with release that you don't want it too long. You usually want your compressor to be fully released before any next note hits. Else, you may have one note hitting at a certain db, another note at another db again (as they both aren't fully released in loudness and maybe at different points hit again) but never even at max volume unless there is some time in between hits.*
 
-Then, to briefly talk about compression for the sake of evening out a performance. In these cases you're not looking to tame extreme short peaks or sound shape. You're mainly looking to reduce louder parts (so like bigger parts than just short peaks). All the above sound shaping advice goes for that as well except that maybe you want to again keep the threshold slightly higher as you may not want to necessarily affect the lower notes sung or played. Like the less you affect the better and more transparent it may be.
-
-Lastly, don't forget to compensate with makeup gain for the gain reduction of the compressor to hear the difference.
+Then, to briefly talk about compression for the sake of evening out a performance (or maybe bus compressing). It's the same advice as for the sound shaping. A vocal leans more towards the sustain part of a sound. In this case you're objective is of course not to make it as sustain and smooth as possible but to even stuff out, and leave some punch and transients. A percussion loop then takes more the advice of the transient-y compression processing. Maybe(!) the only thing might be that you may want to slightly leave your threshold a bit more up as you may not want to affect signal that doesn't need to be compressed (like already soft vocal notes, or piano notes played). Maybe more transparent (?).
 
 ## Todo
 - What's with the -6db (for highest peaks) 3:1 4:1? Why a good starting point for compression in terms of threshold/ratio? I guess not too much and not too little compression so can go from there.
