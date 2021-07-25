@@ -103,11 +103,17 @@ Determines how long it takes for a compressor to reach peak compression. For exa
 
 Attack not being a switch actually has an advantage. It means that when you're compressing transient peaks of a sound, you can still play with the attack and not worry that none of the transients will be compressed. The transients will always still be compressed. Of course, the longer your attack time, the less the transients will be reduced in volume so if you're reducing transient peaks in volume you don't want to go too long on it but too short is also not necessarily necessary as it may cut the transients off too much and quickly.
 
+#### Slow attack
 But why would you ever use a slow attack time? Well, a slow attack time is for when you're not doing transient processing. Of course, note that transients is only the first 10ms so anything beyond that would already be a medium to slow(er) attack time. For example, if the transients in the sound are fine but you want to get more body/sustain, you'll probably set a slower attack time and play with the release according to your needs. 
 
 Additionally, a slow attack is also handy when you're doing compressors in series (which is handy because just like with EQ, it is hard and messy to do multiple jobs, like high-passing, resonance filtering, presence boosting all in a single plugin). You can first have one compressor that takes care of the transient peaks and then you can have one that can take care of bringing out the body/sustain in the sound. Now the latter you don't want and need to process the transients anymore so you can set a slower attack to not affect it and again play with the release as you so desire.
 
+Or, maybe for now you don't hear and see anything wrong with the transients of your sound but you want more smoothness, sustain and body (e.g. a piano that sutains chords), you may want to have a slow(er) attack too.
+
 *Note: that you don't want to set your attack too slow because then your compressor may not compress at all. For example, with a piano sustain hit, if your attack is really slow, it will compress only a little bit but since the piano quites down in volume too, it will quickly dip under the threshold and thus the little compression it was already doing will evolve in no compression so it will look on the graph as nothing has been done. Instead, make the attack faster so that your compressor can kick in in soon enough, you don't need to worry about touching the transients as those are only the first 10ms. So a slow attack is anything more than 10ms (you may attact transients a little but if you play with it it won't be noticeable.*
+
+#### Fast attack
+???
 
 ### Release
 Controls at what speed a signal goes back to normal. You'd want to keep this as slow as possible since a weird signal paired with a fast release and attack might give some weird fast up and down curves (due to rapid volume fluctuations). Though, for instruments that rely on transients you'd still not want the release not too slow to have the signal (almost) back to normal for the next note for the note to have full impact. Too slow release (with a fast attack) might also cause an audible pumping effect if the compression is hard enough (and if instrument strucks chords/notes fast after eachother, then it ducks fast, comes back up slow but in a very rapid manner causing audible pump).
