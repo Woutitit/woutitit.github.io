@@ -147,7 +147,7 @@ I'm not sure about this yet but on short sounds such as a kick, a faster release
 Controls the loudness threshold when the compressor needs to act. It interacts with the ratio a lot. For example a low ratio and high threshold could almost have the same effect as a high ratio high threshold setting. However, rule of thumb with the threshold is that you usually set it high when you mainly want to catch peaks (tame transients). You set it low(er) if you also want to catch the body of the sound (making stuff fatter). You then simply after having decided and set that adjust the ratio to how much it should compress.
 
 ### Ratio
-Controls how much the signal above the threshold needs to be compressed.
+Controls how much the signal above the threshold needs to be compressed. Also explain how the 3:1 works, like what that means. Is like 3db for 1db. Like 3db of gain reduction once goes over threshold?
 
 ### Todo
 - Knee?
