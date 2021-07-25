@@ -66,6 +66,8 @@ For the release, it's not necessarily about aggressiveness and fatness since it'
 
 *Important: Also note that with release that you don't want it too long. You usually want your compressor to be fully released before any next note hits. Else, you may have one note hitting at a certain db, another note at another db again (as they both aren't fully released in loudness and maybe at different points hit again) but never even at max volume unless there is some time in between hits.*
 
+Don't forget to compensate with makeup gain for the gain reduction of the compressor to hear the difference.
+
 ## Todo
 - What's with the -6db (for highest peaks) 3:1 4:1? Why a good starting point for compression in terms of threshold/ratio? I guess not too much and not too little compression so can go from there.
 
