@@ -29,17 +29,24 @@ Also, note that sometimes you do not need (much) compression at all. Sometimes t
 // Say a bit more why
 
 ### Step 3: Set ratio and threshold
-Lastly, let's talk about threshold and ratio. For peak reduction (see later), we would basically have a limiter or a compressor with fast attack and high ratio. We then simply set the treshold (or ceiling) at the point up until where the peak needs to be reduced to. We can go ham on the chopping here because the high threshold allows us to not touch the body or even the punch, only the loudest peaks.
+First we'll want to set the threshold and ratio. More, specifically you want to start with the treshold first. This is because the threshold determines what part of the signal gets put under (potential) control of the compressor. Meanwhile the ratio determines how much gain reduction will be done but that does that mean that it can simply not reduce the gain of certain parts in a sound if the threshold is not low enough. Similarly, a ratio will also compress parts of a sound that we don't want to if the threshold is too low. Therefore, setting the treshold first is important because it dictates what part of the sound will be compressed. We can then use ratio, attack and release to attenuate the compression.
 
-For the next more **sound shaping** compressor it's more tricky.
+Setting the htreshold is straight forwards when we're reducing tbe absolute highest of peaks (see later). In fact, we usually use a limiter for that. What we want to do is set the threshold low enough so that the transients are reduced enough so they aren't obnoxious anymore (but not too low to not cut off too much of the transients). Setting the threshold high is an easy choise because we're using extreme settings (high ratio, usually limiting) to abruptly cut peaks and thus we don't want any part of the sound but the peaks to be affected by those settings.
 
-Usually though, a lower threshold setting is what we want as it allows more part of the sound to be put under (potential) control of the compressor (like the transient, body and tail, quieter parts in the performance, etc.). This is because you can change the amount of gain reduction applied but you cannot change what part of the sound gets caught by the compressor. Therefore, for sound shaping (transient, punch, body, tail maybe too) it's usually better to go lower threshold and then see a fitting ratio from there. 
+For the next more **sound shaping** compressor (also see later) it's more tricky.
 
-How low depends a bit. If you want literally no dynamic range and you want to super smooth stuff, go super deep low and put no attack and ratio all the way up. If you still want smooth but not endless smooth you can put the ratio a bit up or maybe the treshold or maybe both. If you want some transients before the smoothness, you can also set a slower time. Similarly though, if you want super punch you can set your threshold real low too and have a slower attack (slow release too for exageration) and a high ratio again. 
+That said, usually a lower threshold setting is what we want here as we do want to be able to shape way more parts of the sound which are all at various dynamic ranges (like the transient, body and tail, quieter parts in the performance, etc.). How low depends a bit, though. If you want literally no dynamic range and you want to super smooth stuff, go super deep low and put no attack and ratio all the way up. If you still want smooth but not endless smooth you can put the ratio a bit up or maybe the treshold or maybe both. If you want some transients before the smoothness, you can also set a slower time. Similarly though, if you want super punch you can set your threshold real low too and have a slower attack (slow release too for exageration) and a high ratio again. 
 
-Generally, though, for a good starting point you can set your threshold at where it would (potentially?) reduce -6db in gain (gain reduction) (loudest peaks?) and then ratio at 4:1 or 3:1. Then start playing with your attack and release to shape the sound. If you then think there is not enough shaping going on, you may want to first try and lower the threshold and then you may want to up the ratio too.
+Generally, though, **for a good starting point you can set your threshold at where it would (potentially?) reduce -6db in gain (gain reduction) (loudest peaks?) and then ratio at 4:1 or 3:1**. Then start playing with your attack and release to shape the sound. If you then think there is not enough shaping going on, you may want to first try and lower the threshold and then you may want to up the ratio too.
 
-Also, you don't necessarily want to go too low on the threshold as it may be hard to correctly compress all the sound under control now. It may also be that you're compressing a mult-loop and you may only want to compress the kick and snare (so settings for kick/snare not for the hat) so in that case you probably don't want to catch the quieter hats in your compressor (as the settings are not made for it).
+Also, you don't necessarily want to go too low on the threshold as it may be hard to correctly compress all the sound under control now. It may also be that you're compressing a multi-loop and you may only want to compress the kick and snare (so settings for kick/snare not for the hat) so in that case you probably don't want to catch the quieter hats in your compressor (as the settings are not made for it).
+
+So in short what you want do for sound shaping:
+1. Set threshold at -6db gain reduction
+2. Set ratio at 4:1 or 3:1
+3. Play with attack and release to shape sound
+4. If need more strong gain reduction, adjust the ratio (try first before threshold moving)
+5. If need more sound to be caught into the compression, adjust threshold
 
 ### Step 4: Setting attack and release
 So, let's first start with **a short sound, a kick or a snare**. 
