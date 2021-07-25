@@ -37,7 +37,9 @@ Usually though, a lower threshold setting is what we want as it allows more part
 
 How low depends a bit. If you want literally no dynamic range and you want to super smooth stuff, go super deep low and put no attack and ratio all the way up. If you still want smooth but not endless smooth you can put the ratio a bit up or maybe the treshold or maybe both. If you want some transients before the smoothness, you can also set a slower time. Similarly though, if you want super punch you can set your threshold real low too and have a slower attack (slow release too for exageration) and a high ratio again. 
 
-Generally, though, for a good starting point you can set your threshold at where it would (potentially?) reduce -6db in gain (gain reduction) (loudest peaks?) and then ratio at 4:1 or 3:1. Then start playing with your attack and release to shape the sound. If you then think there is not enough shaping going on, you may want to first try and lower the threshold and then you may want to up the ratio too. 
+Generally, though, for a good starting point you can set your threshold at where it would (potentially?) reduce -6db in gain (gain reduction) (loudest peaks?) and then ratio at 4:1 or 3:1. Then start playing with your attack and release to shape the sound. If you then think there is not enough shaping going on, you may want to first try and lower the threshold and then you may want to up the ratio too.
+
+Also, you don't necessarily want to go too low on the threshold as it may be hard to correctly compress all the sound under control now. It may also be that you're compressing a mult-loop and you may only want to compress the kick and snare (so settings for kick/snare not for the hat) so in that case you probably don't want to catch the quieter hats in your compressor (as the settings are not made for it).
 
 ### Step 4: Setting attack and release
 So, let's first start with **a short sound, a kick or a snare**. 
