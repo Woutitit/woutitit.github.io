@@ -15,5 +15,6 @@
 10. Pick out a section or sound to analyze
     - Use the tools on the master chain
     - Study the music theory
+11. (Optional) Check out analysis guide for tips
 
 
