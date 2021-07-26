@@ -9,7 +9,24 @@ Unlike popular belief, mastering is mostly about enhancing and coloring the mix 
 - https://www.youtube.com/watch?v=ypy8_rHLG30
 
 # How to mix and master
-Note: So I should have a general small short guide for mixing and mastering and then mayb consolidate the other article with my bigger production article?
+Note: So I should have a general small short guide for mixing and mastering and then maybe consolidate the other article with my bigger production article?
+
+## [Mix/Master] Clip/Push the limiter
+- https://old.reddit.com/r/edmproduction/comments/os407m/mastering_loudness/h6mirl4/
+
+Over the course of song making you want to export your mix (or put a limter on the master) and then basically push it very hard in a limiter (with 0 attack/release/sustain) or simply clip it or whatever. You don't want to go too hard on it of course but definitely until where you can hear clear distortion.
+
+The reason for doing it is that you'll immediately reveal which elements need tweaking, that is, the distorted elements need tweaking. Whether it's more compression, eq, putting down in volume, it clearly needs tweaking.
+
+The reason those elements need tweaking is that we want our hard-hitting stuff to be a nice low dynamic range stuff. But, if we push the master limiter and stuff starts to distort (very quickly) while other stuff is seemingly still ok then that probably means those elements are too dynamic.
+
+For example, a cymbal crash being too loud you may not hear but then suddenly the crash distorts like crazy when limiting. Or a kick of which the sub area distorts hard when pushed in a limiter (may require some mixing in the low stuff) Stuff like that.
+
+The solutions can be a lot, whether multiple instruments need to be cleaned up or solo instruments and in whatever way (compression, eqing, volume, whatever).
+
+Basically, if you're song sounds balanced, nice, (perceived) punchy, transienty full and fat and not audibly distorted while it's slightly clipping/in the red (maybe push your master above 0db simply), then you know you're song is well optimized. If you're song sounds super thin, not necessarily distorted while it's already clipping, well then you already know certain transients, sounds, whatever needs cleaning and your mix needs work. If it sounds super busy and kind of distorted (find out which elements again!) then you know again you'll need to do better on the compression, eq, levelling, whatever.
+
+Lastly, as I said, this tip is mainly for hard-hitting commercial stuff. the more hard-hitting the more you want to compress so the more you kind of want to be able to push your limiter without hearing distortion.
 
 ## [Mix] Mix at different volumes
 - Somewhere around 10min: https://www.youtube.com/watch?v=JiYDaOw6pXI&t=628s
