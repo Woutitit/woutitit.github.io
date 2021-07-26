@@ -76,6 +76,19 @@ Then we have the snare or clap. This one depends as well. They'll definitely als
 
 For the consistent high-end flatness we're mostly looking to the hats, rides, shakers, tambourines and percussion and whatever. You don't need much but it's definitely not uncommon to layer a few shaker loops, hat loops and some percussion. Again these usually all have a bit of the same characteristic so if equal in loudness should all add up nicely.
 
+## Transients
+TODO: Research this bit
+
+So, in the first 10ms of a sound, the transients there are also a lot of frequencies. In other words, a sound doesn't need to be long too show up as "long" (i.e. a lot of frequencies) in SPAN, it just needs to hit frequently to keep the longness in SPAN going. Therefore, a lot of the high-end might also be because transients are hitting there. 
+
+Like, you can have on SPAN like high-end like an open hihat hitting, it takes up a lot of energy in the high-end. You can then have only the transient hitting of that hihat, yet on SPAN it looks kind of similar yet there is way way less energy and sharpness because of the short sound. I think in that one Zekk/Awefuless song MATOI you might indeed in the quieter sections if you solo the high-band hear a lot of transients and I guess these add up in the high-end, not necessarily for the typical curve (as drums/bass/supsersaw/white noise may still be main thing there) maybe but to make it fatter up there? Idk.
+
+That doesn't mean white noise and energy adding stuff ain't important but it does mean that you can definitely add a lot (if not all?) high-end with short/nice transient sounds (maybe shaped with transient shaper).
+
+Need to research more, maybe solo a few bands of hard hitting edm songs.
+
+Also sometimes you may want washy /white noisy and maybe you then want less transients idk.
+
 ## Notes 2
 First thing to notice that it isn't really a straight line or anything, there are still some peaks and valleys on the SPAN analyzer, just not that much and very little (also doesn't help that the high-end doesn't get much screen space in SPAN so it seems even worse, see later). So yeah, there are still things playing louder and quieter in the high-end of those genres.
 
