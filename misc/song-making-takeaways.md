@@ -8,6 +8,8 @@ and then some quieter pads to kinda fill as well as some chord stabs that are al
 
 Also, seems that for lead, we can have a mono layer but have it quieter and that a lead with some attack, release/verb and not too loud blends in better especially the release ver/important on the lead, on the rest the verb not that important but ye to kinda give off the edge maybe on top bass a bit too to bring down the edge and in yo faceness a bit.
 
+like ye having few elements my main stuff play at the same time way easier to mix and loudness and then like just make suprise with cutting out shit and then having other elements briefly come in so like it don't look like sutff gone but still much place for both instead of clashing or brief shocks much where indede clashes but brief so it dont seem that way.
+
 ## The one dnb song (jijiji)
 Seems like my drums are/were way too loud and that it's clashing with my top loop making stuff even harsher. I have no clue how to solve it yet.
 
