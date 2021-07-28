@@ -10,7 +10,7 @@ Also, seems that for lead, we can have a mono layer but have it quieter and that
 
 like ye having few elements my main stuff play at the same time way easier to mix and loudness and then like just make suprise with cutting out shit and then having other elements briefly come in so like it don't look like sutff gone but still much place for both instead of clashing or brief shocks much where indede clashes but brief so it dont seem that way.
 
-Again, I seem to boost the lead to make it stand aove the rest more clearly in 2+5k. Like you don't want to brighten all ur shit but lead def one of those things seems to be to put a goodizer on it and then brightening a bit with eq maybe too. Just dont want it to be harsh.
+Again, I seem to boost the lead to make it stand aove the rest more clearly in 2+5k. Like you don't want to brighten all ur shit because that would be unclear and unharshness galore but lead def one of those things seems to be to put a goodizer on it and then brightening a bit with eq maybe too. Just dont want it to be harsh. Like thats also the point, if u boost everything there, nothing happened in terms of lead stganding out and created a freq imbalance. You do it on lead (only/mainly/most) to stand out!
 
 ## The one dnb song (jijiji)
 Seems like my drums are/were way too loud and that it's clashing with my top loop making stuff even harsher. I have no clue how to solve it yet.
