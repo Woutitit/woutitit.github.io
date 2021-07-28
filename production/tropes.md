@@ -18,6 +18,8 @@ It's done in above song and Mike Williams explains it in his video in the beginn
   - Examples: ???
 
 ### Volume/Filter (+LFO)
+- https://old.reddit.com/r/FL_Studio/comments/ot0fyi/been_trying_to_make_future_bass_for_years_now_and/h6t16cj/
+
 TODO: Add some tutorials or examples of classic LFO + filter stuff.
 
 So LFO + filter (or volume depending on vibe and what you want/need) and then a supersaw or like a growl or whatever is really a classic sound design tool and very effective. It's cool for a lot of reasons as you can simply add a bit of automations to a sound with some very quick filter opening ups or going down and you get some cool things. Especially if you pair the opening up with maybe some vibrato (like getting stronger also when the filter opens up) or some other EQ sweeps or add some general character to the sound.
