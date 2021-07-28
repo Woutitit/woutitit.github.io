@@ -100,6 +100,8 @@ So first thing to understand is that there are more peaks and valleys in the low
 
 But still, it's peculiar that there are more hills in there. This is because I've noticed that the main melodic/harmonic meat is in that 300-2k Hz range
 
+## Lead main thing in highs
+So I've noticed, and I need more evidence but usually the lead is the one really starting to poke out in the 2-5k range (and then some transients/white noise 5k+, not that audible). Like it's very defined so it seems that maybe in that range other instruments are cut out a bit to give room for lead. Maybe lead itself is kind of boosted there too. But yeah it really does help really making the lead easily stand above the rest and bright (and in yo face).
 
 ## Notes
 
