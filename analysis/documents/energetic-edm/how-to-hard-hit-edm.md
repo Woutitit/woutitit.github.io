@@ -20,6 +20,8 @@ So hard hitting EDM has a very peculiar frequency shape. It depends from song to
 Again, sometimes the line doesn't go as much up or isn't as much of a line but usually SPAN is very flattish and all hills are very connected the higher we go in the spectrum.
 
 ## The higher mid-range, high-end and very high-end explained
+- https://pages.mtu.edu/~suits/notefreqs.html
+
 I'm talking about the 2k Hertz and beyond.
 
 This is the most peculiar/interesting part of the spectrum in these genres as you'll notice that from here it starts becoming rather flattish. Like, the lower parts may still see some hills but the higher we go the more steady and flat the curve seemingly gets.
