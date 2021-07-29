@@ -47,6 +47,11 @@ This is a general guide for mixing and mastering. Important to note that it is g
 - See the "articles" directory for actual practical production, mixing and mastering advice.
 - See the "Production thoughts" article in here for more random production thoughts.
 
+## Playlist composing
+Not sure if this the right plays but often you'll make patterns and what producers do often is like with samples or patterns simply cut and chop them up and kind of compose like that. Like, the notes and harmonies may be a bit off but mainly you want to quickly see if the rhythm grooves better like that so you may dupe the A section of your pattern 1 and then replace the B seciton of pattern 1 with the A section in the playlist and see if that grooves better. Or with a sample you have some cool chops or you want to do a "keep on one tone" kind of build up so you cut and duplicate the last bit of a pattern. Stuff like that, very common and helps to get ideas down more quickly and try out stuff. 
+
+Like often with this it's in the beggining quick and dirty but it's just a quick way to check, ok this type of harmony from pattern x is cool there (like maybe the rhythm is off) or is the rhythm of the last half of pattern y maybe cool to put in place of another pattern (again the harmonies and stuff may need changing but it's to get an idea).
+
 ## Learn to hear sound
 Learn to hear sound both for production and mixing purposes. For example, hear in a certain sound that it has detune, a certain bitcrushing, a certain chorus effect, a certain filter automation and stuff like that to be able to more easily recreate it and use it.
 
