@@ -4,13 +4,36 @@ Link here also the how to cut through and sit back and all that stuf.
 ## Keywords
 - Air, shimmer, brightness, mudiness, boxiness.
 
+## Have space in the mix
+Todo: put some examples here.
+
+You'll notice that ANY good and clear mix will have space in the mix. Of course, it depends a bit on the business of the mix (which you then may question in and of itself) how much you really can carve out in terms of clarity. But yeah, any good mix, even the busy ones will be clear by creating space. 
+
+The first one is composition. For example, listen to a song quietly, on speakers, whatever and you'll notice there are always only a few loud elements. If there are "a lot" of loud elements they usually come after eachother in rapid succession, making for a perceived busy mix but still clean because it's not stacked, it's after eachother (this can even be on micro scale). Also, in terms of rhythm you don't want too much unsynced stuff. Have stuff synced to eachother. Also, in terms of octaves, have stuff play different ranges and else eq. 
+
+*Intermezzo: Like your song may sound super clean but you find it boring and thin and often this is more an issue horizontally of adidng elements rather than vertically trying to stack more sounds on top eachother (like add some verb sighs in background or add some cool one off growls and cut out some other shit then).*
+
+Priority setting. For example, some mixes will have a louder kicks (or bigger transients) others will have quieter kicks. In the louder and long kicks example that then usually means that stuff will be mixed around that and that it simply already takes a lot of space in the mix.
+
+Transients. You can make stuff clearer by adding a bit more transients to stuf (like a kick) so that the sustains hit a bit less but that the element is still very much audible thanks to the transients. Transient-heavy sounds are a great way to fill up a mix without adding too much mud (because they are short sounds) and unclearness.
+
+Eqing. Unclarity and mud are the number one eq things for clearer mix. Eq certain high frequencies (boost and/or cut), eq certain low frequencies (boost/cut). Again, small moves (on a lot) will already come very far here.
+
+Reverb and delay. You don't want to have all elements have tremendous and copious amounts of reverb. There are other ways to create space (like filtering volume) perception so you don't need verb and delay for it (also make the reverb and delay mostly uniform). Also, especially paired with transient short sounds this is a great way of filling up a mix and staying clean af because the verb and delay is not a "full" sound and the short transient also doesn't take much energy.
+
+Sidechain. Create space in the sub areas with sidechaining sub/low info to the kick. Create more space for kick transients by either eqing or sidechaining all of the sound(s).
+
+Rever
+
+MB Compression/OTT/Soundgoodizer. Can help transfer low/mid of main elements that mud up the foundation elements like bass to the highers (and make it brighter as well so better audible).
+The 
 ## Combat frequency masking
 - https://www.youtube.com/watch?v=lNKVYFzbzOc
 - https://www.youtube.com/watch?v=Mx7AnMUCDic
 
 Number one in the battle for clarity is combatting frequency masking. Masking is very easily heard and basically anytime that at least two sounds that overlap quite decently (which is inevitable) in terms of frequency and loudness there will be masking going on and you can hear it too. The sound aren't as clear as when you play them seperately.
 
-Now, note that masking makes stuff sound more like one instrument or one blob and sometimes that's alright. For example, a background choir with a ton of voices you might WANT to sound washy as it's a paddy background thingy. However, when mixing in with the rest that's where you might take away a bit in the choir to give space to more important instruments. Or maybe different instrument (like different kinds of string instruments) are also ok to mask eachother (a little bit) because you want to make them kind of sound like that one big unclear blob.
+Now, note that masking makes stuff sound more like one instrument or one blob and sometimes that's alright (and even desired), that's something you then have to decide. For example, a background choir with a ton of voices you might WANT to sound washy as it's a paddy background thingy. However, when mixing in with the rest that's where you might take away a bit in the choir to give space to more important instruments. Or maybe different instrument (like different kinds of string instruments) are also ok to mask eachother (a little bit) because you want to make them kind of sound like that one big unclear blob.
 
 Either way, to combat masking these are your weapons of choice:
 - Volume
