@@ -47,6 +47,13 @@ This is a general guide for mixing and mastering. Important to note that it is g
 - See the "articles" directory for actual practical production, mixing and mastering advice.
 - See the "Production thoughts" article in here for more random production thoughts.
 
+## Learn to hear sound
+Learn to hear sound both for production and mixing purposes. For example, hear in a certain sound that it has detune, a certain bitcrushing, a certain chorus effect, a certain filter automation and stuff like that to be able to more easily recreate it and use it.
+
+Same for mixing, learn to hear frequencies because this will help you tremendously in volume balancing and eqing. For example, often you might think your bass is too loud so you start mistakenly eqing the sub area. Remember that that audible part is not in the sub of the bass so probably you'll need to eq higher than that. Same with if bass is too low in volume, it may just help to have a mid bass instead of turning up the volume of the sub bass because again that's the sub area (and sounds very sine wave-y mainly, not their for audibility). This also goes for mids. You might think stuff is in the (very) highs but actually situated in the mids so you need to EQ around there. For example, tonal stuff's fundamentals often situated in mids but we might think it's the highs because of the harmonics and the graph so we might want to EQ lower than we thought if we wanted to eq around the fundamentals of a certain sound.
+
+Other examples?
+
 ## Fill up mix but do it properly
 > See also my articles "how to hard EDM" and "how to mix and master".
 
