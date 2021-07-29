@@ -3,6 +3,9 @@
 
 > IMPORTANT: This article might get updated many times the more I understand about it. Like, stuff in here may be plain wrong but it's my current understanding.
 
+## Todo
+Make FLP with all the example songs in the ANALYZE FLP and save it so I can immediately see what songs I'm talking about.
+
 ## Examples:
 - Lots of Zekk
 - Lots of Mo Falk
@@ -62,7 +65,15 @@ So yeah, all these have very flat (or white noisy so going up on SPAN visualizer
 Also, a common myth that I thought myself is that this is due to the mastering, heavy limiting of the song to crush it. But nope, for example, take [Love 2 Shuffle/BEMANI Sound Team "Sota F." feat. Starbitz](https://www.youtube.com/watch?v=pybg7_o4iC4). If you pull it in the DAW it is not AT ALL limited yet it has this curve, even in the lower ranges too. Again, they might do some MB to get that exact balance (a bit more) and the meat itself do be kind of a sausage so it's kind of compressed and stuff so yeah that's still all the mix but to make it flat, nope, that's again a lot of white noise, drums/snare/hats and then compression/ott/whatever is needed on it. So it's NOT the mastering or brickwall that does this.
 
 ## Lows, mid-range explained
+- https://blog.discmakers.com/2016/12/five-mistakes-that-can-lead-to-a-muddy-mix/#:~:text=In%20general%2C%20200%2D500Hz%20is,of%20boosting%20the%20lower%20mids.
+
+Examples:
+- Put FLPS with example songs above
 Explain that tonal stuff is here and that the sub bass and kick are what give tracks punch and really needed cuz rest is kinda flat sounding.
+
+So I've found that for a lot of tracks the C0-C5 range, like 0-400/500Hz keeps kind of sparse, like you want to see the harmonics there kinda very clearly. Like very often the 200-500Hz range is the mud range and thus makes your mix sound muddy if too much there. So often what you'll have is a very defined > 200 range (so kick that bleeds a bit above 200 too) and then a very hearable sub bass but not that much stuff in the 200-500Hz.
+
+So for a lot of songs therefore the low/sub area is kind of equal in loudness to the absolute peak in the very highs and then the mid range goes down in 200-500Hz and then (gradually) goes up from 500-750Hz to the very highs. However, this often also depends a bit on asection and song as often you'll also have that the sub area is actually almost as low as the 200-500Hz making the highs stand out even more, or sometimes the sub is almost on par with the highs and then the mid range almost on par with sub but nonetheless you still usually want to see very clear defined harmonics there and thus not too much shit in the 200/500Hz so definitely cut there (bell curve and pass if you can do).
 
 ## Why this flatness
 Rich but also turn up music without sounding harsh and just sounding very loud on either low or high volume etc. add more here.
