@@ -15,7 +15,7 @@ The first one is the amount of elements and overlap in a track. Hell, even in yo
 
 Priority setting. For example, some mixes will have a louder kicks (or bigger transients) others will have quieter kicks. In the louder and long kicks example that then usually means that stuff will be mixed around that and that it simply already takes a lot of space in the mix.
 
-Transients. You can make stuff clearer by adding a bit more transients to stuf (like a kick) so that the sustains hit a bit less but that the element is still very much audible thanks to the transients. Transient-heavy sounds are a great way to fill up a mix without adding too much mud (because they are short sounds) and unclearness.
+Transients. You can make stuff clearer by adding a bit more transients to stuf (like a kick) so that the sustains hit a bit less but that the element is still very much audible thanks to the transients. Transient-heavy sounds are also a great way to fill up a mix (especially the highs and very highs) without adding too much mud in the lows and unclearness in the highs (because they are short sounds).
 
 Eqing. Unclarity and mud are the number one eq things for clearer mix. Eq certain high frequencies (boost and/or cut), eq certain low frequencies (boost/cut). Again, small moves (on a lot) will already come very far here.
 
