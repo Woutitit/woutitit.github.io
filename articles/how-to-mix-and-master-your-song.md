@@ -26,6 +26,8 @@ The solutions can be a lot, whether multiple instruments need to be cleaned up o
 
 Basically, if you're song sounds balanced, nice, (perceived) punchy, transienty full and fat and not audibly distorted while it's slightly clipping/in the red (maybe push your master above 0db simply), then you know you're song is well optimized. If you're song sounds super thin, not necessarily distorted while it's already clipping, well then you already know certain transients, sounds, whatever needs cleaning and your mix needs work. If it sounds super busy and kind of distorted (find out which elements again!) then you know again you'll need to do better on the compression, eq, levelling, whatever.
 
+*Intermezzo: instead of limiting your song at the end, some (or a lot of people) choose to instead (slightly) clip their song at the end. It brings some extra distortion and fatness and basically does the same as a limiter. You cannot push it as much (so your mix does need to be better) since it doesn't attenuate the wave like a limiter does.*
+
 Lastly, as I said, this tip is mainly for hard-hitting commercial stuff. the more hard-hitting the more you want to compress so the more you kind of want to be able to push your limiter without hearing distortion.
 
 ## [Mix] Mix at different volumes
@@ -50,6 +52,8 @@ The point is, when mixing on bad headphones you'll want to (as soon as possible)
 *Note: Of course, once your mix sounds roughly good on those devices you don't need to always check for every little thing, maybe just when enough stuff is added or whatever.*
 
 One BIG note here, though, is that you of course want your bass to be audible on laptop speakers and your song sounding good on those. But REMEMBER, laptop speakers (see comment) tend to always let through the high-end way more than the low-end. Therefore, if you make your low-end boom on your laptop speakers, most likely you'll end up with way too much bass. Same with my other speakers, there the low-end comes through more but my song sounds kind of small and thin. You'd think you'd need to fix that (I mean, maybe you do) but then when you compare to other professional tracks you notice these also sound thin on these speakers so that's again the characteristic of the device. That's why for each device it's crucial to know what sounds good and what sounds bad on those. For example a washier high-end on laptop speakers may be fine just because that's their particular response. So always keep this in mind.
+
+This is also why having a flat pair of headphones/monitors and/or good references is good because shit will always sound off on these devices and even with kind of knowing them, you may have fixed too much stuff in favor of that one device so you do need references to keep stuff balanced.
 
 So, in short, some important things:
 - Check multiple devices frequenctly
