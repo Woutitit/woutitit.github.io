@@ -19,6 +19,15 @@ So hard hitting EDM has a very peculiar frequency shape. It depends from song to
 
 Again, sometimes the line doesn't go as much up or isn't as much of a line but usually SPAN is very flattish and all hills are very connected the higher we go in the spectrum.
 
+## Frequencie spectrum in general
+A note is that it's also not true that the whole curve is like one fat thing with nothing poking out, I might need some screenshots to show though. But yeah you have plenty stuff poking out and depending on the sound poking out a lot (though usually those are more the short-not-always-there shockish sounds). 
+
+Usually you'll see the "not much" poke out curve more on heavy bass music where the bass is the loudest and thus not very different loud instruments thus it's all like the same harmonics and all kind of decaying the same because on instrument so yeah then you'll see that kind of curve but even there stuff will still poke out in the quieter sections and or with some FX in the drop etc.
+
+To add to this even more. The high-end is usually only that very granulized again on songs with mainly the loud bass because again, those harmonics all same instrument so easy to balance. And also, when again songs with lots of white noise and/or perc and/or supersaws but mainly the noise and perc and drums louder.
+
+Something like that. And sometimes you may not want as much noise and harshness as these songs.
+
 ## The higher mid-range, high-end and very high-end explained
 - https://pages.mtu.edu/~suits/notefreqs.html
 
