@@ -7,4 +7,5 @@ Important note that you still want to look at your particular genre if these thi
 - Dimensions: See article
 - Variation: See article
 - Repetition: See article(?)
-- Call and response: See article(?)
+- Call and response: See song writing article
+- Contrast: See production article
