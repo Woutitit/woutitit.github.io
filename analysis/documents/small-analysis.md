@@ -8,6 +8,10 @@ Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we 
 
 So in the chorus like the behind hat whatever pattern it is gives so much filling because sometimes you have this very high nasaly flute but sometimes not but then you still have the drumm pattern keeping filled it up and keeping rhythm and again since it's a transient thingy it doesn't take that much space. On top of it, it's atonal high frequnecy stuff too as drums/perc usually are so doesn't mingle too much with the harmonies either and muck up stuff there.
 
+There also seems some kind of swing in there cuz the kick is 4 on the floor in the perc swing, swing very important.
+
+Again the kick snare/clap are kind of loud in mix and really what bring punch and bigness together with sub bass. And then up top more you got just a nice cool distorted ass bass doing call question with another bass the whole time.
+
 ## Love 2 Shuffle - Bemani
 - https://www.youtube.com/watch?v=pybg7_o4iC4
 - https://remywiki.com/Love_2_Shuffle
