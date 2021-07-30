@@ -12,6 +12,8 @@ There also seems some kind of swing in there cuz the kick is 4 on the floor in t
 
 Again the kick snare/clap are kind of loud in mix and really what bring punch and bigness together with sub bass. And then up top more you got just a nice cool distorted ass bass doing call question with another bass the whole time.
 
+And then some fx and stuff to fill it up, excitement, suprisement and stuff like that.
+
 ## Love 2 Shuffle - Bemani
 - https://www.youtube.com/watch?v=pybg7_o4iC4
 - https://remywiki.com/Love_2_Shuffle
