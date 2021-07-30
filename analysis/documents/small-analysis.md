@@ -3,6 +3,11 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## S7AGE - Zekk
+- https://soundcloud.com/alden-tang-simply-allen/dr-stardom-s7age-zekk
+
+So in the chorus like the behind hat whatever pattern it is gives so much filling because sometimes you have this very high nasaly flute but sometimes not but then you still have the drumm pattern keeping filled it up and keeping rhythm and again since it's a transient thingy it doesn't take that much space. On top of it, it's atonal high frequnecy stuff too as drums/perc usually are so doesn't mingle too much with the harmonies either and muck up stuff there.
+
 ## Love 2 Shuffle - Bemani
 - https://www.youtube.com/watch?v=pybg7_o4iC4
 - https://remywiki.com/Love_2_Shuffle
