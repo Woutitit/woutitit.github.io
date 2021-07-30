@@ -1,6 +1,7 @@
 # Energy management
 - https://www.youtube.com/watch?v=TNLJWifjUb8&t=10s length of drums section
 
+## Introduction
 Adding and taking away energy is a super important element in creating a good track. You don't want to always have the same energy throughout the track because it might sound boring or restless. Basically, you want to give the listener some momentum in the song, some full on energy parts but you also want to give them some breaks where they can rest. Additionally, it's really about the contrast in energies that will make certain sections stand out and others more intimate.
 
 It doesn't really matter how you structure your energy. Some songs may start (almost) full energy, some may start really soft. Of course, there is a certain verse (little energy), chorus (much energy), build-up (build-up of energy) dynamic that you want to create to kind of signify the different parts of the song or to announce a new section or a specific section (like the build with the chorus is coming up). Depends on genre, style and your own preferences.
