@@ -1,4 +1,11 @@
 # Production thoughts
+## Fill up mix with atonal stuff
+So percussion and even harmonics in a kick and snare drum (I think) are a great way to fill up mix because they don't add only the common harmonics of the tonal stuff but they also add atonal stuff overtones too. And, since it's atonal and short and whatever, it doesn't sound off. On top of that, since it's atonal it doesn't clash with the harmonies and stuff either so it doesn't mud up the mix in that way either.
+
+So, short (mostly atonal) percussion usually has even less of a foot print in the mix then short pluck does because plucks usually do have tonal stuff so they might clash and mask some of the important to hear sound in the mix. Plucks also don't have overtones, only harmonics.
+
+Also, don't take the stuff about fill up too literally. Again, you don't want and need to fill it to the brim with percussion. However, being aware of this is good in for example verses and stuff where you may want filling but not that much energy, you can use (atonal) percussion.
+
 ## 4.5db trick for better frequency balance
 - https://www.youtube.com/watch?v=Mx7AnMUCDic
 > Where to put this? Maybe in clarity or how to mix and master or where?
