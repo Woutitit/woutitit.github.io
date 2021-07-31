@@ -1,4 +1,11 @@
 # Production thoughts
+## When you think a sounds very warm and bass-y vs. your track
+So I've noticed that every song that sounds very bassy and warm, the total frequency curve is really peaking at the bass and the low-mid mid-range more than it is in the highs. So, for example, EDM tracks are often more bright and are very often mixed like that, even with the sub and low-mid being considerably lower than the highs and very highs. That's just how they are mixed but of course if you put those against the ones that are mixed with the bass and the low-mid peaking those are going to sound way bassy and warmer.
+
+That said, the bright EDM tracks still have considerable bass and low-mids so they are not sterile and super cold the same as the warmer bright mixes sound still open as they got plenty of high-end stuff going still.
+
+So the lesson here really is that you shouldn't worry too much about sounding too warm or too cold, especially in comparison to a track that's totally a different genre than yours. You should yet again reference some tracks in the style and genre you're doing and see if you're in the ballpark there, that's the main thing.
+
 ## Fill up mix with atonal stuff
 So percussion and even harmonics in a kick and snare drum (I think) are a great way to fill up mix because they don't add only the common harmonics of the tonal stuff but they also add atonal stuff overtones too. And, since it's atonal and short and whatever, it doesn't sound off. On top of that, since it's atonal it doesn't clash with the harmonies and stuff either so it doesn't mud up the mix in that way either.
 
