@@ -1,4 +1,11 @@
 # Sound design
+## Automation: Bitcrushing/downsampling
+- At 0:22: [Murdock x Doctrine: Acid Howl - Rampage Anthem - powered by Eristoff](https://www.youtube.com/watch?v=V_o_JEBXMhg)
+
+You'll often hear this as a transition, on a certain sound, maybe the lead, maybe the chords (research more). Basically, the sample artifically gets downsampled to have less bit-depth so you hear it starts to get quantized more and more (see my analog vs. digital article) the lower you go in bit depth. A slight bit of this is cool to make your sound soundm ore 8-bit but usally it's more used as automation since automating from a lot of bits to a few gives a really cool effect.
+
+The effect is very simply and you have a few ways. First one is in serum you have "downsample". You want to turn up the mix and automate the drive of that one to get the effect. Disadvantage is that you used the distortion and that it's early in the signal chain. You can also do the effect with dBlue crusher and then you automate the bit reduction.
+
 ## A very effective pluck
 - https://www.youtube.com/watch?v=mfyacc6iWTE at 5:09
 - https://www.youtube.com/watch?v=fO_JkNN7gh4
