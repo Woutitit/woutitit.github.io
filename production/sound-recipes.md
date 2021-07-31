@@ -1,5 +1,5 @@
 # Sound recipes
-## Pluck
+## A simple, yet effective and common pluck
 Common way to pluck is to instead of having the ADSR of the volume short, have the ADSR of the cut off filter short and inver it so that it goes from "allow all frequencies" to "allow none" and downwards from high to low. Gives it this extra typical EDM vibey sound and on top of that gives you this common modulation macro where you can open up the filter essentially making your pluck slowly more and more legato (so from staccato to legato really). Great for builds and other stuff. (Like the opposite can also happen make legato stuff more plucky):
 - https://www.youtube.com/watch?v=mfyacc6iWTE at 5:09
 - https://www.youtube.com/watch?v=fO_JkNN7gh4
