@@ -8,7 +8,7 @@ That said, the bright EDM tracks still have considerable bass and low-mids so th
 
 Also, this goes for recordings too. Usually they pick up more on bass so that's why you see a lot of people hand record their song, especially through their speakers then too which makes the song out to be more bassy, which it is through the recording but if you look on SPAN again then you'll see high-end considerably less because of the recording.
 
-So the lesson here really is that you shouldn't worry too much about sounding too warm or too cold, especially in comparison to a track that's totally a different genre than yours. You should yet again reference some tracks in the style and genre you're doing and see if you're in the ballpark there, that's the main thing.
+So the lesson here really is that you shouldn't worry too much about sounding too warm or too cold, especially in comparison to a track that's totally a different genre than yours. You should yet again reference some tracks in the style and genre you're doing and see if you're in the ballpark there, that's the main thing. Another side-lesson is that you can thus make your mix brighter or warmer by shifting your tonal balance to more low-mid heavy or more high-very-high heavy.
 
 ## Fill up mix with atonal stuff
 So percussion and even harmonics in a kick and snare drum (I think) are a great way to fill up mix because they don't add only the common harmonics of the tonal stuff but they also add atonal stuff overtones too. And, since it's atonal and short and whatever, it doesn't sound off. On top of that, since it's atonal it doesn't clash with the harmonies and stuff either so it doesn't mud up the mix in that way either.
