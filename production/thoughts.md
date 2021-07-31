@@ -4,6 +4,8 @@ So I've noticed that every song that sounds very bassy and warm, the total frequ
 
 That said, the bright EDM tracks still have considerable bass and low-mids so they are not sterile and super cold the same as the warmer bright mixes sound still open as they got plenty of high-end stuff going still.
 
+Also, this goes for recordings too. Usually they pick up more on bass so that's why you see a lot of people hand record their song, especially through their speakers then too which makes the song out to be more bassy, which it is through the recording but if you look on SPAN again then you'll see high-end considerably less because of the recording.
+
 So the lesson here really is that you shouldn't worry too much about sounding too warm or too cold, especially in comparison to a track that's totally a different genre than yours. You should yet again reference some tracks in the style and genre you're doing and see if you're in the ballpark there, that's the main thing.
 
 ## Fill up mix with atonal stuff
