@@ -1,4 +1,6 @@
 # Production thoughts
+This is for small thoughts regading production. From time to time should check if some of these can find a place in an existing article.
+
 ## When you think a sounds very warm and bass-y vs. your track...
 So I've noticed that every song that sounds very bassy and warm, the total frequency curve is really peaking at the bass and the low-mid mid-range more than it is in the highs. So, for example, EDM tracks are often more bright and are very often mixed like that, even with the sub and low-mid being considerably lower than the highs and very highs. That's just how they are mixed but of course if you put those against the ones that are mixed with the bass and the low-mid peaking those are going to sound way bassy and warmer.
 
