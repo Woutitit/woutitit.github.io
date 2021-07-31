@@ -1,4 +1,7 @@
 # Sound design
+## Sound: 
+Comodoro-64 lead. It's a PWM-ish sound and often has vibrato and/or sync macros.
+
 ## Automation: Bitcrushing/downsampling
 - At 0:22: [Murdock x Doctrine: Acid Howl - Rampage Anthem - powered by Eristoff](https://www.youtube.com/watch?v=V_o_JEBXMhg)
 
