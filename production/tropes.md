@@ -17,11 +17,10 @@ It's done in above song and Mike Williams explains it in his video in the beginn
 - [Explained in: Au5 Dubstep black and yellow](https://www.youtube.com/watch?v=oLBqmi0ot_g)
 - Gating: All these very chopped piano things or whatever that are more than just sidechain are all called (noise) gating. You can do that with Glitch or even with Fruity Limiter. What uses? I think also for muting stuff.
 
-## Sound design
-> See "Sound recipes" on how to make these sounds.
+## C64 PWM-ish lead: 
+ - Examples: ???
 
-- C64 PWM-ish lead: Classic Comodoro-64 lead. It's a PWM-ish sound and often has vibrato and/or sync macros.
-  - Examples: ???
+A PWM lead is very common in modern EDM because of the cool sync and vibrato it pairs with and gives cool sound because of it. See sound design for how to make it.
 
 ### Volume/Filter (+LFO)
 - https://old.reddit.com/r/FL_Studio/comments/ot0fyi/been_trying_to_make_future_bass_for_years_now_and/h6t16cj/
