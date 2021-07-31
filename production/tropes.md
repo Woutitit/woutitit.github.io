@@ -1,5 +1,5 @@
 # Tropes
-## Delay and/or reverb certain words or sounds more
+## Automate delay and/or reverb on certain words or sounds
 - https://www.youtube.com/watch?v=UOeoK1j-lcs&t=710s
 - https://www.youtube.com/watch?v=iDeMxlhm8XI
 
