@@ -3,9 +3,10 @@ This article is really about uncluttering and just having everything to create a
 
 Important note that you still want to look at your particular genre if these things applies and how much of it applies.
 
-- Energy management: See article
+- Energy management: See "energy management" article
 - Dimensions: See article
-- Variation: See article
+- Aliveness and variation: See song writing
+- Timbre: See song writing
 - Repetition: See article(?)
 - Call and response: See song writing article
-- Contrast: See production article
+- Contrast: See songwriting and production article
