@@ -48,6 +48,8 @@ Here the bass is pretty much a straight up saw and it works because everything a
 
 This also goes for leads, whatever and stuff and not everything needs a super cool timbre. For example you may often have a chiptune-y lead that's close to a saw or a square but then often the stuff around it has a cool timbre (whether chords or pads) and the sound in and of itself is also processed and has automation on it and stuff to make even a basic-ass sound different. Again, just reference some tracks and see which sounds have interesting timbres, which roles those have (bass? lead?) and then look for which sounds may be basic (and why?).
 
+*In dubstep you see this too. Again, you may saturate a sub bass because you want it to be heard but another reason we add harmonics (in a particular way) is because of interesting timbre. Like in dubstep we distort the shit out of stuff but that's not with waveshaper or fruity fast dist (only), that's with stuff like OTT, Guitar Rig, Camelcrusher (or maybe we do some filtering, phasing ourselves) that actually, next do distorting, do interesting stuff to make an interesting timbre (if you didn't already have an interesting timbre in the patch). So it's fat AND it's an interesting timbre.*
+
 Lastly, I want to again mention voice. Just like with "variation and aliveness", a voice already has a very unique timbre too and it's usually the focal point of a track. So in those cases you can again like put "boring sounds" around it and the song will still sound pretty non-boring (of course it could be much better but you get my point). In short, a voice is OP.
 
 ## Aliveness and variation is incredibly important
