@@ -10,3 +10,5 @@ Important note that you still want to look at your particular genre if these thi
 - Repetition: See article(?)
 - Call and response: See song writing article
 - Contrast: See songwriting and production article
+- Composition/arrangement: ???
+- Sound design/sound cohesion: ???
