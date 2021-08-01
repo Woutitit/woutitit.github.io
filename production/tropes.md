@@ -5,7 +5,7 @@
 - See sound design for how to do it
 - Very often heard in section transition to have an automated bitcrushed sound
 
-## Automation: delay and/or reverb on certain words or sounds
+## Automation: Delay/reverb swell on certain words or sounds
 - https://www.youtube.com/watch?v=UOeoK1j-lcs&t=710s
 - https://www.youtube.com/watch?v=iDeMxlhm8XI
 
