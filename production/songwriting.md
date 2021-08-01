@@ -30,6 +30,26 @@
 24. [You don't always need a chorus](#you-dont-always-need-a-chorus)
 25. [Drops and choruses and transitions can be huge or small](#drops-and-choruses-and-transitions-can-be-huge-or-small)
 
+## Timbre is super important
+Timbre is super incredibly important because let a song be played by totally different timbres and your song will sound different (or worse). Like the timbres itself and the interplay between the different timbres are super important to make a non-boring pro sounding song.
+
+For example:
+- https://www.youtube.com/watch?v=2zToEPpFEN8&list=PLAKkLNh9lDSOSnASpeP7LDAaGg-o_i2dS&index=51
+- https://www.youtube.com/watch?v=iDeMxlhm8XI&list=PLAKkLNh9lDSOSnASpeP7LDAaGg-o_i2dS&index=55
+
+Just imagine replacing the basses here with a sterile, non-processed saw wave. Those songs would literally lose half if not more of their pro-ness, catchniness and interest. The basses and their timbre (just listen to those vibe-y transients and body) are important here and thus you want to give those cool timbres and not a sterile, all harmonics equal, no modulation, chiptune-y timbre.
+
+Sure, a sub bass is a boring timbre too and despite that often gets used in songs. But this is because a sub bass (often saturated) is a great bass that is not in the way of other stuff. And "not in the way of other stuff" is the key because that usually means there is (a lot of) other stuff on top of it. The sub bass is not going to make the song interesting and is not intended to be that, it's just a low-end provider. Of course that does mean that you'll need interesting timbres on top of it (be it a cool mid bass or other instruments) to make an actual interesting song.
+
+For example:
+https://www.youtube.com/watch?v=haa8SGleLi8&list=PLAKkLNh9lDSOSnASpeP7LDAaGg-o_i2dS&index=56
+
+Here the bass is pretty much a straight up saw and it works because everything around it is a cool timbre and the bass itself also has some light processing and filtering on it it making it more interesting.
+
+This also goes for leads, whatever and stuff and not everything needs a super cool timbre. For example you may often have a chiptune-y lead that's close to a saw or a square but then often the stuff around it has a cool timbre (whether chords or pads) and the sound in and of itself is also processed and has automation on it and stuff to make even a basic-ass sound different. Again, just reference some tracks and see which sounds have interesting timbres, which roles those have (bass? lead?) and then look for which sounds may be basic (and why?).
+
+Lastly, I want to again mention voice. Just like with "variation and aliveness", a voice already has a very unique timbre too and it's usually the focal point of a track. So in those cases you can again like put "boring sounds" around it and the song will still sound pretty non-boring (of course it could be much better but you get my point). In short, a voice is OP.
+
 ## Aliveness and variation is incredibly important
 So we've talked about dimensions (here or in the production tips article) but what really makes a song sound professional and - more importantly - interesting is the aliveness and variation in it.
 
