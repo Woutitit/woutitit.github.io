@@ -45,6 +45,7 @@ Then, for a low-end example. Let's say you have a more intimate, less energetic 
 
 Other examples:
 - [S7AGE - Zekk](https://www.youtube.com/watch?v=UjtQ4rB3roI). Notice in the beginning how the percussion and some sligh low-mid range hits really fill up the mix because there is a regularity in hitting and it's a cool rhythm but do you also feel how all the short hits and mainly some high-end percussion and some pad hits don't add much to the energy and do a really good job of, despite sounding full and cool, still sounding like an intro. So yeah, here too. There is stuff going on in the low-mids and highs but due to the short sounds, not much real bass (and not consistent) and not much sustained fat sounds it doesn't sound like a chorus or whatever.
+- [Pegboard nerds - disconnected](https://www.youtube.com/watch?v=MwSkC85TDgY) Again, you have the (more or less open) pluck and pianobut then a lot of stuff coming in filtered.
 
 ## Contrast: often dry sound and then going into wet sound or vice versa
 Very often is done. Also doesn't necessarily need to be reverby, just usually like from more airy to really focused (usually less/more reverb-y yeah)
