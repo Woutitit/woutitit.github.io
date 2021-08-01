@@ -1,6 +1,13 @@
 # Production thoughts
 This is for small thoughts regading production. From time to time should check if some of these can find a place in an existing article.
 
+## A voice is OP
+Like, if you make a track with a voice on top you really already win so much. Like, a voice performance has build-in vibration easily, can easily humanize a performance, can throw in variations, has an interesting timbre, is very alive-sounding, is dynamic and all that stuff AND it's all easily done in the performance, no automations, macros, processing, whatever needed AND the voice is usually the focal point of a sung track and usually quite loud thus most heard and most important element in the track.
+
+What this means is that you need to be way less intrinsic with your production and sound selection and whatever around your song because a voice can carry so much. That doesn't mean you can produce a bad track. Definitely not, but a voice and harmonies of the voice definitely render almost every element in the track secondary. Again, doesn't mean you can't go complex on the instrumental composition and sound design but you don't necessarily have to and can get a good song with a voice even with some "basic" production.
+
+This is in contrast with an instrumental where you do really still need to create the performance yourself with automation, good sound selection and good composition and stuff.
+
 ## When you think a sounds very warm and bass-y vs. your track...
 So I've noticed that every song that sounds very bassy and warm, the total frequency curve is really peaking at the bass and the low-mid mid-range more than it is in the highs. So, for example, EDM tracks are often more bright and are very often mixed like that, even with the sub and low-mid being considerably lower than the highs and very highs. That's just how they are mixed but of course if you put those against the ones that are mixed with the bass and the low-mid peaking those are going to sound way bassy and warmer.
 
