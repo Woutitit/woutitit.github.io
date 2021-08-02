@@ -50,7 +50,7 @@ This also goes for leads, whatever and stuff and not everything needs a super co
 
 *In dubstep you see this too. Again, you may saturate a sub bass because you want it to be heard but another reason we add harmonics (in a particular way) is because of interesting timbre. Like in dubstep we distort the shit out of stuff but that's not with waveshaper or fruity fast dist (only), that's with stuff like OTT, Guitar Rig, Camelcrusher (or maybe we do some filtering, phasing ourselves) that actually, next do distorting, do interesting stuff to make an interesting timbre (if you didn't already have an interesting timbre in the patch). So it's fat AND it's an interesting timbre.*
 
-Lastly, I want to again mention voice. Just like with "variation and aliveness", a voice already has a very unique timbre too and it's usually the focal point of a track. So in those cases you can again like put "boring sounds" around it and the song will still sound pretty non-boring (of course it could be much better but you get my point). In short, a voice is OP.
+Lastly, I want to again mention voice. Just like with "variation and aliveness", a voice already has a very unique timbre too (interesting transient + interesting configuration of harmonics = interesting timbre) and it's usually the focal point of a track. So in those cases you can again like put "boring sounds" around it and the song will still sound pretty non-boring (of course it could be much better but you get my point). In short, a voice is OP.
 
 ## Aliveness and variation is incredibly important
 So we've talked about dimensions (here or in the production tips article) but what really makes a song sound professional and - more importantly - interesting is the aliveness and variation in it.
