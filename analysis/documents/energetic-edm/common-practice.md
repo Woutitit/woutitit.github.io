@@ -30,3 +30,9 @@ This is an analysis sessions that I've done when I was kind of into the rhythmic
 - Sub/Bass kind of high, mids kind of low and then going up and up and up in the highs:
   - Love 2 Shuffle
   - Example 2
+  
+## White noise to fill stuff up
+- A lot of times certain elements may be layered with white noise
+- Or white noise simply plays in the back
+- Especially done, like long white noise filtering in quieter sections to keep stuff filled and bright (either as downlifter and/or uplifter)
+  - Saiph Oblivia intro: https://soundcloud.com/take_314/saiph-oblivia-arcaea
