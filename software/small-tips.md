@@ -1,6 +1,14 @@
 # Software tips (FL, Synths, VSTs, etc.)
 As the title state, this is some nice helpful tips on software. It's home to useful hot-key combos, how to do certain things in software (e.g. make a vibrato in x or why synth, how to use a certain sample library) and those sorts of things. It shouldn't be super in depth but stuff can be explained.
 
+## Nicky Romeor Kickstart
+Purposes:
+- Sidechaining
+- Pumping/gating fx
+- Sample shortening (e.g. kick)
+
+Kickstart is a plugin, mainly for the lazy under us. It can do the above purposes really quickly with little setup and knowledge. As seen in the last point, it's also a very easy tool to shorten samples the easy way. This is very handy for kicks as often you only want the initial transient, punch and body and not so much the tail as that just mucks up the bass (This allows for a less heavy sidechain on the bass as the kick is shorter).
+
 ## Diva
 ### Enable MIDI velocity
 In Diva there is a VEL lever. Pull it full up to have Diva get fully affected by the MIDI velocity notes in the FL Studio piano roll. Anything less and Diva will be less affected by it.
