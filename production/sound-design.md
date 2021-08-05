@@ -2,6 +2,11 @@
 ## Sound: Comodoro-64 lead. 
 It's a PWM-ish sound and often has vibrato and/or sync macros.
 
+## Sound: Bitcrushing
+Where was my "how stuff sounds" post again?
+
+- At 0:50 https://soundcloud.com/the-sass-music/neddie-the-sass-bass-of-the-color-variety-id-download
+
 ## Automation: Bitcrushing/downsampling
 - At 0:22: [Murdock x Doctrine: Acid Howl - Rampage Anthem - powered by Eristoff](https://www.youtube.com/watch?v=V_o_JEBXMhg)
 
