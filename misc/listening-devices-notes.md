@@ -10,12 +10,13 @@ Brand: Plantronics ???
 - Harshness and unclarity is hard to hear
 - The highs/very highs should be quieter than you think (cymbals, hats)
 
-## Laptop work (27/07/2021)
+## Laptop speakers work (27/07/2021)
 Brand: ???
 
-- On hard hitting genres/sections with lots of high-end and/or verb it's ok for stuff to sound a bit washy.
+- On hard hitting busy genres/sections with lots of high-end and/or verb it's ok for stuff to sound a bit washy.
 - Main vocals and leads tend to sound quite loud and clear (again depends on the business and high-end a bit).
 - Sub is practically inaudible, if bass is heard it means there is a mid bass (or it's a bass heavy song).
+- Masking is really apparent, especially in the low-mids, mid-mids, high-mids.
 
 ## Current speakers - 30cm from me
 Brand: ???
