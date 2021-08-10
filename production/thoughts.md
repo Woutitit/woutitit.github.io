@@ -1,6 +1,11 @@
 # Production thoughts
 This is for small thoughts regading production. From time to time should check if some of these can find a place in an existing article.
 
+## Usually turning back on what you think is good is what it should be
+- https://www.youtube.com/watch?v=6hUaWUaTnHw at 9:00
+
+Especially in solo mixing where you hear a lot of changes and nuance you're prone to make too drastic changes. Usually you'll want to find the line where you think it's good (or almost too much) and then turn it back 10-15% and that will usually be the sweet(er) spot. This is because once you hear it back afterwaords you usually notice it more then when you turn the knob as the change is only gradual there so you don't hear as much (drastic) change.
+
 ## A voice is OP
 Like, if you make a track with a voice on top you really already win so much. Like, a voice performance has build-in vibration easily, can easily humanize a performance, can throw in variations, has an interesting timbre (interesting transient + interesting configuration of harmonics = interesting timbre), is very alive-sounding, is dynamic and all that stuff AND it's all easily done in the performance, no automations, macros, processing, whatever needed AND the voice is usually the focal point of a sung track and usually quite loud thus most heard and most important element in the track. Also, spoken words just already naturally resonate a lot more with an audience, then just a sound too.
 
