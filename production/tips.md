@@ -312,7 +312,7 @@ Same goes for layering, audition everything together as some layers may be thin 
 
 Also, try to not mix your instruments and sounds in solo, of course, you may audition them in solo to hear the effect is applying but ultimately you should always hold what you've applied against the whole mix to really gauge whether it was too much too little or the wrong fx. This is a similar comment as to using presets as-is.
 
-Like do EQin in context because you cannot eq (unless sound design) solo and know when it's good or not. Of course sometimes you solo it but always try to put back in context as quick as you can. Same with other stuff, **you need context**.
+Like do EQin in context because you cannot eq (unless sound design) solo and know when it's good or not. Of course sometimes you solo it but always try to put back in context as quick as you can. Same with other stuff, **you need context**. Like solo is more good to hear nuance better, like you notice something in context but you want to hear it better, then solo it and maybe make moves but avoid doing too much out of context.
 
 ## Mixing for loudness
 There is mixing and there is mixing (and mastering) for loudness. Checkout *How to mix for loudness and why it matters* article for why it matters and how to apply it to your own mix.
