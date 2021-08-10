@@ -304,11 +304,15 @@ That said, in less crazy genres you can still do this if you want a more pronoun
 If you have a piano that's playing in the background of the chorus, you don't need to sound design it or add velocity changes, etc. as much as you would with a piano ballad where the piano is the only (or very upfront) instrument. In the latter you need the velocity, fx, sound design all right since it's (one of) the most important instruments in the mix, in the former case it's barely audible or only meant as support or padding. That doesn't mean it can be awful but it can be a bit sloppier. Another example would be a ad that you compress the shit out of to give it more presence in mix. The compression makes it sound a bit bad/distorted but since it's so far back it is barely audible and adds more presence to the pad.
 
 ## Audition everything in context of the mix
+- https://www.youtube.com/watch?v=6hUaWUaTnHw
+
 Audition all your sounds in context of the (full) mix. Really, often your sound may sound a bit too oversaturated but you may find that's what makes it cut through the mix. Or, a sound may sound really thin, almost too thin, but when you audition it in your mix it is fine because your mix is already busy.
 
 Same goes for layering, audition everything together as some layers may be thin but added to the main layer it will give it a great timbre.
 
 Also, try to not mix your instruments and sounds in solo, of course, you may audition them in solo to hear the effect is applying but ultimately you should always hold what you've applied against the whole mix to really gauge whether it was too much too little or the wrong fx. This is a similar comment as to using presets as-is.
+
+Like do EQin in context because you cannot eq (unless sound design) solo and know when it's good or not. Of course sometimes you solo it but always try to put back in context as quick as you can. Same with other stuff, **you need context**.
 
 ## Mixing for loudness
 There is mixing and there is mixing (and mastering) for loudness. Checkout *How to mix for loudness and why it matters* article for why it matters and how to apply it to your own mix.
