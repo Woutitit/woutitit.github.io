@@ -1,6 +1,11 @@
 # Production thoughts
 This is for small thoughts regading production. From time to time should check if some of these can find a place in an existing article.
 
+## Semi-accurate mixing is necessary
+For example, you need EQ a shitton but I often found that EQ was shit. For example, I always thought that when I tried to EQ the low mids I lost warmth but I was literally cutting 6db+ on multiple instruments in a rather big area there so of course. Like, I was correct in my assessment that it's muddy there and even correct in the range but you don't want to go overboard at all. Seriously I learned to then try 2-3dbs cut there on maybe the non-priority instrument in that region and yup suddenly much less mud AND still a warm mix. Like yeah, with EQ it's about finding the middle ground between too mud/unclear and too naked/cold of a mix.
+
+And this is with a lot of shit (but EQ it's apparent), you do want and need to be semi-accurate for mixing tools to actually help you instead of fucking up your mix in another way.
+
 ## Usually turning back on what you think is good is what it should be
 - https://www.youtube.com/watch?v=6hUaWUaTnHw at 9:00
 
