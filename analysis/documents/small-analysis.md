@@ -10,6 +10,8 @@ It's one of those "typical" epic songs. One of the greater things here to mentio
 
 But ye the vocal > anything prio. And the music > drums prio really makes this mix be able to be so busy and still mixed well as with the vocal being loud, all other stuff is thus quiet and thus there may be masking but it don't matter because the vocal is loud and clear. Same with drums ain't there to mask the voice or any business in the instruments either.
 
+Also, (heavy) sidechaining wouldn't really fit this song at all of course.
+
 So a good strat!
 
 ## S7AGE - Zekk
