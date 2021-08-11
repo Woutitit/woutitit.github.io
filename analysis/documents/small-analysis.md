@@ -14,6 +14,10 @@ Also, (heavy) sidechaining wouldn't really fit this song at all of course.
 
 So a good strat!
 
+Now, to keep going. In EDM sometimes in busy mixes also the kick and snare ain't that loud or like the snare is loud https://soundcloud.com/take_314/saiph-oblivia-arcaea but it's ok cuz again it's a short transient AND it's also not with sub energy so you may be able to make your mix like revolve around your snare. Also in EDM when your mix is busy AND loud drums there usually is either sidechaining going on and also there will still be mixing prios or there might be less at the same time going on than you think and/or there are less instruments (and it's mostly layering), it all depends.
+
+Again, it just depends on the genre and what your prios are.
+
 ## S7AGE - Zekk
 - https://soundcloud.com/alden-tang-simply-allen/dr-stardom-s7age-zekk
 
