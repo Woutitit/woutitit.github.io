@@ -3,6 +3,15 @@
 ## Help
 Todo: Maybe per analyzed song, add a section "tropes and takeaways" and then we shortly list all the tropes and takeaways we identified in the song. Is better for reference purposes later.
 
+## Speechless - Naomi Scott
+- https://www.youtube.com/watch?v=mw5VIEIvuMI
+
+It's one of those "typical" epic songs. One of the greater things here to mention, which you'll often hear in those typical busy, epic songs is the priority. Again, not everything can be the center and can be super loud and in this case unlike in hard hitting dance music, the drums and especially the kick really take a back seat. Either way, everything really takes a back seat compared to the vocals that are the loudest and very centered and everything is mixed around it. But in this case since the mix also has a shitton of other instruments going on trying to have the drums be loud too is going to ask for trouble so it's mainly low-end of the kick that's heard which is hard to be heard on laptop speakers but also doesn't really need to be heard to keep the beat and music going. It also even seems that bass takes prio compared to the kick in low-sub area so it's all on the harmonies and less on the beat (as we often see in dance music).
+
+But ye the vocal > anything prio. And the music > drums prio really makes this mix be able to be so busy and still mixed well as with the vocal being loud, all other stuff is thus quiet and thus there may be masking but it don't matter because the vocal is loud and clear. Same with drums ain't there to mask the voice or any business in the instruments either.
+
+So a good strat!
+
 ## S7AGE - Zekk
 - https://soundcloud.com/alden-tang-simply-allen/dr-stardom-s7age-zekk
 
