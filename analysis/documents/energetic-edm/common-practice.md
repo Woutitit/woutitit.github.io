@@ -9,11 +9,13 @@ This is an analysis sessions that I've done when I was kind of into the rhythmic
 - [Love 2 Shuffle / BEMANI](https://www.youtube.com/watch?v=bkdqYZb0_jk)
 - [JOK3R / Yuta Imai](https://www.youtube.com/watch?v=GJFVSLvHS4M)
 - [S7AGE / ZEKK ](https://www.youtube.com/watch?v=9z0ZkYFMHN0)
+- [Party Jumpin / KO3](https://www.youtube.com/watch?v=wZZR6_dtFig)
 
 ## Build up
 - A lot of elements that pitch up:
   - My name is/Studio Mottie: At 1:08
   - Love 2 Shuffle: 1:16
+  - Party Jumpin: 1:16
 
 ## Transition
 - Taking energy away quick/brief on last beat
