@@ -30,6 +30,8 @@ Mainly stereo is *usually* for more supportive elements (though not always). Sam
 
 Stereo and panning also helps a bit in mixing to get some elements out of the way of the main more centered elements.
 
+Like also, if you have only stereo heavy shit in your mix it will sound weak and unfocused, you pretty much always, especially in chorus, want a very centered element, of course it can have stereo layers but you really do want some centers, especially on speakers it will sound way better.
+
 
 ## Mixing
 Every song you make you'll have to mix sounds. Sounds overlap and you have to decide what amount of overlap is okay.
