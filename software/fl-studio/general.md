@@ -129,7 +129,11 @@ Go to Tools > dump latest recorded score to recover what you've played in a patt
 - https://itsgratuitous.com/the-ultimate-guide-to-using-automation-clips-in-fl-studio-20/#fl-snapshot-initialized-controls
 If you ever initialized a control with an automation clip, the state is now saved in FL so even when the automation clip isn't there, the initial state of what you had will be the state your sound will jump to (like the volume fader or whatever).
 
-### Keyboard input not working
+### Sound muted/Keyboard input not working
 Hit Ctrl + T
 
 https://forum.image-line.com/viewtopic.php?t=92693
+
+It could also be that in the fruity wrapper the "On" button is not green, make it green again and the sound should be unmuted again.
+
+
